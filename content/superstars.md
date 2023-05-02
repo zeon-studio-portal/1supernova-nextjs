@@ -10,15 +10,15 @@ group_list:
   - name: Community
     icon: /images/superstars/icons/community.svg
     icon_light: /images/superstars/icons/community-light.svg
-  - name: Marketing
-    icon: /images/superstars/icons/finance.svg
-    icon_light: /images/superstars/icons/finance-light.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
     icon_light: /images/superstars/icons/funding-light.svg
   - name: HR
     icon: /images/superstars/icons/human-resources.svg
     icon_light: /images/superstars/icons/human-resources-light.svg
+  - name: Impact
+    icon: /images/superstars/icons/sustainability.svg
+    icon_light: /images/superstars/icons/sustainability-light.svg
   - name: Legal
     icon: /images/superstars/icons/legal.svg
     icon_light: /images/superstars/icons/legal-light.svg
@@ -28,6 +28,9 @@ group_list:
   - name: Leadership
     icon: /images/superstars/icons/leadership.svg
     icon_light: /images/superstars/icons/leadership-light.svg
+  - name: Marketing
+    icon: /images/superstars/icons/finance.svg
+    icon_light: /images/superstars/icons/finance-light.svg
   - name: Operations
     icon: /images/superstars/icons/operations.svg
     icon_light: /images/superstars/icons/operations-light.svg
@@ -40,24 +43,21 @@ group_list:
   - name: Sales
     icon: /images/superstars/icons/sales-marketing.svg
     icon_light: /images/superstars/icons/sales-marketing-light.svg
-  - name: Web3
-    icon: /images/superstars/icons/services.svg
-    icon_light: /images/superstars/icons/services-light.svg
   - name: Social
     icon: /images/superstars/icons/social.svg
     icon_light: /images/superstars/icons/social-light.svg
   - name: Strategy
     icon: /images/superstars/icons/strategy.svg
     icon_light: /images/superstars/icons/strategy-light.svg
-  - name: Impact
-    icon: /images/superstars/icons/sustainability.svg
-    icon_light: /images/superstars/icons/sustainability-light.svg
   - name: Talent
     icon: /images/superstars/icons/talent.svg
     icon_light: /images/superstars/icons/talent-light.svg
   - name: Tech
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
+  - name: Web3
+    icon: /images/superstars/icons/services.svg
+    icon_light: /images/superstars/icons/services-light.svg
 team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
@@ -159,6 +159,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
