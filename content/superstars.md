@@ -59,9 +59,9 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Hans Van Alebeek
-    image: /images/Hans.jpeg
-    department: OPERATIONS
+  - name: Juha Mikkola
+    image: /images/Juha Mikkola.jpeg
+    department: 'TECH, STRATEGY, COMMUNITY'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -158,7 +158,11 @@ team:
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
+  - name: Hans Van Alebeek
+    image: /images/Hans.jpeg
+    department: OPERATIONS
 ---
+
 
 
 
