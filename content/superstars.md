@@ -104,9 +104,6 @@ team:
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
-  - name: Andrew Sturner
-    image: /images/1649260720179.jpeg
-    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
@@ -167,15 +164,18 @@ team:
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
+  - name: Andrew Sturner
+    image: /images/1649260720179.jpeg
+    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
-  - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
