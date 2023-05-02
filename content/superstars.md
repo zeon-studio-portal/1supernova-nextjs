@@ -31,7 +31,7 @@ group_list:
   - name: Marketing
     icon: /images/superstars/icons/finance.svg
     icon_light: /images/superstars/icons/finance-light.svg
-  - name: Operations
+  - name: Ops
     icon: /images/superstars/icons/operations.svg
     icon_light: /images/superstars/icons/operations-light.svg
   - name: Product
@@ -165,6 +165,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
