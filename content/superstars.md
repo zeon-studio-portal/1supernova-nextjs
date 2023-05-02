@@ -135,7 +135,7 @@ team:
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING'
   - name: Scott Weller
-    image: /images/Screenshot 2023-05-02 at 9.28.42 AM.png
+    image: /images/1675213967983.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
