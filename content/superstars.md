@@ -131,6 +131,9 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL, EXIT'
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
+    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING, EXIT'
@@ -143,9 +146,6 @@ team:
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, OPS, EXIT'
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
