@@ -10,8 +10,8 @@ quote:
 process:
   - name: "01 - Apply \U0001F469‍\U0001F4BB"
     content: >
-      [Apply now](/) to be one of twelve startups chosen yearly to join
-      Supernova's thriving portfolio.
+      [Apply now](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) to be one of
+      twelve startups chosen yearly to join Supernova's thriving portfolio.
     button:
       enable: true
       label: Apply to Supernova
@@ -49,6 +49,7 @@ process:
       label: Testimonials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
