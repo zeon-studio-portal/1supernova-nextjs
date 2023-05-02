@@ -79,7 +79,7 @@ team:
     department: 'M&A, STRATEGY, FUNDING'
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
-    department: PRODUCT
+    department: 'PRODUCT, TECH, FUNDING'
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
