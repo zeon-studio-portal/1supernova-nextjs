@@ -152,9 +152,9 @@ team:
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR, EXIT'
-  - name: Chris Carson PhD
-    image: /images/1668277982538.jpeg
-    department: 'AI, FUNDING, SCALING, TECH, PRODUCT, EXIT'
+  - name: Hans Van Alebeek
+    image: /images/Hans.jpeg
+    department: 'GROWTH, OPERATIONS, LEADERSHIP '
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT'
@@ -164,9 +164,9 @@ team:
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
-  - name: Hans Van Alebeek
-    image: /images/Hans.jpeg
-    department: 'GROWTH, OPERATIONS, LEADERSHIP '
+  - name: Chris Carson PhD
+    image: /images/1668277982538.jpeg
+    department: 'AI, FUNDING, SCALING, TECH, PRODUCT, EXIT'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
