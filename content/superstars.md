@@ -100,7 +100,7 @@ team:
     department: SYSTEMS
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
-    department: 'SALES, FUNDING, WEB3, IMPACT'
+    department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
