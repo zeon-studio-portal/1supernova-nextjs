@@ -76,7 +76,7 @@ team:
     department: 'TALENT, LEADERSHIP, STRATEGY'
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
-    department: Ai
+    department: 'M&A, STRATEGY, FUNDING'
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: PRODUCT
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
