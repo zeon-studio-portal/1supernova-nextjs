@@ -130,7 +130,7 @@ team:
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
-    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
+    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
