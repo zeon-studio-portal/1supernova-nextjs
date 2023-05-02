@@ -170,9 +170,9 @@ team:
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
-  - name: Brian Beard
-    image: /images/superstars/team-thumb-16.png
-    department: LEGAL
+  - name: Eli Blatt PhD
+    image: /images/1517675870938.jpeg
+    department: 'PRODUCT, TECH, LEGAL, WEB3'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
