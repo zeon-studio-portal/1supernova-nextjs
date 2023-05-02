@@ -139,7 +139,7 @@ team:
     department: 'MARKETING, TALENT, SOCIAL'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
-    department: 'GROWTH, SALES, WEB3, FUNDING'
+    department: 'GROWTH, SALES, WEB3, FUNDING, EXIT'
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
