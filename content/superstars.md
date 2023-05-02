@@ -140,9 +140,6 @@ team:
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3'
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department: 'PRODUCT, TECH'
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
@@ -173,6 +170,9 @@ team:
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department: 'PRODUCT, TECH'
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
