@@ -181,8 +181,9 @@ team:
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3, EXIT'
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
-    department: 'GROWTH, MARKETING, IMPACT'
+    department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
