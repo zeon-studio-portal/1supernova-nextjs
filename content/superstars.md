@@ -58,7 +58,7 @@ group_list:
 team:
   - name: Tim Sae Koo
     image: /images/Tim.jpeg
-    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
+    department: 'STRATEGY, GROWTH, MARKETING, TECH, IMPACT'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -171,6 +171,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
