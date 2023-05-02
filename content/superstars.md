@@ -73,7 +73,7 @@ team:
     department: 'STRATEGY, FUNDING, SCALING, HR, SOCIAL, EXIT'
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
-    department: 'CULTURE, STRATEGY, HR, EXIT'
+    department: 'CULTURE, STRATEGY, HR, IMPACT, EXIT'
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department: 'M&A, STRATEGY, FUNDING, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
