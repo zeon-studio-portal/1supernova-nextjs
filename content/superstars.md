@@ -101,15 +101,15 @@ team:
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
     department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
-  - name: Roy Chung
-    image: /images/superstars/team-thumb-10.png
-    department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
+  - name: Roy Chung
+    image: /images/superstars/team-thumb-10.png
+    department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
