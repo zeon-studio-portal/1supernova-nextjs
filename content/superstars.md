@@ -7,7 +7,7 @@ group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
     icon_light: /images/superstars/icons/ai-light.svg
-  - name: Community
+  - name: Growth
     icon: /images/superstars/icons/community.svg
     icon_light: /images/superstars/icons/community-light.svg
   - name: Funding
@@ -56,9 +56,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Scott Weller
-    image: /images/Scott Weller.jpeg
-    department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -131,6 +128,9 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: SOCIAL
+  - name: Scott Weller
+    image: /images/Scott Weller.jpeg
+    department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: SOCIAL IMPACT
@@ -162,6 +162,7 @@ team:
     image: /images/Hans.jpeg
     department: OPERATIONS
 ---
+
 
 
 
