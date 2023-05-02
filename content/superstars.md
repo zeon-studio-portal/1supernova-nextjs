@@ -7,15 +7,18 @@ group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
     icon_light: /images/superstars/icons/ai-light.svg
-  - name: Growth
-    icon: /images/superstars/icons/community.svg
-    icon_light: /images/superstars/icons/community-light.svg
+  - name: Culture
+    icon: /images/superstars/icons/leadership.svg
+    icon_light: /images/superstars/icons/leadership-light.svg
   - name: Exit
     icon: /images/superstars/icons/talent.svg
     icon_light: /images/superstars/icons/talent-light.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
     icon_light: /images/superstars/icons/funding-light.svg
+  - name: Growth
+    icon: /images/superstars/icons/community.svg
+    icon_light: /images/superstars/icons/community-light.svg
   - name: HR
     icon: /images/superstars/icons/human-resources.svg
     icon_light: /images/superstars/icons/human-resources-light.svg
@@ -28,9 +31,6 @@ group_list:
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
     icon_light: /images/superstars/icons/m-and-a-light.svg
-  - name: Culture
-    icon: /images/superstars/icons/leadership.svg
-    icon_light: /images/superstars/icons/leadership-light.svg
   - name: Marketing
     icon: /images/superstars/icons/finance.svg
     icon_light: /images/superstars/icons/finance-light.svg
@@ -49,7 +49,7 @@ group_list:
   - name: Strategy
     icon: /images/superstars/icons/strategy.svg
     icon_light: /images/superstars/icons/strategy-light.svg
-  - name: Tech
+  - name: Technology
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
   - name: Web3
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
