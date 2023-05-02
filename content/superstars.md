@@ -55,7 +55,7 @@ group_list:
   - name: Talent
     icon: /images/superstars/icons/talent.svg
     icon_light: /images/superstars/icons/talent-light.svg
-  - name: Technology
+  - name: Tech
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
 team:
@@ -157,6 +157,7 @@ team:
     image: /images/superstars/terrykim.png
     department: BIZ DEV
 ---
+
 
 
 
