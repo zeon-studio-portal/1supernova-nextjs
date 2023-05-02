@@ -10,7 +10,7 @@ group_list:
   - name: Culture
     icon: /images/superstars/icons/leadership.svg
     icon_light: /images/superstars/icons/leadership-light.svg
-  - name: Exit
+  - name: Exited Founder
     icon: /images/superstars/icons/talent.svg
     icon_light: /images/superstars/icons/talent-light.svg
   - name: Funding
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
