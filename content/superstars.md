@@ -149,9 +149,9 @@ team:
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
-  - name: Krishan Arora
-    image: /images/superstars/team-thumb-20.png
-    department: 'GROWTH, FUNDING, MARKETING'
+  - name: Andrew Sturner
+    image: /images/Andrew.avif
+    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
