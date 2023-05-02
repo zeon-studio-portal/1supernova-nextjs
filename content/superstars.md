@@ -146,12 +146,12 @@ team:
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
-  - name: Krishan Arora
-    image: /images/superstars/team-thumb-20.png
-    department: CROWDFUNDING
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
+  - name: Krishan Arora
+    image: /images/superstars/team-thumb-20.png
+    department: 'GROWTH, FUNDING, MARKETING'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
