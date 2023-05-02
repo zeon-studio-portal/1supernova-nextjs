@@ -161,6 +161,9 @@ team:
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
+  - name: Ryan Allis
+    image: /images/Ryan.jpeg
+    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
@@ -176,13 +179,11 @@ team:
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
-  - name: Ryan Allis
-    image: /images/Ryan.jpeg
-    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
