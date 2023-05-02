@@ -112,7 +112,7 @@ team:
     department: 'FUNDING, TECH, LEADERSHIP, SCALING, EXIT'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
-    department: 'PRODUCT, TECH, OPS, SCALING'
+    department: 'PRODUCT, TECH, OPS, SCALING, EXIT'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
