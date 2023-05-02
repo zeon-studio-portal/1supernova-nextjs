@@ -109,7 +109,7 @@ team:
     department: 'GROWTH, MARKETING, SOCIAL'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
-    department: OPS
+    department: 'PRODUCT, TECH, OPS, LEADERSHIP'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'LEADERSHIP, LEGAL'
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
