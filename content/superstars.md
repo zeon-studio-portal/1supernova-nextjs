@@ -58,7 +58,7 @@ group_list:
 team:
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
-    department: 'GROWTH, MARKETING'
+    department: 'GROWTH, MARKETING, IMPACT'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -162,6 +162,7 @@ team:
     image: /images/Hans.jpeg
     department: OPERATIONS
 ---
+
 
 
 
