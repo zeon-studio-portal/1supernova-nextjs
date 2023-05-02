@@ -7,6 +7,7 @@ group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
     icon_light: /images/superstars/icons/ai-light.svg
+  - name: Exit
   - name: Growth
     icon: /images/superstars/icons/community.svg
     icon_light: /images/superstars/icons/community-light.svg
@@ -183,6 +184,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
