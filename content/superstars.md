@@ -98,9 +98,9 @@ team:
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
-  - name: Brett Donnelly
-    image: /images/1678937477620.jpeg
-    department: 'GROWTH, TALENT, IMPACT'
+  - name: Frank Fawzi
+    image: /images/superstars/frankfawzi-k.png
+    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
@@ -116,15 +116,15 @@ team:
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3'
-  - name: Frank Fawzi
-    image: /images/superstars/frankfawzi-k.png
-    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
-    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
+    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
+    department: 'GROWTH, TALENT, IMPACT'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
