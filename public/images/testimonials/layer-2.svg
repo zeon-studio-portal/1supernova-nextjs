@@ -1,0 +1,209 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 398 396" width="398" height="396">
+	<title>image</title>
+	<defs>
+		<linearGradient id="g1" x1="253.8" y1="226.1" x2="253.8" y2="280" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="271.1" y1="205.2" x2="271.1" y2="264.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="287.3" y1="184.4" x2="287.3" y2="246.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="302.1" y1="163.7" x2="302.1" y2="228.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="315.4" y1="143.5" x2="315.4" y2="208.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="327.1" y1="123.9" x2="327.1" y2="188.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="337.1" y1="105.1" x2="337.1" y2="167.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="345.1" y1="87.4" x2="345.1" y2="146.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="351.2" y1="70.9" x2="351.2" y2="124.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="355.3" y1="55.9" x2="355.3" y2="103.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g11" x1="357.3" y1="42.4" x2="357.3" y2="82.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g12" x1="357.2" y1="30.7" x2="357.2" y2="61.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g13" x1="355" y1="20.9" x2="355" y2="41.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g14" x1="350.7" y1="13" x2="350.7" y2="23" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g15" x1="344.4" y1="3.8" x2="344.4" y2="8.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<image  width="193" height="60" id="img1" href="data:image/png;base64,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"/>
+		<linearGradient id="g16" x1="117.4" y1="335.9" x2="117.4" y2="352.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g17" x1="137" y1="334.6" x2="137" y2="339" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g18" x1="157" y1="321.7" x2="157" y2="332.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g19" x1="177" y1="304.4" x2="177" y2="325.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g20" x1="196.9" y1="286" x2="196.9" y2="317.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g21" x1="216.5" y1="266.7" x2="216.5" y2="306.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+		<linearGradient id="g22" x1="235.5" y1="246.7" x2="235.5" y2="294.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0aa5fe"/>
+			<stop offset=".255" stop-color="#02ddeb"/>
+			<stop offset=".469" stop-color="#fdd13b"/>
+			<stop offset=".729" stop-color="#ff8f81"/>
+			<stop offset="1" stop-color="#c14ecf"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+		.s8 { fill: url(#g9) } 
+		.s9 { fill: url(#g10) } 
+		.s10 { fill: url(#g11) } 
+		.s11 { fill: url(#g12) } 
+		.s12 { fill: url(#g13) } 
+		.s13 { fill: url(#g14) } 
+		.s14 { fill: url(#g15) } 
+		.s15 { fill: url(#g16) } 
+		.s16 { fill: url(#g17) } 
+		.s17 { fill: url(#g18) } 
+		.s18 { fill: url(#g19) } 
+		.s19 { fill: url(#g20) } 
+		.s20 { fill: url(#g21) } 
+		.s21 { fill: url(#g22) } 
+	</style>
+	<g id="Folder 1">
+		<path id="Layer" class="s0" d="m342.9 229.3l-172.9 49.3q-0.3 0.1-0.4 0.3-0.2 0.2-0.1 0.5 0 0.3 0.2 0.4 0.2 0.2 0.5 0.2 0.1 0 0.2 0l172.9-49.3q0.2-0.1 0.3-0.4 0.1-0.2 0-0.5 0-0.2-0.3-0.4-0.2-0.1-0.4-0.1z"/>
+		<path id="Layer" class="s1" d="m356.3 208.8l-165.4 54q-0.1 0.1-0.2 0.2-0.2 0-0.2 0.2-0.1 0.1-0.1 0.2 0 0.2 0 0.3 0.1 0.2 0.2 0.3 0.1 0.1 0.2 0.1 0.1 0.1 0.3 0.1 0.1 0 0.2 0l165.4-54.1q0.1 0 0.3-0.1 0.1-0.1 0.1-0.2 0.1-0.2 0.1-0.3 0-0.1 0-0.3-0.1-0.1-0.2-0.2-0.1-0.1-0.2-0.2-0.1-0.1-0.3-0.1-0.1 0-0.2 0.1z"/>
+		<path id="Layer" class="s2" d="m367.9 188.2l-156.7 57.4q-0.2 0.1-0.4 0.3-0.1 0.2 0 0.5 0 0.2 0.2 0.4 0.2 0.1 0.4 0.1 0.2 0 0.3 0l156.7-57.4q0.2 0 0.3-0.1 0.1-0.1 0.2-0.3 0-0.1 0-0.2 0.1-0.2 0-0.3 0-0.1-0.1-0.3-0.1-0.1-0.3-0.1-0.1-0.1-0.3-0.1-0.1 0-0.2 0.1z"/>
+		<path id="Layer" class="s3" d="m377.8 167.6l-147.1 59.5q-0.2 0.1-0.4 0.3-0.1 0.2 0 0.5 0 0.2 0.2 0.4 0.2 0.1 0.4 0.1 0.2 0 0.3 0l147.1-59.5q0.2 0 0.3-0.1 0.1-0.1 0.1-0.2 0.1-0.2 0.1-0.3 0-0.2-0.1-0.3 0-0.1-0.1-0.2-0.1-0.1-0.3-0.2-0.1 0-0.2 0-0.2 0-0.3 0z"/>
+		<path id="Layer" class="s4" d="m385.7 147.4l-136.6 60.1q-0.2 0.1-0.3 0.4-0.2 0.2-0.1 0.4 0 0.3 0.2 0.4 0.2 0.2 0.5 0.2 0.1 0 0.3-0.1l136.5-60.1q0.3-0.1 0.4-0.4 0.1-0.3 0-0.5-0.1-0.3-0.4-0.4-0.3-0.1-0.5 0z"/>
+		<path id="Layer" class="s5" d="m391.5 127.8l-125.3 59.4q-0.1 0-0.2 0.1-0.1 0.1-0.1 0.3-0.1 0.1-0.1 0.2 0 0.2 0.1 0.3 0.1 0.1 0.2 0.2 0.1 0.1 0.2 0.2 0.1 0 0.3 0 0.1 0 0.2-0.1l125.3-59.4q0.2 0 0.2-0.1 0.1-0.1 0.2-0.3 0-0.1 0-0.2 0-0.2 0-0.3-0.2-0.3-0.4-0.4-0.3-0.1-0.6 0.1z"/>
+		<path id="Layer" class="s6" d="m395.3 108.9l-113.3 57.3q-0.3 0.1-0.4 0.4-0.1 0.3 0 0.5 0.1 0.1 0.2 0.2 0.1 0.1 0.2 0.2 0.2 0 0.3 0 0.2 0 0.3-0.1l113.3-57.3q0.1-0.1 0.2-0.2 0.1-0.1 0.2-0.2 0-0.1 0-0.3 0-0.1-0.1-0.2 0-0.2-0.1-0.3-0.1 0-0.3-0.1-0.1 0-0.3 0-0.1 0-0.2 0.1z"/>
+		<path id="Layer" class="s7" d="m397.8 91.2q-0.1-0.2-0.4-0.3-0.2-0.1-0.5 0l-100.9 53.9q-0.2 0.1-0.3 0.4-0.1 0.2 0 0.4 0 0.2 0.2 0.4 0.2 0.1 0.4 0.1 0.2 0 0.4 0l100.9-53.9q0.1-0.1 0.2-0.2 0-0.1 0.1-0.2 0-0.2 0-0.3 0-0.2-0.1-0.3z"/>
+		<path id="Layer" class="s8" d="m308 124.3q0.1 0.1 0.3 0.2 0.2 0.1 0.4 0.1 0.1 0 0.3-0.1l88-49.1q0.3-0.1 0.4-0.4 0-0.3-0.1-0.5-0.1-0.3-0.4-0.4-0.3 0-0.5 0.1l-88.1 49.1q-0.2 0.2-0.3 0.4-0.1 0.3 0 0.6z"/>
+		<path id="Layer" class="s9" d="m318.5 102.8q0.1 0.3 0.4 0.4 0.2 0 0.5-0.1l74.9-43.1q0.3-0.2 0.3-0.4 0.1-0.3 0-0.5-0.2-0.3-0.5-0.4-0.2 0-0.5 0.1l-74.9 43.1q-0.3 0.1-0.3 0.4-0.1 0.3 0.1 0.5z"/>
+		<path id="Layer" class="s10" d="m326.8 81.7q0.2 0.3 0.4 0.4 0.3 0 0.6-0.1l61.7-35.9q0.3-0.2 0.3-0.4 0.1-0.3 0-0.6-0.1-0.1-0.2-0.2-0.1-0.1-0.3-0.1-0.1 0-0.2 0-0.2 0-0.3 0.1l-61.7 35.9q-0.3 0.1-0.3 0.4-0.1 0.3 0 0.5z"/>
+		<path id="Layer" class="s11" d="m333.7 61.5q0.2 0 0.3 0l48.6-27.6q0.3-0.2 0.4-0.5 0.1-0.2-0.1-0.5-0.1-0.2-0.4-0.3-0.3-0.1-0.5 0l-48.6 27.6q-0.3 0.2-0.3 0.4-0.1 0.2-0.1 0.4 0.1 0.3 0.3 0.4 0.2 0.1 0.4 0.1z"/>
+		<path id="Layer" class="s12" d="m337.1 41.4q0.1 0.2 0.3 0.3 0.2 0.1 0.4 0.1 0.1 0 0.3-0.1l35.6-18.2q0.2-0.1 0.3-0.2 0.1-0.1 0.1-0.3 0.1-0.1 0-0.2 0-0.2 0-0.3-0.1-0.1-0.2-0.2-0.1-0.1-0.3-0.2-0.1 0-0.2 0-0.2 0-0.3 0.1l-35.6 18.3q-0.2 0-0.3 0.1-0.1 0.1-0.1 0.3 0 0.1 0 0.2 0 0.2 0 0.3z"/>
+		<path id="Layer" class="s13" d="m338.9 22.5q0.1 0.3 0.3 0.4 0.2 0.1 0.4 0.1 0.1 0 0.2 0l23.1-8q0.1-0.1 0.2-0.2 0.1 0 0.2-0.2 0-0.1 0-0.2 0-0.2 0-0.3-0.1-0.1-0.1-0.2-0.1-0.1-0.3-0.2-0.1-0.1-0.2-0.1-0.2 0-0.3 0.1l-23 7.9q-0.2 0.1-0.3 0.2-0.1 0.1-0.1 0.2-0.1 0.1-0.1 0.3 0 0.1 0.1 0.2z"/>
+		<path id="Layer" class="s14" d="m339 5.4l10.9 3.1q0.1 0 0.2 0 0.2 0 0.4-0.1 0.2-0.2 0.3-0.5 0-0.2-0.1-0.4-0.2-0.3-0.4-0.3l-10.9-3.1q-0.3-0.1-0.5 0-0.3 0.2-0.4 0.5 0 0.2 0.1 0.5 0.1 0.2 0.4 0.3z"/>
+		<use id="kk copy" href="#img1" x="3" y="336"/>
+		<path id="Layer" class="s15" d="m215.5 351.3l-190-14.4q-0.3 0-0.5 0.2-0.2 0.1-0.2 0.4 0 0.3 0.1 0.5 0.2 0.3 0.5 0.3l190 14.4h0.1q0.3 0 0.5-0.2 0.2-0.2 0.2-0.4 0-0.3-0.2-0.5-0.2-0.3-0.5-0.3z"/>
+		<path id="Layer" class="s16" d="m235.9 337.6l-191.6-2.7q-0.3 0-0.5 0.2-0.2 0.2-0.2 0.5 0 0.3 0.2 0.5 0.2 0.2 0.5 0.2l191.6 2.7q0.3 0 0.5-0.2 0.2-0.2 0.2-0.5 0-0.3-0.2-0.5-0.2-0.2-0.5-0.2z"/>
+		<path id="Layer" class="s17" d="m256 322.3l-191.9 8.4q-0.3 0-0.5 0.2-0.2 0.2-0.2 0.5 0 0.3 0.2 0.5 0.2 0.2 0.5 0.2h0.1l191.8-8.4q0.3 0 0.5-0.2 0.2-0.2 0.2-0.5 0-0.1 0-0.3-0.1-0.1-0.2-0.2-0.1-0.1-0.2-0.1-0.2-0.1-0.3-0.1z"/>
+		<path id="Layer" class="s18" d="m275.4 305.7l-190.8 18.6q-0.2 0-0.4 0.2-0.2 0.2-0.2 0.5 0 0.3 0.2 0.5 0.2 0.2 0.5 0.2h0.1l190.7-18.6q0.2 0 0.3-0.1 0.1 0 0.2-0.1 0.1-0.2 0.1-0.3 0.1-0.1 0.1-0.3 0-0.1-0.1-0.2-0.1-0.2-0.2-0.2-0.1-0.1-0.2-0.2-0.2 0-0.3 0z"/>
+		<path id="Layer" class="s19" d="m294 287.9l-188.3 27.9q-0.2 0-0.4 0.2-0.2 0.2-0.2 0.5 0 0.3 0.2 0.5 0.3 0.2 0.6 0.2h0.1l188.2-27.9q0.2 0 0.3-0.1 0.1-0.1 0.2-0.2 0.1-0.1 0.1-0.2 0-0.2 0-0.3 0-0.3-0.3-0.5-0.2-0.1-0.5-0.1z"/>
+		<path id="Layer" class="s20" d="m311.6 269.1l-184.4 36.1q-0.3 0.1-0.5 0.3-0.2 0.2-0.2 0.5 0.1 0.3 0.3 0.5 0.2 0.2 0.5 0.1h0.1l184.5-36.1q0.2-0.1 0.4-0.4 0.1-0.2 0.1-0.5-0.1-0.2-0.3-0.4-0.2-0.2-0.5-0.1z"/>
+		<path id="Layer" class="s21" d="m327.9 249.5l-179.3 43.3q-0.2 0.1-0.4 0.3-0.2 0.2-0.2 0.5 0.1 0.3 0.3 0.5 0.2 0.2 0.5 0.1 0.1 0 0.2 0l179.3-43.3q0.2-0.1 0.4-0.3 0.1-0.3 0.1-0.6-0.1-0.2-0.3-0.4-0.3-0.2-0.6-0.1z"/>
+	</g>
+</svg>

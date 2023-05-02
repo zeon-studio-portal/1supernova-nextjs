@@ -1,0 +1,70 @@
+{
+  "main": [
+    {
+      "name": "Superstars",
+      "url": "#superstars"
+    },
+    {
+      "name": "Reviews",
+      "url": "#reviews"
+    },
+    {
+      "name": "How it Works",
+      "url": "/#how-it-works"
+    },
+    {
+      "name": "FAQs",
+      "url": "/#faqs"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Terms of Service",
+      "url": "#"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "#"
+    },
+    {
+      "name": "Disclaimer",
+      "url": "#"
+    }
+  ],
+  "company": [
+    {
+      "name": "About",
+      "url": "#about"
+    },
+    {
+      "name": "Reviews",
+      "url": "#reviews"
+    },
+    {
+      "name": "Superstars",
+      "url": "#superstars"
+    },
+    {
+      "name": "FAQ",
+      "url": "#faqs"
+    },
+    {
+      "name": "Contact",
+      "url": "#contact"
+    }
+  ],
+  "join_us": [
+    {
+      "name": "Founder",
+      "url": "/founder"
+    },
+    {
+      "name": "Advisor",
+      "url": "/advisor"
+    },
+    {
+      "name": "VC’s",
+      "url": "/vcs"
+    }
+  ]
+}

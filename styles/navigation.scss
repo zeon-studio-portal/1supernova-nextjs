@@ -1,0 +1,58 @@
+// navbar toggler
+input#nav-toggle:checked ~ label#show-button {
+  @apply hidden;
+}
+
+input#nav-toggle:checked ~ label#hide-button {
+  @apply flex lg:hidden;
+}
+
+input#nav-toggle:checked ~ #nav-menu {
+  @apply flex flex-col lg:flex-row;
+}
+
+.header {
+  @apply sticky top-0 z-[9999] bg-dark-primary/5 backdrop-blur-md;
+  &.navbar-open {
+    @apply h-screen bg-dark-primary;
+  }
+}
+
+// navbar items
+.navbar {
+  @apply relative flex flex-wrap items-center justify-between py-4;
+}
+
+.navbar-brand {
+  @apply text-xl font-semibold text-white;
+  image {
+    @apply max-h-full max-w-full;
+  }
+}
+
+.navbar-nav {
+  @apply mt-4 bg-dark-tertiary pb-0 pt-4 text-base sm:h-auto sm:rounded-xl sm:py-4 sm:text-center lg:mt-0 lg:bg-transparent lg:py-0 lg:text-left;
+}
+
+.nav-item {
+  @apply px-4 lg:px-0;
+}
+
+.nav-link {
+  @apply px-2 py-4 text-2xl text-white transition hover:text-primary-200 sm:py-2 sm:text-base lg:p-3;
+}
+
+.mobile-cta {
+  @apply relative z-10 mt-auto block py-20 text-center sm:hidden;
+  &::before,
+  &::after {
+    @apply absolute left-0 top-0 -z-10 h-full w-full content-[""];
+  }
+  &::before {
+    @apply bg-[url('/images/chakra.svg')] bg-center bg-no-repeat;
+    background-size: 150%;
+  }
+  &::after {
+    @apply bg-dark-primary/50 backdrop-blur-[5px];
+  }
+}

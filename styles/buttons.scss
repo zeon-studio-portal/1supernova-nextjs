@@ -1,0 +1,51 @@
+.btn {
+  @apply inline-block rounded-xl px-6 py-[14px] font-medium text-white transition;
+  &-sm {
+    @apply px-[22px] py-[10px];
+  }
+  &-dark {
+    @apply bg-dark-quaternary hover:bg-white hover:text-dark-primary;
+  }
+  &-light {
+    @apply bg-light-primary text-dark-primary hover:bg-light-tertiary;
+  }
+}
+
+.btn-border-gradient {
+  position: relative;
+  z-index: 1;
+  background: linear-gradient(
+    100.68deg,
+    #0aa5fe 12.12%,
+    #02ddeb 30.19%,
+    #fdd13b 45.31%,
+    #ff8f81 63.75%,
+    #c14ecf 82.93%
+  );
+  &::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 1px;
+    left: 1px;
+    height: calc(100% - 2px);
+    width: calc(100% - 2px);
+    border-radius: inherit;
+  }
+  &:hover {
+    animation: animatedgradient 5s ease alternate infinite;
+    background-size: 300% 300%;
+    opacity: .70;
+  }
+}
+@keyframes animatedgradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 99% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

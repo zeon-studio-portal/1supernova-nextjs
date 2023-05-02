@@ -1,0 +1,30 @@
+{
+  "colors": {
+    "primary": {
+      "200": "#5ecdf8",
+      "400": "#33c0f7",
+      "600": "#2cb2f5",
+      "800": "#259bd8",
+      "1000": "#0e5170"
+    },
+    "secondary": {
+      "200": "#FEE29A",
+      "400": "#FED671",
+      "600": "#FECA43",
+      "800": "#FEBF20",
+      "1000": "#F4AF01"
+    },
+    "dark": {
+      "primary": "#010101",
+      "secondary": "#111111",
+      "tertiary": "#1B1B1B",
+      "quaternary": "#212121"
+    },
+    "light": {
+      "primary": "#FAFAFA",
+      "secondary": "#F0F0F0",
+      "tertiary": "#DDDDDD",
+      "quaternary": "#C2C2C2"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+b,
+strong {
+  @apply font-semibold;
+}
+code {
+  @apply after:border-none;
+}
+.has-link {
+  a {
+    @apply underline decoration-1 underline-offset-2 transition-all hover:opacity-80;
+  }
+}
+.has-link-primary {
+  a {
+    @apply text-primary-600 no-underline;
+  }
+}
+.has-link-secondary {
+  a {
+    @apply text-secondary-200 no-underline;
+  }
+}
