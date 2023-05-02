@@ -149,22 +149,22 @@ team:
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
-  - name: Hans Van Alebeek
-    image: /images/Hans.jpeg
-    department: 'GROWTH, OPERATIONS, LEADERSHIP '
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT'
+  - name: J Patrick Bewley
+    image: /images/superstars/team-thumb-18.png
+    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
+  - name: Hans Van Alebeek
+    image: /images/Hans.jpeg
+    department: 'GROWTH, OPERATIONS, LEADERSHIP '
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY, EXIT'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR, EXIT'
-  - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
-    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
-  - name: Chris Carson PhD
+  - name: Chris Carson
     image: /images/1668277982538.jpeg
     department: 'AI, FUNDING, SCALING, TECH, PRODUCT, EXIT'
   - name: Seth Forsgren
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
