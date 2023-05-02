@@ -145,7 +145,7 @@ team:
     department: 'STRATEGY, PRODUCT, TECH, WEB3, EXIT'
   - name: Juston Brommel
     image: /images/JB.jpeg
-    department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
+    department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS, EXIT'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
