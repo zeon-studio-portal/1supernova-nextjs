@@ -160,7 +160,7 @@ team:
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
-    department: 'TECH, STRATEGY, COMMUNITY'
+    department: 'TECH, STRATEGY, COMMUNITY, EXIT'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
