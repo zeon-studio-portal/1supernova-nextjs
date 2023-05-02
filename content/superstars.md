@@ -130,7 +130,7 @@ team:
     department: 'MARKETING, SOCIAL, PR, EXIT'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
-    department: 'SALES, GROWTH, LEADERSHIP, SOCIAL, EXIT'
+    department: 'SALES, LEADERSHIP, SOCIAL, EXIT'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
