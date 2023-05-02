@@ -100,7 +100,7 @@ team:
     department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
-    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
+    department: 'LEADERSHIP, FUNDING, SCALING, M&A, LEGAL'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
