@@ -77,9 +77,9 @@ team:
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department: 'M&A, STRATEGY, FUNDING, EXIT'
-  - name: Peter Kellner
-    image: /images/superstars/peterkellner.png
-    department: 'FUNDING, STRATEGY, TECH, SOCIAL, IMPACT, EXIT'
+  - name: Peter Bordes
+    image: /images/superstars/peterbordes.png
+    department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Tim Sae Koo
     image: /images/102929.png
     department: 'GROWTH, MARKETING, IMPACT, EXIT '
@@ -92,9 +92,9 @@ team:
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING, EXIT'
-  - name: Peter Bordes
-    image: /images/superstars/peterbordes.png
-    department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
+  - name: Peter Kellner
+    image: /images/superstars/peterkellner.png
+    department: 'FUNDING, STRATEGY, TECH, SOCIAL, IMPACT, EXIT'
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department: 'TECH, PRODUCT, LEADERSHIP, FUNDING, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
