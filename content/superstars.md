@@ -116,6 +116,9 @@ team:
   - name: Dan Ellis
     image: /images/Dan Ellis.jpeg
     department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
+  - name: Frank Fawzi
+    image: /images/superstars/frankfawzi-k.png
+    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
@@ -146,9 +149,6 @@ team:
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: CROWDFUNDING
-  - name: Frank Fawzi
-    image: /images/superstars/frankfawzi-k.png
-    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
