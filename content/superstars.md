@@ -7,10 +7,12 @@ group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
     icon_light: /images/superstars/icons/ai-light.svg
-  - name: Exit
   - name: Growth
     icon: /images/superstars/icons/community.svg
     icon_light: /images/superstars/icons/community-light.svg
+  - name: Exit
+    icon: /images/superstars/icons/talent.svg
+    icon_light: /images/superstars/icons/talent-light.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
     icon_light: /images/superstars/icons/funding-light.svg
@@ -41,9 +43,6 @@ group_list:
   - name: Sales
     icon: /images/superstars/icons/sales-marketing.svg
     icon_light: /images/superstars/icons/sales-marketing-light.svg
-  - name: Scaling
-    icon: /images/superstars/icons/talent.svg
-    icon_light: /images/superstars/icons/talent-light.svg
   - name: Social
     icon: /images/superstars/icons/social.svg
     icon_light: /images/superstars/icons/social-light.svg
@@ -184,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
