@@ -10,7 +10,7 @@ group_list:
   - name: Community
     icon: /images/superstars/icons/community.svg
     icon_light: /images/superstars/icons/community-light.svg
-  - name: Finance
+  - name: Marketing
     icon: /images/superstars/icons/finance.svg
     icon_light: /images/superstars/icons/finance-light.svg
   - name: Funding
@@ -159,6 +159,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
