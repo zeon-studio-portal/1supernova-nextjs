@@ -133,7 +133,7 @@ team:
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
-    department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
+    department: 'SALES, GROWTH, LEADERSHIP, SOCIAL, EXIT'
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department: 'MARKETING, TALENT, SOCIAL'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
