@@ -104,9 +104,9 @@ team:
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
-  - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT, LEADERSHIP'
+  - name: Andrew Sturner
+    image: /images/Andrew.avif
+    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
@@ -134,9 +134,6 @@ team:
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department: 'MARKETING, TALENT, SOCIAL'
-  - name: Andrew Sturner
-    image: /images/Andrew.avif
-    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING'
@@ -176,6 +173,9 @@ team:
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
