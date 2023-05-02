@@ -56,9 +56,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
-    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -113,9 +110,9 @@ team:
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
-  - name: Luiz Barros
-    image: /images/superstars/luizbarros-k.png
-    department: 'GROWTH, MARKETING, SOCIAL'
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
@@ -158,6 +155,9 @@ team:
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR'
+  - name: Luiz Barros
+    image: /images/superstars/luizbarros-k.png
+    department: 'GROWTH, MARKETING, SOCIAL'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
@@ -180,6 +180,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
