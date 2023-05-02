@@ -82,7 +82,7 @@ team:
     department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT, EXIT'
   - name: Tim Sae Koo
     image: /images/1660781505805.jpeg
-    department: 'GROWTH, MARKETING, IMPACT '
+    department: 'GROWTH, MARKETING, IMPACT, EXIT '
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department: 'AI, FUNDING, OPS, SCALING, LEGAL'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
