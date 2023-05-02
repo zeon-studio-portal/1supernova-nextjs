@@ -157,7 +157,7 @@ team:
     department: 'GROWTH, MARKETING, SOCIAL'
   - name: Ryan Allis
     image: /images/Ryan.jpeg
-    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
+    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
