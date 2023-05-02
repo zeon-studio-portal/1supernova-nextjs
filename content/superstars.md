@@ -61,7 +61,7 @@ group_list:
 team:
   - name: HOGAN LEE
     image: /images/HOGAN.jpeg
-    department: 'AI, STRATEGY, FUNDING, OPERATIONS'
+    department: 'AI, STRATEGY, FUNDING, OPERATIONS, LEGAL'
   - name: Luciana Ledesma
     image: /images/Luciana Ledesma.jpeg
     department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS '
@@ -162,6 +162,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
