@@ -42,14 +42,15 @@ lists:
       a significant return on the relationship. We bring proven methods,
       collaborative technology and expert resources to maximize shared
       efficiencies as your advisory team.
-  - question: How does Supernova compare with traditional advisors?
+  - question: What's wrong with the traditional advisor model?
     answer: >-
       Most founders and startups struggle to recruit, engage, manage and
       incentivize their advisory boards. All too often they settle or allow
       their advisors to sit idle on the sidelines with little accountability.
       This despite giving away 5%+ company equity to their advisors over the
-      lifetime of the business. Supernova is a turnkey solution for curating,
-      managing, incentivizing and holding accountable your advisory board.
+      lifetime of the business. Supernova is a new turnkey solution for
+      curating, managing, incentivizing and holding your advisory board
+      accountable.
   - question: What makes Supernova so different?
     answer: >-
       Supernova is the future of startup advising. We are the first and only
@@ -94,6 +95,7 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars founders to combine their life force energy and shine brighter together with Supernova. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity. Let’s light up the world.\U0001F31F"
 ---
+
 
 
 
