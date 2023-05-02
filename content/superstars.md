@@ -85,7 +85,7 @@ team:
     department: 'GROWTH, MARKETING, IMPACT '
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
-    department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
+    department: 'AI, FUNDING, OPS, SCALING, LEGAL'
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
