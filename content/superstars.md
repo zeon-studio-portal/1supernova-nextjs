@@ -115,7 +115,7 @@ team:
     department: 'PRODUCT, TECH, OPS, SCALING, EXIT'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
-    department: 'SALES, TALENT, OPS, FUNDING, WEB3'
+    department: 'SALES, TALENT, OPS, FUNDING, WEB3, EXIT'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
