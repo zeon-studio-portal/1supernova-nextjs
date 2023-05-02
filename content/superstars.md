@@ -115,7 +115,7 @@ team:
     department: 'LEADERSHIP, LEGAL'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
-    department: WEB3
+    department: 'GROWTH, SALES, WEB3, FUNDING'
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department: PR
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
