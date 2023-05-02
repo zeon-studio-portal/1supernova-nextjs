@@ -158,9 +158,6 @@ team:
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
-  - name: Nick Murray
-    image: /images/superstars/nickmurray-1.png
-    department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
@@ -176,6 +173,9 @@ team:
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
+  - name: Nick Murray
+    image: /images/superstars/nickmurray-1.png
+    department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
