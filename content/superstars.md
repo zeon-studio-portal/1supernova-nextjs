@@ -133,7 +133,7 @@ team:
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
-    department: PR
+    department: 'MARKETING, TALENT, SOCIAL'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
