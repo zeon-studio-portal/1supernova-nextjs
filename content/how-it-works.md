@@ -37,9 +37,9 @@ process:
       We hold your advisors accountable and rotate talent in and out as the
       needs of your company evolve.
     button:
-      enable: true
-      label: Meet Our Superstars
-      link: 'https://1supernova.com/#superstars'
+      enable: false
+      label: ''
+      link: ''
   - name: "05 - Award \U0001F3C6"
     content: >
       We score advisors performance quarterly based on your input to award
@@ -49,6 +49,7 @@ process:
       label: Read Testimoinials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
