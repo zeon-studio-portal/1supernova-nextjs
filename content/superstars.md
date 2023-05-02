@@ -151,7 +151,7 @@ team:
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
-    department: 'GROWTH, SALES, HR'
+    department: 'GROWTH, SALES, HR, EXIT'
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
