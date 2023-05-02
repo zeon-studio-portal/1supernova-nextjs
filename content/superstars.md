@@ -61,7 +61,7 @@ team:
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
-    department: Community
+    department: 'GROWTH, FUNDING'
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department: Finance
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
