@@ -81,7 +81,7 @@ team:
     image: /images/superstars/peterkellner.png
     department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
   - name: Tim Sae Koo
-    image: /images/PHOTO-2023-05-02-13-59-33.jpg
+    image: /images/Screenshot 2023-05-02 at 2.51.46 PM.png
     department: 'GROWTH, MARKETING, IMPACT'
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
