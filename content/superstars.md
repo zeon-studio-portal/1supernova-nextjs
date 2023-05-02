@@ -59,18 +59,6 @@ group_list:
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
 team:
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
-    department: 'AI, STRATEGY, FUNDING, OPERATIONS, LEGAL'
-  - name: Luciana Ledesma
-    image: /images/Luciana Ledesma.jpeg
-    department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS'
-  - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT, LEADERSHIP'
-  - name: Peter Bordes
-    image: /images/peter.jpeg
-    department: Funding
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -80,21 +68,27 @@ team:
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department: Finance
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
-    department: Ai
+  - name: Tim Chang
+    image: /images/superstars/timchang.png
+    department: FUNDING
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     department: Community
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
-    department: Finance
+    department: 'TALENT, LEADERSHIP, STRATEGY'
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
+    department: Ai
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: PRODUCT
-  - name: Brandon Evans
-    image: /images/superstars/team-thumb-4.png
-    department: CULTURE
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
+    department: 'AI, STRATEGY, FUNDING, OPERATIONS, LEGAL'
+  - name: Luciana Ledesma
+    image: /images/Luciana Ledesma.jpeg
+    department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS'
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department: SOFTWARE
@@ -104,21 +98,24 @@ team:
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: SCALE
-  - name: Tim Chang
-    image: /images/superstars/timchang.png
-    department: FUNDING
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department: SYSTEMS
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: SALES
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Jason Tan
     image: /images/superstars/team-thumb-7.png
     department: TECH
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: MEDIA
+  - name: Peter Bordes
+    image: /images/peter.jpeg
+    department: Funding
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: OPS
@@ -162,6 +159,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
