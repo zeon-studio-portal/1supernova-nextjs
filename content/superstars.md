@@ -142,7 +142,7 @@ team:
     department: CROWDFUNDING
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
-    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING, GROWTH, LEADERSHIP, M&A, LEGAL'
+    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING, M&A, LEGAL'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
@@ -171,6 +171,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
