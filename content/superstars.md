@@ -88,7 +88,7 @@ team:
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Peter Yared
     image: /images/superstars/peteryared.png
-    department: SOFTWARE
+    department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
     department: BRAND
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
