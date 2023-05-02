@@ -120,7 +120,7 @@ team:
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Dan Ellis
-    image: /images/Dan Ellis.jpeg
+    image: /images/Screenshot 2023-05-02 at 9.26.45 AM.png
     department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
