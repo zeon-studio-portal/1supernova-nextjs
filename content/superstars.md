@@ -149,6 +149,9 @@ team:
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: 'GROWTH, FUNDING, MARKETING'
@@ -158,9 +161,6 @@ team:
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
