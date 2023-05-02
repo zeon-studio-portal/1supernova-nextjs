@@ -106,7 +106,7 @@ team:
     department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
-    department: MEDIA
+    department: 'GROWTH, MARKETING, SOCIAL'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: OPS
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
