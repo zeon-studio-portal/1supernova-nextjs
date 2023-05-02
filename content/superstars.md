@@ -121,7 +121,7 @@ team:
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
   - name: Dan Ellis
     image: /images/Dan.jpeg
-    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
+    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY, EXIT'
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     department: 'GROWTH, TALENT, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
