@@ -91,7 +91,7 @@ team:
     department: 'TECH, PRODUCT, SCALING, LEADERSHIP'
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
-    department: 'PRODUCT, TECH, FUNDING'
+    department: 'PRODUCT, TECH, FUNDING, EXIT'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
