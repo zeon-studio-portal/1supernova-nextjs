@@ -128,9 +128,6 @@ team:
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
-  - name: 'Leo Rastogi, PhD'
-    image: /images/superstars/team-thumb-22.png
-    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
@@ -143,6 +140,9 @@ team:
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
+  - name: 'Leo Rastogi, PhD'
+    image: /images/superstars/team-thumb-22.png
+    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department: PR
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
