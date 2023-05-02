@@ -22,7 +22,7 @@ process:
       business needs.
     button:
       enable: true
-      label: Exited Founders
+      label: 6-8 Exited Founders
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
@@ -49,6 +49,7 @@ process:
       label: Testimonials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
