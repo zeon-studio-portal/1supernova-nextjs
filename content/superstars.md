@@ -56,9 +56,9 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Tomy Lorsch
-    image: /images/Tomy.jpeg
-    department: 'GROWTH, MARKETING, IMPACT'
+  - name: Ryan Allis
+    image: /images/Ryan.jpeg
+    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -161,7 +161,11 @@ team:
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
+  - name: Tomy Lorsch
+    image: /images/Tomy.jpeg
+    department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
