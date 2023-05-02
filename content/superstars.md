@@ -58,7 +58,7 @@ group_list:
 team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
-    department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
+    department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, EXIT'
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department: 'GROWTH, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
