@@ -74,6 +74,9 @@ team:
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department: 'TALENT, LEADERSHIP, STRATEGY'
+  - name: Tim Sae Koo
+    image: /images/Tim.jpeg
+    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department: 'M&A, STRATEGY, FUNDING'
@@ -104,9 +107,6 @@ team:
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
-  - name: Tim Sae Koo
-    image: /images/Tim.jpeg
-    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -174,6 +174,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
