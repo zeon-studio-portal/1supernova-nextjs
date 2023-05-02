@@ -76,7 +76,7 @@ team:
     department: 'CULTURE, STRATEGY, HR, EXIT'
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
-    department: 'M&A, STRATEGY, FUNDING'
+    department: 'M&A, STRATEGY, FUNDING, EXIT'
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
