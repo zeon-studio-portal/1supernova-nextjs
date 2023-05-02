@@ -30,7 +30,7 @@ process:
       advisory teams.
     button:
       enable: true
-      label: Best Practices Webinar
+      label: Watch Best Practices Webinar
       link: 'https://www.youtube.com/watch?v=h59yC0eokks'
   - name: "04 - Achieve \U0001F3AF"
     content: >
@@ -49,6 +49,7 @@ process:
       label: Testimonials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
