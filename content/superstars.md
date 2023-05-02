@@ -84,7 +84,7 @@ team:
     image: /images/HOGAN.jpeg
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
   - name: Luciana Ledesma
-    image: /images/Luciana Ledesma.jpeg
+    image: /images/LUCIE.jpeg
     department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS'
   - name: Peter Yared
     image: /images/superstars/peteryared.png
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
