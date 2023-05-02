@@ -88,7 +88,7 @@ team:
     department: 'AI, FUNDING, OPS, SCALING, LEGAL'
   - name: Peter Yared
     image: /images/superstars/peteryared.png
-    department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
+    department: 'TECH, PRODUCT, SCALING, LEADERSHIP'
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
