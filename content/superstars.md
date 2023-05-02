@@ -133,7 +133,7 @@ team:
     department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
-    department: SOCIAL IMPACT
+    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: CROWDFUNDING
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
