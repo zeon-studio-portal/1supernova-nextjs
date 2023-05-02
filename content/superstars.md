@@ -31,7 +31,7 @@ group_list:
   - name: Operations
     icon: /images/superstars/icons/operations.svg
     icon_light: /images/superstars/icons/operations-light.svg
-  - name: Partnerships
+  - name: Ecosystem
     icon: /images/superstars/icons/partnerships.svg
     icon_light: /images/superstars/icons/partnerships-light.svg
   - name: Product
@@ -162,6 +162,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
