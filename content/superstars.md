@@ -61,7 +61,7 @@ group_list:
 team:
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT'
+    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Peter Bordes
     image: /images/peter.jpeg
     department: Funding
@@ -156,6 +156,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
