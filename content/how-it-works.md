@@ -34,12 +34,12 @@ process:
       link: 'https://www.youtube.com/watch?v=h59yC0eokks'
   - name: "04 - Achieve \U0001F3AF"
     content: >
-      We hold your advisors accountable and remove or add fresh talent as the
+      We hold your advisors accountable and rotate talent in and out as the
       needs of your company evolve.
     button:
-      enable: false
-      label: ''
-      link: ''
+      enable: true
+      label: Meet Our Superstars
+      link: 'https://1supernova.com/#superstars'
   - name: "05 - Award \U0001F3C6"
     content: >
       We score advisors performance quarterly based on your input to award
@@ -49,6 +49,7 @@ process:
       label: ''
       link: ''
 ---
+
 
 
 
