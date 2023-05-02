@@ -59,7 +59,9 @@ group_list:
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
 team:
-  - {}
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: FUNDING
   - name: Peter Bordes
     image: /images/peter.jpeg
     department: Funding
@@ -153,10 +155,8 @@ team:
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
-  - name: Terry Kim
-    image: /images/superstars/terrykim.png
-    department: BIZ DEV
 ---
+
 
 
 
