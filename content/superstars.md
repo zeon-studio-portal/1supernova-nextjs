@@ -28,7 +28,7 @@ group_list:
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
     icon_light: /images/superstars/icons/m-and-a-light.svg
-  - name: Leadership
+  - name: Culture
     icon: /images/superstars/icons/leadership.svg
     icon_light: /images/superstars/icons/leadership-light.svg
   - name: Marketing
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
