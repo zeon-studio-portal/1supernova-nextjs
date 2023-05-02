@@ -103,7 +103,7 @@ team:
     department: 'LEADERSHIP, FUNDING, SCALING, M&A, EXIT'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
-    department: 'AI, TECH, GROWTH, FUNDING'
+    department: 'AI, TECH, GROWTH, FUNDING, EXIT'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
