@@ -61,7 +61,7 @@ group_list:
 team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
-    department: 'AI, STRATEGY'
+    department: 'AI, STRATEGY, COMMUNITY'
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department: Community
@@ -153,4 +153,5 @@ team:
     image: /images/superstars/terrykim.png
     department: BIZ DEV
 ---
+
 
