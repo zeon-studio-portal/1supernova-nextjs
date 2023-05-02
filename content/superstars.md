@@ -122,9 +122,6 @@ team:
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY, EXIT'
-  - name: Brett Donnelly
-    image: /images/1678937477620.jpeg
-    department: 'GROWTH, TALENT, IMPACT'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
@@ -143,6 +140,9 @@ team:
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3, EXIT'
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
+    department: 'GROWTH, TALENT, IMPACT'
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
