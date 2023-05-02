@@ -81,7 +81,7 @@ team:
     image: /images/superstars/peterkellner.png
     department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
   - name: Tim Sae Koo
-    image: /images/Screenshot 2023-05-02 at 2.51.46 PM.png
+    image: /images/1660781505805.jpeg
     department: 'GROWTH, MARKETING, IMPACT '
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
@@ -92,39 +92,45 @@ team:
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING'
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
-    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
-  - name: Jason DeLand
-    image: /images/superstars/team-thumb-13.png
-    department: 'STRATEGY, GROWTH, TALENT, SOCIAL'
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
+  - name: Frank Fawzi
+    image: /images/superstars/frankfawzi-k.png
+    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
+  - name: Andrew Sturner
+    image: ''
+    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3'
-  - name: Frank Fawzi
-    image: /images/superstars/frankfawzi-k.png
-    department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
-    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
+    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
+    department: 'GROWTH, TALENT, IMPACT'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
+  - name: 'Leo Rastogi, PhD'
+    image: /images/superstars/team-thumb-22.png
+    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
@@ -137,45 +143,39 @@ team:
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3'
-  - name: 'Leo Rastogi, PhD'
-    image: /images/superstars/team-thumb-22.png
-    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
+  - name: Felix van der Sand
+    image: /images/superstars/felixvandersand.png
+    department: 'GROWTH, SALES, HR'
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
+  - name: Ryan Allis
+    image: /images/Ryan.jpeg
+    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
-  - name: Felix van der Sand
-    image: /images/superstars/felixvandersand.png
-    department: 'GROWTH, SALES, HR'
-  - name: Ryan Allis
-    image: /images/Ryan.jpeg
-    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
-  - name: Andrew Sturner
-    image: /images/1649260720179.jpeg
-    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
-  - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
