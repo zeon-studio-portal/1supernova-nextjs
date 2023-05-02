@@ -107,9 +107,6 @@ team:
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
-  - name: Jason Tan
-    image: /images/superstars/team-thumb-7.png
-    department: TECH
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: MEDIA
@@ -121,7 +118,7 @@ team:
     department: OPS
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
-    department: SCIENCE
+    department: 'LEADERSHIP, LEGAL'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: WEB3
@@ -159,6 +156,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
