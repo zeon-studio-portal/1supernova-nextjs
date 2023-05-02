@@ -59,6 +59,10 @@ group_list:
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
 team:
+  - {}
+  - name: Peter Bordes
+    image: /images/peter.jpeg
+    department: Funding
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -153,5 +157,6 @@ team:
     image: /images/superstars/terrykim.png
     department: BIZ DEV
 ---
+
 
 
