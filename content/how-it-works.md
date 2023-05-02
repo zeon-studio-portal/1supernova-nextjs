@@ -21,9 +21,9 @@ process:
       We match you with top advisors who will orbit around your immediate
       business needs.
     button:
-      enable: false
-      label: ''
-      link: ''
+      enable: true
+      label: Meet The Superstars
+      link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
       We have proven systems, methods and collaborative technology to optimize
@@ -49,6 +49,7 @@ process:
       label: Read Testimoinials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
