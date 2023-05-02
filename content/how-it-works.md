@@ -29,8 +29,8 @@ process:
       We have proven methods and collaborative technology to optimize 1:1
       advisor interactions and monthly advisory team all-in collaborations.
     button:
-      enable: false
-      label: Watch this Webinar for Best Practices
+      enable: true
+      label: Best Practices Webinar
       link: 'https://www.youtube.com/watch?v=h59yC0eokks'
   - name: "04 - Achieve \U0001F3AF"
     content: >
@@ -49,6 +49,7 @@ process:
       label: ''
       link: ''
 ---
+
 
 
 
