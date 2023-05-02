@@ -81,8 +81,8 @@ lists:
       exited founder, and making it easier for them to manage the day-to-day
       administration and incentive elements of advising. Similar to a lawyer
       joining a firm, or a doctor working in a practice versus doing it on their
-      own, there are benefits to working with Supernova that help them to be a
-      more effective advisor.
+      own, there are benefits to working with Supernova that help them excel as
+      a best-in-class advisor.
   - question: How does Supernova work with VCs?
     answer: >-
       Supernova helps VC’s go beyond office hours and webinars by providing
@@ -95,6 +95,7 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars founders to combine their life force energy and shine brighter together with Supernova. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity. Let’s light up the world.\U0001F31F"
 ---
+
 
 
 
