@@ -80,15 +80,15 @@ team:
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
-  - name: Peter Yared
-    image: /images/superstars/peteryared.png
-    department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
-    department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
   - name: Tim Sae Koo
     image: /images/Tim.jpeg
     department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
+    department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
+  - name: Peter Yared
+    image: /images/superstars/peteryared.png
+    department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
