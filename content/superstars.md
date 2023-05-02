@@ -128,24 +128,24 @@ team:
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3'
-  - name: Will Weinraub
-    image: /images/superstars/willweinraub.png
-    department: 'GROWTH, SALES, WEB3, FUNDING'
-  - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
-    department: PR
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
+  - name: Will Weinraub
+    image: /images/superstars/willweinraub.png
+    department: 'GROWTH, SALES, WEB3, FUNDING'
   - name: Scott Weller
     image: /images/Screenshot 2023-05-02 at 9.28.42 AM.png
     department: 'STRATEGY, PRODUCT, TECH, WEB3'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
+  - name: Lindsay Nahmiache
+    image: /images/superstars/team-thumb-15.png
+    department: PR
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
