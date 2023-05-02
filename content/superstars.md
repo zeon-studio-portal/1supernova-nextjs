@@ -145,7 +145,7 @@ team:
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
-    department: AGENCY
+    department: 'GROWTH, SALES, HR'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: MOBILE
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
