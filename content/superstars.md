@@ -85,7 +85,7 @@ team:
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
-    department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS'
+    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department: SOFTWARE
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
