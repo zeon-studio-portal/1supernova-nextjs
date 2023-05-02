@@ -116,6 +116,9 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
+  - name: Tuck Stibich PhD
+    image: /images/superstars/team-thumb-25.png
+    department: 'STRATEGY, LEADERSHIP, IP'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3'
@@ -143,9 +146,6 @@ team:
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: CROWDFUNDING
-  - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
-    department: 'LEADERSHIP, LEGAL'
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
@@ -177,6 +177,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
