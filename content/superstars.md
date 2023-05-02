@@ -95,9 +95,6 @@ team:
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department: 'FUNDING, STRATEGY, TECH, SOCIAL, IMPACT, EXIT'
-  - name: Tim Sae Koo
-    image: /images/102929.png
-    department: 'GROWTH, MARKETING, IMPACT, EXIT '
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department: 'LEADERSHIP, FUNDING, SCALING, M&A, EXIT'
@@ -107,6 +104,9 @@ team:
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
+  - name: Tim Sae Koo
+    image: /images/102929.png
+    department: 'GROWTH, MARKETING, IMPACT, EXIT '
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
