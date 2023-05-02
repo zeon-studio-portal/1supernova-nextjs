@@ -156,7 +156,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
   - name: Juha Mikkola
-    image: /images/Juha Mikkola.jpeg
+    image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
