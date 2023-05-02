@@ -40,7 +40,7 @@ group_list:
   - name: Sales & Marketing
     icon: /images/superstars/icons/sales-marketing.svg
     icon_light: /images/superstars/icons/sales-marketing-light.svg
-  - name: Services
+  - name: Web3
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
   - name: Social
@@ -156,6 +156,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
