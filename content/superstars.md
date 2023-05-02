@@ -164,25 +164,26 @@ team:
   - name: Chanddeep Madaan
     image: /images/superstars/team-thumb-27.png
     department: 'TECH, PRODUCT'
-  - name: Brian Beard
-    image: /images/superstars/team-thumb-16.png
-    department: LEGAL
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
+  - name: Brian Beard
+    image: /images/superstars/team-thumb-16.png
+    department: LEGAL
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
