@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "dev": "tinacms dev -c \"next dev\"",
-    "build": "next build",
+    "build": "tinacms build && next build",
     "export": "next build && next export",
     "lint": "next lint",
     "start": "tinacms build && next start",
