@@ -26,8 +26,8 @@ process:
       link: ''
   - name: 03 - Activate ✨
     content: >
-      We quarterback all your 1 on 1 advisor interactions and monthly advisory
-      team all-in collaborations.
+      We have proven methods and collaborative technology to optimize 1:1
+      advisor interactions and monthly advisory team all-in collaborations.
     button:
       enable: false
       label: ''
@@ -49,5 +49,6 @@ process:
       label: ''
       link: ''
 ---
+
 
 
