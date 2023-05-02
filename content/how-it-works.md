@@ -30,8 +30,8 @@ process:
       advisor interactions and monthly advisory team all-in collaborations.
     button:
       enable: false
-      label: ''
-      link: ''
+      label: Watch this Webinar for Best Practices
+      link: 'https://www.youtube.com/watch?v=h59yC0eokks'
   - name: "04 - Achieve \U0001F3AF"
     content: >
       We hold your advisors accountable and remove or add fresh talent as the
@@ -49,6 +49,7 @@ process:
       label: ''
       link: ''
 ---
+
 
 
 
