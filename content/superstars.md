@@ -100,7 +100,7 @@ team:
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
-    department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
+    department: 'STRATEGY, GROWTH, TALENT, SOCIAL'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
