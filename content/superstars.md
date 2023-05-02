@@ -134,6 +134,9 @@ team:
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department: 'MARKETING, TALENT, SOCIAL'
+  - name: Andrew Sturner
+    image: /images/Andrew.avif
+    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING'
@@ -149,9 +152,6 @@ team:
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
-  - name: Andrew Sturner
-    image: /images/Andrew.avif
-    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
