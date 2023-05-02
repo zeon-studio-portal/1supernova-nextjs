@@ -142,7 +142,7 @@ team:
     department: 'TECH, PRODUCT, LEADERSHIP, FUNDING, GROWTH, LEADERSHIP, M&A, LEGAL'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
-    department: ANALYTICS
+    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: AGENCY
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
