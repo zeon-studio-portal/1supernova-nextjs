@@ -45,10 +45,11 @@ process:
       We score advisors performance quarterly based on your input to award
       equity via merit vs. traditional vesting schedules.
     button:
-      enable: false
-      label: ''
-      link: ''
+      enable: true
+      label: Read Testimoinials
+      link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
