@@ -22,11 +22,11 @@ lists:
   - question: Is my company a fit for Supernova?
     answer: >-
       To best serve the companies we work with and ensure impact, we limit our
-      annual portfolio growth to 12 high-growth, high-potential startups, most
-      often in Series A-C funding. Supernova advisors specialize primarily in
-      AI, Health Tech, Fintech, SaaS, eCommerce, Impact and Web3. We are
-      especially committed to supporting  ventures that take an innovative
-      approach to solving modern-day problems.
+      annual portfolio growth to 12 high-growth startups, most often in Series
+      A-C funding. Supernova advisors specialize primarily in AI, Health Tech,
+      Fintech, SaaS, eCommerce, Impact and Web3. We are especially committed to
+      supporting ventures that take an innovative approach to solving modern-day
+      problems.
   - question: Who would my advisors be?
     answer: >-
       You’ll be matched  with six to eight exited founders that have relevant
@@ -93,5 +93,6 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars founders to combine their life force energy and shine brighter together with Supernova. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity. Let’s light up the world.\U0001F31F"
 ---
+
 
 
