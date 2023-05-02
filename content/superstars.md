@@ -56,9 +56,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Dan Ellis
-    image: /images/Dan Ellis.jpeg
-    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -77,9 +74,6 @@ team:
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department: 'TALENT, LEADERSHIP, STRATEGY'
-  - name: Tim Sae Koo
-    image: /images/Tim.jpeg
-    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department: 'M&A, STRATEGY, FUNDING'
@@ -95,30 +89,36 @@ team:
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
-  - name: Jason DeLand
-    image: /images/superstars/team-thumb-13.png
-    department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
+  - name: Tim Sae Koo
+    image: /images/Tim.jpeg
+    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
+  - name: Jason DeLand
+    image: /images/superstars/team-thumb-13.png
+    department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
-  - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT, LEADERSHIP'
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
-    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: 'FUNDING, IMPACT, LEADERSHIP'
+  - name: Dan Ellis
+    image: /images/Dan Ellis.jpeg
+    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
+    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
@@ -143,9 +143,6 @@ team:
   - name: Scott Weller
     image: /images/Scott Weller.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: CROWDFUNDING
@@ -179,10 +176,14 @@ team:
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
