@@ -32,8 +32,9 @@ lists:
       You’ll be matched with six to eight exited founders that have relevant
       expertise with your company's near term priorities. As your needs evolve,
       so does your advisory team. We rotate talent in and out based on your
-      dynamic needs. You are always in control and score advisors performance
-      based on measurable milestones. 
+      dynamic needs. You are always in control and score advisors based on the
+      achievement of measurable milestones to award equity based on merit vs.
+      traditional vesting schedules. 
   - question: What if I don’t have time for my advisors?
     answer: >-
       If you are too busy for us, then you likely need Supernova more than you
@@ -93,6 +94,7 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars founders to combine their life force energy and shine brighter together with Supernova. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity. Let’s light up the world.\U0001F31F"
 ---
+
 
 
 
