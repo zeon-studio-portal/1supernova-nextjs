@@ -16,7 +16,7 @@ group_list:
   - name: Funding
     icon: /images/superstars/icons/funding.svg
     icon_light: /images/superstars/icons/funding-light.svg
-  - name: Human Resources
+  - name: HR
     icon: /images/superstars/icons/human-resources.svg
     icon_light: /images/superstars/icons/human-resources-light.svg
   - name: Legal
@@ -157,6 +157,7 @@ team:
     image: /images/superstars/terrykim.png
     department: BIZ DEV
 ---
+
 
 
 
