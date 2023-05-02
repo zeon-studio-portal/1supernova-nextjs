@@ -107,9 +107,6 @@ team:
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: MEDIA
-  - name: Peter Bordes
-    image: /images/peter.jpeg
-    department: Funding
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: OPS
@@ -162,6 +159,7 @@ team:
     image: /images/Hans.jpeg
     department: OPERATIONS
 ---
+
 
 
 
