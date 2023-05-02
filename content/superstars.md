@@ -56,6 +56,9 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
+  - name: Dan Ellis
+    image: /images/Dan Ellis.jpeg
+    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -180,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
