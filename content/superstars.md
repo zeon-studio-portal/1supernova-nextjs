@@ -141,7 +141,7 @@ team:
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
   - name: Scott Weller
-    image: /images/Screenshot 2023-05-02 at 9.01.03 AM.png
+    image: /images/Screenshot 2023-05-02 at 9.28.42 AM.png
     department: 'STRATEGY, PRODUCT, TECH, WEB3'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
