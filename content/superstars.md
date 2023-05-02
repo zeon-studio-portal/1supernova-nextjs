@@ -92,24 +92,24 @@ team:
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING'
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
-    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     department: 'GROWTH, TALENT, IMPACT'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
-  - name: Andrew Sturner
-    image: ''
-    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
+  - name: Andrew Sturner
+    image: ''
+    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
