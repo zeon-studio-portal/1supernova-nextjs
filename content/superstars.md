@@ -4,6 +4,8 @@ title: ✨ Meet the Superstars ✨
 subtitle: 'Supernova advisors are industry-relevant, exited founders'
 quote: We orbit around your needs as all-star advisory teams.
 group_list:
+  - name: Seth Forsgren
+    icon: /images/Seth.jpeg
   - name: AI
     icon: /images/superstars/icons/ai.svg
     icon_light: /images/superstars/icons/ai-light.svg
@@ -56,9 +58,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Ryan Allis
-    image: /images/Ryan.jpeg
-    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -161,10 +160,14 @@ team:
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
+  - name: Ryan Allis
+    image: /images/Ryan.jpeg
+    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
