@@ -113,21 +113,21 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
+  - name: 'Chris Chaney  '
+    image: /images/Chris.jpeg
+    department: 'SALES, TALENT, OPS, FUNDING, WEB3'
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
-  - name: 'Chris Chaney  '
-    image: /images/Chris.jpeg
-    department: 'SALES, TALENT, OPS, FUNDING, WEB3'
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
+    department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
