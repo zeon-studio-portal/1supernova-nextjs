@@ -142,7 +142,7 @@ team:
     department: 'GROWTH, SALES, WEB3, FUNDING'
   - name: Scott Weller
     image: /images/1675213967983.jpeg
-    department: 'STRATEGY, PRODUCT, TECH, WEB3'
+    department: 'STRATEGY, PRODUCT, TECH, WEB3, EXIT'
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
