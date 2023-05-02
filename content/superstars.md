@@ -152,9 +152,9 @@ team:
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR, EXIT'
-  - name: Luiz Barros
-    image: /images/superstars/luizbarros-k.png
-    department: 'GROWTH, MARKETING, SOCIAL'
+  - name: Chris Carson PhD
+    image: /images/1668277982538.jpeg
+    department: 'AI, FUNDING, SCALING, TECH, PRODUCT, EXIT'
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
