@@ -59,7 +59,7 @@ group_list:
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
 team:
-  - name: HOGAN LEE
+  - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, LEGAL'
   - name: Luciana Ledesma
@@ -162,6 +162,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
