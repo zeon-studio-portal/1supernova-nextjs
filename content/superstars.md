@@ -79,7 +79,7 @@ team:
     department: 'M&A, STRATEGY, FUNDING'
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
-    department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
+    department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT, EXIT'
   - name: Tim Sae Koo
     image: /images/1660781505805.jpeg
     department: 'GROWTH, MARKETING, IMPACT '
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
