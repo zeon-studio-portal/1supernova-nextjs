@@ -97,7 +97,7 @@ team:
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
-    department: SYSTEMS
+    department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
