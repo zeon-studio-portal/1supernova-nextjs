@@ -131,6 +131,9 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
+  - name: Lindsay Nahmiache
+    image: /images/superstars/team-thumb-15.png
+    department: PR
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING'
@@ -143,9 +146,6 @@ team:
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
-  - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
-    department: PR
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
