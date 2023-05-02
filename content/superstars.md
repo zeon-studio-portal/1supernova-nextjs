@@ -110,12 +110,12 @@ team:
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT'
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
-    department: 'PRODUCT, TECH, OPS, SCALING, EXIT'
   - name: Andrew Sturner
     image: /images/123285.png
     department: 'FUNDING, TECH, LEADERSHIP, SCALING, EXIT'
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
+    department: 'PRODUCT, TECH, OPS, SCALING, EXIT'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
