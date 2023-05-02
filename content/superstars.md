@@ -83,15 +83,15 @@ team:
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
-  - name: Ryan Hoover
-    image: /images/superstars/team-thumb-8.png
-    department: 'PRODUCT, TECH, FUNDING'
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
   - name: Tim Sae Koo
     image: /images/Tim.jpeg
     department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
+  - name: Ryan Hoover
+    image: /images/superstars/team-thumb-8.png
+    department: 'PRODUCT, TECH, FUNDING'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
@@ -101,15 +101,15 @@ team:
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
     department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
-    department: 'AI, TECH, GROWTH, FUNDING'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
+    department: 'AI, TECH, GROWTH, FUNDING'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
