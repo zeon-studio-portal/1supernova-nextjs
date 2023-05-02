@@ -49,7 +49,7 @@ group_list:
   - name: Strategy
     icon: /images/superstars/icons/strategy.svg
     icon_light: /images/superstars/icons/strategy-light.svg
-  - name: Sustainability
+  - name: Impact
     icon: /images/superstars/icons/sustainability.svg
     icon_light: /images/superstars/icons/sustainability-light.svg
   - name: Talent
@@ -157,6 +157,7 @@ team:
     image: /images/superstars/terrykim.png
     department: BIZ DEV
 ---
+
 
 
 
