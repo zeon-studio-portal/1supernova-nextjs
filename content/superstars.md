@@ -56,12 +56,9 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department: 'PRODUCT, TECH'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
-    department: 'AI, STRATEGY, COMMUNITY'
+    department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department: Community
@@ -128,6 +125,9 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: SOCIAL
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department: 'PRODUCT, TECH'
   - name: Scott Weller
     image: /images/Scott Weller.jpeg
     department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
