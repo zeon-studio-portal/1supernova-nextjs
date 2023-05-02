@@ -98,9 +98,9 @@ team:
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
-  - name: Jason DeLand
-    image: /images/superstars/team-thumb-13.png
-    department: 'STRATEGY, GROWTH, TALENT, SOCIAL'
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
+    department: 'GROWTH, TALENT, IMPACT'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
