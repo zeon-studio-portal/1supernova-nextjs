@@ -166,7 +166,7 @@ team:
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
-    department: OPERATIONS
+    department: 'GROWTH, OPERATIONS, LEADERSHIP '
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
