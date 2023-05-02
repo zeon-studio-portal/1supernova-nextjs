@@ -113,15 +113,15 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
-  - name: Dan Ellis
-    image: /images/Dan Ellis.jpeg
-    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
+  - name: Dan Ellis
+    image: /images/Dan Ellis.jpeg
+    department: 'PRODUCT, TECH, FUNDRAISING, STRATEGY'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
