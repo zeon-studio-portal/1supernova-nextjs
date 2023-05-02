@@ -82,7 +82,7 @@ team:
     department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
   - name: Tim Sae Koo
     image: /images/Screenshot 2023-05-02 at 2.51.46 PM.png
-    department: 'GROWTH, MARKETING, IMPACT '
+    department: 'GROWTH, MARKETING, IMPACT'
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
@@ -98,15 +98,15 @@ team:
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
-  - name: Jason DeLand
-    image: /images/superstars/team-thumb-13.png
-    department: 'STRATEGY, GROWTH, TALENT, SOCIAL'
+  - name: Ulises Orozco
+    image: /images/1585673787933.jpeg
+    department: 'GROWTH, TECH, HR'
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
-  - name: Andrew Sturner
-    image: /images/Andrew.avif
-    department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
+  - name: Anthony Lacavaro
+    image: /images/Anthony.jpeg
+    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
@@ -149,12 +149,15 @@ team:
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
+  - name: Krishan Arora
+    image: /images/superstars/team-thumb-20.png
+    department: 'GROWTH, FUNDING, MARKETING'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department: 'GROWTH, SALES, HR'
-  - name: Luiz Barros
-    image: /images/superstars/luizbarros-k.png
-    department: 'GROWTH, MARKETING, SOCIAL'
+  - name: Krishan Arora
+    image: /images/1625798244301.jpeg
+    department: 'FUNDING, MARKETING, SOCIAL'
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
@@ -173,9 +176,6 @@ team:
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
-  - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
-    department: 'FUNDING, IMPACT, LEADERSHIP'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
