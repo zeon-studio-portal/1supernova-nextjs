@@ -161,9 +161,9 @@ team:
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
-  - name: Chanddeep Madaan
-    image: /images/superstars/team-thumb-27.png
-    department: 'TECH, PRODUCT'
+  - name: Juston Brommel
+    image: /images/JB.jpeg
+    department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
