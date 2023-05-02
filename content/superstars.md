@@ -64,7 +64,7 @@ team:
     department: 'GROWTH, FUNDING'
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
-    department: Finance
+    department: 'GROWTH, PRODUCT, TECH'
   - name: Tim Chang
     image: /images/superstars/timchang.png
     department: FUNDING
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
