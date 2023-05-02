@@ -94,7 +94,7 @@ team:
     department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
-    department: SCALE
+    department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department: SYSTEMS
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
