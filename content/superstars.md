@@ -70,7 +70,7 @@ team:
     department: 'AI, FUNDING, IMPACT, WEB3'
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
-    department: 'STRATEGY, FUNDING, SCALING, HR, SOCIAL'
+    department: 'STRATEGY, FUNDING, SCALING, HR, SOCIAL, EXIT'
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department: 'TALENT, LEADERSHIP, STRATEGY'
