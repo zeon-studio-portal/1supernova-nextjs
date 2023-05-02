@@ -85,7 +85,7 @@ team:
     department: PRODUCT
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
-    department: 'AI, STRATEGY, FUNDING, OPERATIONS, LEGAL'
+    department: 'AI, STRATEGY, FUNDING, OPERATIONS, FINANCE, LEGAL'
   - name: Luciana Ledesma
     image: /images/Luciana Ledesma.jpeg
     department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS'
@@ -159,6 +159,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
