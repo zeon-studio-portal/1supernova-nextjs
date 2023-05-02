@@ -121,7 +121,7 @@ team:
     department: PR
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
-    department: WELL-BEING
+    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: SOCIAL
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
