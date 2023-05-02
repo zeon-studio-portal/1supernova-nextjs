@@ -124,7 +124,7 @@ team:
     department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
-    department: SOCIAL
+    department: 'SALES, GROWTH, LEADERSHIP, SOCIAL'
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
