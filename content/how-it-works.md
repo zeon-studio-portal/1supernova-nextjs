@@ -46,9 +46,10 @@ process:
       equity via merit vs. traditional vesting schedules.
     button:
       enable: true
-      label: Read Testimoinials
+      label: Testimonials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
