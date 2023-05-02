@@ -129,7 +129,7 @@ team:
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
   - name: Scott Weller
-    image: /images/Scott Weller.jpeg
+    image: /images/Screenshot 2023-05-02 at 9.01.03 AM.png
     department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
