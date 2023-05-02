@@ -148,7 +148,7 @@ team:
     department: 'GROWTH, SALES, HR'
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
-    department: MOBILE
+    department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
   - name: Chanddeep Madaan
     image: /images/superstars/team-thumb-27.png
     department: FINANCE
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
