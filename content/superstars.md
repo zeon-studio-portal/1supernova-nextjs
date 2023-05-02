@@ -172,7 +172,7 @@ team:
     department: 'PRODUCT, TECH'
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
-    department: 'PRODUCT, TECH, LEGAL, WEB3'
+    department: 'PRODUCT, TECH, LEGAL, WEB3, EXIT'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
