@@ -91,7 +91,7 @@ team:
     department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
-    department: BRAND
+    department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: SCALE
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
