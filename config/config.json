@@ -1,9 +1,6 @@
 {
   "site": {
     "title": "Supernova",
-    "base_url": "https://1supernova.com",
-    "base_path": "/",
-    "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
     "logo_width": "185",
@@ -11,15 +8,13 @@
     "logo_text": "Supernova",
     "mobile_nav_text": "Founder, Advisor, or VC?"
   },
-
   "params": {
     "header_cta_link": "https://calendly.com/supernova-intro/supernova-intro",
-    "announcement": "Watch our webinar replay, “[The Truth About Advisory Boards.](https://www.youtube.com/watch?v=h59yC0eokks)”",
+    "announcement": "Watch our webinar replay, “<a href=\"https://www.youtube.com/watch?v=h59yC0eokks\" target=\"_blank\">The Truth About Advisory Boards.</a>”",
     "tag_manager_id": "",
     "footer_copy": "Supernova is 100+ exited founders offering 'advisory-as-a-service' to top startups on their hero's journey.",
     "copyright": "© 2023, Supernova Group. All Rights Reserved."
   },
-
   "metadata": {
     "meta_author": "Supernova",
     "meta_image": "/images/og-image.png",

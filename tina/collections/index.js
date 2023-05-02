@@ -30,7 +30,20 @@ const index = {
         {
           label: "Quote",
           name: "quote",
-          type: "string",
+          type: "object",
+          fields: [
+            {
+              label: "Title",
+              name: "title",
+              type: "string",
+            },
+            {
+              label: "Items",
+              name: "items",
+              type: "string",
+              list: true,
+            },
+          ],
         },
         {
           label: "Video Button",

@@ -3,7 +3,7 @@ enable: true
 title: "Go Supernova"
 subtitle: "Let’s light up the world."
 
-video_url: "https://vimeo.com/265045525"
+video_url: "https://www.youtube.com/watch?v=Mq61xLTDdGI"
 
 quote: "We are a conscious cooperative of founders invested in each other’s success."
 

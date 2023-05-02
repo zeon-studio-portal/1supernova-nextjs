@@ -3,6 +3,7 @@ import Image from "next/image";
 import "node_modules/react-modal-video/scss/modal-video.scss";
 import { useState } from "react";
 import ModalVideo from "react-modal-video";
+import { Autoplay } from "swiper";
 import "swiper/css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Founders from "./Founders";
@@ -62,11 +63,11 @@ const Banner = ({ banner, founders }) => {
           )}
           <Swiper
             loop={true}
+            modules={[Autoplay]}
             autoplay={{
-              delay: 2500,
+              delay: 1500,
               disableOnInteraction: false,
             }}
-            slidesPerView={1}
           >
             {banner.quote.items.map((item, index) => (
               <SwiperSlide key={index}>

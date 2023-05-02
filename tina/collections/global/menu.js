@@ -3,8 +3,8 @@ const menu = {
   name: "menu",
   path: "config",
   format: "json",
-  global: true,
   ui: {
+    global: true,
     allowedActions: {
       create: false,
       delete: false,

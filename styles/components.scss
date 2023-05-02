@@ -23,13 +23,13 @@
     @apply -left-[350px] top-0 md:-left-[220px] md:top-[5%];
     transform-origin: top;
     img {
-      animation: rotate 360s linear infinite;
+      animation: rotate 100s linear infinite;
     }
   }
   &-right {
     @apply -right-[285px] bottom-0 top-auto rotate-[190deg] md:-right-[185px] md:bottom-auto md:top-[15%];
     img {
-      animation: rotate 360s linear infinite reverse;
+      animation: rotate 100s linear infinite reverse;
     }
   }
 }

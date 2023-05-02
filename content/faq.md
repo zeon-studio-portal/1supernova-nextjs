@@ -1,16 +1,16 @@
 ---
 enable: true
 title: "Frequently Asked Questions"
-subtitle: "Can’t find answers here? <br /> Feel free to [reach out](/)."
+subtitle: "Can’t find answers here? <br /> Feel free to [reach out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05)."
 
 social_media:
-  - link: "#"
+  - link: "www.linkedin.com/company/gosupernova/"
     icon: "/images/social-icons/01.svg"
 
-  - link: "#"
+  - link: "https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
     icon: "/images/social-icons/02.svg"
 
-  - link: "#"
+  - link: "mailto:barry@1supernova.com"
     icon: "/images/social-icons/03.svg"
 
 lists:

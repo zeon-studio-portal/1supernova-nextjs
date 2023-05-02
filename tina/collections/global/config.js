@@ -3,8 +3,8 @@ const config = {
   name: "configuration",
   path: "config",
   format: "json",
-  global: true,
   ui: {
+    global: true,
     allowedActions: {
       create: false,
       delete: false,
