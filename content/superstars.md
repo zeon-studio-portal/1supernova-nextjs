@@ -56,9 +56,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: 'Chris Chaney  '
-    image: /images/Chris.jpeg
-    department: 'SALES, TALENT, OPS, FUNDING, WEB3'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -119,9 +116,9 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
-  - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
-    department: 'LEADERSHIP, LEGAL'
+  - name: 'Chris Chaney  '
+    image: /images/Chris.jpeg
+    department: 'SALES, TALENT, OPS, FUNDING, WEB3'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING'
@@ -146,6 +143,9 @@ team:
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: CROWDFUNDING
+  - name: Tuck Stibich PhD
+    image: /images/superstars/team-thumb-25.png
+    department: 'LEADERSHIP, LEGAL'
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department: 'TECH, LEADERSHIP, FUNDING, M&A, LEGAL'
@@ -177,6 +177,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
