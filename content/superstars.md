@@ -146,21 +146,21 @@ team:
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
-  - name: Felix van der Sand
-    image: /images/superstars/felixvandersand.png
-    department: 'GROWTH, SALES, HR'
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
-  - name: Ryan Allis
-    image: /images/Ryan.jpeg
-    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
+  - name: Felix van der Sand
+    image: /images/superstars/felixvandersand.png
+    department: 'GROWTH, SALES, HR'
+  - name: Ryan Allis
+    image: /images/Ryan.jpeg
+    department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
