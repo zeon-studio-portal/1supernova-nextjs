@@ -22,7 +22,7 @@ process:
       business needs.
     button:
       enable: true
-      label: Meet The Superstars
+      label: See Sample Superstars
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
@@ -49,6 +49,7 @@ process:
       label: Read Testimoinials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
