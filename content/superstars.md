@@ -146,9 +146,9 @@ team:
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department: PR
-  - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
-    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
+  - name: Juston Brommel
+    image: /images/JB.jpeg
+    department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: 'GROWTH, FUNDING, MARKETING'
@@ -158,15 +158,15 @@ team:
   - name: Luiz Barros
     image: /images/superstars/luizbarros-k.png
     department: 'GROWTH, MARKETING, SOCIAL'
-  - name: Juston Brommel
-    image: /images/JB.jpeg
-    department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY'
+  - name: J Patrick Bewley
+    image: /images/superstars/team-thumb-18.png
+    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
