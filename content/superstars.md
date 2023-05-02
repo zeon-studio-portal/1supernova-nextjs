@@ -169,7 +169,7 @@ team:
     department: 'GROWTH, OPERATIONS, LEADERSHIP '
   - name: Seth Forsgren
     image: /images/Seth.jpeg
-    department: 'PRODUCT, TECH'
+    department: 'PRODUCT, TECH, EXIT'
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
     department: 'PRODUCT, TECH, LEGAL, WEB3, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
