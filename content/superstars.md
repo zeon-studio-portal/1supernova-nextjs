@@ -97,7 +97,7 @@ team:
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
-    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
+    department: 'TECH, PRODUCT, LEADERSHIP, FUNDING, EXIT'
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department: 'LEADERSHIP, FUNDING, SCALING, M&A, EXIT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
