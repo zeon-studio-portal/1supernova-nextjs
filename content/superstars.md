@@ -67,7 +67,7 @@ team:
     department: 'GROWTH, PRODUCT, TECH'
   - name: Tim Chang
     image: /images/superstars/timchang.png
-    department: FUNDING
+    department: 'AI, FUNDING, IMPACT, WEB3'
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     department: Community
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
