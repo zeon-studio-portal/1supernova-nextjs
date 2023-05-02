@@ -118,7 +118,7 @@ team:
     department: 'PRODUCT, TECH, OPS, M&A, LEADERSHIP'
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
-    department: 'STRATEGY, LEADERSHIP, IP'
+    department: 'STRATEGY, TALENT, LEADERSHIP, LEGAL'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3'
@@ -177,6 +177,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
