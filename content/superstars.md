@@ -92,12 +92,12 @@ team:
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING'
-  - name: Peter Bordes
-    image: /images/superstars/peterbordes.png
-    department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department: 'TECH, PRODUCT, LEADERSHIP, FUNDING'
+  - name: Peter Bordes
+    image: /images/superstars/peterbordes.png
+    department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
     department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
