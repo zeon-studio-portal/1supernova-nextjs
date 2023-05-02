@@ -56,9 +56,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
-    department: 'AI, TECH, GROWTH, FUNDING'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -80,6 +77,12 @@ team:
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department: 'M&A, STRATEGY, FUNDING'
+  - name: Peter Kellner
+    image: /images/superstars/peterkellner.png
+    department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
+  - name: Peter Yared
+    image: /images/superstars/peteryared.png
+    department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department: 'PRODUCT, TECH, FUNDING'
@@ -89,18 +92,15 @@ team:
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
-  - name: Peter Yared
-    image: /images/superstars/peteryared.png
-    department: 'TECH, PRODUCT, GROWTH, LEADERSHIP'
   - name: Jason DeLand
     image: /images/superstars/team-thumb-13.png
     department: 'STRATEGY, GROWTH, TALENT, SOCIAL, LEADERSHIP'
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department: 'STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3'
-  - name: Peter Kellner
-    image: /images/superstars/peterkellner.png
-    department: 'FUNDING, STRATEGY, GROWTH, TECH, SOCIAL, IMPACT'
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
+    department: 'AI, TECH, GROWTH, FUNDING'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
@@ -174,6 +174,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
