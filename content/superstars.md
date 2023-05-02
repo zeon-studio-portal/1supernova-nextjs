@@ -151,7 +151,7 @@ team:
     department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3'
   - name: Chanddeep Madaan
     image: /images/superstars/team-thumb-27.png
-    department: FINANCE
+    department: 'TECH, PRODUCT'
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
@@ -168,6 +168,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
