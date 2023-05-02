@@ -40,15 +40,15 @@ group_list:
   - name: Sales
     icon: /images/superstars/icons/sales-marketing.svg
     icon_light: /images/superstars/icons/sales-marketing-light.svg
+  - name: Scaling
+    icon: /images/superstars/icons/talent.svg
+    icon_light: /images/superstars/icons/talent-light.svg
   - name: Social
     icon: /images/superstars/icons/social.svg
     icon_light: /images/superstars/icons/social-light.svg
   - name: Strategy
     icon: /images/superstars/icons/strategy.svg
     icon_light: /images/superstars/icons/strategy-light.svg
-  - name: Scaling
-    icon: /images/superstars/icons/talent.svg
-    icon_light: /images/superstars/icons/talent-light.svg
   - name: Tech
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
