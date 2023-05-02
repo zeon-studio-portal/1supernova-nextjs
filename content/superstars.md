@@ -152,9 +152,9 @@ team:
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department: 'STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT'
-  - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
-    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
+  - name: Nick Murray
+    image: /images/superstars/nickmurray-1.png
+    department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3, EXIT'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: 'GROWTH, OPERATIONS, LEADERSHIP '
@@ -167,22 +167,23 @@ team:
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     department: 'AI, FUNDING, SCALING, TECH, PRODUCT, EXIT'
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department: 'PRODUCT, TECH, EXIT'
-  - name: Eli Blatt PhD
-    image: /images/1517675870938.jpeg
-    department: 'PRODUCT, TECH, LEGAL, WEB3, EXIT'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
-  - name: Nick Murray
-    image: /images/superstars/nickmurray-1.png
-    department: 'GROWTH, SALES, FUNDING, LEADERSHIP, WEB3, EXIT'
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department: 'PRODUCT, TECH, EXIT'
+  - name: J Patrick Bewley
+    image: /images/superstars/team-thumb-18.png
+    department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
+  - name: Eli Blatt PhD
+    image: /images/1517675870938.jpeg
+    department: 'PRODUCT, TECH, LEGAL, WEB3, EXIT'
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
