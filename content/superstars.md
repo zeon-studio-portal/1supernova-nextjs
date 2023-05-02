@@ -56,9 +56,6 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Tim Sae Koo
-    image: /images/Tim.jpeg
-    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -104,6 +101,9 @@ team:
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
+  - name: Tim Sae Koo
+    image: /images/Tim.jpeg
+    department: 'STRATEGY, GROWTH, MARKETING, IMPACT'
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -171,6 +171,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
