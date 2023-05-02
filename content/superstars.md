@@ -142,7 +142,7 @@ team:
     department: 'GROWTH, TALENT, IMPACT'
   - name: Juston Brommel
     image: /images/JB.jpeg
-    department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS, EXIT'
+    department: 'STRATEGY, GROWTH, TECH, OPS, EXIT'
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
