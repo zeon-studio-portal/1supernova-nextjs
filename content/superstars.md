@@ -56,6 +56,9 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
+  - name: Scott Weller
+    image: /images/Screenshot 2023-05-02 at 9.01.03 AM.png
+    department: 'STRATEGY, PRODUCT, TECH, WEB3'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, GROWTH, SALES, MARKETING, SOCIAL'
@@ -140,9 +143,6 @@ team:
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department: 'PRODUCT, TECH'
-  - name: Scott Weller
-    image: /images/Scott Weller.jpeg
-    department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
   - name: Krishan Arora
     image: /images/superstars/team-thumb-20.png
     department: CROWDFUNDING
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
