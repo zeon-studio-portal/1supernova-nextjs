@@ -105,7 +105,7 @@ team:
     image: /images/Caleb.jpeg
     department: 'AI, TECH, GROWTH, FUNDING'
   - name: Andrew Sturner
-    image: /images/6a00d83451b26169e201a73d772b8a970d.jpg
+    image: /images/1649260720179.jpeg
     department: 'FUNDING, GROWTH, TECH, LEADERSHIP'
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
