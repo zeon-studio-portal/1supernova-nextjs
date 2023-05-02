@@ -61,7 +61,7 @@ group_list:
 team:
   - name: Luciana Ledesma
     image: /images/Luciana Ledesma.jpeg
-    department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS'
+    department: 'AI, IMPACT, STRATEGY, FUNDING, PARTNERSHIPS '
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department: 'FUNDING, IMPACT, LEADERSHIP'
@@ -159,6 +159,7 @@ team:
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
 ---
+
 
 
 
