@@ -34,9 +34,6 @@ group_list:
   - name: Operations
     icon: /images/superstars/icons/operations.svg
     icon_light: /images/superstars/icons/operations-light.svg
-  - name: Partners
-    icon: /images/superstars/icons/partnerships.svg
-    icon_light: /images/superstars/icons/partnerships-light.svg
   - name: Product
     icon: /images/superstars/icons/product.svg
     icon_light: /images/superstars/icons/product-light.svg
@@ -59,9 +56,9 @@ group_list:
     icon: /images/superstars/icons/services.svg
     icon_light: /images/superstars/icons/services-light.svg
 team:
-  - name: Juha Mikkola
-    image: /images/Juha Mikkola.jpeg
-    department: 'TECH, STRATEGY, COMMUNITY'
+  - name: Scott Weller
+    image: /images/Scott Weller.jpeg
+    department: 'STRATEGY, PRODUCT, TECH, WEB3, LEADERSHIP'
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department: 'AI, STRATEGY, COMMUNITY'
@@ -158,10 +155,14 @@ team:
   - name: Brian Beard
     image: /images/superstars/team-thumb-16.png
     department: LEGAL
+  - name: Juha Mikkola
+    image: /images/Juha Mikkola.jpeg
+    department: 'TECH, STRATEGY, COMMUNITY'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: OPERATIONS
 ---
+
 
 
 
