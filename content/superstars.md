@@ -107,12 +107,15 @@ team:
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
-  - name: Andrew Sturner
-    image: /images/123285.png
-    department: 'FUNDING, TECH, LEADERSHIP, SCALING, EXIT'
+  - name: 'Leo Rastogi, PhD'
+    image: /images/superstars/team-thumb-22.png
+    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, SCALING, EXIT'
+  - name: Andrew Sturner
+    image: /images/123285.png
+    department: 'FUNDING, TECH, LEADERSHIP, SCALING, EXIT'
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department: 'SALES, TALENT, OPS, FUNDING, WEB3, EXIT'
@@ -125,15 +128,9 @@ team:
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department: 'AI, STRATEGY, GROWTH, FUNDING, IMPACT'
-  - name: 'Leo Rastogi, PhD'
-    image: /images/superstars/team-thumb-22.png
-    department: 'STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT'
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department: 'SALES, GROWTH, LEADERSHIP, SOCIAL, EXIT'
-  - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
-    department: 'MARKETING, TALENT, SOCIAL'
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department: 'GROWTH, SALES, WEB3, FUNDING, EXIT'
@@ -146,12 +143,12 @@ team:
   - name: Juston Brommel
     image: /images/JB.jpeg
     department: 'STRATEGY, GROWTH, TECH, PRODUCT, OPS, EXIT'
+  - name: Lindsay Nahmiache
+    image: /images/superstars/team-thumb-15.png
+    department: 'MARKETING, TALENT, SOCIAL'
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department: 'GROWTH, SALES, SOCIAL, IMPACT'
-  - name: Felix van der Sand
-    image: /images/superstars/felixvandersand.png
-    department: 'GROWTH, SALES, HR, EXIT'
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
     department: 'GROWTH, OPERATIONS, LEADERSHIP '
@@ -161,6 +158,9 @@ team:
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department: 'TECH, STRATEGY, COMMUNITY, EXIT'
+  - name: Felix van der Sand
+    image: /images/superstars/felixvandersand.png
+    department: 'GROWTH, SALES, HR, EXIT'
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department: 'AI, STRATEGY, GROWTH, LEADERSHIP, HR'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT, EXIT'
 ---
+
 
 
 
