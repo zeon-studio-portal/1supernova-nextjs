@@ -109,7 +109,7 @@ team:
     department: 'SALES, GROWTH, FUNDING, WEB3, IMPACT'
   - name: Andrew Sturner
     image: ''
-    department: 'FUNDING, TECH, LEADERSHIP, SCALING'
+    department: 'FUNDING, TECH, LEADERSHIP, SCALING, EXIT'
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department: 'PRODUCT, TECH, OPS, SCALING'
@@ -183,6 +183,7 @@ team:
     image: /images/Tomy.jpeg
     department: 'GROWTH, MARKETING, IMPACT'
 ---
+
 
 
 
