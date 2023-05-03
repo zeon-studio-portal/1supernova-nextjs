@@ -80,6 +80,7 @@ const superstars = {
           label: "Department",
           name: "department",
           type: "string",
+          list: true,
         },
       ],
       ui: {

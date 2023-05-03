@@ -5,25 +5,21 @@ import { useState } from "react";
 const Advisory = ({ superstars }) => {
   let allMembers = superstars.frontmatter.team;
   const [active, setActive] = useState("");
-  const [member, setMember] = useState([]);
   const [filteredMember, setFilteredMember] = useState(allMembers);
   const handleFilter = (item) => {
     setActive(item);
-    const filtered = allMembers.filter(
-      (filterItem) => slugify(filterItem.department) === item
+    const filtered = allMembers.filter((member) =>
+      member.department.map((d) => slugify(d)).includes(item)
     );
-    const group = filtered.map((item) => slugify(item.department));
-    setMember([...new Set(group)]);
 
     const otherMembers = allMembers.filter(
-      (filterItem) => slugify(filterItem.department) !== item
+      (member) => !member.department.map((d) => slugify(d)).includes(item)
     );
     allMembers = [...filtered, ...otherMembers];
     setFilteredMember(allMembers);
 
     if (active === item) {
       setActive("");
-      setMember([]);
       setFilteredMember(allMembers);
     }
   };
@@ -81,7 +77,9 @@ const Advisory = ({ superstars }) => {
               <div
                 key={index}
                 className={`group flex items-center sm:block ${
-                  member == slugify(item.department) ? "active" : ""
+                  item.department.map((d) => slugify(d)).includes(active)
+                    ? "active"
+                    : ""
                 }`}
               >
                 <span className="block rounded-full border-[5px] border-transparent group-[.active]:border-primary-600 sm:mb-4">
@@ -98,7 +96,12 @@ const Advisory = ({ superstars }) => {
                     {item.name}
                   </p>
                   <span className="text-[17px] uppercase text-[#868686] group-[.active]:text-primary-200">
-                    {item.department}
+                    {item.department.map((d, i) => (
+                      <span key={d}>
+                        {d}
+                        {i < item.department.length - 1 ? ", " : ""}
+                      </span>
+                    ))}
                   </span>
                 </span>
               </div>
