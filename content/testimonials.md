@@ -25,7 +25,7 @@ items:
     quote: Supernova is a legit game changer.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
-    designation: CEO
+    designation: CEO & Founder
     company: Jive
     quote: 'Supernova is the #1 exited founder community.'
   - name: Daniel Gartenberg PHD
@@ -56,6 +56,7 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
 
 
