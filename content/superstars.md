@@ -49,7 +49,7 @@ group_list:
   - name: Strategy
     icon: /images/superstars/icons/strategy.svg
     icon_light: /images/superstars/icons/strategy-light.svg
-  - name: Technology
+  - name: Tech
     icon: /images/superstars/icons/technology.svg
     icon_light: /images/superstars/icons/technology-light.svg
   - name: Web3
@@ -58,131 +58,328 @@ group_list:
 team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
-    department: [AI, STRATEGY, GROWTH, SALES, MARKETING, EXIT]
+    department:
+      - AI
+      - STRATEGY
+      - GROWTH
+      - SALES
+      - MARKETING
+      - EXIT
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
-    department: [GROWTH, FUNDING]
+    department:
+      - GROWTH
+      - FUNDING
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
-    department: [GROWTH, PRODUCT, TECH, SCALING, EXIT]
+    department:
+      - GROWTH
+      - PRODUCT
+      - TECH
+      - SCALING
+      - EXIT
   - name: Tim Chang
     image: /images/superstars/timchang.png
-    department: [AI, FUNDING, IMPACT, WEB3]
+    department:
+      - AI
+      - FUNDING
+      - IMPACT
+      - WEB3
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
-    department: [STRATEGY, FUNDING, SCALING, HR, SOCIAL, EXIT]
+    department:
+      - STRATEGY
+      - FUNDING
+      - SCALING
+      - HR
+      - SOCIAL
+      - EXIT
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
-    department: [CULTURE, STRATEGY, HR, IMPACT, EXIT]
+    department:
+      - CULTURE
+      - STRATEGY
+      - HR
+      - IMPACT
+      - EXIT
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
-    department: [M&A, STRATEGY, FUNDING, EXIT]
+    department:
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXIT
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
-    department: [STRATEGY, FUNDING, TECH, PRODUCT, LEADERSHIP, WEB3]
+    department:
+      - STRATEGY
+      - FUNDING
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - WEB3
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
-    department: [TECH, PRODUCT, LEADERSHIP, FUNDING, EXIT]
+    department:
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - FUNDING
+      - EXIT
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
-    department: [AI, FUNDING, OPS, SCALING, LEGAL, EXIT]
+    department:
+      - AI
+      - FUNDING
+      - OPS
+      - SCALING
+      - LEGAL
+      - EXIT
   - name: Peter Yared
     image: /images/superstars/peteryared.png
-    department: [TECH, PRODUCT, SCALING, LEADERSHIP]
+    department:
+      - TECH
+      - PRODUCT
+      - SCALING
+      - LEADERSHIP
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
-    department: [PRODUCT, TECH, FUNDING, EXIT]
+    department:
+      - PRODUCT
+      - TECH
+      - FUNDING
+      - EXIT
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
-    department: [FUNDING, STRATEGY, TECH, SOCIAL, IMPACT, EXIT]
+    department:
+      - FUNDING
+      - STRATEGY
+      - TECH
+      - SOCIAL
+      - IMPACT
+      - EXIT
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
-    department: [LEADERSHIP, FUNDING, SCALING, M&A, EXIT]
+    department:
+      - LEADERSHIP
+      - FUNDING
+      - SCALING
+      - M&A
+      - EXIT
   - name: Caleb Jones
     image: /images/Caleb.jpeg
-    department: [AI, TECH, GROWTH, FUNDING, EXIT]
+    department:
+      - AI
+      - TECH
+      - GROWTH
+      - FUNDING
+      - EXIT
   - name: Roy Chung
     image: /images/superstars/team-thumb-10.png
-    department: [SALES, GROWTH, FUNDING, WEB3, IMPACT]
+    department:
+      - SALES
+      - GROWTH
+      - FUNDING
+      - WEB3
+      - IMPACT
   - name: Tim Sae Koo
     image: /images/102929.png
-    department: [GROWTH, MARKETING, IMPACT, EXIT ]
+    department:
+      - GROWTH
+      - MARKETING
+      - IMPACT
+      - EXIT
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
-    department: [STRATEGY, OPS, TECH, PRODUCT, LEADERSHIP, EXIT]
+    department:
+      - STRATEGY
+      - OPS
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - EXIT
   - name: Andrew Sturner
     image: /images/123285.png
-    department: [FUNDING, TECH, LEADERSHIP, SCALING, EXIT]
+    department:
+      - FUNDING
+      - TECH
+      - LEADERSHIP
+      - SCALING
+      - EXIT
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
-    department: [PRODUCT, TECH, OPS, SCALING, EXIT]
+    department:
+      - PRODUCT
+      - TECH
+      - OPS
+      - SCALING
+      - EXIT
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
-    department: [SALES, TALENT, OPS, FUNDING, WEB3, EXIT]
+    department:
+      - SALES
+      - TALENT
+      - OPS
+      - FUNDING
+      - WEB3
+      - EXIT
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
-    department: [STRATEGY, TALENT, LEADERSHIP, LEGAL]
+    department:
+      - STRATEGY
+      - TALENT
+      - LEADERSHIP
+      - LEGAL
   - name: Dan Ellis
     image: /images/Dan.jpeg
-    department: [PRODUCT, TECH, FUNDRAISING, STRATEGY, EXIT]
+    department:
+      - PRODUCT
+      - TECH
+      - FUNDRAISING
+      - STRATEGY
+      - EXIT
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
-    department: [MARKETING, SOCIAL, PR, EXIT]
+    department:
+      - MARKETING
+      - SOCIAL
+      - PR
+      - EXIT
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
-    department: [LEADERSHIP, SOCIAL, EXIT]
+    department:
+      - LEADERSHIP
+      - SOCIAL
+      - EXIT
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
-    department: [AI, STRATEGY, GROWTH, FUNDING, IMPACT]
+    department:
+      - AI
+      - STRATEGY
+      - GROWTH
+      - FUNDING
+      - IMPACT
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
-    department: [GROWTH, SALES, WEB3, FUNDING, EXIT]
+    department:
+      - GROWTH
+      - SALES
+      - WEB3
+      - FUNDING
+      - EXIT
   - name: Scott Weller
     image: /images/1675213967983.jpeg
-    department: [STRATEGY, PRODUCT, TECH, WEB3, EXIT]
+    department:
+      - STRATEGY
+      - PRODUCT
+      - TECH
+      - WEB3
+      - EXIT
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
-    department: [GROWTH, TALENT, IMPACT]
+    department:
+      - GROWTH
+      - TALENT
+      - IMPACT
   - name: Juston Brommel
     image: /images/JB.jpeg
-    department: [STRATEGY, GROWTH, TECH, OPS, EXIT]
+    department:
+      - STRATEGY
+      - GROWTH
+      - TECH
+      - OPS
+      - EXIT
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
-    department: [GROWTH, SALES, SOCIAL, IMPACT]
+    department:
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
   - name: Ryan Allis
     image: /images/Ryan.jpeg
-    department: [STRATEGY, TECH, PRODUCT, TALENT, WEB3, EXIT]
+    department:
+      - STRATEGY
+      - TECH
+      - PRODUCT
+      - TALENT
+      - WEB3
+      - EXIT
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
-    department: [GROWTH, OPERATIONS, LEADERSHIP ]
+    department:
+      - GROWTH
+      - OPERATIONS
+      - LEADERSHIP
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
-    department: [GROWTH, SALES, HR, EXIT]
+    department:
+      - GROWTH
+      - SALES
+      - HR
+      - EXIT
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
-    department: [TECH, STRATEGY, COMMUNITY, EXIT]
+    department:
+      - TECH
+      - STRATEGY
+      - COMMUNITY
+      - EXIT
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
-    department: [GROWTH, SALES, FUNDING, LEADERSHIP, WEB3, EXIT]
+    department:
+      - GROWTH
+      - SALES
+      - FUNDING
+      - LEADERSHIP
+      - WEB3
+      - EXIT
   - name: Chris Carson
     image: /images/1668277982538.jpeg
-    department: [AI, FUNDING, SCALING, TECH, PRODUCT, EXIT]
+    department:
+      - AI
+      - FUNDING
+      - SCALING
+      - TECH
+      - PRODUCT
+      - EXIT
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
-    department: [PRODUCT, TECH, LEGAL, WEB3, EXIT]
+    department:
+      - PRODUCT
+      - TECH
+      - LEGAL
+      - WEB3
+      - EXIT
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
-    department: [AI, STRATEGY, GROWTH, LEADERSHIP, HR]
+    department:
+      - AI
+      - STRATEGY
+      - GROWTH
+      - LEADERSHIP
+      - HR
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
-    department: [FUNDING, IMPACT, LEADERSHIP]
+    department:
+      - FUNDING
+      - IMPACT
+      - LEADERSHIP
   - name: Seth Forsgren
     image: /images/Seth.jpeg
-    department: [PRODUCT, TECH, EXIT]
+    department:
+      - PRODUCT
+      - TECH
+      - EXIT
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
-    department: [GROWTH, MARKETING, IMPACT, EXIT]
+    department:
+      - GROWTH
+      - MARKETING
+      - IMPACT
+      - EXIT
 ---
+
 
 
 
