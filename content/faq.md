@@ -67,8 +67,8 @@ lists:
       initiatives that generate incremental gains in sales, partnerships,
       hiring, funding, and/or company valuation. For example, an early stage,
       Series A startup may invest 1% equity annually, plus a $10K monthly
-      subscription. We are highly incentivized to see founders and their
-      startups succeed quickly.
+      subscription. We are highly incentivized to see founders see immediate and
+      sustained return on relationships. 
   - question: Why are exited founders motivated to advise through Supernova?
     answer: >-
       Supernova advisors have achieved success in their careers in some part
@@ -95,6 +95,7 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars founders to combine their life force energy and shine brighter together. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity. Let’s light up the world.\U0001F31F"
 ---
+
 
 
 
