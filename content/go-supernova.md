@@ -14,6 +14,10 @@ features:
       A win for one is a win for all. Shared ownership de-risks oddsfor faster
       liquidity and superior returns.
   - icon: /images/go-supernova/03.svg
-    content: We believe inplaying infinite games for the greater good.
+    content: >-
+      Our mission is to accelerate the realization of the founder's vision from
+      the only perspective that truly understands the journey, as founders
+      ourselves. Supernova is the future of startup advising.
 ---
+
 
