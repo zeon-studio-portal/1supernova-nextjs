@@ -51,11 +51,12 @@ items:
       Top advisors are key for all growth stages (Seed, StartUp, ScaleUp,
       GrownUp).
   - name: Tim Chang
-    image: /images/testimonials/author-placeholder.jpg
+    image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
 
 
