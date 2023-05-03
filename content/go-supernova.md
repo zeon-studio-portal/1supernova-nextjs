@@ -16,9 +16,11 @@ features:
   - icon: /images/go-supernova/03.svg
     content: >-
       Our mission is to accelerate the realization of the founder's vision –
-      from the only perspective that truly understands the journey, as founders
-      ourselves.
+      from the only perspective that truly understands the journey, 
+
+      as founders ourselves.
 ---
+
 
 
 
