@@ -11,14 +11,15 @@ features:
       changing the world.
   - icon: /images/go-supernova/02.svg
     content: >-
-      Together we combine our superpowers for the greater good – collective
-      genius, wisdom, skills, resources and networks. 
+      Together we combine share our collective genius, wisdom, skills, resources
+      and networks for exponential impact.
   - icon: /images/go-supernova/03.svg
     content: >-
       Our mission is to accelerate the realization of the founder's vision –
       from the only perspective that truly understands the journey, as founders
       ourselves.
 ---
+
 
 
 
