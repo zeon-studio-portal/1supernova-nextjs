@@ -7,7 +7,7 @@ items:
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
     company: Parkqulility
-    quote: 'As a second-time founder, Supernova was a no-brainer.'
+    quote: 'As a second-time founder, Supernova is a no-brainer.'
   - name: JT Marnio
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
@@ -56,6 +56,7 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
 
 
