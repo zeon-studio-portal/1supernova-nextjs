@@ -175,7 +175,7 @@ team:
       - FUNDING
       - EXIT
   - name: Roy Chung
-    image: /images/superstars/team-thumb-10.png
+    image: /images/38387311.jpeg
     department:
       - SALES
       - GROWTH
@@ -379,6 +379,7 @@ team:
       - IMPACT
       - EXIT
 ---
+
 
 
 
