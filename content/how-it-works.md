@@ -26,8 +26,8 @@ process:
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
-      We apply proven methods, systems and collaborative technology for all-star
-      advisory teams.
+      We apply proven methods, systems and collaborative technology for
+      best-in-class advisory teams.
     button:
       enable: true
       label: Watch Best Practices Webinar
@@ -49,6 +49,7 @@ process:
       label: Read Our Testimonials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
