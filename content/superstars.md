@@ -259,14 +259,12 @@ team:
       - GROWTH
       - FUNDING
       - IMPACT
-  - name: Will Weinraub
-    image: /images/superstars/willweinraub.png
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
     department:
       - GROWTH
-      - SALES
-      - WEB3
-      - FUNDING
-      - EXIT
+      - TALENT
+      - IMPACT
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -275,27 +273,14 @@ team:
       - TECH
       - WEB3
       - EXIT
-  - name: Brett Donnelly
-    image: /images/1678937477620.jpeg
-    department:
-      - GROWTH
-      - TALENT
-      - IMPACT
-  - name: Juston Brommel
-    image: /images/JB.jpeg
-    department:
-      - STRATEGY
-      - GROWTH
-      - TECH
-      - OPS
-      - EXIT
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
+  - name: Will Weinraub
+    image: /images/superstars/willweinraub.png
     department:
       - GROWTH
       - SALES
-      - SOCIAL
-      - IMPACT
+      - WEB3
+      - FUNDING
+      - EXIT
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     department:
@@ -304,6 +289,21 @@ team:
       - PRODUCT
       - TALENT
       - WEB3
+      - EXIT
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+  - name: Juston Brommel
+    image: /images/JB.jpeg
+    department:
+      - STRATEGY
+      - GROWTH
+      - TECH
+      - OPS
       - EXIT
   - name: Hans Van Alebeek
     image: /images/Hans.jpeg
@@ -379,6 +379,7 @@ team:
       - IMPACT
       - EXIT
 ---
+
 
 
 
