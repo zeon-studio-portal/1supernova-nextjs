@@ -1,9 +1,10 @@
 {
-  "name": "next-tailwind-boilerplate",
-  "description": "a nextjs and tailwindcss boilerplate by themefisher.com",
+  "name": "1supernova",
+  "description": "1supernova main website",
   "version": "1.2.6",
   "private": true,
   "license": "UNLICENSED",
+  "packageManager": "yarn@1.22.19",
   "scripts": {
     "dev": "tinacms dev -c \"next dev\"",
     "build": "tinacms build && next build",
