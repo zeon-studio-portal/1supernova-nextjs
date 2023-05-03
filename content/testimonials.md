@@ -42,7 +42,7 @@ items:
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
     company: Colossal
-    quote: 'When exited founders team-up, results multiply exponentially.'
+    quote: 'When exited founders team-up, results happen exponentially faster.'
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
@@ -54,4 +54,5 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
