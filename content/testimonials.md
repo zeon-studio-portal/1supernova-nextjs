@@ -20,7 +20,7 @@ items:
     quote: Supernova 3x my sales in 120 days!
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO
+    designation: CEO & Founder
     company: Aya Mastercard
     quote: Supernova is a legit game changer.
   - name: Lindsay Nahmiache
@@ -56,6 +56,7 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
 
 
