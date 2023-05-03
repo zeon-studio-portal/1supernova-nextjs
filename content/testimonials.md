@@ -24,7 +24,7 @@ items:
     company: Aya Mastercard
     quote: Supernova is a legit game changer.
   - name: Lindsay Nahmiache
-    image: /images/testimonials/author-placeholder.jpg
+    image: /images/1560835066759.jpeg
     designation: CEO
     company: Jive
     quote: 'Supernova is the #1 exited founder community.'
@@ -56,6 +56,7 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
 
 
