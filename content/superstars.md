@@ -1,7 +1,7 @@
 ---
 enable: true
 title: ✨ Meet the Superstars ✨
-subtitle: 'Supernova advisors are industry-relevant, exited founders'
+subtitle: 'Supernova advisors are 100+ industry-relevant, exited founders'
 quote: We orbit around your needs as all-star advisory teams.
 group_list:
   - name: AI
@@ -379,6 +379,7 @@ team:
       - IMPACT
       - EXIT
 ---
+
 
 
 
