@@ -11,14 +11,15 @@ features:
       changing the world.
   - icon: /images/go-supernova/02.svg
     content: >-
-      A win for one is a win for all. Shared ownership de-risks oddsfor faster
-      liquidity and superior returns.
+      Together we combine superpowers to apply our collective genius, wisdom,
+      resources and networks. 
   - icon: /images/go-supernova/03.svg
     content: >-
       Our mission is to accelerate the realization of the founder's vision from
       the only perspective that truly understands the journey, as founders
       ourselves.
 ---
+
 
 
 
