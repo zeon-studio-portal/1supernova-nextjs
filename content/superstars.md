@@ -305,12 +305,10 @@ team:
       - TECH
       - OPS
       - EXIT
-  - name: Hans Van Alebeek
-    image: /images/Hans.jpeg
+  - name: Michel Koopman
+    image: /images/1682430241664.jpeg
     department:
-      - GROWTH
-      - OPERATIONS
-      - LEADERSHIP
+      - 'GROWTH, SCALE, LEADERSHIP'
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department:
@@ -379,6 +377,7 @@ team:
       - IMPACT
       - EXIT
 ---
+
 
 
 
