@@ -37,6 +37,8 @@ const TopFounders = ({ join_community }) => {
 
                   <a
                     href={item.button.link}
+                    target="_blank"
+                    rel="noreferrer noopener"
                     className="btn btn-light mt-auto text-[17px]"
                   >
                     {item.button.label}

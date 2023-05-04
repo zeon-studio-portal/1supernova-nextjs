@@ -5,7 +5,7 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 social_media:
-  - link: www.linkedin.com/company/gosupernova/
+  - link: https://www.linkedin.com/company/gosupernova/
     icon: /images/social-icons/01.svg
   - link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
     icon: /images/social-icons/02.svg

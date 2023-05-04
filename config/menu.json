@@ -2,11 +2,11 @@
   "main": [
     {
       "name": "Superstars",
-      "url": "#superstars"
+      "url": "/#superstars"
     },
     {
       "name": "Reviews",
-      "url": "#reviews"
+      "url": "/#reviews"
     },
     {
       "name": "How it Works",
@@ -20,33 +20,29 @@
   "footer": [
     {
       "name": "Terms of Service",
-      "url": "#"
+      "url": "https://docs.google.com/document/d/1TSqC8W05_KXMmBpUdBWh3k2iVaKROYfmazVjjk5WViE/edit?usp=sharing"
     },
     {
       "name": "Privacy Policy",
-      "url": "#"
-    },
-    {
-      "name": "Disclaimer",
-      "url": "#"
+      "url": "https://docs.google.com/document/d/1TSqC8W05_KXMmBpUdBWh3k2iVaKROYfmazVjjk5WViE/edit?usp=sharing"
     }
   ],
   "company": [
     {
-      "name": "About",
-      "url": "#about"
+      "name": "About Us",
+      "url": "/about-us"
     },
     {
       "name": "Reviews",
-      "url": "#reviews"
+      "url": "/#reviews"
     },
     {
       "name": "Superstars",
-      "url": "#superstars"
+      "url": "/#superstars"
     },
     {
       "name": "FAQ",
-      "url": "#faqs"
+      "url": "/#faqs"
     },
     {
       "name": "Contact",

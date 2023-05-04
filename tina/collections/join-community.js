@@ -1,7 +1,7 @@
 const joinCommunity = {
   label: "Join Community",
   name: "join_community",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

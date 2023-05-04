@@ -1,7 +1,7 @@
 const faq = {
   label: "FAQs",
   name: "faqs",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

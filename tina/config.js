@@ -7,6 +7,7 @@ import goSupernova from "./collections/go-supernova";
 import howItWorks from "./collections/how-it-works";
 import index from "./collections/index";
 import joinCommunity from "./collections/join-community";
+import pages from "./collections/pages";
 import superstars from "./collections/superstars";
 import testimonials from "./collections/testimonials";
 import topFounders from "./collections/top-founders";
@@ -32,6 +33,7 @@ export default defineConfig({
   schema: {
     collections: [
       index,
+      pages,
       advisoryTeam,
       faq,
       goSupernova,

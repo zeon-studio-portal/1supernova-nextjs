@@ -145,3 +145,11 @@
     z-index: -100;
   }
 }
+
+// content style
+.content {
+  @apply prose max-w-none;
+  @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:leading-tight prose-headings:text-light-primary;
+  @apply prose-p:text-base prose-p:text-light-tertiary;
+  @apply prose-a:text-light-primary prose-a:underline;
+}

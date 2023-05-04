@@ -1,5 +1,5 @@
 const index = {
-  label: "Index",
+  label: "Homepage",
   name: "index",
   path: "content",
   ui: {
@@ -9,7 +9,7 @@ const index = {
     },
   },
   match: {
-    include: "index",
+    include: "_index",
   },
   fields: [
     {

@@ -1,7 +1,7 @@
 const topFounders = {
   label: "Top Founders",
   name: "top_founders",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

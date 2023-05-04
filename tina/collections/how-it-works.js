@@ -1,7 +1,7 @@
 const howItWorks = {
   label: "How It Works",
   name: "how_it_works",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

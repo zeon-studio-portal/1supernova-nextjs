@@ -46,15 +46,17 @@ export default Home;
 
 // for homepage data
 export const getStaticProps = async () => {
-  const homepage = await getListPage("content/index.md");
-  const testimonials = await getListPage("content/testimonials.md");
-  const superstars = await getListPage("content/superstars.md");
-  const top_founders = await getListPage("content/top-founders.md");
-  const how_it_works = await getListPage("content/how-it-works.md");
-  const advisory_team = await getListPage("content/advisory-team.md");
-  const go_supernova = await getListPage("content/go-supernova.md");
-  const join_community = await getListPage("content/join-community.md");
-  const faq = await getListPage("content/faq.md");
+  const homepage = await getListPage("content/_index.md");
+  const testimonials = await getListPage("content/sections/testimonials.md");
+  const superstars = await getListPage("content/sections/superstars.md");
+  const top_founders = await getListPage("content/sections/top-founders.md");
+  const how_it_works = await getListPage("content/sections/how-it-works.md");
+  const advisory_team = await getListPage("content/sections/advisory-team.md");
+  const go_supernova = await getListPage("content/sections/go-supernova.md");
+  const join_community = await getListPage(
+    "content/sections/join-community.md"
+  );
+  const faq = await getListPage("content/sections/faq.md");
 
   return {
     props: {

@@ -1,7 +1,7 @@
 const goSupernova = {
   label: "Go Supernova",
   name: "go_supernova",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

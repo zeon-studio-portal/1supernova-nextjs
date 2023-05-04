@@ -1,7 +1,7 @@
 const testimonials = {
   label: "Testimonials",
   name: "testimonials",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

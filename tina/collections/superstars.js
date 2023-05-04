@@ -1,7 +1,7 @@
 const superstars = {
   label: "Superstars",
   name: "superstars",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,

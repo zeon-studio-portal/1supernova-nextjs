@@ -1,7 +1,7 @@
 const advisoryTeam = {
   label: "Advisory Team",
   name: "advisory_team",
-  path: "content",
+  path: "content/sections",
   ui: {
     allowedActions: {
       create: false,
