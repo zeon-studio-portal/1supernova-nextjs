@@ -95,12 +95,7 @@ team:
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
-      - STRATEGY
-      - FUNDING
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
-      - WEB3
+      - 'STRATEGY,FUNDING,TECH, WEB3, EXIT'
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -360,6 +355,7 @@ team:
       - IMPACT
       - EXIT
 ---
+
 
 
 
