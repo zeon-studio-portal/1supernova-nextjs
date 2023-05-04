@@ -48,11 +48,6 @@ const superstars = {
           name: "icon",
           type: "image",
         },
-        {
-          label: "Icon Light",
-          name: "icon_light",
-          type: "image",
-        },
       ],
       ui: {
         itemProps: (item) => {

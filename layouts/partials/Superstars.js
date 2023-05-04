@@ -53,20 +53,15 @@ const Advisory = ({ superstars }) => {
                   onClick={() => handleFilter(slugify(item.name))}
                 >
                   <Image
-                    className="block group-[.active]:hidden"
+                    className="group-[.active]:contrast-200 group-[.active]:grayscale"
                     src={item.icon}
                     alt={item.name}
                     width={32}
                     height={32}
                   />
-                  <Image
-                    className="hidden group-[.active]:block"
-                    src={item.icon_light}
-                    alt={item.name}
-                    width={32}
-                    height={32}
-                  />
-                  <span className="ml-2">{item.name}</span>
+                  <span className="ml-2 block whitespace-nowrap pr-8 sm:pr-0">
+                    {item.name}
+                  </span>
                 </div>
               ))}
             </div>
