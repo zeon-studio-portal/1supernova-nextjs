@@ -1,6 +1,6 @@
 ---
 banner:
-  title: All Star Advisors
+  title: All Stars
   subtitle: >-
     World’s First & Only Exited Founder Community Advising Top Startups Changing
     the World
@@ -59,4 +59,5 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
+
 
