@@ -127,10 +127,8 @@ team:
       - STRATEGY
       - FUNDING
       - TECH
-      - PRODUCT
-      - LEADERSHIP
       - WEB3
-
+      - EXIT
 
 
   - name: Johanna Mikkola
@@ -528,6 +526,7 @@ team:
 
 
 ---
+
 
 
 

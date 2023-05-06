@@ -1,11 +1,19 @@
+import useWindow from "@hooks/useWindow";
 import { markdownify, slugify } from "@lib/utils/textConverter";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const Advisory = ({ superstars }) => {
   let allMembers = superstars.frontmatter.team;
   const [active, setActive] = useState("");
   const [filteredMember, setFilteredMember] = useState(allMembers);
+  const [slicedMember, setSlicedMember] = useState(filteredMember);
+  const mobile = useWindow(539) < 540;
+
+  useEffect(() => {
+    setSlicedMember(mobile ? filteredMember.slice(0, 12) : filteredMember);
+  }, [filteredMember, mobile]);
+
   const handleFilter = (item) => {
     setActive(item);
     const filtered = allMembers.filter((member) =>
@@ -74,7 +82,7 @@ const Advisory = ({ superstars }) => {
           </div>
 
           <div className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6">
-            {filteredMember.map((item, i) => (
+            {slicedMember.map((item, i) => (
               <div
                 className={`${item.content && "team-card"} group col mb-8 ${
                   item.department.map((d) => slugify(d)).includes(active)
