@@ -55,7 +55,11 @@ const Banner = ({ banner, founders }) => {
           onClose={() => setOpen(false)}
         />
 
-        <div className="mt-16" data-aos="fade-up" data-aos-delay="150">
+        <div
+          className="mx-auto mt-16 max-w-[400px]"
+          data-aos="fade-up"
+          data-aos-delay="150"
+        >
           {markdownify(
             banner.quote.title,
             "p",

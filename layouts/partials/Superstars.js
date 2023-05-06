@@ -27,21 +27,27 @@ const Advisory = ({ superstars }) => {
   return (
     superstars.frontmatter.enable === true && (
       <section id="superstars" className="py-24">
-        <div className="container text-center">
-          {markdownify(superstars.frontmatter.title, "h2", "font-medium mb-4")}
-          {markdownify(
-            superstars.frontmatter.subtitle,
-            "p",
-            "text-light-secondary"
-          )}
+        <div className="container">
+          <div className="text-center">
+            {markdownify(
+              superstars.frontmatter.title,
+              "h2",
+              "font-medium mb-4"
+            )}
+            {markdownify(
+              superstars.frontmatter.subtitle,
+              "p",
+              "text-light-secondary"
+            )}
 
-          {markdownify(
-            superstars.frontmatter.quote,
-            "p",
-            "text-secondary-800 font-secondary mt-6 text-2xl -rotate-1"
-          )}
+            {markdownify(
+              superstars.frontmatter.quote,
+              "p",
+              "text-secondary-800 font-secondary mt-6 text-2xl -rotate-1"
+            )}
+          </div>
 
-          <div className="overflow-x-auto">
+          <div className="mb-10 overflow-x-auto">
             <div className="mt-20 flex text-left sm:flex-wrap">
               {superstars.frontmatter.group_list.map((item, index) => (
                 <div
@@ -67,38 +73,54 @@ const Advisory = ({ superstars }) => {
             </div>
           </div>
 
-          <div className="mt-10 grid gap-x-5 gap-y-4 sm:grid-cols-3 sm:gap-y-10 md:grid-cols-5 lg:grid-cols-6">
-            {filteredMember.map((item, index) => (
+          <div className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6">
+            {filteredMember.map((item, i) => (
               <div
-                key={index}
-                className={`group flex items-center sm:block ${
+                className={`${item.content && "team-card"} group col mb-8 ${
                   item.department.map((d) => slugify(d)).includes(active)
                     ? "active"
                     : ""
                 }`}
+                key={i}
               >
-                <span className="block rounded-full border-[5px] border-transparent group-[.active]:border-primary-600 sm:mb-4">
-                  <Image
-                    className="h-auto w-16 max-w-full rounded-full grayscale sm:h-auto sm:w-40"
-                    src={item.image}
-                    alt={item.name}
-                    width={160}
-                    height={160}
-                  />
-                </span>
-                <span className="ml-4 text-left sm:ml-0 sm:text-center">
-                  <p className="mb-0 text-[18px] font-semibold leading-snug">
-                    {item.name}
-                  </p>
-                  <span className="text-[17px] uppercase text-[#868686] group-[.active]:text-primary-200">
-                    {item.department.map((d, i) => (
-                      <span key={d}>
-                        {d}
-                        {i < item.department.length - 1 ? ", " : ""}
-                      </span>
-                    ))}
-                  </span>
-                </span>
+                <div className="team-card-body">
+                  <div className="team-card-author">
+                    <div className="team-card-author-image shrink-0 rounded-full group-[.active]:ring-[5px] group-[.active]:ring-primary-600">
+                      <Image
+                        className="rounded-full"
+                        src={item.image}
+                        alt={item.name}
+                        width={160}
+                        height={160}
+                      />
+                    </div>
+                    <div className="team-card-author-content">
+                      <h3 className="mb-0 text-[18px] font-semibold leading-snug">
+                        {item.name}
+                      </h3>
+                      <div className="text-[#868686] group-[.active]:text-primary-200">
+                        {item.department.map((d, i) => (
+                          <small key={d}>
+                            {d}
+                            {i < item.department.length - 1 ? ", " : ""}
+                          </small>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                  <div className="team-card-content">
+                    {markdownify(
+                      item.content,
+                      "p",
+                      "text-[18px] font-medium text-dark-primary"
+                    )}
+                    {/* <ul>
+                        <li className="inline-block">
+                          <Image src="" alt="" />
+                        </li>
+                      </ul> */}
+                  </div>
+                </div>
               </div>
             ))}
           </div>

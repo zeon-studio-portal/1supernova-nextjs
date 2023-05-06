@@ -5,7 +5,7 @@
 
 // container
 .container {
-  @apply mx-auto xl:max-w-[1024px];
+  @apply mx-auto xl:max-w-[1140px];
 }
 
 // announcement-bar
@@ -152,4 +152,81 @@
   @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:leading-tight prose-headings:text-light-primary;
   @apply prose-p:text-base prose-p:text-light-tertiary;
   @apply prose-a:text-light-primary prose-a:underline;
+}
+
+.team-card {
+  @apply relative;
+  @media only screen and (min-width: 540px) and (max-width: 767px) {
+    &:nth-child(2n) {
+      .team-card-body {
+        @apply right-0;
+      }
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    &:nth-child(4n) {
+      .team-card-body {
+        @apply right-0;
+      }
+    }
+  }
+  @media only screen and (min-width: 1024px) and (max-width: 1279px) {
+    &:nth-child(5n) {
+      .team-card-body {
+        @apply right-0;
+      }
+    }
+  }
+  @media only screen and (min-width: 1280px) {
+    &:nth-child(6n) {
+      .team-card-body {
+        @apply right-0;
+      }
+    }
+  }
+
+  &-body {
+    @apply top-0 z-50 max-w-[calc(100%-20px)] sm:max-w-none;
+  }
+  &-author {
+    @apply flex flex-row items-center sm:flex-col;
+    &-image {
+      @apply h-[64px] w-[64px] max-w-none object-cover sm:h-[160px] sm:w-[160px];
+      img {
+        @apply grayscale;
+      }
+    }
+    &-content {
+      @apply px-4 sm:mt-4 sm:text-center;
+    }
+  }
+  &-content {
+    @apply hidden p-8 pt-4 text-left;
+  }
+  &:hover {
+    .team-card {
+      &-body {
+        @apply z-50 w-[380px] rounded-[62px] bg-white sm:absolute;
+        h3 {
+          @apply text-dark-primary;
+        }
+      }
+      &-author {
+        @apply flex-row;
+        &-image {
+          @apply h-[124px] w-[124px];
+          @apply ring-0 #{!important};
+          img {
+            @apply grayscale-0;
+          }
+        }
+        &-content {
+          @apply mt-0 text-left;
+        }
+      }
+      &-content {
+        @apply block;
+      }
+    }
+  }
 }
