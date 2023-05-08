@@ -37,25 +37,25 @@ const Advisory = ({ superstars }) => {
       <section id="superstars" className="py-24">
         <div className="container">
           <div className="text-center">
-            {markdownify(
-              superstars.frontmatter.title,
-              "h2",
-              "font-medium mb-4"
-            )}
-            {markdownify(
-              superstars.frontmatter.subtitle,
-              "p",
-              "text-light-secondary"
-            )}
+            <div data-aos="fade-up-sm">{markdownify(superstars.frontmatter.title, "h2", "font-medium mb-4")}</div>
+            <div data-aos="fade-up-sm" data-aos-delay="100">
+              {markdownify(
+                superstars.frontmatter.subtitle,
+                "p",
+                "text-light-secondary"
+              )}
+            </div>
 
-            {markdownify(
-              superstars.frontmatter.quote,
-              "p",
-              "text-secondary-800 font-secondary mt-6 text-2xl -rotate-1"
-            )}
+            <div data-aos="fade-up-sm" data-aos-delay="200">
+              {markdownify(
+                superstars.frontmatter.quote,
+                "p",
+                "text-secondary-800 font-secondary mt-6 text-2xl -rotate-1"
+              )}
+            </div>
           </div>
 
-          <div className="mb-10 overflow-x-auto">
+          <div className="mb-10 overflow-x-auto" data-aos="fade-in" data-aos-delay="250">
             <div className="mt-20 flex text-left sm:flex-wrap">
               {superstars.frontmatter.group_list.map((item, index) => (
                 <div
@@ -81,15 +81,15 @@ const Advisory = ({ superstars }) => {
             </div>
           </div>
 
-          <div className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6">
+          <div className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6" data-aos="fade-in">
             {slicedMember.map((item, i) => (
               <div
+                key={i}
                 className={`${item.content && "team-card"} group col mb-8 ${
                   item.department.map((d) => slugify(d)).includes(active)
                     ? "active"
                     : ""
                 }`}
-                key={i}
               >
                 <div className="team-card-body">
                   <div className="team-card-author">
@@ -103,10 +103,10 @@ const Advisory = ({ superstars }) => {
                       />
                     </div>
                     <div className="team-card-author-content">
-                      <h3 className="mb-0 text-[18px] font-semibold leading-snug">
+                      <h3 className="mb-1 text-[18px] font-semibold leading-snug">
                         {item.name}
                       </h3>
-                      <div className="text-[#868686] group-[.active]:text-primary-200">
+                      <div className="text-[#868686] group-[.active]:text-primary-200 leading-[1.3] text-[16px]">
                         {item.department.map((d, i) => (
                           <small key={d}>
                             {d}
@@ -120,7 +120,7 @@ const Advisory = ({ superstars }) => {
                     {markdownify(
                       item.content,
                       "p",
-                      "text-[18px] font-medium text-dark-primary"
+                      "text-[16px] font-medium text-dark-primary"
                     )}
                     {/* <ul>
                         <li className="inline-block">

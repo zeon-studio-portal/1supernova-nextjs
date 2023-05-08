@@ -6,20 +6,24 @@ const TopFounders = ({ join_community }) => {
     join_community.frontmatter.enable === true && (
       <section className="py-8">
         <div className="container text-center">
-          {markdownify(
-            join_community.frontmatter.title,
-            "h2",
-            "font-medium mb-4"
-          )}
-          {markdownify(
-            join_community.frontmatter.subtitle,
-            "p",
-            "text-light-secondary"
-          )}
+          <div data-aos="fade-up-sm">
+            {markdownify(
+              join_community.frontmatter.title,
+              "h2",
+              "font-medium mb-4"
+            )}
+          </div>
+          <div data-aos="fade-up-sm" data-aos-delay="100">
+            {markdownify(
+              join_community.frontmatter.subtitle,
+              "p",
+              "text-light-secondary"
+            )}
+          </div>
 
           <div className="row mt-10 space-y-8 md:space-y-0">
             {join_community.frontmatter.lists.map((item, index) => (
-              <div key={index} className="md:col-4">
+              <div key={index} className="md:col-4" data-aos="fade-up-sm" data-aos-delay={((index - 0.5) * 100) + 100}>
                 <div className="flex h-full flex-col rounded-2xl bg-dark-quaternary px-8 py-10">
                   <div className="mb-6">
                     <Image
@@ -63,7 +67,7 @@ const TopFounders = ({ join_community }) => {
             ))}
           </div>
 
-          <div className="mt-8 text-center">
+          <div className="mt-8 text-center" data-aos="fade-up-sm" data-aos-delay="50">
             {markdownify(
               join_community.frontmatter.info,
               "div",

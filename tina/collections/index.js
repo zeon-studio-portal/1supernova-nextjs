@@ -142,6 +142,11 @@ const index = {
             {
               label: "Number",
               name: "number",
+              type: "number",
+            },
+            {
+              label: "Suffix",
+              name: "suffix",
               type: "string",
             },
           ],

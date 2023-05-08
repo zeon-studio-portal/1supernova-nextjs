@@ -1,4 +1,4 @@
-import Accordion from "@components/accordion";
+import Accordion from "@components/Accordion";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 
@@ -9,17 +9,21 @@ const Faq = ({ faq }) => {
         <div className="container">
           <div className="row">
             <div className="text-center md:col-5 md:text-left">
-              {markdownify(
-                faq.frontmatter.title,
-                "h2",
-                "text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]"
-              )}
-              {markdownify(
-                faq.frontmatter.subtitle,
-                "p",
-                "text-light-tertiary leading-normal has-link has-link-secondary mb-8 hidden md:block"
-              )}
-              <div className="hidden space-x-3 md:flex">
+              <div data-aos="fade-up-sm">
+                {markdownify(
+                  faq.frontmatter.title,
+                  "h2",
+                  "text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]"
+                )}
+              </div>
+              <div data-aos="fade-up-sm" data-aos-delay="100">
+                {markdownify(
+                  faq.frontmatter.subtitle,
+                  "p",
+                  "text-light-tertiary leading-normal has-link has-link-secondary mb-8 hidden md:block"
+                )}
+              </div>
+              <div className="hidden space-x-3 md:flex" data-aos="fade-up-sm" data-aos-delay="200">
                 {faq.frontmatter.social_media.map((item, index) => (
                   <a
                     key={index}
@@ -40,10 +44,12 @@ const Faq = ({ faq }) => {
 
             <div className="md:col-7">
               {faq.frontmatter.lists.map((item, index) => (
-                <Accordion key={index} item={item} index={index} />
+                <div key={index} data-aos="fade-up-sm">
+                  <Accordion item={item} index={index} />
+                </div>
               ))}
 
-              <div className="mt-10 block text-center md:hidden">
+              <div className="mt-10 block text-center md:hidden" data-aos="fade-up-sm">
                 {markdownify(
                   faq.frontmatter.subtitle,
                   "p",

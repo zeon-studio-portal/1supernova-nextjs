@@ -41,14 +41,18 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: Vetted Advisors
-      number: '144'
-    - title: Exited Founders
-      number: 100+
-    - title: Startups Chosen Yearly
-      number: '12'
-    - title: Collective Impact
-      number: ∞
+    - title: "Vetted Advisors"
+      number: 144
+      suffix: ""
+    - title: "Exited Founders"
+      number: 100
+      suffix: "+"
+    - title: "Startups Chosen Yearly"
+      number: 12
+      suffix: ""
+    - title: "Collective Impact"
+      number: 
+      suffix: "∞"
 advisory_game:
   enable: true
   title: We are not like other advisors.

@@ -11,28 +11,32 @@ const Testimonials = ({ testimonials }) => {
       <section id="reviews" className="testimonials py-24">
         <div className="mx-auto max-w-[1660px] px-4">
           <div className="mb-20 text-center">
-            {markdownify(
-              testimonials.frontmatter.title,
-              "h2",
-              "font-medium mb-4"
-            )}
-            {markdownify(
-              testimonials.frontmatter.subtitle,
-              "p",
-              "text-light-secondary"
-            )}
+            <div data-aos="fade-up-sm">
+              {markdownify(
+                testimonials.frontmatter.title,
+                "h2",
+                "font-medium mb-4"
+              )}
+            </div>
+            <div data-aos="fade-up-sm" data-aos-delay="100">
+              {markdownify(
+                testimonials.frontmatter.subtitle,
+                "p",
+                "text-light-secondary"
+              )}
+            </div>
           </div>
 
-          <div className="testimonials-slider-wrapper relative">
+          <div className="testimonials-slider-wrapper relative group" data-aos>
             <Image
-              className="absolute -left-20 top-[28%] -z-20 hidden -translate-y-1/2 translate-x-[-40%] md:block xl:translate-x-[15%]"
+              className="absolute -left-20 top-[28%] -z-20 hidden -translate-y-1/2 translate-x-[-40%] md:block xl:translate-x-[-50%] group-[.aos-animate]:xl:translate-x-[15%] xl:opacity-0 group-[.aos-animate]:xl:opacity-100 transition-all duration-700"
               src="/images/testimonials/layer-1.svg"
               alt="layer-1"
               width={411}
               height={414}
             />
             <Image
-              className="absolute -left-[10px] top-[calc(28%_+_64px)] z-30 hidden -translate-y-1/2 translate-x-[-40%] md:block xl:translate-x-[15%]"
+              className="absolute -left-[10px] top-[calc(28%_+_64px)] z-30 hidden -translate-y-1/2 translate-x-[-40%] md:block xl:translate-x-[-50%] group-[.aos-animate]:xl:translate-x-[15%] xl:opacity-0 group-[.aos-animate]:xl:opacity-100 transition-all duration-700"
               src="/images/testimonials/layer-2.svg"
               alt="layer-2"
               width={398}
@@ -71,7 +75,7 @@ const Testimonials = ({ testimonials }) => {
               >
                 {testimonials.frontmatter.items.map((item, index) => (
                   <SwiperSlide key={index}>
-                    <div className="rounded-2xl bg-dark-quaternary">
+                    <div className="rounded-2xl bg-dark-quaternary" data-aos="fade-left" data-aos-delay={100}>
                       <div
                         className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}
                       >

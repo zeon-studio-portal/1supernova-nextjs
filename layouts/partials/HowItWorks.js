@@ -1,6 +1,6 @@
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const HowItWorks = ({ how_it_works }) => {
   const tabLength = how_it_works.frontmatter.process.length;
@@ -8,6 +8,18 @@ const HowItWorks = ({ how_it_works }) => {
   const handleTabClick = (index) => {
     setIndexTab(index);
   };
+
+  // set autoplay
+  useEffect(() => {
+    const interval = setInterval(() => {
+      if (indexTab === tabLength) {
+        setIndexTab(1);
+      } else {
+        setIndexTab(indexTab + 1);
+      }
+    }, 4000);
+    return () => clearInterval(interval);
+  }, [indexTab, tabLength]);
 
   return (
     how_it_works.frontmatter.enable === true && (
@@ -20,13 +32,15 @@ const HowItWorks = ({ how_it_works }) => {
           <div className="row">
             <div className="py-24 md:col-6">
               <div className="md:pr-10">
-                {markdownify(
-                  how_it_works.frontmatter.title,
-                  "h2",
-                  "font-medium text-center md:text-left"
-                )}
+                <div data-aos="fade-up-sm">
+                  {markdownify(
+                    how_it_works.frontmatter.title,
+                    "h2",
+                    "font-medium text-center md:text-left"
+                  )}
+                </div>
 
-                <div className={`tab-buttons mt-16 md:mb-20 md:mt-20`}>
+                <div className={`tab-buttons mt-16 md:mb-20 md:mt-20`} data-aos="fade-up-sm" data-aos-delay="100">
                   {how_it_works.frontmatter.process.map((item, index) => (
                     <div
                       key={index}
@@ -79,12 +93,12 @@ const HowItWorks = ({ how_it_works }) => {
                 )}
               </div>
             </div>
-            <div className="hidden py-24 md:col-6 md:block">
+            <div className="hidden py-24 md:col-6 md:block" data-aos="fade-up-sm" data-aos-delay="150">
               <div className="flex h-full items-center pl-10">
                 {how_it_works.frontmatter.process.map((item, index) => (
                   <div
                     key={index}
-                    className={indexTab === index + 1 ? "" : "hidden"}
+                    className={`transition-all duration-500 absolute ${indexTab === index + 1 ? "" : "opacity-0"}`}
                   >
                     {markdownify(
                       item.content,

@@ -72,6 +72,11 @@ const superstars = {
           type: "image",
         },
         {
+          label: "Content",
+          name: "content",
+          type: "rich-text",
+        },
+        {
           label: "Department",
           name: "department",
           type: "string",

@@ -8,20 +8,24 @@ const TopFounders = ({ top_founders }) => {
     top_founders.frontmatter.enable === true && (
       <section className="bg-dark-secondary py-24">
         <div className="container text-center">
-          {markdownify(
-            top_founders.frontmatter.title,
-            "h2",
-            "font-medium mb-4"
-          )}
-          {markdownify(
-            top_founders.frontmatter.subtitle,
-            "p",
-            "text-light-secondary"
-          )}
+          <div data-aos="fade-up-sm">
+            {markdownify(
+              top_founders.frontmatter.title,
+              "h2",
+              "font-medium mb-4"
+            )}
+          </div>
+          <div data-aos="fade-up-sm" data-aos-delay="100">
+            {markdownify(
+              top_founders.frontmatter.subtitle,
+              "p",
+              "text-light-secondary"
+            )}
+          </div>
 
           <div className="mt-20 grid gap-x-6 gap-y-12 sm:grid-cols-2 md:grid-cols-4">
             {top_founders.frontmatter.lists.map((item, index) => (
-              <div key={index} className="mt-8 flex flex-col">
+              <div key={index} className="mt-8 flex flex-col" data-aos="fade-up-sm" data-aos-delay={(index - 0.5) * 100}>
                 <div className="relative h-full rounded-b-3xl rounded-tr-3xl bg-[#2D2D2D]">
                   <span
                     className={`absolute left-0 -translate-y-full rounded-t-2xl bg-[#2D2D2D] px-4 pb-1 pt-2 text-[17px]`}

@@ -28,10 +28,12 @@
     "react-lite-youtube-embed": "^2.3.52",
     "react-modal-video": "^2.0.0",
     "react-player": "^2.12.0",
+    "react-visibility-sensor": "^5.1.1",
     "rehype-slug": "^5.1.0",
     "remark-gfm": "^3.0.1",
     "swiper": "^9.2.2",
-    "tinacms": "^1.5.2"
+    "tinacms": "^1.5.2",
+    "use-count-up": "^3.0.1"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.3",

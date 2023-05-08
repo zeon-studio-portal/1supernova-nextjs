@@ -5,7 +5,7 @@ const Accordion = ({index, item}) => {
   const [show, setShow] = useState(false);
 
   return (
-    <div className={`accordion bg-dark-quaternary text-light-primary rounded-2xl ${index != 0 ? "mt-4" : ""}`}>
+    <div className={`accordion bg-dark-quaternary ${show ? "border-primary" : "border-transparent"} border text-light-primary rounded-2xl ${index != 0 ? "mt-4" : ""}`}>
       <button
         className="relative block w-full px-7 py-4 text-left"
         onClick={() => setShow(!show)}

@@ -8,6 +8,20 @@
   @apply mx-auto xl:max-w-[1140px];
 }
 
+// AOS Style
+[data-aos=fade-up-sm] {
+  transform: translate3d(0, 30px, 0);
+}
+[data-aos=rotate] {
+  opacity: 0;
+  transform: rotateZ(360deg);
+  transition-property: transform, opacity;
+  &.aos-animate {
+    opacity: 1;
+    transform: rotateZ(0);
+  }
+}
+
 // announcement-bar
 .announcement-bar {
   @apply bg-gradient-line text-center text-[16px] font-medium text-dark-primary;
@@ -150,7 +164,7 @@
 .content {
   @apply prose max-w-none;
   @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:leading-tight prose-headings:text-light-primary;
-  @apply prose-p:text-base prose-p:text-light-tertiary;
+  @apply prose-p:text-base prose-p:text-gray-400;
   @apply prose-a:text-light-primary prose-a:underline;
 }
 
@@ -206,22 +220,25 @@
   &:hover {
     .team-card {
       &-body {
-        @apply z-50 w-[380px] rounded-[62px] bg-white sm:absolute;
+        @apply z-50 sm:w-[380px] w-full sm:rounded-tl-[68px] rounded-tl-[38px] rounded-2xl bg-white sm:absolute;
         h3 {
           @apply text-dark-primary;
         }
       }
       &-author {
-        @apply flex-row;
+        @apply flex-row pt-2 sm:pt-0;
         &-image {
-          @apply h-[124px] w-[124px];
+          @apply sm:h-[124px] sm:w-[124px] ml-2 mt-0 sm:mt-2;
           @apply ring-0 #{!important};
           img {
             @apply grayscale-0;
           }
         }
         &-content {
-          @apply mt-0 text-left;
+          @apply text-left;
+          > div > small {
+            @apply text-primary-200;
+          }
         }
       }
       &-content {
