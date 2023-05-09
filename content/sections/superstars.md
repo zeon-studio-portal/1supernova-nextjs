@@ -41,10 +41,9 @@ group_list:
 team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo blanditiis cumque voluptate iusto delectus laboriosam mollitia!"
-    brands:
-      - /images/superstars-brand-01.svg
-      - /images/superstars-brand-02.svg
+    content: >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo
+      blanditiis cumque voluptate iusto delectus laboriosam mollitia!
     department:
       - AI
       - STRATEGY
@@ -52,48 +51,35 @@ team:
       - SALES
       - MARKETING
       - EXIT
-
-
-
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - FUNDING
-
-
-
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - PRODUCT
       - TECH
       - SCALING
       - EXIT
-
-
-
   - name: Tim Chang
     image: /images/superstars/timchang.png
-    content: ""
-    brands:
+    content: |
+      * Partner at Mayfield Fund
+      * Partner at Norwest Venture Partners
+      * Board Member at Grove
     department:
       - AI
       - FUNDING
       - IMPACT
       - WEB3
-
-
-
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - FUNDING
@@ -101,65 +87,46 @@ team:
       - HR
       - SOCIAL
       - EXIT
-
-
-
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo blanditiis cumque voluptate iusto delectus laboriosam mollitia!"
-    brands:
-      - /images/superstars-brand-01.svg
-      - /images/superstars-brand-02.svg
+    content: >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo
+      blanditiis cumque voluptate iusto delectus laboriosam mollitia!
     department:
       - CULTURE
       - STRATEGY
       - HR
       - IMPACT
       - EXIT
-
-
-
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
-    content: ""
-    brands:
+    content: ''
     department:
       - M&A
       - STRATEGY
       - FUNDING
       - EXIT
-
-
-
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - FUNDING
       - TECH
       - WEB3
       - EXIT
-
-
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - TECH
       - PRODUCT
       - LEADERSHIP
       - FUNDING
       - EXIT
-
-
-
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - AI
       - FUNDING
@@ -167,37 +134,25 @@ team:
       - SCALING
       - LEGAL
       - EXIT
-
-
-
   - name: Peter Yared
     image: /images/superstars/peteryared.png
-    content: ""
-    brands:
+    content: ''
     department:
       - TECH
       - PRODUCT
       - SCALING
       - LEADERSHIP
-
-
-
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
-    content: ""
-    brands:
+    content: ''
     department:
       - PRODUCT
       - TECH
       - FUNDING
       - EXIT
-
-
-
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
-    content: ""
-    brands:
+    content: ''
     department:
       - FUNDING
       - STRATEGY
@@ -205,64 +160,44 @@ team:
       - SOCIAL
       - IMPACT
       - EXIT
-
-
-
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
-    content: ""
-    brands:
+    content: ''
     department:
       - LEADERSHIP
       - FUNDING
       - SCALING
       - M&A
       - EXIT
-
-
-
   - name: Caleb Jones
     image: /images/Caleb.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - AI
       - TECH
       - GROWTH
       - FUNDING
       - EXIT
-
-
-
   - name: Roy Chung
     image: /images/38387311.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - SALES
       - GROWTH
       - FUNDING
       - WEB3
       - IMPACT
-
-
-
   - name: Tim Sae Koo
     image: /images/102929.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - MARKETING
       - IMPACT
       - EXIT
-
-
-
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - OPS
@@ -270,39 +205,27 @@ team:
       - PRODUCT
       - LEADERSHIP
       - EXIT
-
-
-
   - name: Andrew Sturner
     image: /images/123285.png
-    content: ""
-    brands:
+    content: ''
     department:
       - FUNDING
       - TECH
       - LEADERSHIP
       - SCALING
       - EXIT
-
-
-
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
-    content: ""
-    brands:
+    content: ''
     department:
       - PRODUCT
       - TECH
       - OPS
       - SCALING
       - EXIT
-
-
-
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - SALES
       - TALENT
@@ -310,111 +233,75 @@ team:
       - FUNDING
       - WEB3
       - EXIT
-
-
-
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - TALENT
       - LEADERSHIP
       - LEGAL
-
-
-
   - name: Dan Ellis
     image: /images/Dan.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - PRODUCT
       - TECH
       - FUNDRAISING
       - STRATEGY
       - EXIT
-
-
-
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
-    content: ""
-    brands:
+    content: ''
     department:
       - MARKETING
       - SOCIAL
       - PR
       - EXIT
-
-
-
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
-    content: ""
-    brands:
+    content: ''
     department:
       - LEADERSHIP
       - SOCIAL
       - EXIT
-
-
-
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - AI
       - STRATEGY
       - GROWTH
       - FUNDING
       - IMPACT
-
-
-
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - TALENT
       - IMPACT
-
-
-
   - name: Scott Weller
     image: /images/1675213967983.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - PRODUCT
       - TECH
       - WEB3
       - EXIT
-
-
-
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - SALES
       - WEB3
       - FUNDING
       - EXIT
-
-
-
   - name: Ryan Allis
     image: /images/Ryan.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - TECH
@@ -422,71 +309,47 @@ team:
       - TALENT
       - WEB3
       - EXIT
-
-
-
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - SALES
       - SOCIAL
       - IMPACT
-
-
-
   - name: Juston Brommel
     image: /images/JB.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - STRATEGY
       - GROWTH
       - TECH
       - OPS
       - EXIT
-
-
-
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - 'GROWTH, SCALE, LEADERSHIP'
-
-
-
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - SALES
       - HR
       - EXIT
-
-
-
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
-    content: ""
-    brands:
+    content: ''
     department:
       - TECH
       - STRATEGY
       - COMMUNITY
       - EXIT
-
-
-
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - SALES
@@ -494,13 +357,9 @@ team:
       - LEADERSHIP
       - WEB3
       - EXIT
-
-
-
   - name: Chris Carson
     image: /images/1668277982538.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - AI
       - FUNDING
@@ -508,70 +367,48 @@ team:
       - TECH
       - PRODUCT
       - EXIT
-
-
-
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - PRODUCT
       - TECH
       - LEGAL
       - WEB3
       - EXIT
-
-
-
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
-    content: ""
-    brands:
+    content: ''
     department:
       - AI
       - STRATEGY
       - GROWTH
       - LEADERSHIP
       - HR
-
-
-
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - FUNDING
       - IMPACT
       - LEADERSHIP
-
-
-
   - name: Seth Forsgren
     image: /images/Seth.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - PRODUCT
       - TECH
       - EXIT
-
-
-
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
-    content: ""
-    brands:
+    content: ''
     department:
       - GROWTH
       - MARKETING
       - IMPACT
       - EXIT
-
-
-
 ---
+
 
 
 
