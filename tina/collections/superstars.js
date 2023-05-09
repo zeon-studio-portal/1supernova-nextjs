@@ -77,6 +77,12 @@ const superstars = {
           type: "rich-text",
         },
         {
+          label: "Brands",
+          name: "brands",
+          type: "string",
+          list: true,
+        },
+        {
           label: "Department",
           name: "department",
           type: "string",

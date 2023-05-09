@@ -42,6 +42,9 @@ team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo blanditiis cumque voluptate iusto delectus laboriosam mollitia!"
+    brands:
+      - /images/superstars-brand-01.svg
+      - /images/superstars-brand-02.svg
     department:
       - AI
       - STRATEGY
@@ -55,6 +58,7 @@ team:
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     content: ""
+    brands:
     department:
       - GROWTH
       - FUNDING
@@ -64,6 +68,7 @@ team:
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     content: ""
+    brands:
     department:
       - GROWTH
       - PRODUCT
@@ -76,6 +81,7 @@ team:
   - name: Tim Chang
     image: /images/superstars/timchang.png
     content: ""
+    brands:
     department:
       - AI
       - FUNDING
@@ -87,6 +93,7 @@ team:
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     content: ""
+    brands:
     department:
       - STRATEGY
       - FUNDING
@@ -99,7 +106,10 @@ team:
 
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
-    content: ""
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo blanditiis cumque voluptate iusto delectus laboriosam mollitia!"
+    brands:
+      - /images/superstars-brand-01.svg
+      - /images/superstars-brand-02.svg
     department:
       - CULTURE
       - STRATEGY
@@ -112,6 +122,7 @@ team:
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     content: ""
+    brands:
     department:
       - M&A
       - STRATEGY
@@ -123,6 +134,7 @@ team:
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     content: ""
+    brands:
     department:
       - STRATEGY
       - FUNDING
@@ -134,6 +146,7 @@ team:
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     content: ""
+    brands:
     department:
       - TECH
       - PRODUCT
@@ -146,6 +159,7 @@ team:
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     content: ""
+    brands:
     department:
       - AI
       - FUNDING
@@ -159,6 +173,7 @@ team:
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     content: ""
+    brands:
     department:
       - TECH
       - PRODUCT
@@ -170,6 +185,7 @@ team:
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     content: ""
+    brands:
     department:
       - PRODUCT
       - TECH
@@ -181,6 +197,7 @@ team:
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     content: ""
+    brands:
     department:
       - FUNDING
       - STRATEGY
@@ -194,6 +211,7 @@ team:
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     content: ""
+    brands:
     department:
       - LEADERSHIP
       - FUNDING
@@ -206,6 +224,7 @@ team:
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     content: ""
+    brands:
     department:
       - AI
       - TECH
@@ -218,6 +237,7 @@ team:
   - name: Roy Chung
     image: /images/38387311.jpeg
     content: ""
+    brands:
     department:
       - SALES
       - GROWTH
@@ -230,6 +250,7 @@ team:
   - name: Tim Sae Koo
     image: /images/102929.png
     content: ""
+    brands:
     department:
       - GROWTH
       - MARKETING
@@ -241,6 +262,7 @@ team:
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     content: ""
+    brands:
     department:
       - STRATEGY
       - OPS
@@ -254,6 +276,7 @@ team:
   - name: Andrew Sturner
     image: /images/123285.png
     content: ""
+    brands:
     department:
       - FUNDING
       - TECH
@@ -266,6 +289,7 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     content: ""
+    brands:
     department:
       - PRODUCT
       - TECH
@@ -278,6 +302,7 @@ team:
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     content: ""
+    brands:
     department:
       - SALES
       - TALENT
@@ -291,6 +316,7 @@ team:
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     content: ""
+    brands:
     department:
       - STRATEGY
       - TALENT
@@ -302,6 +328,7 @@ team:
   - name: Dan Ellis
     image: /images/Dan.jpeg
     content: ""
+    brands:
     department:
       - PRODUCT
       - TECH
@@ -314,6 +341,7 @@ team:
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     content: ""
+    brands:
     department:
       - MARKETING
       - SOCIAL
@@ -325,6 +353,7 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     content: ""
+    brands:
     department:
       - LEADERSHIP
       - SOCIAL
@@ -335,6 +364,7 @@ team:
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     content: ""
+    brands:
     department:
       - AI
       - STRATEGY
@@ -347,6 +377,7 @@ team:
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     content: ""
+    brands:
     department:
       - GROWTH
       - TALENT
@@ -357,6 +388,7 @@ team:
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     content: ""
+    brands:
     department:
       - STRATEGY
       - PRODUCT
@@ -369,6 +401,7 @@ team:
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     content: ""
+    brands:
     department:
       - GROWTH
       - SALES
@@ -381,6 +414,7 @@ team:
   - name: Ryan Allis
     image: /images/Ryan.jpeg
     content: ""
+    brands:
     department:
       - STRATEGY
       - TECH
@@ -394,6 +428,7 @@ team:
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     content: ""
+    brands:
     department:
       - GROWTH
       - SALES
@@ -405,6 +440,7 @@ team:
   - name: Juston Brommel
     image: /images/JB.jpeg
     content: ""
+    brands:
     department:
       - STRATEGY
       - GROWTH
@@ -417,6 +453,7 @@ team:
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     content: ""
+    brands:
     department:
       - 'GROWTH, SCALE, LEADERSHIP'
 
@@ -425,6 +462,7 @@ team:
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     content: ""
+    brands:
     department:
       - GROWTH
       - SALES
@@ -436,6 +474,7 @@ team:
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     content: ""
+    brands:
     department:
       - TECH
       - STRATEGY
@@ -447,6 +486,7 @@ team:
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     content: ""
+    brands:
     department:
       - GROWTH
       - SALES
@@ -460,6 +500,7 @@ team:
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     content: ""
+    brands:
     department:
       - AI
       - FUNDING
@@ -473,6 +514,7 @@ team:
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
     content: ""
+    brands:
     department:
       - PRODUCT
       - TECH
@@ -485,6 +527,7 @@ team:
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     content: ""
+    brands:
     department:
       - AI
       - STRATEGY
@@ -497,6 +540,7 @@ team:
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     content: ""
+    brands:
     department:
       - FUNDING
       - IMPACT
@@ -507,6 +551,7 @@ team:
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     content: ""
+    brands:
     department:
       - PRODUCT
       - TECH
@@ -517,6 +562,7 @@ team:
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     content: ""
+    brands:
     department:
       - GROWTH
       - MARKETING

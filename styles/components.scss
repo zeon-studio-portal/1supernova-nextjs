@@ -211,7 +211,7 @@
       }
     }
     &-content {
-      @apply px-4 sm:mt-4 sm:text-center;
+      @apply px-4 sm:text-center;
     }
   }
   &-content {
@@ -220,7 +220,7 @@
   &:hover {
     .team-card {
       &-body {
-        @apply z-50 sm:w-[380px] w-full sm:rounded-tl-[68px] rounded-tl-[38px] rounded-2xl bg-white sm:absolute;
+        @apply z-50 sm:w-[380px] w-full sm:rounded-[64px] rounded-2xl bg-white sm:absolute;
         h3 {
           @apply text-dark-primary;
         }
@@ -228,7 +228,7 @@
       &-author {
         @apply flex-row pt-2 sm:pt-0;
         &-image {
-          @apply sm:h-[124px] sm:w-[124px] ml-2 mt-0 sm:mt-2;
+          @apply sm:h-[124px] sm:w-[124px];
           @apply ring-0 #{!important};
           img {
             @apply grayscale-0;

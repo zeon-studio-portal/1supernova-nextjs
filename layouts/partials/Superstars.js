@@ -122,11 +122,21 @@ const Advisory = ({ superstars }) => {
                       "p",
                       "text-[16px] font-medium text-dark-primary"
                     )}
-                    {/* <ul>
-                        <li className="inline-block">
-                          <Image src="" alt="" />
+                    {item.brands && (
+                    <ul className="mt-5">
+                      {item.brands.map((b, i) => (
+                        <li key={i} className="inline-block mx-3">
+                          <Image
+                            src={b}
+                            alt="brand logo"
+                            className="w-auto"
+                            width={100}
+                            height={40}
+                          />
                         </li>
-                      </ul> */}
+                      ))}
+                    </ul>
+                    )}
                   </div>
                 </div>
               </div>
