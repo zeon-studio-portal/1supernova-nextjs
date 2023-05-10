@@ -334,7 +334,7 @@ team:
       developers skills and behavioral adaptability. He is also an advisor to
       Tellus Investment Partners, a select group of family offices and
       agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. 
+      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
@@ -565,6 +565,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
