@@ -507,7 +507,7 @@ team:
       a female-led venture-backed media company geared toward providing children
       around the world with entertaining content, relatable characters, and
       important life lessons by leveraging high-quality 3D animation - led by
-      Agnes Soyode-Johnson. Chris graduated from Princeton University where his
+      Agnes Soyode-Johnson.  Chris graduated from Princeton University where his
       activities and societies included: Student Manager, Men’s Basketball Team;
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
@@ -737,6 +737,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
