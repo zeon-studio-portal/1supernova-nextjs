@@ -49,7 +49,7 @@ team:
       - MARKETING
       - EXIT
     bulletpoints:
-      - Co-founder at Supernova
+      - CE& Co-founder at Supernova
       - Co-founder at 1heart
       - 3x Exited Founder
     content: >
@@ -430,6 +430,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
