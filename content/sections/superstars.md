@@ -299,6 +299,8 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - Founder & CEO at Intelepeer (Series B)
+      - CTO at ADC Telecom
+      - Founder of CommTech (Sold)
     content: ''
   - name: Caleb Jones
     image: /images/Caleb.jpeg
@@ -539,6 +541,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
