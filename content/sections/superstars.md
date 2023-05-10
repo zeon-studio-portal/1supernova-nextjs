@@ -287,6 +287,10 @@ team:
       - SOCIAL
       - IMPACT
       - EXIT
+    bulletpoints:
+      - Founder at Richmond Global
+      - 'Co-founder at Endeavor '
+      - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
@@ -704,6 +708,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
