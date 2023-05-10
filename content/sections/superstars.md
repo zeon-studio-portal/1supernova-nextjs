@@ -321,6 +321,10 @@ team:
       - GROWTH
       - FUNDING
       - EXIT
+    bulletpoints:
+      - Founder & CEO of Ink
+      - Advisor to Tellus Investment Partners
+      - Co-founder of Code Pilot (Acquired by AngelList)
     content: ''
   - name: Roy Chung
     image: /images/38387311.jpeg
@@ -552,6 +556,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
