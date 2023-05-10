@@ -48,7 +48,7 @@ team:
       - GROWTH
       - SALES
       - MARKETING
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - CEO & Co-founder at Supernova
       - Co-founder at 1heart.com
@@ -501,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
