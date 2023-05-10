@@ -606,7 +606,17 @@ team:
       - Founder at AI Dragons
       - Certified Coach at OpenExO
       - Grant Evaluator at EIT Health
-    content: ''
+    content: >
+      Luciana Ledesma is the founder of AI Dragons, a global community that
+      leverages tech & business creation to achieve SDGs. She is a certified
+      coach at the Open ExO’s community (a spin-off from Singularity
+      University). Luciana is a grant evaluator for EIT Health and has assessed
+      over 100 projects for €1-3M  grants in Biomedicine, health records
+      management on blockchain, health insurance, and surgery robots. She was
+      co-founder and ceo of Teder.ai, an personalized education company. Luciana
+      led the creation of the Fluid Blockchain Accelerator and served as Head of
+      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
+      founders and their ventures. 
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     department:
@@ -741,6 +751,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
