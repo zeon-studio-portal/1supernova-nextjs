@@ -215,7 +215,11 @@ team:
       - PRODUCT
       - LEADERSHIP
       - FUNDING
-      - EXIT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder Wyntalent
+      - Founder & CEO at Wyncode Academy
+      - Board Member of International Floorball Federation
     content: ''
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
@@ -501,6 +505,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
