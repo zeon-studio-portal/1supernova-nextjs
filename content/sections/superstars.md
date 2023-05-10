@@ -335,7 +335,7 @@ team:
       founding CommTech, Frank worked at AT\&T Bell Laboratories where he was
       the lead data communications architect on a team responsible for AT\&T
       being awarded a $1.4 billion contract from the U.S. Internal Revenue
-      Service. 
+      Service.
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
@@ -391,7 +391,7 @@ team:
       - Co-founder at 1heart.com
       - Founder & CEO Tintup (Exited)
       - 2 exits
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. \n"
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company.\n"
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department:
@@ -423,7 +423,7 @@ team:
       Many Truths : A Journey through world religions that have shaped the 20th
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
-      philosopher, mindfulness mentor, monk and spiritual scientist. 
+      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -482,7 +482,7 @@ team:
       nearly 2 years as COO of a seed stage family office, managing internal
       operations, overseeing a portfolio of 150+ companies, leading his own
       investments, and serving on boards. Jonathan also co-founded his own
-      investment firm with two other GPs. 
+      investment firm with two other GPs.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -571,7 +571,7 @@ team:
       Grin). Dan is the co-founder at Rallyteam, a venture backed talent
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley.  
+      based in Silicon Valley.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
@@ -593,7 +593,7 @@ team:
       specializes in supporting early-stage entrepreneurs to achieve 6 figures,
       established teams scaling past 7 figures, and partnering with CEOs who
       want help exiting their current companies so they can start a more
-      purpose-driven enterprise. 
+      purpose-driven enterprise.
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department:
@@ -737,6 +737,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
