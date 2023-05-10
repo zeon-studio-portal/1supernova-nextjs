@@ -507,7 +507,7 @@ team:
       - WEB3
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & MP of C4+
+      - Founder & Managing Partner of C4+
       - Founder at Infinite Esports (Exited)
       - Co-founder of Limitless Studios
     content: >
@@ -814,6 +814,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
