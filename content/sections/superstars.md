@@ -18,7 +18,7 @@ group_list:
     icon: /images/superstars/icons/human-resources.svg
   - name: Impact
     icon: /images/superstars/icons/sustainability.svg
-  - name: Legal
+  - name: Legal/IP
     icon: /images/superstars/icons/legal.svg
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
@@ -532,6 +532,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
