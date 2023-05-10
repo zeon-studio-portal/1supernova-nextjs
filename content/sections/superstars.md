@@ -521,8 +521,23 @@ team:
       - TECH
       - OPS
       - SCALING
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - Venture Partner at Launch Capital
+      - Co-founder & CEO at CreatorPlus
+      - CPO/COO with 8 exits
+    content: >
+      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
+      venture-backed startup building the future of transactional video
+      on-demand for consumers, creators, film producers and IP holders. Jonathan
+      was a Venture Partner for Launch Capital, a seed stage venture capital
+      firm. For 25 years in San Francisco he has held operational and executive
+      roles in 10 tech startups, primarily in consumer media and entertainment,
+      of which 8 were VC backed and acquired. His investing experience includes
+      nearly 2 years as COO of a seed stage family office, managing internal
+      operations, overseeing a portfolio of 150+ companies, leading his own
+      investments, and serving on boards. Jonathan also co-founded his own
+      investment firm with two other GPs. 
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -708,6 +723,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
