@@ -510,14 +510,14 @@ team:
       to make patient care areas safer by reducing the microbial contamination
       (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
       in Forbes, CNN and other media outlets as well as in peer-reviewed
-      scientific publications. He has presented for many organizations including
-      TEDx, DENT and the Royal Society of Medicine and has appeared on CNN, the
-      Doctors, NPR, VOA and numerous other media outlets.  Dr. Stibich
-      specializes in creating efficient solutions for public health problems. He
-      received his doctoral training from the Johns Hopkins School of Public
-      Health and has been involved in multiple international research and
-      intervention projects. He is an inventor on over 160 granted patents and a
-      principal investigator on an NIH grant.
+      scientific publications. He has presented at TEDx, DENT and the Royal
+      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
+      numerous other media outlets. Dr. Stibich specializes in creating
+      efficient solutions for public health problems. He received his doctoral
+      training from the Johns Hopkins School of Public Health and has been
+      involved in multiple international research and intervention projects. He
+      is an inventor on over 160 granted patents and a principal investigator on
+      an NIH grant.
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -685,6 +685,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
