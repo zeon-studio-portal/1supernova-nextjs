@@ -148,7 +148,7 @@ team:
       - STRATEGY
       - HR
       - IMPACT
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founder of Ferrazzi Greenlight
       - CMO at Starwood & Deloitte
@@ -501,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
