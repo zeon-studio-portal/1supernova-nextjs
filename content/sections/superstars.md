@@ -216,9 +216,9 @@ team:
       - PR
       - EXIT
     bulletpoints:
+      - Founding Member of Legacy 8
       - CMO at SongTradr
       - Founder & CEO at Jive (Exited)
-      - Founder of Projecting Change Film Festival
     content: >
       Lindsay is a founding member of Legacy 8, an early stage venture capital
       fund that focuses on the intersection of science and consciousness.
@@ -814,6 +814,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
