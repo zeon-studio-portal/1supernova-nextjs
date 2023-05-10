@@ -237,7 +237,7 @@ team:
       CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
       financial literacy in youth. She built a financial literacy app for kids
       aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
-      Pig Savings). She has an honours degree (summa cum laude) from the
+      Pig Savings). She has an honors degree (summa cum laude) from the
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
@@ -814,6 +814,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
