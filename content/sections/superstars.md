@@ -252,8 +252,8 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - President at Glo
-      - CEO a Carenote (exited to Evite)
-      - Head of Ops at Flipagram (Exit to TikTok)
+      - CEO a Carenote (Exited to Evite)
+      - Head of Ops at Flipagram (Exited to TikTok)
     content: ''
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
@@ -814,6 +814,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
