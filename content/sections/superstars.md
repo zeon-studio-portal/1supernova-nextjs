@@ -127,6 +127,32 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
+    department:
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
+      - Founder & CEO at Luna (Exited)
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University,
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -168,32 +194,6 @@ team:
       - Founder & CEO at Hypergiant
       - 5x Exited Founder
     content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
-    department:
-      - M&A
-      - STRATEGY
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & MP at Nfluence Partners
-      - Managing Director at Headwaters
-      - Founder & CEO at Luna (Exited)
-    content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University,
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -737,6 +737,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
