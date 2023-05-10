@@ -623,7 +623,17 @@ team:
       - GROWTH
       - TALENT
       - IMPACT
-    content: ''
+    bulletpoints:
+      - Head of Biz Dev at Mindpath Health
+      - 'Founder at Acacia Counseling & Wellness '
+    content: >
+      Brett Donnelly is head of business development at Mindpath Health, a
+      clinician-led mental health organization and leading, independent provider
+      of outpatient behavioral health services. Brett is the founder of Acacia
+      Counseling & Wellness (exited to Mindpath Health), the leading provider of
+      mental health support in the Isla Vista community. Brett grow the company
+      to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
+      at UC Santa Barbara.  
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -751,6 +761,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
