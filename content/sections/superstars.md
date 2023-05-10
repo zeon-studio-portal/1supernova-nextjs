@@ -138,7 +138,11 @@ team:
       - HR
       - SOCIAL
       - EXIT
-    content: ''
+    bulletpoints:
+      - Founder & CEO at Colossal
+      - Founder & CEO at Hypergiant
+      - 5x Exited Founder
+    content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010). \n"
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -460,6 +464,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
