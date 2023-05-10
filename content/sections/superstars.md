@@ -580,7 +580,20 @@ team:
       - LEADERSHIP
       - SOCIAL
       - EXITED FOUNDER
-    content: ''
+    bulletpoints:
+      - Founder of Leaders Create Leaders
+      - Co-founder of Elite Daily (Exited)
+      - Founder of Fownders
+    content: >
+      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
+      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
+      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
+      investor, philanthropist, and trusted advisor consulting with conscious
+      founders who are looking to leave a legacy through their work. He
+      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
+      established teams scaling past 7 figures, and partnering with CEOs who
+      want help exiting their current companies so they can start a more
+      purpose-driven enterprise. 
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department:
@@ -724,6 +737,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
