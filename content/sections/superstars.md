@@ -93,7 +93,7 @@ team:
       - EXIT
     bulletpoints:
       - Chief Disruption Officer at Serta Simmons
-      - Co-founder at TN.com (Bootstapped to $250MM ARR & Exited)
+      - Co-founder at TN.com (Bootstrapped to $250MM ARR & Exited)
       - EO and YPO
     content: >
       JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
@@ -464,6 +464,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
