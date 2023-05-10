@@ -749,7 +749,7 @@ team:
       - GROWTH
       - TECH
       - OPS
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Partner at Paper Latern
       - Head of Marketing at Thrive Market
@@ -860,6 +860,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
