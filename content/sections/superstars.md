@@ -197,12 +197,17 @@ team:
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
+      - LEGAL
       - STRATEGY
       - FUNDING
       - TECH
       - WEB3
       - EXIT
-    content: ''
+    bulletpoints:
+      - Founder at Trajectory Capital
+      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
+      - CEO & Founder at MediaTrust
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500. \n"
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -496,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
