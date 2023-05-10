@@ -54,26 +54,25 @@ team:
       - 3x Exited Founder
     content: >
       Barry's the Founder & CEO of SUPERNOVA (1supernova.com), the #1 exited
-      founder community serving as all-star advisory teams for startups changing
-      the world. Barry is also the co-founder and chief heart officer of 1heart
-      (1heart.com), a human accelerator and close-knit community of 800+ alumni
-      worldwide. 
-
-
-      Barry's been an Entrepreneur-in-Residence at 500 Global (500.co), the most
-      active global venture capital firm in the world (#1 in VC Deal Counts &
-      Exits). He is also the Founding Advisor to many high-growth startups
-      including Arora Project (exit to Republic.com), Colossal Biosciences
-      (colossal.com; $150M Series B at 1.5Bn valuation), and Tuft & Needle
-      (TN.com bootstrapped to $250MM ARR and merged with Serta Simmons Bedding).
-
-
-      Barry built and sold his first startup INBOX Marketing in San Francisco to
-      Responsys pre-IPO and exited to Oracle for $1.6 Billion in 2006. Barry's
-      been an intrapreneur, as Global Practice Leader of Strategy & Innovation
-      at Acxiom (NASDAQ: ACXM), where he helped build a business unit from
-      scratch to $315MM annual revenues that sold to IPG for $2.3 Billion in
-      2018.
+      founder community. Barry is o the co-founder of 1heart (1heart.com), a
+      'human accelerator' enriching the work/life of leaders. Barry  is the
+      former Entrepreneur-in-Residence at 500 Global (500.co), the most active
+      global venture capital firm in the world (#1 in VC Deal Counts & Exits).
+      He is also the Founding Advisor to many high-growth startups including
+      Arora Project (exit to Republic.com), Colossal Biosciences (colossal.com;
+      $150M Series B at 1.5Bn valuation), and Tuft & Needle (TN.com bootstrapped
+      to $250MM ARR and merged with Serta Simmons Bedding). Barry built and sold
+      his first startup INBOX Marketing in San Francisco to Responsys pre-IPO
+      and exited to Oracle for $1.6 Billion in 2006. Barry's been an
+      intrapreneur, as Global Practice Leader of Strategy & Innovation at Acxiom
+      (NASDAQ: ACXM), where he helped build a business unit from scratch to
+      $315MM annual revenues that sold to IPG for $2.3 Billion in 2018. Barry
+      has been a paid consultant to 20% of the Fortune 500 (1 in 5 companies)
+      and advised dozens of top startup founders with 50+ public written
+      references on Linkedin. He is a growth catalysts and subject matter expert
+      in personal and professional transformation. He is one of the 100 Most
+      Influential Leaders in Technology (Techweek). Barry is a keynote speaker
+      and panelist for 30+ events worldwide. 
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department:
@@ -431,6 +430,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
