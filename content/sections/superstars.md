@@ -109,10 +109,27 @@ team:
       - FUNDING
       - IMPACT
       - WEB3
-    content: |
-      * Partner at Mayfield Fund
-      * Partner at Norwest Venture Partners
-      * Board Member at Grove
+    bulletpoints:
+      - Partner at Mayfield Fund
+      - Partner at Norwest Venture Partners
+      - Board Member at Grove
+    content: >
+      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
+      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
+      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
+      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
+      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
+      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
+      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
+      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
+      He was also actively involved with the boards of Placeware (acquired by
+      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
+      by private equity syndicate). Tim received his MBA from the Stanford
+      Graduate School of Business, where he graduated in the top 10% of his
+      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
+      Electrical Engineering from the University of Michigan, where he was a
+      Departmental Scholar and received a full PhD fellowship.
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     department:
@@ -444,6 +461,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
