@@ -397,7 +397,7 @@ team:
       enlightened masters – an experience he cherishes most in his life. Much of
       which he has synthesize in his two critically acclaimed books : Many Path,
       Many Truths : A Journey through world religions that have shaped the 20th
-      century Humanity and Ayam : Discover your Beautiful Self. Dr. Leo Rastogi
+      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist. 
   - name: Andrew Sturner
@@ -603,6 +603,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
