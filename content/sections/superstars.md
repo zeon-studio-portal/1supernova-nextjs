@@ -211,6 +211,7 @@ team:
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
+      - IMPACT
       - TECH
       - PRODUCT
       - LEADERSHIP
