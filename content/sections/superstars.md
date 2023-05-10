@@ -412,7 +412,7 @@ team:
     bulletpoints:
       - ''
     content: >
-      ANDREW STURNER has been navigating the high seas of entrepreneurship for
+      Andrew Sturner has been navigating the high seas of entrepreneurship for
       the more than three decades. A
 
 
@@ -704,6 +704,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
