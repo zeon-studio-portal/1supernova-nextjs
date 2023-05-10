@@ -372,6 +372,7 @@ team:
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department:
+      - LEGAL/IP
       - STRATEGY
       - OPS
       - TECH
@@ -603,6 +604,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
