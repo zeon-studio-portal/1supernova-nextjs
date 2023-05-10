@@ -750,7 +750,36 @@ team:
       - TECH
       - OPS
       - EXIT
-    content: ''
+    bulletpoints:
+      - Partner at Paper Latern
+      - Head of Marketing at Thrive Market
+      - Co-founder INBOX Marketing (Exited)
+    content: >
+      Juston Brommel is the founder of Paper Lantern, a strategic advisory and
+      commercialization firm that partners with companies to drive valuation,
+      capitalization, growth, profitability, impact and exits. Juston Brommel is
+      a serial entrepreneur (CEO, CSO, CRO, CMO, COO), investor, company
+      builder, and trusted advisor to CEOs, boards, investors, and senior teams.
+      In 2007 Juston sold his first startup INBOX Marketing, a SaaS Martech co,
+      to Responsys pre-IPO and exited to Oracle for $1.6B. Juston moved from
+      silicon valley to LA to help build the silicon beach community, where his
+      venture studio helped launch Thrive Market, a DTC impact brand w/$80M run
+      rate in year one, IPO imminent). He has partnered with over 50 high-growth
+      startups and Fortune 500 companies including: StubHub (acquired by eBay),
+      philosophy (acquired by Coty), 7Hands (hemp/cbd), Ad:Tech (Sold to dmg),
+      Adorama Camera, Allstate, Anchor (cannabis tech), Anomaly, AOL, Art of
+      Charm, AT\&T, Best Buy, Disney, Dow Corning, E-Loan, Forrester Research,
+      Fortune Magazine, Gevalia, Hcareers, Intrawest Resorts, Key Bank, Kraft
+      Foods, Lego, Lending Tree, LoveTV, Lumenis, Nidek, Orbitz, Quill, Quicken
+      Loans, Scotiabank, See's Candies, Starcom MediaVest Group, The Hero
+      Company, Thomson Reuters, Time Inc, Titan Gaming, Trend Micro, Uplift.love
+      (media / foundation), Virgin America, WeDeepen, Wells Fargo, WherezHemp,
+      WuTang Clan/Wu Music Group, and Xfire Gaming (Spun-out of MTV). Juston
+      speaks and publishes on emerging digital business trends (web 3,
+      collaboration, DAOs, AI, stakeholder participation models). He lives with
+      his wife Vanessa in Santa Monica California and enjoys traveling, hiking,
+      biking, yoga, meditation, conscious community, health & wellness, and
+      progressing positive planetary change.
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
@@ -833,6 +862,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
