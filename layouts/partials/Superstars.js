@@ -37,7 +37,13 @@ const Advisory = ({ superstars }) => {
       <section id="superstars" className="py-24">
         <div className="container">
           <div className="text-center">
-            <div data-aos="fade-up-sm">{markdownify(superstars.frontmatter.title, "h2", "font-medium mb-4")}</div>
+            <div data-aos="fade-up-sm">
+              {markdownify(
+                superstars.frontmatter.title,
+                "h2",
+                "font-medium mb-4"
+              )}
+            </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(
                 superstars.frontmatter.subtitle,
@@ -55,7 +61,11 @@ const Advisory = ({ superstars }) => {
             </div>
           </div>
 
-          <div className="mb-10 overflow-x-auto" data-aos="fade-in" data-aos-delay="250">
+          <div
+            className="mb-10 overflow-x-auto"
+            data-aos="fade-in"
+            data-aos-delay="250"
+          >
             <div className="mt-20 flex text-left sm:flex-wrap">
               {superstars.frontmatter.group_list.map((item, index) => (
                 <div
@@ -81,7 +91,10 @@ const Advisory = ({ superstars }) => {
             </div>
           </div>
 
-          <div className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6" data-aos="fade-in">
+          <div
+            className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6"
+            data-aos="fade-in"
+          >
             {slicedMember.map((item, i) => (
               <div
                 key={i}
@@ -103,39 +116,40 @@ const Advisory = ({ superstars }) => {
                       />
                     </div>
                     <div className="team-card-author-content">
-                      <h3 className="mb-1 text-[18px] font-semibold leading-snug">
+                      <h3 className="my-2 text-[18px] font-semibold leading-snug">
                         {item.name}
                       </h3>
-                      <div className="text-[#868686] group-[.active]:text-primary-200 leading-[1.3] text-[16px]">
-                        {item.department.map((d, i) => (
-                          <small key={d}>
-                            {d}
-                            {i < item.department.length - 1 ? ", " : ""}
-                          </small>
-                        ))}
+                      <div className="text-[16px] leading-[1.3] text-[#868686] group-[.active]:text-primary-200">
+                        <ul className="text-left">
+                          {item.bulletpoints?.map((d, i) => (
+                            <li className="list-disc" key={i}>
+                              {d}
+                            </li>
+                          ))}
+                        </ul>
                       </div>
                     </div>
                   </div>
                   <div className="team-card-content">
                     {markdownify(
                       item.content,
-                      "p",
+                      "div",
                       "text-[16px] font-medium text-dark-primary"
                     )}
                     {item.brands && (
-                    <ul className="mt-5">
-                      {item.brands.map((b, i) => (
-                        <li key={i} className="inline-block mx-3">
-                          <Image
-                            src={b}
-                            alt="brand logo"
-                            className="w-auto"
-                            width={100}
-                            height={40}
-                          />
-                        </li>
-                      ))}
-                    </ul>
+                      <ul className="mt-5">
+                        {item.brands.map((b, i) => (
+                          <li key={i} className="mx-3 inline-block">
+                            <Image
+                              src={b}
+                              alt="brand logo"
+                              className="w-auto"
+                              width={100}
+                              height={40}
+                            />
+                          </li>
+                        ))}
+                      </ul>
                     )}
                   </div>
                 </div>

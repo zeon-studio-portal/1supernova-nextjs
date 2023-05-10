@@ -72,6 +72,18 @@ const superstars = {
           type: "image",
         },
         {
+          label: "Department",
+          name: "department",
+          type: "string",
+          list: true,
+        },
+        {
+          label: "Bulletpoints",
+          name: "bulletpoints",
+          type: "string",
+          list: true,
+        },
+        {
           label: "Content",
           name: "content",
           type: "rich-text",
@@ -79,13 +91,7 @@ const superstars = {
         {
           label: "Brands",
           name: "brands",
-          type: "string",
-          list: true,
-        },
-        {
-          label: "Department",
-          name: "department",
-          type: "string",
+          type: "image",
           list: true,
         },
       ],

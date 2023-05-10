@@ -41,15 +41,18 @@ const Header = () => {
   useEffect(() => {
     const anchors = document.querySelectorAll("a[href*='#']");
     for (let anchor of anchors) {
-      anchor.addEventListener("click", function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute("href").replace("/", "")).scrollIntoView({
-          behavior: "smooth",
+      if (asPath === "/") {
+        anchor.addEventListener("click", function (e) {
+          e.preventDefault();
+          document
+            .querySelector(this.getAttribute("href").replace("/", ""))
+            .scrollIntoView({
+              behavior: "smooth",
+            });
         });
       }
-      );
     }
-  }, []);
+  }, [asPath]);
 
   return (
     <header className={`header ${toggleNavbar ? "navbar-open" : ""}`}>

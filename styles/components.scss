@@ -9,10 +9,10 @@
 }
 
 // AOS Style
-[data-aos=fade-up-sm] {
+[data-aos="fade-up-sm"] {
   transform: translate3d(0, 30px, 0);
 }
-[data-aos=rotate] {
+[data-aos="rotate"] {
   opacity: 0;
   transform: rotateZ(360deg);
   transition-property: transform, opacity;
@@ -220,7 +220,7 @@
   &:hover {
     .team-card {
       &-body {
-        @apply z-50 sm:w-[380px] w-full sm:rounded-[64px] rounded-2xl bg-white sm:absolute;
+        @apply z-50 w-full rounded-2xl bg-white sm:absolute sm:w-[380px] sm:rounded-[64px];
         h3 {
           @apply text-dark-primary;
         }
@@ -238,6 +238,9 @@
           @apply text-left;
           > div > small {
             @apply text-primary-200;
+          }
+          ul {
+            @apply hidden;
           }
         }
       }
