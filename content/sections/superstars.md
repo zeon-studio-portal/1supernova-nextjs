@@ -789,7 +789,7 @@ team:
     bulletpoints:
       - Founder & CEO of 2Swell
       - Advisor of Blinkist (Exited to Go1)
-      - CEO of getAbstract
+      - 'CEO of getAbstract '
     content: >
       Michel is a growth advisor and executive coach to high performing business
       executives. He is the Founder and CEO at 2Swell and CxO Coaching and has
@@ -882,6 +882,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
