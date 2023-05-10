@@ -179,7 +179,21 @@ team:
       - Founder & MP at Nfluence Partners
       - Managing Director at Headwaters
       - Founder & CEO at Luna (Exited)
-    content: ''
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University,
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -482,6 +496,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
