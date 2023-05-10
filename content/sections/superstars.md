@@ -644,7 +644,7 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - Senior Advisor (M&A) at Mastercard
-      - SVP Product at Mastercard
+      - 'SVP Product at Mastercard, Merchant Loyalty'
       - Co-founder at SessionM (Exit to Mastercard)
     content: >
       Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
@@ -783,6 +783,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
