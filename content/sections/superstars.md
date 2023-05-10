@@ -343,7 +343,18 @@ team:
       - FUNDING
       - WEB3
       - IMPACT
-    content: ''
+    bulletpoints:
+      - Founder at Apollo (Series C)
+      - Venture Partner at Joyfund
+      - 'S14’, W16’ at Y-Combinator'
+    content: >
+      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
+      platform used by +30,000 organizations and +1MM users to drive revenue.
+      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
+      Apollo to provide business intelligence and drive revenue growth. Backed
+      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
+      the Joy Fund and Partner in Lionheart Ventures. He started his career at
+      McKinsey & Co.
   - name: Tim Sae Koo
     image: /images/102929.png
     department:
@@ -565,6 +576,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
