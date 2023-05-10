@@ -239,6 +239,7 @@ team:
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
+      - LEGAL
       - EXITED FOUNDER
       - TECH
       - PRODUCT
