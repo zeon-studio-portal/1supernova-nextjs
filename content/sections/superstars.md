@@ -415,7 +415,9 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - ''
+      - Founder & MP at Entourage Effect Capital
+      - Co-founder at Boatsetter (Series B)
+      - Founder at Interactive Services (Exited)
     content: >
       Andrew Sturner has been navigating the high seas of entrepreneurship for
       the more than three decades. Andy is an impact investor and has been
@@ -437,7 +439,7 @@ team:
       2016, after studying the burgeoning legal cannabis landscape, Andy began
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
-      event. 
+      event.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -666,6 +668,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
