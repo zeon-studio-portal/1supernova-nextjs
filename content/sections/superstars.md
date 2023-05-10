@@ -776,10 +776,8 @@ team:
       (media / foundation), Virgin America, WeDeepen, Wells Fargo, WherezHemp,
       WuTang Clan/Wu Music Group, and Xfire Gaming (Spun-out of MTV). Juston
       speaks and publishes on emerging digital business trends (web 3,
-      collaboration, DAOs, AI, stakeholder participation models). He lives with
-      his wife Vanessa in Santa Monica California and enjoys traveling, hiking,
-      biking, yoga, meditation, conscious community, health & wellness, and
-      progressing positive planetary change.
+      collaboration, DAOs, AI, stakeholder participation models). He is based in
+      Santa Monica, California.
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
@@ -862,6 +860,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
