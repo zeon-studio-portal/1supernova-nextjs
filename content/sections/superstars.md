@@ -92,7 +92,16 @@ team:
       - TECH
       - SCALING
       - EXIT
-    content: ''
+    bulletpoints:
+      - Chief Disruption Officer at Serta Simmons
+      - Co-founder at TN.com (Merged w/ Serta Simmons)
+      - EO and YPO
+    content: >
+      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
+      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
+      ARR profitably in 5 years, grew to 150 employees, and delivered "The
+      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
+      industry's lowest return rate (\< 5%).
   - name: Tim Chang
     image: /images/superstars/timchang.png
     department:
@@ -435,6 +444,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
