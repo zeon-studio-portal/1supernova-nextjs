@@ -499,7 +499,7 @@ team:
       - STRATEGY
       - TALENT
       - LEADERSHIP
-      - LEGAL
+      - LEGAL/IP
     bulletpoints:
       - Founder of Xenex Healthcare Services
       - Fellow at IDSA & Royal Society of Medicine
@@ -685,6 +685,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
