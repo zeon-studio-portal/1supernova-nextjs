@@ -823,6 +823,7 @@ team:
     bulletpoints:
       - CEO & Founder at Usko Privacy
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
     content: >
       Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
       Council Technology Committee. Co-Founded Wyncode, South Florida Business
@@ -894,6 +895,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
