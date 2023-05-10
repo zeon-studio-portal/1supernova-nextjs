@@ -301,7 +301,18 @@ team:
       - Founder & CEO at Intelepeer (Series B)
       - CTO at ADC Telecom
       - Founder of CommTech (Sold)
-    content: ''
+    content: >
+      Frank Fawzi is Founder & CEO at IntelePeer (Series B), a Communications
+      Platform as a Service (CPaaS) provider for enterprises. Fank has been
+      recognized by Deloitte’s Silicon Valley’s Fast 50 Rising Star. In March
+      2015, Mr. Fawzi was the recipient of the 2014 ‘Entrepreneur of the Year’
+      Award by Stevens Technology Institute. As well as the 2017 University of
+      Michigan/KPMG QuantumShift’s Top Entrepreneur in America award.  Frank is
+      the Founder of CommTech Corporation and sold to ADC for $178MM.  Prior to
+      founding CommTech, Frank worked at AT\&T Bell Laboratories where he was
+      the lead data communications architect on a team responsible for AT\&T
+      being awarded a $1.4 billion contract from the U.S. Internal Revenue
+      Service. 
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
@@ -541,6 +552,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
