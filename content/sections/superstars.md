@@ -781,8 +781,30 @@ team:
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
-      - 'GROWTH, SCALE, LEADERSHIP'
-    content: ''
+      - STRATEGY
+      - IMPACT
+      - HR
+      - LEADERSHIP
+      - GROWTH
+    bulletpoints:
+      - Founder & CEO of 2Swell
+      - Advisor of Blinkist (Exited to Go1)
+      - CEO of getAbstract
+    content: >
+      Michel is a growth advisor and executive coach to high performing business
+      executives. He is the Founder and CEO at 2Swell and CxO Coaching and has
+      advised many leading startups including Blinkist (Series C) who recently
+      exited to Go1. Michel has held many executive roles including: Executive
+      Chairman at ARMS Medical, Co-Founder Partner at Bond Growth, Chief
+      Commercial Officer at Banyan Medical, CEO at getAbstract, Managing
+      Director at Citrix Systems, as well as other board and advisory positions.
+      He is a servant leader focused on growing companies by delivering new
+      go-to-market strategies and elevating teams to perform at their full
+      potential. He is a Forbes Business Council Member and has been published
+      and mentioned in over 80 articles in media outlets like Forbes.com, The
+      Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
+      others. Michel is a Magna Cum Laude graduate of The George Washington
+      University School of Business. He is based in Miami, Florida.
   - name: Felix van der Sand
     image: /images/superstars/felixvandersand.png
     department:
@@ -860,6 +882,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
