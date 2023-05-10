@@ -546,8 +546,27 @@ team:
       - OPS
       - FUNDING
       - WEB3
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - ''
+      - Founder & MP of C4+
+      - Founder at Infinite Esports (Exited)
+    content: >
+      Chris Chaney is the Founder & Managing Partner of C4+, his personal
+      investment and advisory firm partnering with likable entrepreneurs across
+      sports, esports and gaming. Portfolio companies include TMRW Sports,
+      Community Gaming and Versusgame. Chris the co-founder of Ephere Football,
+      a venture-backed web3 game studio currently building a football management
+      game that is deeply rooted in the power of the global football community -
+      led by Agustín Rodrígues. Chris is the Co-founder of Limitless Studios is
+      a female-led venture-backed media company geared toward providing children
+      around the world with entertaining content, relatable characters, and
+      important life lessons by leveraging high-quality 3D animation - led by
+      Agnes Soyode-Johnson. Chris graduated from Princeton University where his
+      activities and societies included: Student Manager, Men’s Basketball Team;
+      Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
+      America Conference; Founder, Princeton’s Charity Basketball Tournament. He
+      is based in Dallas, Texas.
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
@@ -723,6 +742,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
