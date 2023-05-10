@@ -291,11 +291,14 @@ team:
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department:
+      - LEGAL/IP
       - LEADERSHIP
       - FUNDING
       - SCALING
       - M&A
-      - EXIT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Intelepeer (Series B)
     content: ''
   - name: Caleb Jones
     image: /images/Caleb.jpeg
@@ -536,6 +539,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
