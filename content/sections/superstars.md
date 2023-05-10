@@ -493,9 +493,9 @@ team:
       - WEB3
       - EXITED FOUNDER
     bulletpoints:
-      - ''
       - Founder & MP of C4+
       - Founder at Infinite Esports (Exited)
+      - Co-founder of Limitless Studios
     content: >
       Chris Chaney is the Founder & Managing Partner of C4+, his personal
       investment and advisory firm partnering with likable entrepreneurs across
@@ -737,6 +737,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
