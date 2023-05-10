@@ -509,7 +509,7 @@ team:
 
 
       his 6th startup – Entourage Effect Capital to invest in this generational
-      wealth creation event.
+      wealth creation event. 
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -704,6 +704,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
