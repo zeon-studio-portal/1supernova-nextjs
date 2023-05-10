@@ -377,8 +377,29 @@ team:
       - TECH
       - PRODUCT
       - LEADERSHIP
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Minerva Health Ventures
+      - 'CEO, DTES of Happiest Minds'
+      - 3x Exited Founder
+    content: >
+      Leo is currently the co-founder of 6 companies gifting well-being to the
+      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
+      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
+      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
+      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
+      Business School with a PhD in Leadership. Leo also studied psychological
+      and neurobiological basis of Mindfulness and Meditation at Oxford
+      University and Kings College. He also briefly lived as Buddhist Monk - a
+      bookend to his multiple monastic sabbatical. Over two decades, Leo
+      travelled to 70+ countries, immersed himself in monastic experiences, led
+      retreats in the birthplaces of great civilizations and studied with
+      enlightened masters – an experience he cherishes most in his life. Much of
+      which he has synthesize in his two critically acclaimed books : Many Path,
+      Many Truths : A Journey through world religions that have shaped the 20th
+      century Humanity and Ayam : Discover your Beautiful Self. Dr. Leo Rastogi
+      is a rare blend of thought leader, author, successful entrepreneur,
+      philosopher, mindfulness mentor, monk and spiritual scientist. 
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -582,6 +603,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
