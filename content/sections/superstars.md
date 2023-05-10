@@ -111,7 +111,7 @@ team:
     bulletpoints:
       - Partner at Mayfield Fund
       - Partner at Norwest Venture Partners
-      - Board Member at Grove
+      - Midas List of top 100 VCs
     content: >
       Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
       invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
@@ -464,6 +464,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
