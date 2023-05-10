@@ -88,7 +88,7 @@ team:
       - PRODUCT
       - TECH
       - SCALING
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Chief Disruption Officer at Serta Simmons
       - Co-founder at TN.com ($250MM ARR & Merged with SSB)
@@ -501,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
