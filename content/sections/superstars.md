@@ -70,7 +70,7 @@ team:
       2018. Barry has been a paid consultant to 20% of the Fortune 500 (1 in 5
       companies)  He is one of the 100 Most Influential Leaders in Technology
       (Techweek). Barry is a keynote speaker and panelist for 30+ events
-      worldwide. 
+      worldwide.
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department:
@@ -167,7 +167,7 @@ team:
       - Founder & CEO at Colossal
       - Founder & CEO at Hypergiant
       - 5x Exited Founder
-    content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010). \n"
+    content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
@@ -207,7 +207,7 @@ team:
       - Founder at Trajectory Capital
       - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
       - CEO & Founder at MediaTrust
-    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500. \n"
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -247,7 +247,7 @@ team:
       - Founder & Investor at Weekend Fund
       - Founder at Product Hunt (Exit to AngelList)
       - EIR at TradeCraft
-    content: "Ryan Hoover is the Founder of\_[Product Hunt](https://www.crunchbase.com/organization/product-hunt) (exited to Angel List) a community of people sharing, upvoting, and geeking out about new technology products, games, and books. Ryan also invests in early stage startups through\_[Weekend Fund](https://techcrunch.com/2017/08/29/weekend-fund-is-ryan-hoovers-3m-angel-fund/). As a writer, Hoover has contributed to Hooked: How to Build Habit-Forming Products by\_[Nir Eyal](https://www.crunchbase.com/person/nir-eyal)\_and written many essays, including features for\_[TechCrunch](https://www.crunchbase.com/organization/techcrunch),\_[Forbes](https://www.crunchbase.com/organization/forbes), Pando,\_[Fast Company](https://www.crunchbase.com/organization/fast-company), and\_[The Next Web](https://www.crunchbase.com/organization/the-next-web). He writes about startup trends, product designs, and production growth on his blog, ryanhoover.me. Hoover graduated from\_[the University of Oregon](https://www.crunchbase.com/organization/university-of-oregon-2). \n"
+    content: "Ryan Hoover is the Founder of\_[Product Hunt](https://www.crunchbase.com/organization/product-hunt) (exited to Angel List) a community of people sharing, upvoting, and geeking out about new technology products, games, and books. Ryan also invests in early stage startups through\_[Weekend Fund](https://techcrunch.com/2017/08/29/weekend-fund-is-ryan-hoovers-3m-angel-fund/). As a writer, Hoover has contributed to Hooked: How to Build Habit-Forming Products by\_[Nir Eyal](https://www.crunchbase.com/person/nir-eyal)\_and written many essays, including features for\_[TechCrunch](https://www.crunchbase.com/organization/techcrunch),\_[Forbes](https://www.crunchbase.com/organization/forbes), Pando,\_[Fast Company](https://www.crunchbase.com/organization/fast-company), and\_[The Next Web](https://www.crunchbase.com/organization/the-next-web). He writes about startup trends, product designs, and production growth on his blog, ryanhoover.me. Hoover graduated from\_[the University of Oregon](https://www.crunchbase.com/organization/university-of-oregon-2).\n"
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
@@ -287,7 +287,7 @@ team:
       - SOCIAL
       - IMPACT
       - EXIT
-    content: ''
+    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
   - name: Frank Fawzi
     image: /images/superstars/frankfawzi-k.png
     department:
@@ -536,6 +536,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
