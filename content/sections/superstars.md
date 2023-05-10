@@ -152,8 +152,20 @@ team:
       - IMPACT
       - EXIT
     content: >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed explicabo
-      blanditiis cumque voluptate iusto delectus laboriosam mollitia!
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
@@ -464,6 +476,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
