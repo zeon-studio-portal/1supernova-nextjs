@@ -686,8 +686,35 @@ team:
       - PRODUCT
       - TALENT
       - WEB3
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Coinstack Partners
+      - Chairman at Hive Global
+      - CEO & Founder at iContact (Exited)
+    content: >
+      Ryan is the Founder & CEO of Hill Canyon (SaaS) and Coinstack Partners
+      (Web3), helping companies rapidly scale up and raise venture capital. Ryan
+      was the CEO & Co-Founder at iContact, growing the firm to 300 employees,
+      70,000 customers, $50M in annual sales, and an exit for $169 million. He
+      raised $47M in venture capital and made the INC 500 list three times as
+      one of the fastest-growing companies in the United States. Ryan is the
+      Chairman/Owner of Hive Digital an SEO/PPC agency, and Hive Global
+      (www.hive.org), a global community of purpose-driven leaders who are
+      creating a better world. With 3,600 alumni in 130 countries, Hive helps
+      leaders discover their purpose on the planet. He went to the University of
+      North Carolina in Chapel Hill, where I studied economics, and I have an
+      MBA from Harvard Business School where I was Co-President of the HBS
+      Social Enterprise Club. Ryan has been a Member of the United Nations
+      Global Entrepreneur Council and a former National Co-Chairperson for Tech
+      for Obama along with Reid Hoffman and Marc Benioff.  He is an early angel
+      investor in SpaceX, Robinhood, LendingClub, Matterport, Sprinklr, Zola,
+      Change.org, Catalant, Kuli Kuli, and many other startups that didn't make
+      it :). Ryan has been recognized as 30 Under 30 List By INC Magazine.,
+      Business Week’s 25 Entrepreneurs Under 25, Ernst & Young’s Entrepreneur of
+      the Year for the Carolinas, INC 500 -CEO of #81 Fastest Growing Company in
+      the United States, Author of Zero to One Million, published by
+      McGraw-Hill, #2 Amazon Best Seller, and is a Graduate of Ascension
+      Leadership Academy (ALA).
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department:
@@ -787,6 +814,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
