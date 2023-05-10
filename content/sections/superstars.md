@@ -233,7 +233,7 @@ team:
     bulletpoints:
       - President at Glo
       - CEO a Carenote (exited to Evite)
-      - Head of Ops at TikTok (Exit to Flipagram)
+      - Head of Ops at Flipagram (Exit to TikTok)
     content: ''
   - name: Peter Yared
     image: /images/superstars/peteryared.png
@@ -509,6 +509,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
