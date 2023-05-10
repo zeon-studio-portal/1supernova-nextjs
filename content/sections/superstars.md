@@ -229,7 +229,11 @@ team:
       - OPS
       - SCALING
       - LEGAL
-      - EXIT
+      - EXITED FOUNDER
+    bulletpoints:
+      - President at Glo
+      - CEO a Carenote (exited to Evite)
+      - Head of Operations at Flipagram (Exit to Bytedance)
     content: ''
   - name: Peter Yared
     image: /images/superstars/peteryared.png
@@ -505,6 +509,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
