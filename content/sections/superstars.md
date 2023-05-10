@@ -286,7 +286,7 @@ team:
       - TECH
       - SOCIAL
       - IMPACT
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founder at Richmond Global
       - 'Co-founder at Endeavor '
@@ -708,6 +708,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
