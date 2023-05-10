@@ -358,11 +358,17 @@ team:
   - name: Tim Sae Koo
     image: /images/102929.png
     department:
-      - GROWTH
+      - OPS
+      - TECH
+      - CULTURE
       - MARKETING
       - IMPACT
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder at 1heart.com
+      - Founder & CEO Tintup (Exited)
+      - 2 exits
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. \n"
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department:
@@ -576,6 +582,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
