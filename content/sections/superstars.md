@@ -202,7 +202,7 @@ team:
       - FUNDING
       - TECH
       - WEB3
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founder at Trajectory Capital
       - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
@@ -501,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
