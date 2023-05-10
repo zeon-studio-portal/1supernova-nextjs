@@ -99,6 +99,39 @@ team:
       ARR profitably in 5 years, grew to 150 employees, and delivered "The
       Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
       industry's lowest return rate (\< 5%).
+  - name: Lindsay Nahmiache
+    image: /images/superstars/team-thumb-15.png
+    department:
+      - MARKETING
+      - SOCIAL
+      - PR
+      - EXIT
+    bulletpoints:
+      - Founding Member of Legacy 8
+      - CMO at SongTradr
+      - Founder & CEO at Jive (Exited)
+    content: >
+      Lindsay is a founding member of Legacy 8, an early stage venture capital
+      fund that focuses on the intersection of science and consciousness.
+      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
+      relations agency in Los Angeles, Vancouver and Toronto as well as the
+      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
+      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
+      North America to start her first business after six years working abroad
+      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
+      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
+      Women by the Financial Post, an Enterprising Women of the Year, Top 40
+      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
+      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
+      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
+      Change Film Festival and a mentor for WXN (Women's Executive Network) and
+      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
+      financial literacy in youth. She built a financial literacy app for kids
+      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
+      Pig Savings). She has an honors degree (summa cum laude) from the
+      International University of London, UK, an Entrepreneurial Strategy
+      certificate from Harvard Business School and is an insatiable travel
+      junkie.
   - name: Tim Chang
     image: /images/superstars/timchang.png
     department:
@@ -127,32 +160,6 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
-    department:
-      - M&A
-      - STRATEGY
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & MP at Nfluence Partners
-      - Managing Director at Headwaters
-      - Founder & CEO at Luna (Exited)
-    content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University,
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -194,6 +201,32 @@ team:
       - Founder & CEO at Hypergiant
       - 5x Exited Founder
     content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
+    department:
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
+      - Founder & CEO at Luna (Exited)
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University,
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -208,39 +241,6 @@ team:
       - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
       - CEO & Founder at MediaTrust
     content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
-  - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
-    department:
-      - MARKETING
-      - SOCIAL
-      - PR
-      - EXIT
-    bulletpoints:
-      - Founding Member of Legacy 8
-      - CMO at SongTradr
-      - Founder & CEO at Jive (Exited)
-    content: >
-      Lindsay is a founding member of Legacy 8, an early stage venture capital
-      fund that focuses on the intersection of science and consciousness.
-      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
-      relations agency in Los Angeles, Vancouver and Toronto as well as the
-      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
-      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
-      North America to start her first business after six years working abroad
-      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
-      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
-      Women by the Financial Post, an Enterprising Women of the Year, Top 40
-      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
-      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
-      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
-      Change Film Festival and a mentor for WXN (Women's Executive Network) and
-      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
-      financial literacy in youth. She built a financial literacy app for kids
-      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
-      Pig Savings). She has an honors degree (summa cum laude) from the
-      International University of London, UK, an Entrepreneurial Strategy
-      certificate from Harvard Business School and is an insatiable travel
-      junkie.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -814,6 +814,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
