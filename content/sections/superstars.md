@@ -728,7 +728,20 @@ team:
       - Founder at Soul Seated Journey
       - GM & VP at Legal Zoom
       - Co-founder at Logrado (Exited)
-    content: "Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth development nonprofit. Tiffany was the CEO & Co-founder of Logrado (Exited), an ed-tech company. She was a Gates Foundation grant recipient. Tiffany served as a Fortune 50 executive as the General Manager and Vice President of Innovation and B2B Sales at Legalzoom (IPO) where she led the effort to expand the company's core business into emerging markets. Before LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled as part of the CIO staff where her business unit was responsible for strategic IT advisory, solution development, and partnership operations. Currently, Tiffany lives in the Santa Cruz mountains with her partner and their labradoodle, Momoe. Tiffany volunteers in her community and serves as the Transformation Executive Advisor for Tzu Chi Charitable Foundation, Malaysia.\_\n"
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
@@ -820,6 +833,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
