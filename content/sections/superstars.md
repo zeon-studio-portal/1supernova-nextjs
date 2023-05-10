@@ -641,7 +641,11 @@ team:
       - PRODUCT
       - TECH
       - WEB3
-      - EXIT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Senior Advisor (M&A) at Mastercard
+      - SVP Product at Mastercard
+      - Co-founder at SessionM (Exit to Mastercard)
     content: ''
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
@@ -761,6 +765,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
