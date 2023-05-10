@@ -239,11 +239,32 @@ team:
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
+      - EXITED FOUNDER
       - TECH
       - PRODUCT
       - SCALING
       - LEADERSHIP
-    content: ''
+    bulletpoints:
+      - CEO & Founder at InCountry
+      - CTO at CBS Interactive
+      - 6x Exited Founder
+    content: >
+      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
+      Residency-as-a-Service for SaaS and internal apps. Peter is also the
+      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
+      Peter previously founded six enterprise software companies that were
+      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
+      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
+      into the cloud with the end-to-end replatform of its Comscore #7 group of
+      Internet properties. At Sun, Peter was the CTO of the Application Server
+      Division and the CTO of the Liberty federated identity consortium that
+      created SAML 2. Peter is the inventor of several patents on core Internet
+      infrastructure, including federated single sign on and dynamic data
+      requests. He began programming games and utilities at age ten and started
+      his career developing systems for U.S. government agencies. Peter
+      regularly speaks and writes about technology trends and their impact on
+      society, and has written for the Wall Street Journal, BusinessWeek,
+      TechCrunch and VentureBeat.
   - name: Ryan Hoover
     image: /images/superstars/team-thumb-8.png
     department:
@@ -510,6 +531,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
