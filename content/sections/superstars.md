@@ -602,6 +602,10 @@ team:
       - GROWTH
       - FUNDING
       - IMPACT
+    bulletpoints:
+      - Founder at AI Dragons
+      - Certified Coach at OpenExO
+      - Grant Evaluator at EIT Health
     content: ''
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
@@ -737,6 +741,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
