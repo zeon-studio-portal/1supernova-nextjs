@@ -42,6 +42,7 @@ team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
     department:
+      - Impact
       - AI
       - STRATEGY
       - GROWTH
@@ -430,6 +431,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
