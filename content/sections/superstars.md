@@ -50,7 +50,7 @@ team:
       - EXIT
     bulletpoints:
       - CE& Co-founder at Supernova
-      - Co-founder at 1heart
+      - Co-founder at 1heart.com
       - 3x Exited Founder
     content: >
       Barry's the Founder & CEO of SUPERNOVA (1supernova.com), the #1 exited
@@ -430,6 +430,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
