@@ -127,20 +127,6 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Ben Lamm
-    image: /images/superstars/team-thumb-3.png
-    department:
-      - STRATEGY
-      - FUNDING
-      - SCALING
-      - HR
-      - SOCIAL
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & CEO at Colossal
-      - Founder & CEO at Hypergiant
-      - 5x Exited Founder
-    content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010). \n"
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -168,6 +154,20 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
+  - name: Ben Lamm
+    image: /images/superstars/team-thumb-3.png
+    department:
+      - STRATEGY
+      - FUNDING
+      - SCALING
+      - HR
+      - SOCIAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Colossal
+      - Founder & CEO at Hypergiant
+      - 5x Exited Founder
+    content: "Ben Lamm is the CEO & Founder of Colossal (C-backed; Series B $150M at 1.5Bn valuation).\_He is the Co-founder/CEO of Hypergiant Industries and Co-founder/Board Member of Worlds. His last 5 companies exited including: Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010). \n"
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
@@ -236,6 +236,18 @@ team:
       - CEO a Carenote (exited to Evite)
       - Head of Ops at Flipagram (Exit to TikTok)
     content: ''
+  - name: Ryan Hoover
+    image: /images/superstars/team-thumb-8.png
+    department:
+      - PRODUCT
+      - TECH
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & Investor at Weekend Fund
+      - Founder at Product Hunt (Exit to AngelList)
+      - EIR at TradeCraft
+    content: "Ryan Hoover is the Founder of\_[Product Hunt](https://www.crunchbase.com/organization/product-hunt) (exited to Angel List) a community of people sharing, upvoting, and geeking out about new technology products, games, and books. Ryan also invests in early stage startups through\_[Weekend Fund](https://techcrunch.com/2017/08/29/weekend-fund-is-ryan-hoovers-3m-angel-fund/). As a writer, Hoover has contributed to Hooked: How to Build Habit-Forming Products by\_[Nir Eyal](https://www.crunchbase.com/person/nir-eyal)\_and written many essays, including features for\_[TechCrunch](https://www.crunchbase.com/organization/techcrunch),\_[Forbes](https://www.crunchbase.com/organization/forbes), Pando,\_[Fast Company](https://www.crunchbase.com/organization/fast-company), and\_[The Next Web](https://www.crunchbase.com/organization/the-next-web). He writes about startup trends, product designs, and production growth on his blog, ryanhoover.me. Hoover graduated from\_[the University of Oregon](https://www.crunchbase.com/organization/university-of-oregon-2). \n"
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
@@ -266,14 +278,6 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
-  - name: Ryan Hoover
-    image: /images/superstars/team-thumb-8.png
-    department:
-      - PRODUCT
-      - TECH
-      - FUNDING
-      - EXIT
-    content: ''
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -532,6 +536,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
