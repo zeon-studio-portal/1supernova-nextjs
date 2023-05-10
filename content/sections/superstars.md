@@ -811,7 +811,7 @@ team:
       - GROWTH
       - SALES
       - HR
-      - EXIT
+      - EXITED FOUNDER
     content: ''
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
@@ -820,7 +820,19 @@ team:
       - STRATEGY
       - COMMUNITY
       - EXIT
-    content: ''
+    bulletpoints:
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+    content: >
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
@@ -882,6 +894,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
