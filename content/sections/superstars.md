@@ -408,8 +408,108 @@ team:
       - TECH
       - LEADERSHIP
       - SCALING
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - ''
+    content: >
+      ANDREW STURNER has been navigating the high seas of entrepreneurship for
+      the more than three decades. A
+
+
+      seasoned executive with a proven track record of creating innovative
+      partnerships and joint ventures in Tech,
+
+
+      Media, Real Estate and Cannabis. He has significant experience growing
+      companies with an emphasis on
+
+
+      leadership development. Andy is an impact investor and has been described
+      as a “provocateur” with a passion for
+
+
+      guiding executives through complex situations. He is equally comfortable
+      working with family-owned businesses
+
+
+      as he is working with CEOs of large organizations solving complex issues
+      for institutional investors. After a stint as
+
+
+      a bankruptcy attorney at Stroock & Stroock & Lavan in NYC, Andy traded in
+      his suit for jeans and went on to
+
+
+      participate as an executive in six startups, two of which he guided
+      through IPOs as well as multiple exits. By way
+
+
+      of background, in 1993, he sold his first startup to MovieFone, where he
+      served as VP of Business Development
+
+
+      (IPO’d ‘94 and sold to AOL ‘99). A few years later, at the dawn of the
+      internet, he moved his family to south Florida
+
+
+      where he joined the founder of Sportsline.com (IPO’d in ‘97 and sold to
+      CBS ‘04) launching one of the world’s first
+
+
+      commercial websites in 1995. After a successful career in the tech
+      industry, Andy decided to wed his tech expertise
+
+
+      with his love of boating, and he founded Aqua Marine Partners, owner and
+      operator of a portfolio of marina real
+
+
+      estate and incubator of marine technology companies with a focus on
+      innovation (founded in 2002 and sold to an
+
+
+      Equity Lifestyles (NYSE: ELS) joint venture in ‘20). As a seasoned
+      start-up executive and mentor to many startups,
+
+
+      in 2010, Andy and a few fellow YPO members observed that the South Florida
+      tech eco-system needed a shot in the
+
+
+      arm, so they co-founded one of the first Miami-based angel investment
+      groups now caled Miami Angels. Andy is
+
+
+      very active in the South Florida start-up community and is an investor and
+      on the board of a handful of media,
+
+
+      retail and technology companies. In 2012, Andy received an investment
+      pitch for a concept to create the “Airbnb of
+
+
+      boats.” Having run his own marina portfolio for more than a decade, and
+      having witnessed the effects of
+
+
+      declining boat activity, Andy readily perceived the advantages of a
+      peer-to-peer boat sharing scheme. Switching
+
+
+      his investor cap for his entrepreneurial one, Andy co-founded
+      Boatsetter.com and launched his 5th startup – a
+
+
+      website that combines the rental mechanics of Airbnb with the on-demand
+      labor dynamics of Uber. In 2016, after
+
+
+      studying the burgeoning legal cannabis landscape, Andy began investing in
+      the space and ultimately co-founded
+
+
+      his 6th startup – Entourage Effect Capital to invest in this generational
+      wealth creation event.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -604,6 +704,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
