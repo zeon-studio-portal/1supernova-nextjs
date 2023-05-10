@@ -316,16 +316,25 @@ team:
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
+      - OPS
       - AI
       - TECH
       - GROWTH
       - FUNDING
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founder & CEO of Ink
       - Advisor to Tellus Investment Partners
-      - Co-founder of Code Pilot (Acquired by AngelList)
-    content: ''
+      - Co-founder of Code Pilot (Exited to AngelList)
+    content: >
+      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
+      solution. Caleb was the co-founder and COO of Code Pilot (exited to
+      AngeList), an online platform that provides production-grade development
+      environments with coding analytics to train, test, and assess software
+      developers skills and behavioral adaptability. He is also an advisor to
+      Tellus Investment Partners, a select group of family offices and
+      agribusiness professionals leveraging their resources to create
+      proprietary investment opportunities. 
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
@@ -556,6 +565,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
