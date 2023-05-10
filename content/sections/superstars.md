@@ -175,6 +175,10 @@ team:
       - STRATEGY
       - FUNDING
       - EXIT
+    bulletpoints:
+      - Founder & CEO at Luna (Exited)
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
     content: ''
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
@@ -478,6 +482,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
