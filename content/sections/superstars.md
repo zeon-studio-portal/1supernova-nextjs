@@ -135,7 +135,7 @@ team:
       - SCALING
       - HR
       - SOCIAL
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founder & CEO at Colossal
       - Founder & CEO at Hypergiant
@@ -501,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
