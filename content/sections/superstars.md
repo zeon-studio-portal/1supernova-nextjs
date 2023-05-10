@@ -174,7 +174,7 @@ team:
       - M&A
       - STRATEGY
       - FUNDING
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founder & MP at Nfluence Partners
       - Managing Director at Headwaters
@@ -501,6 +501,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
