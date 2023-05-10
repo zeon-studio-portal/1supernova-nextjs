@@ -521,12 +521,24 @@ team:
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
+      - HR
       - PRODUCT
       - TECH
       - FUNDRAISING
       - STRATEGY
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - Investor & Advisor at InRoad Ventures
+      - Co-founder Rallytream (Exited to Workday)
+      - 'Mentor at TechStars '
+    content: >
+      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
+      investments for the family office. He has invested in 40+ startups with 4
+      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
+      Grin). Dan is the co-founder at Rallyteam, a venture backed talent
+      management platform (exited to Workday). He is a Canadian Serial
+      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
+      based in Silicon Valley.  
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department:
@@ -685,6 +697,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
