@@ -225,7 +225,7 @@ team:
       systems integration firm. Luna Communications was sold to a publicly
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University,
+      from Stanford University.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -240,7 +240,7 @@ team:
       - Founder at Trajectory Capital
       - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
       - CEO & Founder at MediaTrust
-    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500. \n"
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -498,7 +498,7 @@ team:
       nearly 2 years as COO of a seed stage family office, managing internal
       operations, overseeing a portfolio of 150+ companies, leading his own
       investments, and serving on boards. Jonathan also co-founded his own
-      investment firm with two other GPs. 
+      investment firm with two other GPs.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -655,7 +655,7 @@ team:
       as an Endeavor entrepreneur. A business and technology savvy
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication. 
+      solving and communication.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -690,7 +690,7 @@ team:
       customer engagement, artificial intelligence and game theory. He started
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts. 
+      providers. He is based in Boston, Massachusetts.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
@@ -863,7 +863,7 @@ team:
       Counseling & Wellness (exited to Mindpath Health), the leading provider of
       mental health support in the Isla Vista community. Brett grow the company
       to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
-      at UC Santa Barbara. 
+      at UC Santa Barbara.
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
@@ -964,6 +964,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
 ---
+
 
 
 
