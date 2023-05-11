@@ -907,7 +907,11 @@ team:
       - FUNDING
       - IMPACT
       - LEADERSHIP
-    content: ''
+    bulletpoints:
+      - Principal at Aquarian Holdings
+      - CMO of ClashTV
+      - Managing Director at Guggenheim Partners
+    content: "Anthony is a Principal at Aquarian Holdings, a private holding company that brings strategic capital, insight, and resources to high-potential\_companies across a range of industries, with a focus on insurance and financial services, to help them create\_long-term value. He was the CMO of ClashTV, an interactive live streaming platform built to connect fans with the content and culture they love. Anthony is a Senior Advisor and former Managing Director of Afina International, business builders with a focus on agriculture, food, human health & nutrition, and LatAm cross-border trade and finance. He was the Managing Director of Brand Marketing & Communications at Guggenheim Partners where he served as head of Corporate Communications and the Human Capital Committee. He is the former Executive Director of Corporate Affairs at Morgan Stanley.\n"
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department:
@@ -924,6 +928,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
