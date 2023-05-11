@@ -69,7 +69,7 @@ team:
       $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
       Fortune 500.  He is one of the 100 Most Influential Leaders in Technology
       (Techweek). Barry is a keynote speaker for 30+ events worldwide. He is
-      based in Charleston, SC. 
+      based in Charleston, SC.
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department:
@@ -104,7 +104,7 @@ team:
       - MARKETING
       - SOCIAL
       - PR
-      - EXIT
+      - EXITED FOUNDER
     bulletpoints:
       - Founding Member of Legacy 8
       - CMO at SongTradr
@@ -557,7 +557,7 @@ team:
       co-founder and ceo of Teder.ai, an personalized education company. Luciana
       led the creation of the Fluid Blockchain Accelerator and served as Head of
       Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures. 
+      founders and their ventures.
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -677,7 +677,7 @@ team:
       customer engagement, artificial intelligence and game theory. He started
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts. 
+      providers. He is based in Boston, Massachusetts.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
@@ -846,7 +846,7 @@ team:
       Counseling & Wellness (exited to Mindpath Health), the leading provider of
       mental health support in the Isla Vista community. Brett grow the company
       to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
-      at UC Santa Barbara.  
+      at UC Santa Barbara.
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
@@ -896,7 +896,7 @@ team:
       - 'Venture Fellow at NewChip Accelerator '
       - Managing Partner at Megacap Capital
       - Founder at GoCase (Exited)
-    content: "Eli Blatt is a Venture Fellow at NewChip Accelerator, helping other Founders by mentoring early stage startups. Eli is the Founder & MP of MegaCap Capital, offering Special Purpose Vehicles containing secondary market shares. Since their first deal in late 2021, they have raised over $10M from investors for numerous SPVs, including SpaceX, Betterment, FTX and others. Eli was the Founder & CEO of BitFinance, a Public Benefit Corp with the mission of democratizing finance via the blockchain.\_He was the Founder of Co-Case (Exited), a premium accessories for portable electronics sold in over 500 retail and online stores worldwide, including every Best Buy Canada store.\_ Eli was the Head of Player Insights (Competitive Benchmarking) at Zynga, a global leader in interactive entertainment with a mission to connect the world through games. He also was the Chief Scientist at Brookeside Group, the World's authority on measuring and building customer loyalty. Eli earned his PhD from Stanford University, TRIUM Global Executive MBA (Joint Global Executive MBA Program between NYU Stern, London School of Economics, and HEC Paris), and undergraduate degree from Brown University. \n"
+    content: "Eli Blatt is a Venture Fellow at NewChip Accelerator, helping other Founders by mentoring early stage startups. Eli is the Founder & MP of MegaCap Capital, offering Special Purpose Vehicles containing secondary market shares. Since their first deal in late 2021, they have raised over $10M from investors for numerous SPVs, including SpaceX, Betterment, FTX and others. Eli was the Founder & CEO of BitFinance, a Public Benefit Corp with the mission of democratizing finance via the blockchain.\_He was the Founder of Co-Case (Exited), a premium accessories for portable electronics sold in over 500 retail and online stores worldwide, including every Best Buy Canada store.\_ Eli was the Head of Player Insights (Competitive Benchmarking) at Zynga, a global leader in interactive entertainment with a mission to connect the world through games. He also was the Chief Scientist at Brookeside Group, the World's authority on measuring and building customer loyalty. Eli earned his PhD from Stanford University, TRIUM Global Executive MBA (Joint Global Executive MBA Program between NYU Stern, London School of Economics, and HEC Paris), and undergraduate degree from Brown University.\n"
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department:
@@ -909,7 +909,7 @@ team:
       - Founder & CEO at Evo
       - Head of Data & Innovation at Cox Enterprises
       - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA. \n"
+    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department:
@@ -944,8 +944,9 @@ team:
       - Founder at Oneness Ventures
       - Chief Ambassador at Second Time Founders
       - Founder & CEO at Findasense (Exited)
-    content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator. \n"
+    content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
 ---
+
 
 
 
