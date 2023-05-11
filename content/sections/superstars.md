@@ -812,6 +812,10 @@ team:
       - SALES
       - HR
       - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder at COBE (Exited)
+      - Co-Founder at Kickbase
+      - Member of EO
     content: ''
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
@@ -908,6 +912,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
