@@ -97,7 +97,16 @@ team:
       Simmons on August, 2018. His bootstrapped startup achieved $250 million in
       ARR profitably in 5 years, grew to 150 employees, and delivered "The
       Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
-      industry's lowest return rate (\< 5%).
+      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
+      at Supernova, Penn State University's School of Business, and the
+      Philanthropic Asset Committee of the Arizona State University Foundation.
+      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
+      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
+      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
+      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
+      received eTail West’s Visionary of the Year Award and appeared in McGraw
+      Hill’s curriculum. JT studied computer science and mathematics at Penn
+      State University. He is based in Phoenix, AZ.
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department:
@@ -964,6 +973,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
 ---
+
 
 
 
