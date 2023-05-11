@@ -842,8 +842,20 @@ team:
       - FUNDING
       - LEADERSHIP
       - WEB3
-      - EXIT
-    content: ''
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder at Wake Network
+      - CEO at AdvancedCare
+      - Founder at MobSafety/Reliq Health (IPO)
+    content: >
+      Nick Murray is the Co-founder at Wake Network, furthering the field of
+      fungi and plant-based medicine.  He also was the CEO of AdvancedCare, a
+      leading electronic medical records and clinical research trial platform
+      for professionals and researchers under a single, unified platform. Nick
+      was the founder of MobSafety (Exited & IPO via Reliq Health - TSXV: RHT),
+      a mobile security company that transitioned to Moseda Technologies, Inc.;
+      focused on healthcare, monitoring elderly patients in their homes and in
+      care homes, using mobile and wearable technologies.
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     department:
@@ -895,6 +907,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
