@@ -13,7 +13,7 @@ banner:
       - “exited at higher multiples.”
       - “maintained my sanity.”
   video_button:
-    label: Anthem Video
+    label: Our Story (Play Video)
     youtube_id: Mq61xLTDdGI
 founders:
   title: 'Top founders collaborate across communities:'
@@ -41,18 +41,18 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: "Vetted Advisors"
+    - title: Vetted Advisors
       number: 144
-      suffix: ""
-    - title: "Exited Founders"
+      suffix: ''
+    - title: Exited Founders
       number: 100
-      suffix: "+"
-    - title: "Startups Chosen Yearly"
+      suffix: +
+    - title: Startups Chosen Yearly
       number: 12
-      suffix: ""
-    - title: "Collective Impact"
-      number: 
-      suffix: "∞"
+      suffix: ''
+    - title: Collective Impact
+      number: null
+      suffix: ∞
 advisory_game:
   enable: true
   title: We are not like other advisors.
@@ -63,5 +63,6 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
+
 
 
