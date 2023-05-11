@@ -859,12 +859,13 @@ team:
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     department:
+      - LEGAL/IP
       - AI
       - FUNDING
       - SCALING
       - TECH
       - PRODUCT
-      - EXIT
+      - EXITED FOUNDER
     content: ''
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
@@ -907,6 +908,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
