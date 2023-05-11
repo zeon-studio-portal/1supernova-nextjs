@@ -904,6 +904,7 @@ team:
   - name: Anthony Lacavaro
     image: /images/Anthony.jpeg
     department:
+      - MARKETING
       - FUNDING
       - IMPACT
       - LEADERSHIP
@@ -928,6 +929,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
