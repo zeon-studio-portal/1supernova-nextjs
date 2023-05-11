@@ -535,31 +535,29 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
     department:
+      - AI
       - STRATEGY
-      - TALENT
-      - LEADERSHIP
-      - LEGAL/IP
+      - GROWTH
+      - FUNDING
+      - IMPACT
     bulletpoints:
-      - Founder of Xenex Healthcare Services
-      - Fellow at IDSA & Royal Society of Medicine
-      - Scientist at MD Anderson Cancer Center
+      - Founder at AI Dragons
+      - Certified Coach at OpenExO
+      - Grant Evaluator at EIT Health
     content: >
-      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
-      Services, a company that uses a patented pulsed xenon disinfection system
-      to make patient care areas safer by reducing the microbial contamination
-      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
-      in Forbes, CNN and other media outlets as well as in peer-reviewed
-      scientific publications. He has presented at TEDx, DENT and the Royal
-      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
-      numerous other media outlets. Dr. Stibich specializes in creating
-      efficient solutions for public health problems. He received his doctoral
-      training from the Johns Hopkins School of Public Health and has been
-      involved in multiple international research and intervention projects. He
-      is an inventor on over 160 granted patents and a principal investigator on
-      an NIH grant.
+      Luciana Ledesma is the founder of AI Dragons, a global community that
+      leverages tech & business creation to achieve SDGs. She is a certified
+      coach at the Open ExO’s community (a spin-off from Singularity
+      University). Luciana is a grant evaluator for EIT Health and has assessed
+      over 100 projects for €1-3M  grants in Biomedicine, health records
+      management on blockchain, health insurance, and surgery robots. She was
+      co-founder and ceo of Teder.ai, an personalized education company. Luciana
+      led the creation of the Fluid Blockchain Accelerator and served as Head of
+      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
+      founders and their ventures. 
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -603,46 +601,52 @@ team:
       established teams scaling past 7 figures, and partnering with CEOs who
       want help exiting their current companies so they can start a more
       purpose-driven enterprise.
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
+  - name: Tuck Stibich PhD
+    image: /images/superstars/team-thumb-25.png
     department:
-      - AI
       - STRATEGY
-      - GROWTH
-      - FUNDING
-      - IMPACT
-    bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
-    content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures. 
-  - name: Brett Donnelly
-    image: /images/1678937477620.jpeg
-    department:
-      - GROWTH
       - TALENT
-      - IMPACT
+      - LEADERSHIP
+      - LEGAL/IP
     bulletpoints:
-      - Head of Biz Dev at Mindpath Health
-      - 'Founder at Acacia Counseling & Wellness '
+      - Founder of Xenex Healthcare Services
+      - Fellow at IDSA & Royal Society of Medicine
+      - Scientist at MD Anderson Cancer Center
     content: >
-      Brett Donnelly is head of business development at Mindpath Health, a
-      clinician-led mental health organization and leading, independent provider
-      of outpatient behavioral health services. Brett is the founder of Acacia
-      Counseling & Wellness (exited to Mindpath Health), the leading provider of
-      mental health support in the Isla Vista community. Brett grow the company
-      to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
-      at UC Santa Barbara.  
+      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
+      Services, a company that uses a patented pulsed xenon disinfection system
+      to make patient care areas safer by reducing the microbial contamination
+      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
+      in Forbes, CNN and other media outlets as well as in peer-reviewed
+      scientific publications. He has presented at TEDx, DENT and the Royal
+      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
+      numerous other media outlets. Dr. Stibich specializes in creating
+      efficient solutions for public health problems. He received his doctoral
+      training from the Johns Hopkins School of Public Health and has been
+      involved in multiple international research and intervention projects. He
+      is an inventor on over 160 granted patents and a principal investigator on
+      an NIH grant.
+  - name: Juha Mikkola
+    image: /images/Juha-Mikkola.jpg
+    department:
+      - TECH
+      - STRATEGY
+      - COMMUNITY
+      - EXIT
+    bulletpoints:
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
+    content: >
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -826,27 +830,23 @@ team:
       - Co-Founder at Kickbase
       - Member of EO
     content: ''
-  - name: Juha Mikkola
-    image: /images/Juha-Mikkola.jpg
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
     department:
-      - TECH
-      - STRATEGY
-      - COMMUNITY
-      - EXIT
+      - GROWTH
+      - TALENT
+      - IMPACT
     bulletpoints:
-      - CEO & Founder at Usko Privacy
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Founder, Clutch Sports (Exited)'
+      - Head of Biz Dev at Mindpath Health
+      - 'Founder at Acacia Counseling & Wellness '
     content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
+      Brett Donnelly is head of business development at Mindpath Health, a
+      clinician-led mental health organization and leading, independent provider
+      of outpatient behavioral health services. Brett is the founder of Acacia
+      Counseling & Wellness (exited to Mindpath Health), the leading provider of
+      mental health support in the Isla Vista community. Brett grow the company
+      to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
+      at UC Santa Barbara.  
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
@@ -946,6 +946,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator. \n"
 ---
+
 
 
 
