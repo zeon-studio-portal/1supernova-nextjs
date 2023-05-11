@@ -648,7 +648,7 @@ team:
       as an Endeavor entrepreneur. A business and technology savvy
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
+      solving and communication. 
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -948,6 +948,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
 ---
+
 
 
 
