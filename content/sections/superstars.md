@@ -870,6 +870,10 @@ team:
       - TECH
       - PRODUCT
       - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Hayden AI (Series A)
+      - Founder & CEO at Nueevo Technologies
+      - 'Founder & CEO at Louisa (Exited) '
     content: ''
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
@@ -912,6 +916,7 @@ team:
       - EXIT
     content: ''
 ---
+
 
 
 
