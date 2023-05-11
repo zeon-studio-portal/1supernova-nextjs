@@ -332,7 +332,7 @@ team:
     bulletpoints:
       - Founder & CEO at Intelepeer (Series B)
       - CTO at ADC Telecom
-      - Founder of CommTech (Sold)
+      - Founder of CommTech (Exited)
     content: >
       Frank Fawzi is Founder & CEO at IntelePeer (Series B), a Communications
       Platform as a Service (CPaaS) provider for enterprises. Fank has been
@@ -946,6 +946,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator. \n"
 ---
+
 
 
 
