@@ -55,21 +55,21 @@ team:
       - 3x Exited Founder
     content: >
       Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
-      Barry is the co-founder of 1heart (1heart.com), a 'human accelerator'
+      Barry is the co-founder of 1heart (1heart.com), a human accelerator
       enriching leaders lives. Barry is the former Entrepreneur-in-Residence at
-      500 Global (500.co), the most active global venture capital firm in the
-      world (#1 in VC Deal Counts & Exits). He is also the Founding Advisor to
-      Arora Project (exit to Republic.com), Colossal Biosciences (colossal.com;
-      $150MM Series B at 1.5Bn valuation), and Tuft & Needle (TN.com
-      bootstrapped to $250MM ARR and merged with Serta Simmons Bedding). Barry
-      built and sold his first startup INBOX Marketing in San Francisco to
-      Responsys pre-IPO and exited to Oracle for $1.6 Billion in 2006. Barry's
-      been an intrapreneur, as Global Practice Leader of Strategy & Innovation
-      at Acxiom (NASDAQ: ACXM), where he helped build a business unit from
-      scratch to $315MM annual revenues that sold to IPG for $2.3 Billion in
-      2018. Barry has been a paid consultant to 20% of the Fortune 500.  He is
-      one of the 100 Most Influential Leaders in Technology (Techweek). Barry is
-      a keynote speaker for 30+ events worldwide.
+      500 Global, the most active global venture capital firm in the world (#1
+      in VC Deal Counts & Exits). He is also the Founding Advisor to Arora
+      Project (exit to Republic.com), Colossal Biosciences (colossal.com; $150MM
+      Series B at 1.5Bn valuation), and Tuft & Needle (TN.com bootstrapped to
+      $250MM ARR and merged with SSB). Barry built and sold his first startup
+      INBOX Marketing in San Francisco to Responsys pre-IPO and exited to Oracle
+      for $1.6 Billion. Barry's been an intrapreneur, as Global Practice Leader
+      of Strategy & Innovation at Acxiom (NASDAQ: ACXM), where he helped build a
+      business unit from scratch to $315MM annual revenues that sold to IPG for
+      $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
+      Fortune 500.  He is one of the 100 Most Influential Leaders in Technology
+      (Techweek). Barry is a keynote speaker for 30+ events worldwide. He is
+      based in Charleston, SC. 
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department:
@@ -936,6 +936,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator. \n"
 ---
+
 
 
 
