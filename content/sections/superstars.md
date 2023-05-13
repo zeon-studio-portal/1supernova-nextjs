@@ -265,11 +265,11 @@ team:
       - 'Head of Ops at Flipagram (Exited to TikTok) '
     content: >
       Hogan Lee is the President & COO of Glo, whose mission is to connect
-      people through self-care. Hogan was the Founder & CEO of  of
-      Carenote/Forevernote (acquired by Evite). He also was Head of Operations
-      at Flipagram, an exciting post-acquisition position where he advanced
-      organizational growth by leading the integration of the Flipagram and
-      Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
+      people through self-care. Hogan was the Co-Founder & Chief Experience
+      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
+      Operations at Flipagram, an exciting post-acquisition position where he
+      advanced organizational growth by leading the integration of the Flipagram
+      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
       senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
@@ -973,6 +973,7 @@ team:
       - Founder & CEO at Findasense (Exited)
     content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
 ---
+
 
 
 
