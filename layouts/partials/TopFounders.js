@@ -23,9 +23,14 @@ const TopFounders = ({ top_founders }) => {
             )}
           </div>
 
-          <div className="mt-20 grid gap-x-6 gap-y-12 sm:grid-cols-2 md:grid-cols-4">
+          <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 md:grid-cols-4">
             {top_founders.frontmatter.lists.map((item, index) => (
-              <div key={index} className="mt-8 flex flex-col" data-aos="fade-up-sm" data-aos-delay={(index - 0.5) * 100}>
+              <div
+                key={index}
+                className="mt-8 flex flex-col"
+                data-aos="fade-up-sm"
+                data-aos-delay={(index - 0.5) * 100}
+              >
                 <div className="relative h-full rounded-b-3xl rounded-tr-3xl bg-[#2D2D2D]">
                   <span
                     className={`absolute left-0 -translate-y-full rounded-t-2xl bg-[#2D2D2D] px-4 pb-1 pt-2 text-[17px]`}
@@ -40,8 +45,8 @@ const TopFounders = ({ top_founders }) => {
                     width={160}
                     height={160}
                   />
-                  <div className="px-4 py-5">
-                    <p className="mb-2 text-xl font-semibold leading-snug">
+                  <div className="px-2 py-5 sm:px-4">
+                    <p className="mb-2 text-lg font-semibold leading-snug sm:text-xl">
                       {item.name}
                     </p>
                     <span className="block text-[16px] leading-snug">
