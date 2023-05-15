@@ -34,9 +34,9 @@ const TopFounders = ({ advisory_team }) => {
                 <p className="mb-3 text-2xl font-semibold leading-snug md:text-3xl">
                   {item.name}
                 </p>
-                <span className="block text-[16px] leading-snug">
+                <p className="block text-[16px] leading-snug">
                   {item.content}
-                </span>
+                </p>
               </div>
             ))}
           </div>

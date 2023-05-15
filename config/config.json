@@ -19,5 +19,19 @@
     "meta_author": "Supernova",
     "meta_image": "/images/og-image.png",
     "meta_description": "Supernova"
-  }
+  },
+  "social_media": [
+    {
+      "link": "https://www.linkedin.com/company/gosupernova/",
+      "icon": "/images/social-icons/01.svg"
+    },
+    {
+      "link": "https://calendly.com/supernova-intro/supernova-intro?month=2023-05",
+      "icon": "/images/social-icons/02.svg"
+    },
+    {
+      "link": "mailto:barry@1supernova.com",
+      "icon": "/images/social-icons/03.svg"
+    }
+  ]
 }
