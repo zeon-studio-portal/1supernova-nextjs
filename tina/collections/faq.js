@@ -26,25 +26,9 @@ const faq = {
       label: "Subtitle",
       name: "subtitle",
       type: "string",
-    },
-    {
-      label: "Social",
-      name: "social_media",
-      type: "object",
-      list: true,
-      fields: [
-        { label: "Link", name: "link", type: "string" },
-        {
-          label: "Icon",
-          name: "icon",
-          type: "image",
-        },
-      ],
       ui: {
-        itemProps: (item) => {
-          return { label: `${item?.icon}` };
-        },
-      },
+        component: "textarea",
+      }
     },
     {
       label: "Lists",

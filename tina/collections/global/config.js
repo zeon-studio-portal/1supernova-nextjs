@@ -70,6 +70,9 @@ const config = {
           label: "Announcement",
           name: "announcement",
           type: "string",
+          ui: {
+            component: "textarea",
+          }
         },
         {
           label: "Tag Manager ID",
@@ -109,6 +112,26 @@ const config = {
           type: "string",
         },
       ],
+    },
+    {
+      label: "Social",
+      name: "social_media",
+      type: "object",
+      list: true,
+      fields: [
+        { label: "Name", name: "name", type: "string" },
+        { label: "Link", name: "link", type: "string" },
+        {
+          label: "Icon",
+          name: "icon",
+          type: "image",
+        },
+      ],
+      ui: {
+        itemProps: (item) => {
+          return { label: `${item?.name}` };
+        },
+      },
     },
   ],
 };

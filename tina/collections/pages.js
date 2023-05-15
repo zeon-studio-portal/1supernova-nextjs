@@ -4,7 +4,7 @@ const pages = {
   path: "content",
   match: {
     include: "*",
-    exclude: "_index",
+    exclude: "{_index,about-us}",
   },
   fields: [
     {

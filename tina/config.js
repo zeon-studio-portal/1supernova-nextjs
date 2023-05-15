@@ -1,4 +1,5 @@
 import { defineConfig } from "tinacms";
+import aboutUs from "./collections/about-us";
 import advisoryTeam from "./collections/advisory-team";
 import faq from "./collections/faq";
 import config from "./collections/global/config";
@@ -33,6 +34,7 @@ export default defineConfig({
   schema: {
     collections: [
       index,
+      aboutUs,
       pages,
       advisoryTeam,
       faq,
