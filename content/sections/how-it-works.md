@@ -42,13 +42,14 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We score advisors based on performance to award equity on merit vs.
-      traditional vesting schedules.
+      We score advisors on performance to award equity on merit vs. traditional
+      vesting schedules.
     button:
       enable: true
       label: Read Our Testimonials
       link: 'https://1supernova.com/#reviews'
 ---
+
 
 
 
