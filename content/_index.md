@@ -14,7 +14,7 @@ banner:
       - “maintained my sanity.”
   video_button:
     label: Our Story (Play Video)
-    youtube_id: Mq61xLTDdGI
+    youtube_id: iJhOa2l8jk4
 founders:
   title: 'Top founders collaborate across communities:'
   brands:

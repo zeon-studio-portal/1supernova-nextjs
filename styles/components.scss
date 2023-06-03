@@ -200,7 +200,7 @@
   }
 
   &-body {
-    @apply top-0 z-50 max-w-[calc(100%-20px)] sm:max-w-none;
+    @apply top-0 z-50 max-w-[calc(100%-20px)] sm:max-w-none overflow-hidden;
   }
   &-author {
     @apply flex flex-row items-center sm:flex-col;
@@ -215,12 +215,23 @@
     }
   }
   &-content {
-    @apply hidden p-8 pt-4 text-left;
+    @apply hidden p-8 pt-4 text-left overflow-y-auto;
+    max-height: 369px;
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background: #c7c7c7;
+      border-radius: 20px;
+    }
+    &::-webkit-scrollbar-thumb:hover {
+      background: #878787;
+    }
   }
   &:hover {
     .team-card {
       &-body {
-        @apply z-50 w-full rounded-2xl bg-white sm:absolute sm:w-[380px] sm:rounded-[64px];
+        @apply z-50 w-full rounded-2xl bg-white sm:absolute sm:w-[380px] sm:rounded-[64px] shadow-2xl;
         h3 {
           @apply text-dark-primary;
         }
