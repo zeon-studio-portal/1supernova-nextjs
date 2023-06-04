@@ -1,6 +1,7 @@
 import Logo from "@components/Logo";
 import config from "@config/config.json";
 import menu from "@config/menu.json";
+import settings from "@config/settings.json";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
@@ -182,7 +183,7 @@ const Header = () => {
             </p>
             <Link
               className="btn btn-sm btn-light py-4 leading-none"
-              href={config.params.header_cta_link}
+              href={settings.header_cta_link}
               target="_blank"
               rel="noopener nofollow noreferrer"
             >
@@ -209,7 +210,7 @@ const Header = () => {
         <div className="order-1 mx-5 hidden items-center sm:block lg:order-2 lg:mr-0">
           <Link
             className="btn btn-sm btn-dark py-4 leading-none"
-            href={config.params.header_cta_link}
+            href={settings.header_cta_link}
             target="_blank"
             rel="noopener nofollow noreferrer"
           >

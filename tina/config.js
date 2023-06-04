@@ -2,6 +2,7 @@ import { defineConfig } from "tinacms";
 import aboutUs from "./collections/about-us";
 import advisoryTeam from "./collections/advisory-team";
 import faq from "./collections/faq";
+import announcement from "./collections/global/announcement";
 import config from "./collections/global/config";
 import menu from "./collections/global/menu";
 import goSupernova from "./collections/go-supernova";
@@ -33,6 +34,7 @@ export default defineConfig({
   },
   schema: {
     collections: [
+      announcement,
       index,
       aboutUs,
       pages,

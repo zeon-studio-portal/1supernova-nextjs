@@ -57,41 +57,6 @@ const config = {
       ],
     },
     {
-      label: "Params",
-      name: "params",
-      type: "object",
-      fields: [
-        {
-          label: "Header CTA Link",
-          name: "header_cta_link",
-          type: "string",
-        },
-        {
-          label: "Announcement",
-          name: "announcement",
-          type: "string",
-          ui: {
-            component: "textarea",
-          }
-        },
-        {
-          label: "Tag Manager ID",
-          name: "tag_manager_id",
-          type: "string",
-        },
-        {
-          label: "Footer Copy",
-          name: "footer_copy",
-          type: "string",
-        },
-        {
-          label: "Copyright",
-          name: "copyright",
-          type: "string",
-        },
-      ],
-    },
-    {
       label: "Metadata",
       name: "metadata",
       type: "object",

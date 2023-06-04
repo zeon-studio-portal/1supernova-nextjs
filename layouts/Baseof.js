@@ -1,4 +1,5 @@
 import config from "@config/config.json";
+import settings from "@config/settings.json";
 import { plainify } from "@lib/utils/textConverter";
 import AnnouncementBar from "@partials/AnnouncementBar";
 import Footer from "@partials/Footer";
@@ -17,7 +18,7 @@ const Base = ({
 }) => {
   const { meta_image, meta_author, meta_description } = config.metadata;
   const { base_url } = config.site;
-  const { announcement } = config.params;
+  const { announcement } = settings;
   const router = useRouter();
 
   return (

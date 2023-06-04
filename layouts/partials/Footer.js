@@ -1,12 +1,13 @@
 import Logo from "@components/Logo";
 import config from "@config/config.json";
 import menu from "@config/menu.json";
+import settings from "@config/settings.json";
 import { markdownify } from "@lib/utils/textConverter";
 import Link from "next/link";
 
 const Footer = () => {
   const { logo } = config.site;
-  const { footer_copy, copyright } = config.params;
+  const { footer_copy, copyright } = settings;
   return (
     <footer className="pt-14 md:pt-24 bg-dark-secondary">
       <div className="container">

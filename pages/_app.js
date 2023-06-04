@@ -1,4 +1,4 @@
-import config from "@config/config.json";
+import settings from "@config/settings.json";
 import AOS from "aos";
 import { useEffect } from "react";
 import TagManager from "react-gtm-module";
@@ -50,12 +50,12 @@ import "aos/dist/aos.css";
 const App = ({ Component, pageProps }) => {
   // google tag manager (gtm)
   const tagManagerArgs = {
-    gtmId: config.params.tag_manager_id,
+    gtmId: settings.tag_manager_id,
   };
   useEffect(() => {
     setTimeout(() => {
       process.env.NODE_ENV === "production" &&
-        config.params.tag_manager_id &&
+        settings.tag_manager_id &&
         TagManager.initialize(tagManagerArgs);
     }, 5000);
     // eslint-disable-next-line react-hooks/exhaustive-deps
