@@ -106,7 +106,7 @@ const Advisory = ({ superstars }) => {
               >
                 <div className="team-card-body">
                   <div className="team-card-author">
-                    <div className="team-card-author-image shrink-0 rounded-full group-[.active]:ring-[5px] group-[.active]:ring-primary-600">
+                    <div className="team-card-author-image shrink-0 rounded-full group-[.active]:border-[5px] group-[.active]:border-primary-600">
                       <Image
                         className="rounded-full"
                         src={item.image}

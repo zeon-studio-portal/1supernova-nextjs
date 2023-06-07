@@ -5,39 +5,84 @@ import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 
 const aboutUs = ({ about }) => {
-  const { title, description, who_we_are, why_supernova_exists, our_values, contact_us } = about.frontmatter;
+  const { title, description, who_we_are, why_supernova_exists, our_values, leadership_team, contact_us } = about.frontmatter;
   const colors = our_values.list_colors;
   const { social_media } = config;
 
   return (
     <Base title={title} description={description}>
-      <section className="py-24">
+      <section className="pt-24 text-center bg-[url('/images/about-us-bg.jpg')] bg-contain bg-center">
         <div className="container">
           <div className="row">
             <div className="col-12">
               <div data-aos="fade-up-sm">
                 {markdownify(title, "h1", "font-bold mb-4")}
               </div>
-              <div data-aos="fade-up-sm" data-aos-delay="100">
+              <div data-aos="fade-up-sm" data-aos-delay="50">
                 {markdownify(description, "p", "text-light-secondary")}
               </div>
             </div>
           </div>
         </div>
-      </section>
 
-      {who_we_are.enable === true && (
-      <section className="py-24 bg-dark-secondary">
-        <div className="container">
+        {who_we_are.enable === true && (
+        <div className="container pt-28">
           <div className="row">
             <div className="col-12">
-              <div data-aos="fade-up-sm">
+              <div data-aos="fade-up-sm" data-aos-delay="100">
                 {markdownify(who_we_are.title, "h2", "font-bold mb-4")}
               </div>
-              <div data-aos="fade-up-sm" data-aos-delay="100">
+              <div data-aos="fade-up-sm" data-aos-delay="150">
                 {markdownify(who_we_are.content, "div", "text-light-secondary")}
               </div>
             </div>
+          </div>
+        </div>
+        )}
+
+        {our_values.enable === true && (
+        <div className="mt-32" data-aos="fade-up-sm" data-aos-delay="200">
+          <Image src={our_values.image} alt="1supernova" height={446} width={464} className="mx-auto" />
+        </div>
+        )}
+      </section>
+
+      {our_values.enable === true && (
+      <section className="py-24">
+        <div className="container">
+          <div className="row">
+            <div className="col-12 mb-16">
+              <div className="text-center">
+                <div data-aos="fade-up-sm">
+                  {markdownify(our_values.title, "h2", "font-bold mb-4")}
+                </div>
+                <div data-aos="fade-up-sm" data-aos-delay="100">
+                  {markdownify(our_values.subtitle, "p", "text-light-secondary")}
+                </div>
+              </div>
+            </div>
+
+            <div className="row justify-center">
+              {our_values.lists.map((item, index) => (
+                <div key={index} className="lg:col-4 sm:col-6 mt-6">
+                  <div className="px-6 py-20 text-center rounded-3xl h-full flex flex-col items-center" style={{backgroundColor: colors[index]}} data-aos="fade-up-sm" data-aos-delay={(index - 0.5) * 100}>
+                    <div
+                      className="text-4xl bg-white rounded-full h-20 w-20 flex items-center justify-center mx-auto mb-6"
+                      style={{color: colors[index]}}
+                    >
+                      {index + 1}
+                    </div>
+                    <p className="mb-3 text-2xl font-semibold leading-snug md:text-3xl">
+                      {item.name}
+                    </p>
+                    <p className="block leading-relaxed">
+                      {item.content}
+                    </p>
+                  </div>
+                </div>
+              ))}
+            </div>
+            
           </div>
         </div>
       </section>
@@ -60,12 +105,12 @@ const aboutUs = ({ about }) => {
 
             {why_supernova_exists.content_left && (
               <div className="lg:col-6 mb-10 lg:mb-0" data-aos="fade-in" data-aos-delay="150">
-                {markdownify(why_supernova_exists.content_left, "div", "pr-0 lg:pr-8 [&_strong]:text-secondary-800")}
+                {markdownify(why_supernova_exists.content_left, "div", "pr-0 lg:pr-8 [&_strong]:text-secondary-800 [&_strong]:font-[900]")}
               </div>
             )}
             {why_supernova_exists.content_right && (
               <div className="lg:col-6" data-aos="fade-in" data-aos-delay="250">
-                {markdownify(why_supernova_exists.content_right, "div", "pl-0 lg:pl-8 [&_strong]:text-secondary-800")}
+                {markdownify(why_supernova_exists.content_right, "div", "pl-0 lg:pl-8 [&_p:nth-child(1)_strong]:text-[#09B1FB] [&_p:nth-child(2)_strong]:text-[#FD8D84] [&_p:nth-child(3)_strong]:text-[#C856C7] [&_p:nth-child(4)_strong]:text-[#09B1FB] [&_p:nth-child(5)_strong]:text-[#FD8D84] [&_p:nth-child(6)_strong]:text-[#C856C7] [&_strong]:font-[900]")}
               </div>
             )}
           </div>
@@ -73,36 +118,32 @@ const aboutUs = ({ about }) => {
       </section>
       )}
 
-      {our_values.enable === true && (
+      {leadership_team.enable === true && (
       <section className="py-24">
         <div className="container">
           <div className="row">
             <div className="col-12 mb-16">
               <div className="text-center">
                 <div data-aos="fade-up-sm">
-                  {markdownify(our_values.title, "h2", "font-bold mb-4")}
+                  {markdownify(leadership_team.title, "h2", "font-bold mb-4")}
                 </div>
                 <div data-aos="fade-up-sm" data-aos-delay="100">
-                  {markdownify(our_values.subtitle, "p", "text-light-secondary")}
+                  {markdownify(leadership_team.quote, "p", "text-secondary-800 font-secondary mt-6 text-3xl -rotate-1")}
                 </div>
               </div>
             </div>
 
-            <div className="row justify-center">
-              {our_values.lists.map((item, index) => (
-                <div key={index} className="lg:col-4 sm:col-6 mt-6">
-                  <div className="px-6 py-28 text-center rounded-3xl h-full flex flex-col items-center justify-center" style={{backgroundColor: colors[index]}} data-aos="fade-up-sm" data-aos-delay={(index - 0.5) * 100}>
-                    <p className="mb-3 text-2xl font-semibold leading-snug md:text-3xl">
-                      {item.name}
-                    </p>
-                    <p className="block leading-snug">
-                      {item.content}
-                    </p>
+            {leadership_team.lists.map((item, index) => (
+              <div key={index} className="lg:col-3 md:col-4 sm:col-6 mb-10">
+                <div className="bg-dark-quaternary rounded-3xl rounded-tl-none" data-aos="fade-up-sm">
+                  <Image src={item.image} alt={item.name} height={300} width={300} className="rounded-3xl rounded-tl-none w-full" />
+                  <div className="py-6 text-center">
+                    <p className="text-xl font-bold leading-snug md:text-2xl mb-2">{item.name}</p>
+                    <p className="block leading-relaxed font-light">{item.designation}</p>
                   </div>
                 </div>
-              ))}
-            </div>
-            
+              </div>
+            ))}
           </div>
         </div>
       </section>

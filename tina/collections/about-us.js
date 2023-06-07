@@ -45,6 +45,62 @@ const aboutUs = {
       ]
     },
     {
+      label: "Our Values",
+      name: "our_values",
+      type: "object",
+      fields: [
+        {
+          label: "Enable",
+          name: "enable",
+          type: "boolean",
+        },
+        {
+          label: "Title",
+          name: "title",
+          type: "string",
+        },
+        {
+          label: "Subtitle",
+          name: "subtitle",
+          type: "string",
+        },
+        {
+          label: "Image",
+          name: "image",
+          type: "image",
+        },
+        {
+          label: "List Colors",
+          name: "list_colors",
+          type: "string",
+          list: true,
+        },
+        {
+          label: "Lists",
+          name: "lists",
+          type: "object",
+          list: true,
+          fields: [
+            {
+              label: "Name",
+              name: "name",
+              type: "string",
+            },
+            {
+              label: "Content",
+              name: "content",
+              type: "string",
+            },
+          ],
+          ui: {
+            itemProps: (item) => {
+              return { label: `${item?.name}` };
+            },
+          },
+        },
+      ]
+    },
+    {
       label: "Why Supernova Exists",
       name: "why_supernova_exists",
       type: "object",
@@ -77,8 +133,8 @@ const aboutUs = {
       ]
     },
     {
-      label: "Our Values",
-      name: "our_values",
+      label: "Leadership Team",
+      name: "leadership_team",
       type: "object",
       fields: [
         {
@@ -97,12 +153,6 @@ const aboutUs = {
           type: "string",
         },
         {
-          label: "List Colors",
-          name: "list_colors",
-          type: "string",
-          list: true,
-        },
-        {
           label: "Lists",
           name: "lists",
           type: "object",
@@ -114,8 +164,13 @@ const aboutUs = {
               type: "string",
             },
             {
-              label: "Content",
-              name: "content",
+              label: "Image",
+              name: "image",
+              type: "image",
+            },
+            {
+              label: "Designation",
+              name: "designation",
               type: "string",
             },
           ],
