@@ -91,9 +91,9 @@ leadership_team:
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: COO & Founder
-    - name: Christopher Staley
-      image: /images/leadership-team/Christopher-Staley.jpg
-      designation: Product
+    # - name: Christopher Staley
+    #   image: /images/leadership-team/Christopher-Staley.jpg
+    #   designation: Product
 contact_us:
   enable: false
   title: Contact Us
