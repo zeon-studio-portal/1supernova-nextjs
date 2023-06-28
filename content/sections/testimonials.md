@@ -8,7 +8,7 @@ items:
     designation: CEO & Founder
     company: Parkqulility
     quote: 'As a second-time founder, Supernova is a no-brainer.'
-  - name: JT Marnio
+  - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
     company: TN.com
@@ -56,6 +56,7 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
+
 
 
 
