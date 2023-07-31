@@ -21,13 +21,13 @@ our_values:
   enable: true
   title: Our Values
   subtitle: We shine brighter together
+  image: /images/about-us-chakra.svg
   list_colors:
     - '#09B1FB'
     - '#0EDDE4'
     - '#FEC549'
     - '#FD8D84'
     - '#C856C7'
-  image: "/images/about-us-chakra.svg"
   lists:
     - name: Humanity
       content: We are here to be of service to people.
@@ -84,16 +84,13 @@ leadership_team:
   lists:
     - name: Barry Stamos
       image: /images/leadership-team/Barry-Stamos.jpg
-      designation: Partner
+      designation: CEO & Co-founder
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: CEO & Co-Founder
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: COO & Founder
-    # - name: Christopher Staley
-    #   image: /images/leadership-team/Christopher-Staley.jpg
-    #   designation: Product
 contact_us:
   enable: false
   title: Contact Us
@@ -114,4 +111,5 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
+
 
