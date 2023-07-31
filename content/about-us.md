@@ -82,6 +82,9 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
+    - name: Christopher Staley
+      image: /images/Christopher.jpeg
+      designation: CIO & Co-Founder
     - name: Barry Stamos
       image: /images/leadership-team/Barry-Stamos.jpg
       designation: CEO & Co-founder
@@ -111,6 +114,7 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
+
 
 
 
