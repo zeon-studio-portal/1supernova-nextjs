@@ -87,7 +87,7 @@ leadership_team:
       designation: CEO & Co-founder
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: CEO & Co-Founder
+      designation: Partner
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: COO & Founder
@@ -111,5 +111,6 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
+
 
 
