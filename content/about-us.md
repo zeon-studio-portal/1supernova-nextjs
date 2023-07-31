@@ -82,18 +82,18 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
-    - name: Christopher Staley
-      image: /images/Christopher.jpeg
-      designation: CIO & Co-Founder
     - name: Barry Stamos
       image: /images/leadership-team/Barry-Stamos.jpg
       designation: CEO & Co-founder
+    - name: Christopher Staley
+      image: /images/Christopher.jpeg
+      designation: CIO & Co-Founder
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Partner
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: Founding Advisor
+      designation: Partner
 contact_us:
   enable: false
   title: Contact Us
@@ -114,6 +114,7 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
+
 
 
 
