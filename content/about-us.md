@@ -90,7 +90,7 @@ leadership_team:
       designation: Partner
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: COO & Founder
+      designation: Founding Advisor
 contact_us:
   enable: false
   title: Contact Us
@@ -111,6 +111,7 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
+
 
 
 
