@@ -13,7 +13,7 @@ banner:
       - “exited at higher multiples.”
       - “maintained my sanity.”
   video_button:
-    label: Our Story (Play Video)
+    label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
   title: 'Top founders collaborate across communities:'
@@ -63,6 +63,7 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
+
 
 
 
