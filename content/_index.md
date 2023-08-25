@@ -42,7 +42,7 @@ advisory:
     - '#ca58c5'
   facts:
     - title: Vetted Advisors
-      number: 195
+      number: 225
       suffix: ''
     - title: Exited Founders
       number: 150
@@ -63,6 +63,7 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
+
 
 
 
