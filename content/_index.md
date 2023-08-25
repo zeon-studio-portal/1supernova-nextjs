@@ -45,7 +45,7 @@ advisory:
       number: 195
       suffix: ''
     - title: Exited Founders
-      number: 100
+      number: 150
       suffix: +
     - title: Startups Chosen Yearly
       number: 12
@@ -63,6 +63,7 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
+
 
 
 
