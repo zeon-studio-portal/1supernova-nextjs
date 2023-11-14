@@ -19,7 +19,7 @@ lists:
     brand_logo: /images/Logo_white_on_transparent_bg-106.png
     group: Seed
   - name: Paul Graf
-    image: /images/Paul Graf.webp
+    image: /images/Paul Graf.jpeg
     designation: 'CEO & Founder '
     brand_logo: /images/HYM logo.png
     group: Series A
