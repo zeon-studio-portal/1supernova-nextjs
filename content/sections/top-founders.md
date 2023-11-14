@@ -18,10 +18,10 @@ lists:
     designation: CEO & Founder
     brand_logo: /images/ht-generic_inPixio.png
     group: Seed
-  - name: Leo Rastogi
-    image: /images/top-founders/leo.jpg
-    designation: CEO & Founder (3x Exits)
-    brand_logo: /images/top-founders/leo-brand.svg
+  - name: Paul Graf
+    image: /images/Paul Graf.webp
+    designation: 'CEO & Founder '
+    brand_logo: /images/HYM logo.png
     group: Series A
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
