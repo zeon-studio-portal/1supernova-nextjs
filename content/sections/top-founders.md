@@ -16,7 +16,7 @@ lists:
   - name: Juan Luis Betancourt
     image: /images/juan-luis-betancourt-300x300.jpg
     designation: CEO & Founder
-    brand_logo: /images/ht-generic_inPixio.png
+    brand_logo: /images/Logo_white_on_transparent_bg-106.png
     group: Seed
   - name: Paul Graf
     image: /images/Paul Graf.webp
