@@ -275,7 +275,7 @@ team:
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Daniel Dubois
-    image: /images/Daniel Dubois.jpeg
+    image: /images/Daniel.jpeg
     department:
       - SUPERCONNECTOR
       - PRODUCT
