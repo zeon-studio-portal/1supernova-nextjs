@@ -274,18 +274,26 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Ryan Hoover
-    image: /images/superstars/team-thumb-8.png
+  - name: Daniel Dubois
+    image: /images/Daniel Dubois.jpeg
     department:
+      - SUPERCONNECTOR
       - PRODUCT
       - TECH
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & Investor at Weekend Fund
-      - Founder at Product Hunt (Exit to AngelList)
-      - EIR at TradeCraft
-    content: "Ryan Hoover is the Founder of\_[Product Hunt](https://www.crunchbase.com/organization/product-hunt) (exited to Angel List) a community of people sharing, upvoting, and geeking out about new technology products, games, and books. Ryan also invests in early stage startups through\_[Weekend Fund](https://techcrunch.com/2017/08/29/weekend-fund-is-ryan-hoovers-3m-angel-fund/). As a writer, Hoover has contributed to Hooked: How to Build Habit-Forming Products by\_[Nir Eyal](https://www.crunchbase.com/person/nir-eyal)\_and written many essays, including features for\_[TechCrunch](https://www.crunchbase.com/organization/techcrunch),\_[Forbes](https://www.crunchbase.com/organization/forbes), Pando,\_[Fast Company](https://www.crunchbase.com/organization/fast-company), and\_[The Next Web](https://www.crunchbase.com/organization/the-next-web). He writes about startup trends, product designs, and production growth on his blog, ryanhoover.me. Hoover graduated from\_[the University of Oregon](https://www.crunchbase.com/organization/university-of-oregon-2).\n"
+      - YPO & EO
+      - 'Co-founder & President at Key '
+      - 'Founder at ShareShed (Exit to Leavetown) '
+    content: >
+      Daniel is a serial entrepreneur and passionate changemaker. He sold his
+      first two venture-backed companies and joined Airbnb full-time where he
+      led growth in top tier markets. Daniel left Airbnb in 2019 to start Key
+      which is the market leader in attainable homeownership with 8-figures of
+      venture funding from top-tier institutions. Daniel is an active member of
+      EO and YPO where he hosts private monthly fireside chats with top-tier
+      venture capitalists and unicorn founders.
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
