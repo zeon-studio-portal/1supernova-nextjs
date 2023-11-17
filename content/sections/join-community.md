@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Join our Community
-subtitle: We shine brighter together
+subtitle: We align the stars to shine brighter together as constellations
 info: >-
   Don’t fit into any of these categories, but still want to work together?
   Contact us <a
