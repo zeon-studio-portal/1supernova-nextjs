@@ -1,6 +1,10 @@
 {
   "main": [
     {
+      "name": "About Us",
+      "url": "https://1supernova.com/about-us"
+    },
+    {
       "name": "Superstars",
       "url": "/#superstars"
     },
