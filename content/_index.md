@@ -28,7 +28,7 @@ founders:
 advisory:
   enable: true
   title: Advisory as a Service™
-  subtitle: We game your startup success by serving as hyper-growth catalysts
+  subtitle: 'We game startup success, so you achieve your mission, faster'
   quote: >-
     Exited founders team up to share time, wisdom, resources and networks to
     support:
