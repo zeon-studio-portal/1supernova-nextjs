@@ -1,7 +1,7 @@
 ---
 enable: true
-title: We back top founders
-subtitle: Early & Growth Stage Startups Changing the World
+title: We back top founders of early and growth-stage startups
+subtitle: 'It''s time for conscious companies to drive the future forward '
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
