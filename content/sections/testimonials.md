@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying...
-subtitle: 'Reviews on Supernova''s advisors, mentors & ceo coaches'
+subtitle: The WOW factor is real beyond these reviews
 items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
