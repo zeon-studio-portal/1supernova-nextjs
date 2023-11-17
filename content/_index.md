@@ -2,7 +2,7 @@
 banner:
   title: All Stars
   subtitle: >-
-    We Back Top Startups Changing the World (World’s First & Only Exited Founder
+    We Advise Top Startups Changing the World (Over 150+ Exited Founder
     Community) 
   quote:
     title: 'Without my advisors, I wouldn’t have'
