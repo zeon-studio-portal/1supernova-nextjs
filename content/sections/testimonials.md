@@ -22,7 +22,7 @@ items:
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
     company: Aya Mastercard
-    quote: Supernova is a legit game changer.
+    quote: Supernova is a legit game-changer. Next-level accelerator!
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
