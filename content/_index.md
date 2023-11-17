@@ -34,7 +34,7 @@ advisory:
     support:
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
-  founder_image: /images/advisory/founder-image.jpg
+  founder_image: /images/Founder.png
   facts_colors:
     - '#2caffb'
     - '#5BD9AD'
