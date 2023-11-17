@@ -39,7 +39,7 @@ items:
     image: /images/testimonials/martin-ruddy.jpg
     designation: CEO & Co-founder
     company: GetSetPet
-    quote: Supernova is the real deal. Immediate impact that gets better over time.
+    quote: Supernova is the real deal.
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
