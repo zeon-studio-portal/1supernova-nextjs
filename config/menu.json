@@ -1,6 +1,9 @@
 {
   "main": [
     {
+      "name": "Startups"
+    },
+    {
       "name": "Superstars",
       "url": "/#superstars"
     },
