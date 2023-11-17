@@ -2,7 +2,7 @@
 banner:
   title: All Stars
   subtitle: >-
-    Advise & Mentor Top Startups Changing the World (World’s First & Only Exited
+    We Mentor Top Startups Changing the World (World’s First & Only Exited
     Founder Community) 
   quote:
     title: 'Without my advisors, I wouldn’t have'
