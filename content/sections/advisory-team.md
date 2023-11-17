@@ -1,7 +1,7 @@
 ---
 enable: true
 title: You’re busy. We get it!
-subtitle: Turnkey your advisory board to optimize success
+subtitle: 'Turnkey your advisory board to save time, money and equity'
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
