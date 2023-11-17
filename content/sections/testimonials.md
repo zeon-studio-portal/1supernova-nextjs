@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying...
-subtitle: 'About Supernova Advisors, Mentors & CEO Coaches'
+subtitle: 'Real reviews on Supernova''s advisors, mentors & ceo coaches'
 items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
