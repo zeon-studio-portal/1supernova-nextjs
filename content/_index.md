@@ -31,7 +31,7 @@ advisory:
   subtitle: 'We game startup success, so you achieve your mission, faster'
   quote: >-
     Exited founders team up to share time, wisdom, resources and networks to
-    support:
+    support: 
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
