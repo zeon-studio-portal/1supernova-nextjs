@@ -1,7 +1,7 @@
 ---
 enable: true
 title: ✨ Meet the Superstars ✨
-subtitle: 'Supernova advisors, mentors and coaches are industry-relevant, exited founders'
+subtitle: 'Over 150+ industry-relevant, exited founders ready to serve startups'
 quote: We orbit around your needs as all-star advisory teams.
 group_list:
   - name: AI
