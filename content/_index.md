@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'Top founders collaborate across communities:'
+  title: 'Top founders join forces across communities for global good:'
   brands:
     - /images/founders/andreessen-horowitz.svg
     - /images/founders/eo.svg
