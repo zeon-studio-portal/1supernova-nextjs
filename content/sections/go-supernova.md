@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Go Supernova
-subtitle: Let’s light up the world.
+subtitle: Let’s light up the world
 video_url: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
 quote: We are a conscious cooperative of founders invested in each other’s success.
 features:
@@ -19,15 +19,4 @@ features:
       from the only perspective that truly understands the hero's journey, as
       founders ourselves.
 ---
-
-
-
-
-
-
-
-
-
-
-
 
