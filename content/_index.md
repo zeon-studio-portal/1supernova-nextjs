@@ -2,7 +2,7 @@
 banner:
   title: All Stars
   subtitle: >-
-    We Advise Top Startups Changing the World (Go Supernova: #1 Exited Founder
+    We Back Top Startups Changing the World (Go Supernova: #1 Exited Founder
     Community)
   quote:
     title: 'Without my advisors, I wouldn’t have'
