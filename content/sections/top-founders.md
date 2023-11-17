@@ -1,7 +1,7 @@
 ---
 enable: true
 title: We back evolutionary entrepreneurs on their hero's journey
-subtitle: ' Early and growth-stage startups in one portfolio of conscious ventures'
+subtitle: ' Early and growth-stage startups in one portfolio of promising ventures '
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
