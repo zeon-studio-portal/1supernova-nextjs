@@ -2,8 +2,8 @@
 banner:
   title: All Stars
   subtitle: >-
-    World’s First & Only Exited Founder Community Advising Top Startups Changing
-    the World
+    Advise & Mentor Top Startups Changing the World (World’s First & Only Exited
+    Founder Community) 
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
@@ -63,11 +63,4 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
-
-
-
-
-
-
-
 
