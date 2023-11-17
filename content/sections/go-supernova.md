@@ -1,7 +1,9 @@
 ---
 enable: true
-title: Go Supernova
-subtitle: Let’s light up the world
+title: Don't get crushed by the gravity of startup reality
+subtitle: >-
+  88% of startups fail to return a single dollar to founders, their team and
+  investors
 video_url: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
 quote: We are a conscious cooperative of founders invested in each other’s success.
 features:
