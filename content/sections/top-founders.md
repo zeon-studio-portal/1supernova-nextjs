@@ -1,7 +1,7 @@
 ---
 enable: true
-title: We back top founders of early and growth-stage startups
-subtitle: 'It''s time for conscious companies to drive the future forward '
+title: 'We back top founders and evolutionary entrepreneurs '
+subtitle: ' Early and growth-stage startups in a portfolio of thriving ventures'
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
