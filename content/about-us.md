@@ -1,8 +1,8 @@
 ---
 title: About Us
 description: >-
-  Supernova was birthed from a simple question, "What if exited founders teamed
-  up with startups changing the world to achieve their missions, faster?" 
+  Supernova was birthed a simple question, "What if exited founders teamed up
+  with startups changing the world to achieve their missions, faster?" 
 who_we_are:
   enable: true
   title: Who We Are
