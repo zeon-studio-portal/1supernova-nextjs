@@ -9,7 +9,7 @@ lists:
     answer: >-
       The right advisory relationships can help game startup success. Advisors
       fill specific needs, be it guidance, expertise, connections, mentorship,
-      and even hands-on support. They supply shortcuts, cheat codes and help
+      and even hands-on support. They supply shortcuts, and cheat codes and help
       solve problems that can make or break businesses. The founders’ journey is
       complicated, but it doesn’t have to be. Our mission at Supernova is to
       accelerate the realization of the founder's vision from the only
