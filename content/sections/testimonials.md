@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying...
-subtitle: Why Supernova Advisors Are Game Changers
+subtitle: 'About Supernova Advisors, Mentors & CEO Coaches'
 items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
@@ -56,13 +56,4 @@ items:
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
 ---
-
-
-
-
-
-
-
-
-
 
