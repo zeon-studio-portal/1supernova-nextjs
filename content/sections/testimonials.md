@@ -25,26 +25,6 @@ items:
     quote: >-
       Supernova is a next-level accelerator! Who has your back after demo day?
       #supernova
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
-    designation: CEO & Founder
-    company: Jive
-    quote: 'Supernova is the #1 exited founder community.'
-  - name: Daniel Gartenberg PHD
-    image: /images/testimonials/daniel-gartenberg.jpg
-    designation: CEO & Founder
-    company: SleepSpace
-    quote: …a 1-of-a-kind advisory and flywheel for Founders.
-  - name: Martin Ruddy
-    image: /images/testimonials/martin-ruddy.jpg
-    designation: CEO & Co-founder
-    company: GetSetPet
-    quote: Supernova is the real deal.
-  - name: Ben Lamm
-    image: /images/testimonials/ben-lamm.jpg
-    designation: CEO & Co-founder
-    company: Colossal
-    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
@@ -52,6 +32,26 @@ items:
     quote: >-
       Top advisors are key for all growth stages (Seed, StartUp, ScaleUp,
       GrownUp).
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
+    designation: CEO & Founder
+    company: Jive
+    quote: 'Supernova is the #1 exited founder community.'
+  - name: Martin Ruddy
+    image: /images/testimonials/martin-ruddy.jpg
+    designation: CEO & Co-founder
+    company: GetSetPet
+    quote: Supernova is the real deal.
+  - name: Daniel Gartenberg PHD
+    image: /images/testimonials/daniel-gartenberg.jpg
+    designation: CEO & Founder
+    company: SleepSpace
+    quote: …a 1-of-a-kind advisory and flywheel for Founders.
+  - name: Ben Lamm
+    image: /images/testimonials/ben-lamm.jpg
+    designation: CEO & Co-founder
+    company: Colossal
+    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
