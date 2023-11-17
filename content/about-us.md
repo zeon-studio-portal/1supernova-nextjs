@@ -1,9 +1,8 @@
 ---
 title: About Us
 description: >-
-  We are a uniquely qualified collective of advisors supporting founders through
-  their mission, faster.
-layout: about-us
+  We are a uniquely qualified collective of advisors, mentors and ceo coaches
+  supporting founders through their mission, faster.
 who_we_are:
   enable: true
   title: Who We Are
@@ -114,9 +113,4 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
-
-
-
-
-
 
