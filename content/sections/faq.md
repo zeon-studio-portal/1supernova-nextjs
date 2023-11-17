@@ -11,7 +11,10 @@ lists:
       fill specific needs, be it guidance, expertise, connections, mentorship,
       and even hands-on support. They supply shortcuts, cheat codes and help
       solve problems that can make or break businesses. The founders’ journey is
-      complicated, but it doesn’t have to be. 
+      complicated, but it doesn’t have to be. Our mission at Supernova is to
+      accelerate the realization of the founder's vision from the only
+      perspective that truly understands the journey, as exited founders
+      ourselves.
   - question: Is my company a fit for Supernova?
     answer: >-
       To best serve the companies we work with and ensure impact, we limit our
@@ -88,20 +91,4 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars founders to combine their life force energy and shine brighter together. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity. Let’s light up the world.\U0001F31F"
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
