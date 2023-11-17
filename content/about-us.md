@@ -7,7 +7,7 @@ who_we_are:
   enable: true
   title: Who We Are
   content: >
-    More than 100 exited founders who have come together to provide exponential
+    More than 150 exited founders who have come together to provide exponential
     impact to the startups they serve. As entrepreneurial founders themselves,
     Supernova co-founders Barry Stamos and Christopher Staley have backgrounds
     as founders, in venture capital, advising and consulting, and have seen
