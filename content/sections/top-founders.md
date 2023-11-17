@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'We back top founders and evolutionary entrepreneurs '
+title: We back evolutionary entrepreneurs on their hero's journey
 subtitle: ' Early and growth-stage startups in one portfolio of promising ventures'
 list_colors:
   - '#5ECDF8'
