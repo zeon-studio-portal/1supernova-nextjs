@@ -1,8 +1,8 @@
 ---
 title: About Us
 description: >-
-  We are a uniquely qualified collective of advisors, mentors and ceo coaches
-  supporting founders through their mission, faster.
+  Supernova was birthed from a simple question, "What if exited founders teamed
+  up with startups changing the world to achieve their missions, faster?" 
 who_we_are:
   enable: true
   title: Who We Are
