@@ -22,7 +22,7 @@ process:
       business needs.
     button:
       enable: true
-      label: Match With Exited Founders
+      label: Match Up With Exited Founders
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
