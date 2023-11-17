@@ -1,7 +1,7 @@
 ---
 enable: true
 title: 'We back top founders and evolutionary entrepreneurs '
-subtitle: ' Early and growth-stage startups in one portfolio of thriving ventures'
+subtitle: ' Early and growth-stage startups in one portfolio of promising ventures'
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
