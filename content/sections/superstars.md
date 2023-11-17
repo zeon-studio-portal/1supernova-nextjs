@@ -1,8 +1,8 @@
 ---
 enable: true
 title: ✨ Meet the Superstars ✨
-subtitle: 'Over 150+ industry-relevant, exited founders ready to serve startups'
-quote: We orbit around your needs as all-star advisory teams.
+subtitle: 'Over 150+ industry-relevant, exited founders joining forces in higher service'
+quote: We orbit around your needs as all-star advisory teams
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
