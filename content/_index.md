@@ -7,11 +7,11 @@ banner:
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
+      - “maintained my sanity.”
       - “landed our whale customer.”
       - “scored our lead investor.”
       - “scaled faster than I dreamed.”
       - “exited at higher multiples.”
-      - “maintained my sanity.”
   video_button:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
