@@ -24,7 +24,9 @@ lists:
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
   - title: VC’s
     icon: /images/community/03.svg
-    content: Are you an investor wanting to  upgrade portfolio management services?
+    content: >-
+      Are you ready to supercharge your portfolio success rates? Start with
+      office hours with exited founders.
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
