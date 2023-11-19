@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying...
-subtitle: 'The WOW factor is real '
+subtitle: The WOW factor is real when exited founders combine their superpowers
 items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
