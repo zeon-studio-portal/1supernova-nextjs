@@ -1,9 +1,7 @@
 ---
 enable: true
-title: Don't get crushed by the gravity of startup reality
-subtitle: >-
-  88% of startups fail to return a single dollar to founders, their team and
-  investors
+title: Why do 88% of startups fail to realize their potential?
+subtitle: Don't get crushed by the gravity of startup reality
 video_url: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
 quote: We are a conscious cooperative of founders invested in each other’s success.
 features:
