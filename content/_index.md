@@ -55,7 +55,7 @@ advisory:
       suffix: ∞
 advisory_game:
   enable: true
-  title: We are not like other advisors or VCs.
+  title: We are not like other advisors.
   subtitle: >-
     With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
     advisory-as-a-service™ for early and growth-stage startups.
