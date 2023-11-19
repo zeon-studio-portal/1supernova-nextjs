@@ -28,7 +28,7 @@ founders:
 advisory:
   enable: true
   title: Advisory as a Service™
-  subtitle: 'Get guided by the #1 exited founder community'
+  subtitle: 'Get advised by the #1 exited founder community'
   quote: >-
     150+ exited founders team up to share time, wisdom, resources and networks
     so startups achieve their mission, faster: 
