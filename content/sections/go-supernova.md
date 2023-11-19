@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Why do 88% of startups fail to realize their potential?
-subtitle: Don't get crushed by the gravity of startup reality
+title: VC is not meeting founders needs
+subtitle: 52% of founders said they would not accept their capital again
 video_url: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
 quote: We are a conscious cooperative of founders invested in each other’s success.
 features:
