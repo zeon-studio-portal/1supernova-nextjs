@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'Top founders join forces across communities:'
+  title: 'One olympic team for venture humanity:'
   brands:
     - /images/founders/andreessen-horowitz.svg
     - /images/founders/eo.svg
