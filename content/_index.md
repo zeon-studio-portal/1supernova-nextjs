@@ -41,7 +41,7 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: 'VC Partners, Ops Ninjas, SMEs'
+    - title: 'Investors, VCs, SMEs, Ops Ninjas'
       number: 3000
       suffix: ''
     - title: Exited Founders
