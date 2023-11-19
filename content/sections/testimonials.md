@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying...
-subtitle: The WOW factor is real beyond these reviews
+subtitle: 'The WOW factor is real '
 items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
