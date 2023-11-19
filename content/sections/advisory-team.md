@@ -1,6 +1,6 @@
 ---
 enable: true
-title: You’re too busy. We get it!
+title: 'You’re too busy. '
 subtitle: 'Turnkey your advisory relationships to us and save time, capital and equity'
 list_colors:
   - '#09B1FB'
