@@ -37,7 +37,7 @@ items:
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
-    quote: '#1 exited founder community.'
+    quote: 'Trust is everything. Supernova is the real deal. '
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
