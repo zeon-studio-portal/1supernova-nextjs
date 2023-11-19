@@ -1,7 +1,7 @@
 ---
 enable: true
-title: We back evolutionary entrepreneurs on their hero's journey
-subtitle: ' Early and growth-stage startups in one portfolio of promising ventures that drive a better future forward'
+title: 'We back evolutionary entrepreneurs '
+subtitle: ' Early and growth-stage startups that drive a better future forward'
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
