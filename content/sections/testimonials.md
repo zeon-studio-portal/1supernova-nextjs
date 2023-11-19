@@ -23,6 +23,11 @@ items:
     designation: CEO & Founder
     company: Aya Mastercard
     quote: Supernova is a next-level accelerator.
+  - name: Tim Chang
+    image: /images/1660074023770.jpeg
+    designation: Partner
+    company: Mayfield VC
+    quote: We only invest in founders that agree to be coached.
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
@@ -32,7 +37,7 @@ items:
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
-    quote: 'Supernova is the #1 exited founder community.'
+    quote: '#1 exited founder community.'
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
@@ -43,10 +48,5 @@ items:
     designation: CEO & Founder
     company: SleepSpace
     quote: …a 1-of-a-kind advisory and flywheel for Founders.
-  - name: Tim Chang
-    image: /images/1660074023770.jpeg
-    designation: Partner
-    company: Mayfield VC
-    quote: We only invest in founders that agree to be coached.
 ---
 
