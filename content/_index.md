@@ -41,8 +41,8 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: 'Investors, VCs, SMEs, Ops Ninjas'
-      number: 3000
+    - title: 'Vetted Community of Investors, VCs, SMEs, Ops Ninjas'
+      number: 444
       suffix: ''
     - title: Exited Founders
       number: 150
