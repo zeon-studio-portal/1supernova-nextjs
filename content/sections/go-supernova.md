@@ -16,7 +16,7 @@ features:
       founders ourselves.
   - icon: /images/go-supernova/02.svg
     content: >-
-      Our purpose is combining our collective genius, wisdom, skills, resources
-      and networks for exponential impact.
+      Our purpose is combining our lifeforce energy and superpowers (collective
+      genius, wisdom, skills, resources and networks) for exponential impact.
 ---
 
