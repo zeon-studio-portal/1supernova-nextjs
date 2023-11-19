@@ -1,7 +1,7 @@
 const aboutUs = {
   label: "About Us",
   name: "about_us",
-  path: "content",
+  path: "content/about-us",
   ui: {
     allowedActions: {
       create: false,
@@ -9,7 +9,7 @@ const aboutUs = {
     },
   },
   match: {
-    include: "about-us",
+    include: "_index",
   },
   fields: [
     {
@@ -42,7 +42,7 @@ const aboutUs = {
           name: "content",
           type: "rich-text",
         },
-      ]
+      ],
     },
     {
       label: "Our Values",
@@ -98,7 +98,7 @@ const aboutUs = {
             },
           },
         },
-      ]
+      ],
     },
     {
       label: "Why Supernova Exists",
@@ -130,7 +130,7 @@ const aboutUs = {
           name: "content_right",
           type: "rich-text",
         },
-      ]
+      ],
     },
     {
       label: "Leadership Team",
@@ -180,7 +180,7 @@ const aboutUs = {
             },
           },
         },
-      ]
+      ],
     },
     {
       label: "Contact Us",
@@ -225,7 +225,7 @@ const aboutUs = {
             },
           },
         },
-      ]
+      ],
     },
   ],
 };
