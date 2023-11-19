@@ -11,8 +11,8 @@ lists:
   - title: Founder
     icon: /images/community/01.svg
     content: >-
-      Are you a founder who bootstrapped their business ($1M+ in revenues) or a
-      VC-backed startup (Seed to Series B)?
+      Are you a conscious founder of a bootstrapped business ($1M+ in revenues)
+      or a VC-backed startup (Seed to Series B)?
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
