@@ -18,6 +18,16 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: Supernova 3x my sales in 120 days!
+  - name: Ben Lamm
+    image: /images/testimonials/ben-lamm.jpg
+    designation: CEO & Co-founder
+    company: Colossal
+    quote: Exited founders teaming up is Supernova's special sauce.
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
+    designation: CEO & Founder
+    company: Jive
+    quote: 'Trust is everything. Supernova is the real deal. '
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
@@ -28,25 +38,15 @@ items:
     designation: Partner
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
-  - name: Gary Moon
-    image: /images/testimonials/gary-moon.jpg
-    designation: CEO
-    company: nfluence Partners
-    quote: Top advisors are key for all growth stages.
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
-    designation: CEO & Founder
-    company: Jive
-    quote: 'Trust is everything. Supernova is the real deal. '
-  - name: Ben Lamm
-    image: /images/testimonials/ben-lamm.jpg
-    designation: CEO & Co-founder
-    company: Colossal
-    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
     company: SleepSpace
     quote: …a 1-of-a-kind advisory and flywheel for Founders.
+  - name: Gary Moon
+    image: /images/testimonials/gary-moon.jpg
+    designation: CEO
+    company: nfluence Partners
+    quote: Top advisors are key for all growth stages.
 ---
 
