@@ -28,7 +28,7 @@ founders:
 advisory:
   enable: true
   title: Advisory as a Service™
-  subtitle: 'We game startup success, so you achieve your mission, faster'
+  subtitle: 'Get mentored by the #1 exited founder community'
   quote: >-
     Exited founders team up to share time, wisdom, resources and networks to
     support: 
