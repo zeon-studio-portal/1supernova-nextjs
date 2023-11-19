@@ -30,8 +30,8 @@ advisory:
   title: Advisory as a Service™
   subtitle: 'Get mentored by the #1 exited founder community'
   quote: >-
-    Exited founders team up to share time, wisdom, resources and networks to
-    support: 
+    Exited founders team up to share time, wisdom, resources and networks so
+    startups achieve their mission, faster: 
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
