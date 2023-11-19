@@ -13,11 +13,6 @@ items:
     designation: CEO & Co-founder
     company: TN.com
     quote: My advisors helped us grow to $250MM in ARR and successfully exit.
-  - name: Ben Lamm
-    image: /images/testimonials/ben-lamm.jpg
-    designation: CEO & Co-founder
-    company: Colossal
-    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
@@ -38,6 +33,11 @@ items:
     designation: CEO & Founder
     company: Jive
     quote: 'Supernova is the #1 exited founder community.'
+  - name: Ben Lamm
+    image: /images/testimonials/ben-lamm.jpg
+    designation: CEO & Co-founder
+    company: Colossal
+    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Martin Ruddy
     image: /images/testimonials/martin-ruddy.jpg
     designation: CEO & Co-founder
