@@ -1,7 +1,9 @@
 ---
 enable: true
 title: VC is not meeting founders needs
-subtitle: 52% of founders said they would not accept their capital again
+subtitle: >-
+  Smart money is in rare supply with 52% of founders said they would not accept
+  their capital again
 video_url: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
 quote: We are a conscious cooperative of founders invested in each other’s success.
 features:
