@@ -22,9 +22,7 @@ items:
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
     company: Aya Mastercard
-    quote: >-
-      Supernova is a next-level accelerator! Who has your back after demo day?
-      #supernova
+    quote: Supernova is a next-level accelerator!
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
