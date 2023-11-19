@@ -5,7 +5,7 @@ subtitle: >-
   Over 150+ exited founders ready to serve as growth catalysts professionally
   and personally
 quote: >-
-  We orbit around your needs as all-star advisory boards, teams, mentors, and
+  We orbit around your needs as all-star advisory teams, mentors, and ceo
   coaches
 group_list:
   - name: AI
