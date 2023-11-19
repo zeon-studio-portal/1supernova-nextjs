@@ -18,7 +18,9 @@ lists:
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
   - title: Advisor
     icon: /images/community/02.svg
-    content: Are you an exited founder ready to join forces with Supernova?
+    content: >-
+      Are you an exited founder ready to join forces with Supernova? We believe
+      we shine brighter together. 
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
