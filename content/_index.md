@@ -41,7 +41,7 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: Vetted Advisors
+    - title: Vetted Superstars
       number: 225
       suffix: ''
     - title: Exited Founders
