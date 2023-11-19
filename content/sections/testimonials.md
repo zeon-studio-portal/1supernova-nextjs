@@ -27,9 +27,7 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: >-
-      Top advisors are key for all growth stages (Seed, StartUp, ScaleUp,
-      GrownUp).
+    quote: Top advisors are key for all growth stages.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
