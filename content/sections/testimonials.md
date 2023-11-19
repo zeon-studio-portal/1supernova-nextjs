@@ -38,11 +38,6 @@ items:
     designation: CEO & Co-founder
     company: Colossal
     quote: Exited founders teaming up is Supernova's special sauce.
-  - name: Martin Ruddy
-    image: /images/testimonials/martin-ruddy.jpg
-    designation: CEO & Co-founder
-    company: GetSetPet
-    quote: Supernova is the real deal.
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
