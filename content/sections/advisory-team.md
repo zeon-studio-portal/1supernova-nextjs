@@ -1,7 +1,7 @@
 ---
 enable: true
 title: You’re too busy. We get it!
-subtitle: 'Turnkey your advisory board relationships to optimize time, capital and equity'
+subtitle: 'Turnkey your advisory relationships to us and save time, capital and equity'
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
