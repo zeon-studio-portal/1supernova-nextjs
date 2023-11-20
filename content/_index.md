@@ -42,7 +42,7 @@ advisory:
     - '#ca58c5'
   facts:
     - title: 'Vetted VCs, SMEs, Ops Ninjas'
-      number: 444
+      number: 333
       suffix: ''
     - title: Exited Founders
       number: 150
