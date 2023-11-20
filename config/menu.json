@@ -9,20 +9,20 @@
       "url": "/#top-founders"
     },
     {
-      "name": "Reviews",
-      "url": "/#reviews"
-    },
-    {
       "name": "How it Works",
       "url": "/#how-it-works"
     },
     {
-      "name": "FAQs",
-      "url": "/#faqs"
+      "name": "Reviews",
+      "url": "/#reviews"
     },
     {
       "name": "About Us",
       "url": "/about-us"
+    },
+    {
+      "name": "FAQs",
+      "url": "/#faqs"
     }
   ],
   "footer": [
