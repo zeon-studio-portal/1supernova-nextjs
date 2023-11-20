@@ -18,26 +18,26 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: Supernova 3x my sales in 120 days!
-  - name: Ben Lamm
-    image: /images/testimonials/ben-lamm.jpg
-    designation: CEO & Co-founder
-    company: Colossal
-    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
     quote: 'Supernova is the real deal. '
-  - name: Chanddeep Madaan
-    image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO & Founder
-    company: Aya Mastercard
-    quote: Supernova is a next-level accelerator.
+  - name: Ben Lamm
+    image: /images/testimonials/ben-lamm.jpg
+    designation: CEO & Co-founder
+    company: Colossal
+    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
     quote: We only invest in founders that agree to be coached.
+  - name: Chanddeep Madaan
+    image: /images/testimonials/chanddeep-madaan.jpg
+    designation: CEO & Founder
+    company: Aya Mastercard
+    quote: Supernova is a next-level accelerator.
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
@@ -47,6 +47,6 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: Top advisors are key for all growth stages.
+    quote: It's time for elite entrepreneurs to join forces for the greater good.
 ---
 
