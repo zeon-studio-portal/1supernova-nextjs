@@ -15,7 +15,7 @@ features:
       from the only perspective that truly understands, as founders ourselves.
   - icon: /images/go-supernova/02.svg
     content: >-
-      Our purpose is to combine the superpowers of the world's most powerful
-      creators for stellar results and exponential impact.
+      Our purpose is to ignite and unite the superpowers of the world's most
+      powerful creators for stellar results and exponential impact.
 ---
 
