@@ -37,7 +37,7 @@ items:
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
-    quote: We only invest in founders that agree to be mentored.
+    quote: We only invest in founders that agree to be coached.
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
