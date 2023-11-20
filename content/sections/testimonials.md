@@ -27,7 +27,7 @@ items:
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
-    quote: 'Trust is everything. Supernova is the real deal. '
+    quote: 'Supernova is the real deal. '
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
