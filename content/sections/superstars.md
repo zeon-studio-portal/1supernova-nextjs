@@ -1,6 +1,6 @@
 ---
 enable: true
-title: ✨ Meet the Superstars ✨
+title: Meet the Superstars ✨
 subtitle: >-
   Over 150+ exited founders ready to serve as growth catalysts professionally
   and personally
