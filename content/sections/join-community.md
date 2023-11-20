@@ -19,7 +19,7 @@ lists:
   - title: Advisor
     icon: /images/community/02.svg
     content: >-
-      Are you an exited founder ready to join forces with your peers and share
+      Are you an exited founder ready to join forces with a peer group and share
       ownership in one thriving portfolio?
     button:
       label: Let’s Talk
