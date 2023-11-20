@@ -19,8 +19,8 @@ lists:
   - title: Advisor
     icon: /images/community/02.svg
     content: >-
-      Are you an exited founder ready to join the #1 exited founder community?
-      Sharing ownership in one thriving portfolio. 
+      Are you an exited founder ready to play as all-star advisory teams and
+      share ownership in one thriving portfolio?
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
