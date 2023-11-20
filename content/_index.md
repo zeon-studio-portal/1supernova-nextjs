@@ -41,7 +41,7 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: 'Vetted Investors, VCs, SMEs, Ops Ninjas'
+    - title: 'Vetted VCs, SMEs, Ops Ninjas'
       number: 444
       suffix: ''
     - title: Exited Founders
