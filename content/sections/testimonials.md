@@ -32,7 +32,9 @@ items:
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
-    quote: We only invest in founders that agree to be coached.
+    quote: >-
+      I invest my time and money in Supernova to support conscious
+      entrepreneurship.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
