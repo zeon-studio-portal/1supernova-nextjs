@@ -5,10 +5,6 @@
       "url": "/#superstars"
     },
     {
-      "name": "Startups",
-      "url": "/#top-founders"
-    },
-    {
       "name": "How it Works",
       "url": "/#how-it-works"
     },
@@ -17,12 +13,12 @@
       "url": "/#reviews"
     },
     {
-      "name": "About Us",
-      "url": "/about-us"
-    },
-    {
       "name": "FAQs",
       "url": "/#faqs"
+    },
+    {
+      "name": "About Us",
+      "url": "/about-us"
     }
   ],
   "footer": [
