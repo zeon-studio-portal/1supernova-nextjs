@@ -12,8 +12,6 @@ group_list:
     icon: /images/superstars/icons/ai.svg
   - name: Culture
     icon: /images/superstars/icons/leadership.svg
-  - name: Exited Founder
-    icon: /images/superstars/icons/talent.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
   - name: Growth
