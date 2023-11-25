@@ -23,7 +23,12 @@ const TopFounders = ({ join_community }) => {
 
           <div className="row mt-10 space-y-8 md:space-y-0">
             {join_community.frontmatter.lists.map((item, index) => (
-              <div key={index} className="md:col-4" data-aos="fade-up-sm" data-aos-delay={((index - 0.5) * 100) + 100}>
+              <div
+                key={index}
+                className="md:col-4"
+                data-aos="fade-up-sm"
+                data-aos-delay={(index - 0.5) * 100 + 100}
+              >
                 <div className="flex h-full flex-col rounded-2xl bg-dark-quaternary px-8 py-10">
                   <div className="mb-6">
                     <Image
@@ -36,7 +41,11 @@ const TopFounders = ({ join_community }) => {
                     <p className="mb-3 text-2xl font-medium leading-snug md:text-3xl">
                       {item.title}
                     </p>
-                    <span className="block text-[16px]">{item.content}</span>
+                    {markdownify(
+                      item.content,
+                      "div",
+                      "block text-[16px] prose-strong:bg-yellow-500 prose-strong:rounded prose-strong:px-1 prose-strong:!font-normal"
+                    )}
                   </div>
 
                   <a
@@ -67,7 +76,11 @@ const TopFounders = ({ join_community }) => {
             ))}
           </div>
 
-          <div className="mt-8 text-center" data-aos="fade-up-sm" data-aos-delay="50">
+          <div
+            className="mt-8 text-center"
+            data-aos="fade-up-sm"
+            data-aos-delay="50"
+          >
             {markdownify(
               join_community.frontmatter.info,
               "div",

@@ -53,7 +53,10 @@ const GoSupernova = ({ go_supernova }) => {
                   data-aos-delay="100"
                 />
               </div>
-              <div className="player-wrapper relative z-10" data-aos="fade-up-sm">
+              <div
+                className="player-wrapper relative z-10"
+                data-aos="fade-up-sm"
+              >
                 <ReactPlayer
                   url={go_supernova.frontmatter.video_url}
                   controls
@@ -86,7 +89,12 @@ const GoSupernova = ({ go_supernova }) => {
             <div className="mt-16 rounded-2xl bg-dark-quaternary px-16 py-12">
               <div className="row space-y-12 md:space-y-0">
                 {go_supernova.frontmatter.features.map((feature, index) => (
-                  <div key={index} className="text-center md:col-4" data-aos="fade-up-sm" data-aos-delay={((index - 0.5) * 100) + 100}>
+                  <div
+                    key={index}
+                    className="text-center md:col-4"
+                    data-aos="fade-up-sm"
+                    data-aos-delay={(index - 0.5) * 100 + 100}
+                  >
                     <Image
                       src={feature.icon}
                       alt="supernova"
@@ -94,14 +102,22 @@ const GoSupernova = ({ go_supernova }) => {
                       height={120}
                       className="mx-auto mb-4"
                     />
-                    {markdownify(feature.content, "div")}
+                    {markdownify(
+                      feature.content,
+                      "div",
+                      "prose-strong:bg-yellow-500 prose-strong:rounded prose-strong:px-1 prose-strong:!font-normal"
+                    )}
                   </div>
                 ))}
               </div>
             </div>
           </div>
 
-          <div className="text-center" data-aos="fade-up-sm" data-aos-delay="150">
+          <div
+            className="text-center"
+            data-aos="fade-up-sm"
+            data-aos-delay="150"
+          >
             {markdownify(
               go_supernova.frontmatter.quote,
               "p",

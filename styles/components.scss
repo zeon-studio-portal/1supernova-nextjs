@@ -144,6 +144,21 @@
   }
 }
 
+.video-wrapper {
+  @apply relative mx-auto inline-block aspect-video h-[120px] overflow-hidden rounded-xl sm:h-[200px] md:h-[300px];
+  iframe {
+    width: 500%;
+    height: 100%;
+    margin-left: -200%;
+  }
+  &-btn {
+    @apply absolute left-0 top-0 z-10 flex h-full w-full items-center justify-center;
+    &-icon {
+      @apply h-16 w-16 rounded-full bg-primary-600 text-center leading-[60px];
+    }
+  }
+}
+
 .go-supernova {
   @apply relative z-[999];
   &::before,
@@ -200,7 +215,7 @@
   }
 
   &-body {
-    @apply top-0 z-50 max-w-[calc(100%-20px)] sm:max-w-none overflow-hidden;
+    @apply top-0 z-50 max-w-[calc(100%-20px)] overflow-hidden sm:max-w-none;
   }
   &-author {
     @apply flex flex-row items-center sm:flex-col;
@@ -215,7 +230,7 @@
     }
   }
   &-content {
-    @apply hidden p-8 pt-4 text-left overflow-y-auto;
+    @apply hidden overflow-y-auto p-8 pt-4 text-left;
     max-height: 369px;
     &::-webkit-scrollbar {
       width: 8px;
@@ -231,7 +246,7 @@
   &:hover {
     .team-card {
       &-body {
-        @apply z-50 w-full rounded-2xl bg-white sm:absolute sm:w-[380px] sm:rounded-[64px] shadow-2xl;
+        @apply z-50 w-full rounded-2xl bg-white shadow-2xl sm:absolute sm:w-[380px] sm:rounded-[64px];
         h3 {
           @apply text-dark-primary;
         }

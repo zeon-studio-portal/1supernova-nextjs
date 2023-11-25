@@ -53,7 +53,9 @@ export const getStaticProps = async () => {
   const how_it_works = await getListPage("content/sections/how-it-works.md");
   const advisory_team = await getListPage("content/sections/advisory-team.md");
   const go_supernova = await getListPage("content/sections/go-supernova.md");
-  const join_community = await getListPage("content/sections/join-community.md");
+  const join_community = await getListPage(
+    "content/sections/join-community.md"
+  );
   const faq = await getListPage("content/sections/faq.md");
 
   return {
