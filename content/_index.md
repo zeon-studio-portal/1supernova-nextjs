@@ -32,7 +32,7 @@ advisory:
   quote: >-
     Exited founders team up and share time, wisdom, resources and networks to
     help startups achieve their mission, faster
-  services_image: /images/advisory/services.svg
+  services_image: /images/advisory/services.gif
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
   facts_colors:
