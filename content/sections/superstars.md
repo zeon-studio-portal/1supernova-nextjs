@@ -90,7 +90,7 @@ team:
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - GP at Supernova
+      - General Partner at Supernova
       - 'Co-founder at Key (YPO) '
       - 2x Exited Founder
     content: >
