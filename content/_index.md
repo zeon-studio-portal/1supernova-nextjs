@@ -47,7 +47,7 @@ advisory:
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: 'Vetted VCs, SMEs, Ops Ninjas'
+    - title: Ecosystem Partners
       number: 311
       suffix: ''
     - title: Collective Impact
