@@ -32,7 +32,7 @@ items:
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
-    quote: I support conscious entrepreneurship via Supernova.
+    quote: I back conscious entrepreneurship via Supernova.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
