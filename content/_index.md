@@ -50,7 +50,7 @@ advisory:
     - title: Partner Ecosystem
       number: 442
       suffix: ''
-    - title: Universal Impact
+    - title: Global Impact
       number: null
       suffix: ∞
 advisory_game:
