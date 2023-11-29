@@ -90,9 +90,9 @@ team:
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - YPO & EO
-      - 'Co-founder & President at Key '
-      - 'Founder at ShareShed (Exit to Leavetown) '
+      - GP at Supernova
+      - 'Co-founder at Key (YPO) '
+      - 2x Exited Founder
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
       first two venture-backed companies and joined Airbnb full-time where he
