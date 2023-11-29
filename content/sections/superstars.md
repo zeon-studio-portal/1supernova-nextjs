@@ -91,7 +91,7 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - General Partner at Supernova
-      - 'Co-founder at Key (YPO) '
+      - 'Co-founder President at Key (YPO)  '
       - 2x Exited Founder
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
