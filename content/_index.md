@@ -41,14 +41,14 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: 'Vetted VCs, SMEs, Ops Ninjas'
-      number: 311
-      suffix: ''
     - title: Exited Founders
       number: 150
       suffix: +
     - title: Startups Chosen Yearly
       number: 12
+      suffix: ''
+    - title: 'Vetted VCs, SMEs, Ops Ninjas'
+      number: 311
       suffix: ''
     - title: Collective Impact
       number: null
