@@ -52,7 +52,7 @@ team:
       - MARKETING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & CEO at Supernova
+      - CEO & Co-founder at Supernova
       - Co-founder at 1heart.com
       - '3x Exited Founder '
     content: >
