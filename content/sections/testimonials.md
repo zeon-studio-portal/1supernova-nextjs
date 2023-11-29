@@ -47,6 +47,6 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: It's time for elite entrepreneurs to join forces for the greater good.
+    quote: Entrepreneurs are *finally* joining forces for the greater good.
 ---
 
