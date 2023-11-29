@@ -50,7 +50,7 @@ advisory:
     - title: Ecosystem Partners
       number: 311
       suffix: ''
-    - title: Collective Impact
+    - title: Universal Impact
       number: null
       suffix: ∞
 advisory_game:
