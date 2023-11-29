@@ -41,12 +41,12 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
+    - title: Startups Chosen Yearly
+      number: 12
+      suffix: ''
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: Actively Engaged
-      number: 44
-      suffix: ''
     - title: Global Impact
       number: null
       suffix: ∞
