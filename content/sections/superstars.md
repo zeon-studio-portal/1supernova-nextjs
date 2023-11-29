@@ -110,7 +110,7 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - 'Investor #1 at Supernova Capital'
+      - First investor in Supernova Capital
       - CEO/Founder at TN.com ($250MM ARR & Merged w/ SSB)
       - EO and YPO
     content: >
