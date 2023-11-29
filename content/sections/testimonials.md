@@ -8,21 +8,31 @@ items:
     designation: CEO & Founder
     company: Parkqulility
     quote: 'As a second-time founder, Supernova is a no-brainer.'
-  - name: JT Marino
-    image: /images/testimonials/jt-marnio.jpg
-    designation: CEO & Co-founder
-    company: TN.com
-    quote: My advisors helped us grow to $250MM in ARR and successfully exit.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
     company: Neuromore
     quote: Supernova 3x my sales in 120 days!
+  - name: JT Marino
+    image: /images/testimonials/jt-marnio.jpg
+    designation: CEO & Co-founder
+    company: TN.com
+    quote: My advisors helped us grow to $250MM in ARR and successfully exit.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
     quote: 'Supernova is the real deal. '
+  - name: Daniel Gartenberg PHD
+    image: /images/testimonials/daniel-gartenberg.jpg
+    designation: CEO & Founder
+    company: SleepSpace
+    quote: …a 1-of-a-kind advisory and flywheel for Founders.
+  - name: Chanddeep Madaan
+    image: /images/testimonials/chanddeep-madaan.jpg
+    designation: CEO & Founder
+    company: Aya Mastercard
+    quote: Supernova is a next-level accelerator.
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
@@ -33,16 +43,6 @@ items:
     designation: Partner
     company: Mayfield VC
     quote: I back conscious entrepreneurship via Supernova.
-  - name: Chanddeep Madaan
-    image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO & Founder
-    company: Aya Mastercard
-    quote: Supernova is a next-level accelerator.
-  - name: Daniel Gartenberg PHD
-    image: /images/testimonials/daniel-gartenberg.jpg
-    designation: CEO & Founder
-    company: SleepSpace
-    quote: …a 1-of-a-kind advisory and flywheel for Founders.
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
