@@ -47,8 +47,8 @@ advisory:
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: Vetted Partner Ecosystem
-      number: 44
+    - title: Vetted Advisors & CEO Coaches
+      number: 444
       suffix: ''
     - title: Global Impact
       number: null
