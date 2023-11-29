@@ -3,11 +3,11 @@ enable: true
 title: What they are saying
 subtitle: The WOW factor is real when exited founders share their superpowers
 items:
-  - name: Abhishek Anand
-    image: /images/testimonials/abhishek-anand.jpg
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
     designation: CEO & Founder
-    company: Parkqulility
-    quote: 'As a second-time founder, Supernova is a no-brainer.'
+    company: Jive
+    quote: 'Supernova is the real deal. '
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
@@ -28,11 +28,11 @@ items:
     designation: CEO & Founder
     company: Aya Mastercard
     quote: Supernova is a next-level accelerator.
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
+  - name: Abhishek Anand
+    image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
-    company: Jive
-    quote: 'Supernova is the real deal. '
+    company: Parkqulility
+    quote: 'As a second-time founder, Supernova is a no-brainer.'
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
