@@ -41,18 +41,18 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: Startups Chosen Yearly
-      number: 12
-      suffix: ''
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: Vetted Community
-      number: 4444
+    - title: Actively Engaged
+      number: 44
       suffix: ''
     - title: Global Impact
       number: null
       suffix: ∞
+    - title: Startups Chosen Yearly
+      number: 12
+      suffix: ''
 advisory_game:
   enable: true
   title: We are not like other advisors
