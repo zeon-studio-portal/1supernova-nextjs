@@ -44,15 +44,15 @@ advisory:
     - title: Startups Chosen Yearly
       number: 12
       suffix: ''
+    - title: Portfolio Value
+      number: 20000000
+      suffix: ''
     - title: Exited Founders
       number: 150
       suffix: +
     - title: Global Impact
       number: null
       suffix: ∞
-    - title: Startups Chosen Yearly
-      number: 12
-      suffix: ''
 advisory_game:
   enable: true
   title: We are not like other advisors
