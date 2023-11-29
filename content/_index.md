@@ -47,7 +47,7 @@ advisory:
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: Avg. NPS Score
+    - title: NPS Score
       number: 92
       suffix: ''
     - title: Global Impact
