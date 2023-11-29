@@ -44,12 +44,12 @@ advisory:
     - title: Startups Chosen Yearly
       number: 12
       suffix: ''
-    - title: 'Portfolio Value '
-      number: 20000000
-      suffix: ''
     - title: Exited Founders
       number: 150
       suffix: +
+    - title: Vetted Partner Ecosystem
+      number: 44
+      suffix: ''
     - title: Global Impact
       number: null
       suffix: ∞
