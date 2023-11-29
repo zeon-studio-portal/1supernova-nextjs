@@ -111,7 +111,7 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - 'First Investor, Supernova Capital'
-      - Co-founder at TN.com ($250MM ARR & Merged with SSB)
+      - CEO/Founder at TN.com ($250MM ARR & Merged w/ SSB)
       - EO and YPO
     content: >
       JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
