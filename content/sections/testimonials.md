@@ -18,11 +18,6 @@ items:
     designation: CEO & Co-founder
     company: TN.com
     quote: My advisors helped us grow to $250MM in ARR and successfully exit.
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
-    designation: CEO & Founder
-    company: Jive
-    quote: 'Supernova is the real deal. '
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
@@ -33,6 +28,11 @@ items:
     designation: CEO & Founder
     company: Aya Mastercard
     quote: Supernova is a next-level accelerator.
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
+    designation: CEO & Founder
+    company: Jive
+    quote: 'Supernova is the real deal. '
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder
@@ -42,7 +42,7 @@ items:
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
-    quote: I back conscious entrepreneurship via Supernova.
+    quote: Supernova is how I support conscious entrepreneurs.
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
