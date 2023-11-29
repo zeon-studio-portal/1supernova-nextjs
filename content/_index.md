@@ -47,8 +47,8 @@ advisory:
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: Vetted Advisors
-      number: 444
+    - title: Avg. NPS Score
+      number: 92
       suffix: ''
     - title: Global Impact
       number: null
