@@ -44,7 +44,7 @@ advisory:
     - title: Startups Chosen Yearly
       number: 12
       suffix: ''
-    - title: Portfolio Value
+    - title: 'Portfolio Value '
       number: 20000000
       suffix: ''
     - title: Exited Founders
