@@ -110,7 +110,7 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - Chief Disruption Officer at SSB
+      - 'Investor, Supernova Capital'
       - Co-founder at TN.com ($250MM ARR & Merged with SSB)
       - EO and YPO
     content: >
