@@ -81,6 +81,26 @@ team:
       - Founding Partner at Opopop
       - Founding Partner at Rokk3r Fuel ($250MM Fund)
     content: "Christopher Staley is the Co-founder & Chief Investment Officer of Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG company he built with Jonas Temple (cofounder of Beatport & Beats by Dre). Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel, a $250MM+ global VC. \_\n"
+  - name: Daniel Dubois
+    image: /images/Daniel.jpeg
+    department:
+      - SUPERCONNECTOR
+      - PRODUCT
+      - TECH
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - YPO & EO
+      - 'Co-founder & President at Key '
+      - 'Founder at ShareShed (Exit to Leavetown) '
+    content: >
+      Daniel is a serial entrepreneur and passionate changemaker. He sold his
+      first two venture-backed companies and joined Airbnb full-time where he
+      led growth in top tier markets. Daniel left Airbnb in 2019 to start Key
+      which is the market leader in attainable homeownership with 8-figures of
+      venture funding from top-tier institutions. Daniel is an active member of
+      EO and YPO where he hosts private monthly fireside chats with top-tier
+      venture capitalists and unicorn founders.
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department:
@@ -108,39 +128,6 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
-    department:
-      - MARKETING
-      - SOCIAL
-      - PR
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founding Member of Legacy 8
-      - CMO at SongTradr
-      - Founder & CEO at Jive (Exited)
-    content: >
-      Lindsay is a founding member of Legacy 8, an early stage venture capital
-      fund that focuses on the intersection of science and consciousness.
-      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
-      relations agency in Los Angeles, Vancouver and Toronto as well as the
-      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
-      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
-      North America to start her first business after six years working abroad
-      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
-      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
-      Women by the Financial Post, an Enterprising Women of the Year, Top 40
-      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
-      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
-      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
-      Change Film Festival and a mentor for WXN (Women's Executive Network) and
-      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
-      financial literacy in youth. She built a financial literacy app for kids
-      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
-      Pig Savings). She has an honors degree (summa cum laude) from the
-      International University of London, UK, an Entrepreneurial Strategy
-      certificate from Harvard Business School and is an insatiable travel
-      junkie.
   - name: Tim Chang
     image: /images/superstars/timchang.png
     department:
@@ -275,26 +262,39 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Daniel Dubois
-    image: /images/Daniel.jpeg
+  - name: Lindsay Nahmiache
+    image: /images/superstars/team-thumb-15.png
     department:
-      - SUPERCONNECTOR
-      - PRODUCT
-      - TECH
-      - FUNDING
+      - MARKETING
+      - SOCIAL
+      - PR
       - EXITED FOUNDER
     bulletpoints:
-      - YPO & EO
-      - 'Co-founder & President at Key '
-      - 'Founder at ShareShed (Exit to Leavetown) '
+      - Founding Member of Legacy 8
+      - CMO at SongTradr
+      - Founder & CEO at Jive (Exited)
     content: >
-      Daniel is a serial entrepreneur and passionate changemaker. He sold his
-      first two venture-backed companies and joined Airbnb full-time where he
-      led growth in top tier markets. Daniel left Airbnb in 2019 to start Key
-      which is the market leader in attainable homeownership with 8-figures of
-      venture funding from top-tier institutions. Daniel is an active member of
-      EO and YPO where he hosts private monthly fireside chats with top-tier
-      venture capitalists and unicorn founders.
+      Lindsay is a founding member of Legacy 8, an early stage venture capital
+      fund that focuses on the intersection of science and consciousness.
+      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
+      relations agency in Los Angeles, Vancouver and Toronto as well as the
+      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
+      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
+      North America to start her first business after six years working abroad
+      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
+      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
+      Women by the Financial Post, an Enterprising Women of the Year, Top 40
+      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
+      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
+      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
+      Change Film Festival and a mentor for WXN (Women's Executive Network) and
+      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
+      financial literacy in youth. She built a financial literacy app for kids
+      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
+      Pig Savings). She has an honors degree (summa cum laude) from the
+      International University of London, UK, an Entrepreneurial Strategy
+      certificate from Harvard Business School and is an insatiable travel
+      junkie.
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
