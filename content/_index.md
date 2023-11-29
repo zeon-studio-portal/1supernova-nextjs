@@ -47,8 +47,8 @@ advisory:
     - title: Exited Founders
       number: 150
       suffix: +
-    - title: Community Ecosystem
-      number: 100000
+    - title: Vetted Community
+      number: 444
       suffix: ''
     - title: Global Impact
       number: null
