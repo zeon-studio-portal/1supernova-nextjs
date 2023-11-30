@@ -92,7 +92,7 @@ leadership_team:
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
       designation: Partner
-    - name: JT Marino
+    - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: Partner
     - name: Zach Slobin
