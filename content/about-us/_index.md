@@ -87,7 +87,7 @@ leadership_team:
       image: /images/leadership-team/Barry-Stamos.jpg
       designation: CEO & Co-founder
     - name: Christopher Staley
-      image: /images/Christopher.jpeg
+      image: /images/ChristopherStaley-R.jpg
       designation: CIO & Co-Founder
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
