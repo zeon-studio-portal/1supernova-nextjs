@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Success is about the right relationships
-subtitle: 'Best-in-class advisors save you time, equity and capital'
+subtitle: 'All-star advisors save you time, equity and capital'
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
