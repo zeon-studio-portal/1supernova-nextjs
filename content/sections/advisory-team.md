@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Success is about the right relationships
-subtitle: 'Best-in-class advisors save you time, money and equity'
+subtitle: 'Best-in-class advisors save time, money & equity'
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
