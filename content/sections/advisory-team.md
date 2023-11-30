@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Success is about the right relationships
+title: Success is the right relationships
 subtitle: 'Best-in-class advisors save time, money & equity'
 list_colors:
   - '#09B1FB'
