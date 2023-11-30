@@ -18,7 +18,6 @@ banner:
 founders:
   title: 'One olympic team for venture humanity:'
   brands:
-    - /images/founders/andreessen-horowitz.svg
     - /images/founders/eo.svg
     - /images/founders/gaingels.svg
     - /images/founders/y-combinator.svg
