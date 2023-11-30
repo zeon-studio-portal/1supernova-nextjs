@@ -97,7 +97,7 @@ leadership_team:
       designation: Partner
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Scouts of Supernova
+      designation: Head of Scouts of Supernova
 contact_us:
   enable: false
   title: Contact Us
