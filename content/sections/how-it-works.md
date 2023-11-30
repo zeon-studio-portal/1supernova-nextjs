@@ -17,9 +17,8 @@ process:
       label: Apply to Supernova
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Assemble \U0001FAF6"
-    content: >
-      We match you with top advisors who will orbit around your immediate
-      business needs.
+    content: |
+      We match you with top advisors who support your immediate needs.
     button:
       enable: true
       label: Match Up With Exited Founders
