@@ -83,15 +83,15 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
-    - name: Daniel Dubois
-      image: /images/DanielDubois-R.jpg
-      designation: Partner
     - name: Barry Stamos
       image: /images/leadership-team/Barry-Stamos.jpg
       designation: CEO & Co-founder
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
       designation: CIO & Co-Founder
+    - name: Daniel Dubois
+      image: /images/DanielDubois-R.jpg
+      designation: Partner
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: Partner
