@@ -83,6 +83,9 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
+    - name: Daniel Dubois
+      image: /images/DanielDubois-R.jpg
+      designation: Partner
     - name: Barry Stamos
       image: /images/leadership-team/Barry-Stamos.jpg
       designation: CEO & Co-founder
