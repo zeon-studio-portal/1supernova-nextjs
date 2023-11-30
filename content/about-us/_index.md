@@ -1,8 +1,8 @@
 ---
 title: About Us
 description: >-
-  Supernova was birthed by a simple question, "What if exited founders teamed up
-  with startups changing the world to achieve their missions, faster?" 
+  Supernova was born based on a simple inquiry, "What if exited founders teamed
+  up with startups changing the world to achieve their missions, faster?" 
 who_we_are:
   enable: true
   title: Who We Are
@@ -17,7 +17,7 @@ who_we_are:
     assemblage of individuals who are motivated to share their knowledge and
     talent with the next top startups, for the betterment of venture humanity.
     More than 150 exited founders have come together to provide exponential
-    impact to the startups they serve. 
+    impact to the startups they serve.
 our_values:
   enable: true
   title: Our Values
