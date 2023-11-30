@@ -89,11 +89,11 @@ leadership_team:
     - name: Christopher Staley
       image: /images/Christopher.jpeg
       designation: CIO & Co-Founder
-    - name: Zach Slobin
-      image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Partner
     - name: JT Marino
       image: /images/leadership-team/JT-Marino.jpg
+      designation: Partner
+    - name: Zach Slobin
+      image: /images/leadership-team/Zach-Slobin.jpg
       designation: Partner
 contact_us:
   enable: false
