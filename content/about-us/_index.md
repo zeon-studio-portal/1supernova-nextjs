@@ -94,7 +94,7 @@ leadership_team:
       designation: Partner
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: Partner
+      designation: Supernova Capital
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Head of Scouts of Supernova
