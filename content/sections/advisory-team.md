@@ -1,7 +1,7 @@
 ---
 enable: true
-title: 'You’re time is now '
-subtitle: 'Access an all-star advisory team to save time, capital and equity'
+title: Success is about being in the right relationships
+subtitle: 'Turnkey a best-in-class advisory team to save time, money and equity '
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
