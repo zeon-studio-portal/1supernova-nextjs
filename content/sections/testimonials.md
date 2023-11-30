@@ -42,7 +42,7 @@ items:
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
-    quote: Supernova is how I support conscious entrepreneurs.
+    quote: Supernova is how I support conscious entrepreneurship.
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
