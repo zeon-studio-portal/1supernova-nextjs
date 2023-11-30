@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Success is about being in the right relationships
-subtitle: 'Turnkey a best-in-class advisory team to save time, money and equity '
+title: Success is about the right relationships
+subtitle: 'Turnkey your best-in-class advisory team to save time, equity and capital'
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
