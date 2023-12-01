@@ -97,7 +97,7 @@ leadership_team:
       designation: Supernova Capital
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Head of Scouts of Supernova
+      designation: Scouts of Supernova
 contact_us:
   enable: false
   title: Contact Us
