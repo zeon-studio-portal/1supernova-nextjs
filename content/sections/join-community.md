@@ -12,23 +12,23 @@ lists:
     icon: /images/community/01.svg
     content: >-
       **Are you a founder** of a bootstrapped business ($1M+ in revenues) or
-      VC-backed startup (Seed to Series B)?
+      VC-backed startup?
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
   - title: Advisor
     icon: /images/community/02.svg
     content: >-
-      **Are you an exited founder** ready to join forces with a peer group and share
-      ownership in one thriving portfolio?
+      **Are you an exited founder** ready to join forces with a peer group and
+      share ownership in one thriving portfolio?
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
   - title: VC’s
     icon: /images/community/03.svg
     content: >-
-      **Are you an investor** ready to supercharge your portfolio? Start with office
-      hours with exited founders.
+      **Are you an investor** ready to supercharge your portfolio? Start with
+      office hours with exited founders.
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
