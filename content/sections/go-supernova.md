@@ -11,8 +11,8 @@ features:
       teaming up to back a portfolio of thriving startups changing the world.
   - icon: /images/go-supernova/03.svg
     content: >-
-      **Our mission** is to accelerate the realization of the founder's vision –
-      from the only perspective that truly understands, as founders ourselves.
+      **Our mission**  accelerate the realization of the founder's vision – from
+      the only perspective that truly understands, as founders ourselves.
   - icon: /images/go-supernova/02.svg
     content: >-
       **Our purpose** is to ignite and unite the superpowers of the world's most
