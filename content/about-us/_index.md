@@ -84,7 +84,7 @@ leadership_team:
   subtitle: We shine brighter together
   lists:
     - name: Barry Stamos
-      image: /images/leadership-team/Barry-Stamos.jpg
+      image: /images/Barry-bio.jpeg
       designation: CEO & Co-founder
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
