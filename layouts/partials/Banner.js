@@ -28,7 +28,7 @@ const Banner = ({ banner, founders }) => {
         <div className="video-wrapper" data-aos="fade-up" data-aos-delay="100">
           <iframe
             height="500"
-            src={`https://www.youtube.com/embed/${banner.video_button.youtube_id}?playlist=${banner.video_button.youtube_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1&start=20`}
+            src={`https://www.youtube.com/embed/${banner.video_button.youtube_id}?playlist=${banner.video_button.youtube_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1&start=21`}
           />
           <button className="video-wrapper-btn" onClick={() => setOpen(true)}>
             <span className="video-wrapper-btn-icon">

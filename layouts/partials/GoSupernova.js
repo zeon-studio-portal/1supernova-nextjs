@@ -105,7 +105,7 @@ const GoSupernova = ({ go_supernova }) => {
                     {markdownify(
                       feature.content,
                       "div",
-                      "prose-strong:bg-yellow-500 prose-strong:rounded prose-strong:px-1 prose-strong:!font-normal"
+                      "prose-strong:font-secondary prose-strong:text-yellow-500 prose-strong:text-xl prose-strong:!font-normal"
                     )}
                   </div>
                 ))}

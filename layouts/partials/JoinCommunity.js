@@ -44,7 +44,7 @@ const TopFounders = ({ join_community }) => {
                     {markdownify(
                       item.content,
                       "div",
-                      "block text-[16px] prose-strong:bg-yellow-500 prose-strong:rounded prose-strong:px-1 prose-strong:!font-normal"
+                      "prose-strong:font-secondary prose-strong:text-yellow-500 prose-strong:text-xl prose-strong:!font-normal"
                     )}
                   </div>
 

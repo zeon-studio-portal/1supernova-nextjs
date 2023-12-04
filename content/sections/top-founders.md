@@ -21,7 +21,7 @@ lists:
   - name: Paul Graf
     image: /images/PaulG_400x400.jpeg
     designation: 'CEO & Founder '
-    brand_logo: /images/HYM Logo 5-6-2021_Logo Stack White.png
+    brand_logo: /images/hym.png
     group: Series A
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
