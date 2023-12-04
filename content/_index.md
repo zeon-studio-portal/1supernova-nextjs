@@ -2,8 +2,8 @@
 banner:
   title: All Stars
   subtitle: >-
-    We Back Top Startups Changing the World With Advisory, Operational and
-    Investment Support
+    We Back Top Startups Changing the World With Advisory, Investment and
+    Operational Support
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
