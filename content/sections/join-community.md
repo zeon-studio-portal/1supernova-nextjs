@@ -27,8 +27,8 @@ lists:
   - title: VC’s
     icon: /images/community/03.svg
     content: >-
-      **Are you an investor** ready to supercharge your portfolio? Start with
-      office hours with exited founders.
+      **Are you an investor** ready to share deal flow and supercharge your
+      portfolio growth and impact? 
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
