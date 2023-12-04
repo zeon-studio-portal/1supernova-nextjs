@@ -19,8 +19,8 @@ lists:
   - title: Advisor
     icon: /images/community/02.svg
     content: >-
-      **Are you an exited founder** ready to join forces with a peer group and
-      share ownership in one thriving portfolio?
+      **Are you an exited founder** ready to join forces with a peer group
+      sharing ownership in one thriving portfolio?
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
