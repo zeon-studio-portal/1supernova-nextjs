@@ -7,8 +7,8 @@ quote: We are a conscious cooperative of founders invested in each other’s suc
 features:
   - icon: /images/go-supernova/01.svg
     content: >-
-      **Our vision** olympic teams for venture humanity. Exited founders teaming
-      up to back a portfolio of thriving startups changing the world.
+      **Our vision**  olympic teams for venture humanity. Exited founders
+      teaming up to back a portfolio of thriving startups changing the world.
   - icon: /images/go-supernova/03.svg
     content: >-
       **Our mission** is to accelerate the realization of the founder's vision –
