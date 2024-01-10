@@ -852,18 +852,19 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
-  - name: Felix van der Sand
-    image: /images/superstars/felixvandersand.png
+  - name: Grant Hunter
+    image: /images/Grant.jpeg
     department:
+      - CULTURE
       - GROWTH
-      - SALES
+      - IMPACT
       - HR
       - EXITED FOUNDER
     bulletpoints:
-      - Co-founder at COBE (Exited)
-      - Co-Founder at Kickbase
-      - Member of EO
-    content: ''
+      - Co-founder at Syntropy
+      - ' CEO & Founder of Lumeter (Exited) '
+      - Co-founder of INBOX Marketing (Exited)
+    content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, he's been involved in a variety of e-business activities for a Fortune 500 company and a boutique marketing startup he helped launch and later sell in San Francisco called INBOX Marketing, and in his role as Founder/ CEO of Microfranchise Solutions (MFS). It was through MFS that he promoted replicable enterprise solutions to poverty in the developing world.\_MFS launched Taxi Excel, a network of locally-owned CNG taxis in Lima, Peru. Later, MFS launched Lumeter Networks, delivering pre-paid renewable energy in over 30 countries around the world.\_\_In 2017, Lumeter was acquired by Mobisol, a German solar manufacturer. He has consulted with leaders and teams from Sony, HP, HSBC, Cisco, Adobe,\_E\\&Y, Deloitte, Google, eBay, Logitech, Disney and more. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\_\n"
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     department:
