@@ -10,7 +10,7 @@ const Live = () => {
             className="aspect-video h-[50vh] w-full rounded lg:h-[600px]"
             src="https://player.restream.io/?token=a716ed9131b44143b203c19056e1d4f0"
             allow="autoplay"
-            allowfullscreen
+            allowFullScreen
           ></iframe>
           <Link
             href={"https://i9evkjegsiq.typeform.com/to/i1rwrmDp"}
