@@ -83,6 +83,9 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
+    - name: Heather Harwood
+      image: /images/Hharwood pic.jpg
+      designation: Creative Director
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: CEO & Co-founder
