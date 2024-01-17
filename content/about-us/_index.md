@@ -97,7 +97,7 @@ leadership_team:
       designation: Projector
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
-      designation: 'Creative Artist '
+      designation: Generator
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: CEO Whisperer
