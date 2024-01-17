@@ -85,7 +85,7 @@ leadership_team:
   lists:
     - name: Ben Lamm
       image: /images/BenLamm-r.jpg
-      designation: Innovator
+      designation: Supporter
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: Manifestor
