@@ -94,7 +94,7 @@ leadership_team:
       designation: Reflector
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: Innovator
+      designation: Projector
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
       designation: 'Creative Artist '
