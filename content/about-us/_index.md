@@ -94,7 +94,7 @@ leadership_team:
       designation: Superconnector
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: Game Changer
+      designation: Innovator
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
       designation: 'Creative Artist '
