@@ -96,7 +96,7 @@ leadership_team:
       image: /images/leadership-team/JT-Marino.jpg
       designation: Projector
     - name: Heather Harwood
-      image: /images/Hharwood pic.jpg
+      image: /images/HeatherHarwood-r.jpg
       designation: Artist
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
