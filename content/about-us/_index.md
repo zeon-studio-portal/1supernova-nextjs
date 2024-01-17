@@ -94,7 +94,7 @@ leadership_team:
       designation: Partner
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: Partner
+      designation: Product
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
       designation: Creative Director
