@@ -83,9 +83,6 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
-    - name: Heather Harwood
-      image: /images/Hharwood pic.jpg
-      designation: Creative Director
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: CEO & Co-founder
@@ -98,9 +95,12 @@ leadership_team:
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: Supernova Capital
+    - name: Heather Harwood
+      image: /images/Hharwood pic.jpg
+      designation: Creative Director
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Scouts of Supernova
+      designation: CEO Coach
 contact_us:
   enable: false
   title: Contact Us
