@@ -100,7 +100,7 @@ leadership_team:
       designation: Creative Wizard
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Coach
+      designation: 'CEO Whisperer '
 contact_us:
   enable: false
   title: Contact Us
