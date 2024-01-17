@@ -85,7 +85,7 @@ leadership_team:
   lists:
     - name: Tim Chang
       image: /images/TimChang-r.jpg
-      designation: Strategy
+      designation: Guide
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: Manifestor
