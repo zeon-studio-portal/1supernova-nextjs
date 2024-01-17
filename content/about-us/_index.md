@@ -97,7 +97,7 @@ leadership_team:
       designation: Partner
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
-      designation: Creative Partner
+      designation: Creative Lead
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Coach
