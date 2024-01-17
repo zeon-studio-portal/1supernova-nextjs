@@ -91,7 +91,7 @@ leadership_team:
       designation: Generator
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
-      designation: Superconnector
+      designation: Reflector
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: Innovator
