@@ -100,7 +100,7 @@ leadership_team:
       designation: Creative Director
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: CEO Coach
+      designation: Coach
 contact_us:
   enable: false
   title: Contact Us
