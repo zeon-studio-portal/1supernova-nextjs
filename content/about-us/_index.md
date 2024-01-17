@@ -80,7 +80,7 @@ why_supernova_exists:
     ourselves. Supernova is the future of startup advising.
 leadership_team:
   enable: true
-  title: Dream Team
+  title: Leadership Team
   subtitle: We shine brighter together
   lists:
     - name: Barry Stamos
