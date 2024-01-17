@@ -8,7 +8,7 @@ const Live = () => {
         <div className="lg:colo-8 mx-auto py-20 text-center">
           <iframe
             className="aspect-video w-full rounded-lg shadow-lg"
-            src="https://www.youtube.com/embed/TCRrThTlBM0"
+            src="https://www.youtube.com/embed/G2SqSljZBy4?si=-HnJcGhmEgU_XsxM"
             title="Supernova Three Founders Changing the World"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
