@@ -85,7 +85,7 @@ leadership_team:
   lists:
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
-      designation: CEO & Co-founder
+      designation: Co-founder
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
       designation: CIO & Co-Founder
