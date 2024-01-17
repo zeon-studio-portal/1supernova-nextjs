@@ -88,7 +88,7 @@ leadership_team:
       designation: Catalyst
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
-      designation: Relationship Builder
+      designation: Storyteller
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
       designation: Superconnector
