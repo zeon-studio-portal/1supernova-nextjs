@@ -100,7 +100,7 @@ leadership_team:
       designation: Generator
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: CEO Whisperer
+      designation: Whisperer
 contact_us:
   enable: false
   title: Contact Us
