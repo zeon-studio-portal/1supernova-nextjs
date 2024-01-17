@@ -88,7 +88,7 @@ leadership_team:
       designation: Community Leader
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
-      designation: Co-Founder
+      designation: Relationship Builder
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
       designation: Partner
