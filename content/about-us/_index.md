@@ -85,7 +85,7 @@ leadership_team:
   lists:
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
-      designation: Visionary
+      designation: Catalyst
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
       designation: Relationship Builder
