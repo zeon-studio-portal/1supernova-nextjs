@@ -97,7 +97,7 @@ leadership_team:
       designation: Game Changer
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
-      designation: Creative Wizard
+      designation: 'Creative Artist '
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: 'CEO Whisperer '
