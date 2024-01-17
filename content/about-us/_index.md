@@ -88,7 +88,7 @@ leadership_team:
       designation: Manifestor
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
-      designation: Storyteller
+      designation: Generator
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
       designation: Superconnector
