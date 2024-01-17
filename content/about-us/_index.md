@@ -100,7 +100,7 @@ leadership_team:
       designation: 'Creative Artist '
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
-      designation: 'CEO Whisperer '
+      designation: CEO Whisperer
 contact_us:
   enable: false
   title: Contact Us
