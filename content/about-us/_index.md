@@ -88,7 +88,7 @@ leadership_team:
       designation: Co-founder
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
-      designation: CIO & Co-Founder
+      designation: Co-Founder
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
       designation: Partner
