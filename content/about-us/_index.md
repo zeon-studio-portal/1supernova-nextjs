@@ -83,6 +83,9 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
+    - name: Tim Chang
+      image: /images/TimChang-r.jpg
+      designation: Strategy
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: Manifestor
