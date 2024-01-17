@@ -85,7 +85,7 @@ leadership_team:
   lists:
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
-      designation: Co-founder
+      designation: Community Leader
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
       designation: Co-Founder
