@@ -83,9 +83,9 @@ leadership_team:
   title: Leadership Team
   subtitle: We shine brighter together
   lists:
-    - name: Tim Chang
-      image: /images/TimChang-r.jpg
-      designation: Guide
+    - name: Ben Lamm
+      image: /images/BenLamm-r.jpg
+      designation: Innovator
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: Manifestor
@@ -98,6 +98,9 @@ leadership_team:
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
       designation: Projector
+    - name: Tim Chang
+      image: /images/TimChang-r.jpg
+      designation: Guide
     - name: Heather Harwood
       image: /images/HeatherHarwood-r.jpg
       designation: Artist
