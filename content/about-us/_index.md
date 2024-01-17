@@ -80,12 +80,9 @@ why_supernova_exists:
     ourselves. Supernova is the future of startup advising.
 leadership_team:
   enable: true
-  title: Leadership Team
+  title: Dream Team
   subtitle: We shine brighter together
   lists:
-    - name: Ben Lamm
-      image: /images/BenLamm-r.jpg
-      designation: Supporter
     - name: Barry Stamos
       image: /images/Barry-bio.jpeg
       designation: Manifestor
@@ -101,6 +98,9 @@ leadership_team:
     - name: Tim Chang
       image: /images/TimChang-r.jpg
       designation: Guide
+    - name: Ben Lamm
+      image: /images/BenLamm-r.jpg
+      designation: Supporter
     - name: Heather Harwood
       image: /images/HeatherHarwood-r.jpg
       designation: Artist
