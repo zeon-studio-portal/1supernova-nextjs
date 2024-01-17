@@ -94,7 +94,7 @@ leadership_team:
       designation: Superconnector
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
-      designation: Partner
+      designation: Game Changer
     - name: Heather Harwood
       image: /images/Hharwood pic.jpg
       designation: Creative Wizard
