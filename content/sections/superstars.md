@@ -20,8 +20,6 @@ group_list:
     icon: /images/superstars/icons/human-resources.svg
   - name: Impact
     icon: /images/superstars/icons/sustainability.svg
-  - name: Legal/IP
-    icon: /images/superstars/icons/legal.svg
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
   - name: Marketing
@@ -38,8 +36,6 @@ group_list:
     icon: /images/superstars/icons/strategy.svg
   - name: Tech
     icon: /images/superstars/icons/technology.svg
-  - name: Web3
-    icon: /images/superstars/icons/services.svg
 team:
   - name: Barry Stamos
     image: /images/superstars/team-thumb-1.png
