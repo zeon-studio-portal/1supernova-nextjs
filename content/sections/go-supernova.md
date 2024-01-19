@@ -2,7 +2,7 @@
 enable: true
 title: "Supernova Online Community Events \U0001F310"
 subtitle: >-
-  Watch this video (replay) to learn more about how the founders we back are
+  Watch this video (replay) to learn more about founders in our portfolio
   changing the world 
 video_url: 'https://youtu.be/G2SqSljZBy4?si=SE85NX7Mo_rw7JaP'
 quote: We are a conscious cooperative of founders invested in each other’s success
