@@ -98,8 +98,8 @@ leadership_team:
     - name: Tim Chang
       image: /images/TimChang-r.jpg
       designation: Guide
-    - name: Ben Lamm
-      image: /images/BenLamm-r.jpg
+    - name: Kyle McFadden
+      image: /images/Kyle-r.jpg
       designation: Supporter
     - name: Heather Harwood
       image: /images/HeatherHarwood-r.jpg
