@@ -2,7 +2,7 @@
 enable: true
 title: "Community Event | Three Founders Changing the World \U0001F310"
 subtitle: >-
-  Watch this video replay to learn more about the founders we support at
+  Watch this video (replay) to learn more about the founders we support at
   Supernova
 video_url: 'https://youtu.be/G2SqSljZBy4?si=SE85NX7Mo_rw7JaP'
 quote: We are a conscious cooperative of founders invested in each other’s success
