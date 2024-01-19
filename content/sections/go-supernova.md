@@ -1,8 +1,10 @@
 ---
 enable: true
-title: VC is not meeting founders needs
-subtitle: Smart money is in rare supply. Wisdom is more precious than gold.
-video_url: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
+title: "Watch Supernova's Community Event | Three Founders Changing the World \U0001F310"
+subtitle: >-
+  Learn more about our portfolio companies and the founders doing well by doing
+  good
+video_url: 'https://youtu.be/G2SqSljZBy4?si=SE85NX7Mo_rw7JaP'
 quote: We are a conscious cooperative of founders invested in each other’s success
 features:
   - icon: /images/go-supernova/01.svg
