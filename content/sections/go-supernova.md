@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Supernova Online Community Event \U0001F310"
+title: "Supernova Online Community Events \U0001F310"
 subtitle: >-
   Watch this video (replay) to learn more about the quality of founders we back
   changing the world 
