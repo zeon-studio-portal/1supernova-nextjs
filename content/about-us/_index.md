@@ -35,7 +35,7 @@ our_values:
     - name: Intentionality
       content: >-
         We believe in building a culture of people who are making conscious
-        decisions with sustainability and community in mind.
+        decisions with love, compassion, sustainability and community in mind.
     - name: Collaboration
       content: >-
         We bring the right resources together to support both finite and
