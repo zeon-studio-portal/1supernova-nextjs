@@ -34,8 +34,8 @@ our_values:
       content: We exist to serve people contributing to the greater good.
     - name: Intentionality
       content: >-
-        We believe in building a culture of people who are making conscious
-        decisions with love, compassion, sustainability and community in mind.
+        We are building a culture of people making conscious decisions with
+        compassion, sustainability and community in mind.
     - name: Collaboration
       content: >-
         We bring the right resources together for collective genius and
