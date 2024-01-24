@@ -37,7 +37,9 @@ our_values:
         We believe in building a culture of people who are making conscious
         decisions with sustainability and community in mind.
     - name: Collaboration
-      content: We bring the right resources together to support the greater mission.
+      content: >-
+        We bring the right resources together to support both finite and
+        infinite games.
     - name: Optimism
       content: We lead with positive intent and empathy.
     - name: Evolution
