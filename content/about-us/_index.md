@@ -46,8 +46,8 @@ our_values:
         in greater missions with universal support.
     - name: Evolution
       content: >-
-        We believe startups are bringing renewed life into their communities
-        through innovation and the advancement to a better future.
+        We believe startups are birthing renewed life into their communities
+        bringing a better future forward.
 why_supernova_exists:
   enable: true
   title: Why Supernova Exists
