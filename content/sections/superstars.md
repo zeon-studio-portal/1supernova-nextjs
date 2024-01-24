@@ -1,9 +1,7 @@
 ---
 enable: true
 title: Meet the Superstars ✨
-subtitle: >-
-  Over 150+ exited founders ready to serve as growth catalysts professionally
-  and personally
+subtitle: Over 150+ exited founders ready to serve as growth catalysts for your company
 quote: >-
   We orbit around your needs as all-star advisory teams, mentors, and ceo
   coaches
