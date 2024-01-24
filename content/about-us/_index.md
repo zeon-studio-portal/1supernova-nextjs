@@ -31,7 +31,7 @@ our_values:
     - '#C856C7'
   lists:
     - name: Humanity
-      content: We exist to serve people collectively contributing to the greater good.
+      content: We exist to serve people contributing to the greater good.
     - name: Intentionality
       content: >-
         We believe in building a culture of people who are making conscious
