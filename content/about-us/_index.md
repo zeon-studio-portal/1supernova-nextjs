@@ -38,8 +38,8 @@ our_values:
         decisions with love, compassion, sustainability and community in mind.
     - name: Collaboration
       content: >-
-        We bring the right resources together to support both finite and
-        infinite games.
+        We bring the right resources together to unlock the collective genius
+        and impact when playing finite and infinite games.
     - name: Optimism
       content: >-
         We lead with positive intent and empathy knowing we are playing a part
