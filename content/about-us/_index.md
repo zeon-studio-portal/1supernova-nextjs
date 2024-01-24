@@ -42,8 +42,8 @@ our_values:
         exponential impact when playing finite and infinite games.
     - name: Optimism
       content: >-
-        We lead with love, positive intent and abundance knowing we are all
-        playing our part in a greater mission with universal support.
+        We lead with love, positive intent and abundance knowing we play a part
+        in greater missions with universal support.
     - name: Evolution
       content: >-
         We believe startups are bringing renewed life into their communities
