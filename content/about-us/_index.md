@@ -41,7 +41,9 @@ our_values:
         We bring the right resources together to support both finite and
         infinite games.
     - name: Optimism
-      content: We lead with positive intent and empathy.
+      content: >-
+        We lead with positive intent and empathy knowing we are playing a part
+        in a greater mission.
     - name: Evolution
       content: >-
         We believe startups are bringing renewed life into their communities
