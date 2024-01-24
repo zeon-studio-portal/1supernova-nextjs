@@ -12,12 +12,12 @@ who_we_are:
     [Christopher Staley](https://www.linkedin.com/in/christopherbstaley/
     "Christopher Staley") have backgrounds as founders, investors, advisors, and
     consultants, and have experienced first-hand the difference between
-    effective and sub-par advisor relationships. Through years of operating,
-    relationship building and curation, they have put together an assemblage of
-    superstars who are motivated to share their knowledge and talent with the
-    next top startups, for the betterment of venture humanity. More than 150
-    exited founders have come together to provide exponential impact to the
-    startups they serve.
+    effective and sub-par advisor relationships. Through a lifetime of
+    friendships, relationship building and curation, they have put together an
+    assemblage of superstars who are motivated to share their knowledge and
+    talent with the next top startups, for the betterment of venture humanity.
+    More than 150 exited founders have come together to provide exponential
+    impact to the startups they serve.
 our_values:
   enable: true
   title: Our Values
