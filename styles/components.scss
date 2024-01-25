@@ -145,7 +145,7 @@
 }
 
 .video-wrapper {
-  @apply relative mx-auto inline-block aspect-video h-[120px] overflow-hidden rounded-xl sm:h-[200px] md:h-[300px] lg:h-[500px];
+  @apply relative mx-auto inline-block aspect-video h-[120px] overflow-hidden rounded-xl sm:h-[200px] 2xl:h-[300px];
   iframe {
     width: 500%;
     height: 100%;

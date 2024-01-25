@@ -12,13 +12,13 @@ const Banner = ({ banner, founders }) => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="relative overflow-hidden py-24">
+    <section className="relative overflow-hidden pb-16 pt-8">
       <div className="container relative z-50 text-center">
         <div data-aos="fade-up">
           {markdownify(
             banner.title,
             "h1",
-            "text-7xl sm:text-8xl md:text-[120px] xl:text-[150px] leading-[0.75] font-medium mb-8"
+            "text-6xl leading-[0.75] font-medium mb-8"
           )}
         </div>
         <div data-aos="fade-up" data-aos-delay="50">
@@ -27,7 +27,7 @@ const Banner = ({ banner, founders }) => {
 
         <div className="video-wrapper" data-aos="fade-up" data-aos-delay="100">
           <iframe
-            height="500"
+            height="300"
             src={`https://www.youtube.com/embed/${banner.video_button.youtube_id}?playlist=${banner.video_button.youtube_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1&start=21`}
           />
           <button className="video-wrapper-btn" onClick={() => setOpen(true)}>
@@ -58,7 +58,7 @@ const Banner = ({ banner, founders }) => {
         />
 
         <div
-          className="mx-auto mt-16 max-w-[400px]"
+          className="mx-auto mt-8 max-w-[400px]"
           data-aos="fade-up"
           data-aos-delay="150"
         >
