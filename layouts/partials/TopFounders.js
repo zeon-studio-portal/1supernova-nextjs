@@ -54,13 +54,14 @@ const TopFounders = ({ top_founders }) => {
                     </span>
                   </div>
                 </div>
-                <Image
-                  className="mx-auto mt-6 max-h-[55px]"
-                  src={item.brand_logo}
-                  alt={item.name}
-                  width={160}
-                  height={55}
-                />
+                <div className="relative mx-auto mt-6 h-[60px] w-[170px]">
+                  <Image
+                    className="mx-auto !w-auto"
+                    src={item.brand_logo}
+                    alt={item.name}
+                    fill
+                  />
+                </div>
               </div>
             ))}
           </div>

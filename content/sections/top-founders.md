@@ -8,20 +8,20 @@ list_colors:
   - '#F8878B'
   - '#D367B3'
 lists:
-  - name: Patrick Hilsbos
-    image: /images/top-founders/patrick.jpg
-    designation: CEO & Founder
-    brand_logo: /images/top-founders/patrick-brand.svg
-    group: Bootstrap
   - name: Juan Luis Betancourt
-    image: /images/juan-luis-betancourt-300x300.jpg
+    image: /images/top-founders/juan-luis.jpg
     designation: CEO & Founder
     brand_logo: /images/Logo_white_on_transparent_bg-106.png
     group: Seed
   - name: Paul Graf
-    image: /images/PaulG_400x400.jpeg
-    designation: 'CEO & Founder '
+    image: /images/top-founders/paul.jpg
+    designation: 'CEO & Founder'
     brand_logo: /images/hym.png
+    group: Seed
+  - name: Kathryn Fantauzzi
+    image: /images/top-founders/kathryn.jpg
+    designation: CEO & Founder
+    brand_logo: /images/top-founders/kathryn-brand.svg
     group: Series A
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
