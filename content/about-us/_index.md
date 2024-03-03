@@ -1,5 +1,5 @@
 ---
-title: 'About Us '
+title: About Us
 description: >-
   What if exited founders teamed up with startups changing the world to achieve
   their missions, faster?  Answer: Supernova
