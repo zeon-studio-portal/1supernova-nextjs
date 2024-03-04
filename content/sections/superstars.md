@@ -722,8 +722,8 @@ team:
       - STRATEGY
       - FUNDRAISING
     bulletpoints:
-      - Chief of Staff at MRGN
       - Founder of Wind Sprint Capital
+      - Chief of Staff at MRGN
       - Head of Finance HDHome ($270M Home Depot Startup)
     content: >
       Revant Gupta is a serial entrepreneur and founder of Wind Sprint Capital,
