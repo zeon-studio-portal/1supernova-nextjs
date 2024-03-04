@@ -64,7 +64,7 @@ team:
       business unit from scratch to $315MM annual revenues that sold to IPG for
       $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
       Fortune 500. Barry is a keynote speaker for work/life transformation. He
-      is based in Charleston, SC. 
+      is based in Charleston, SC.
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department:
@@ -85,7 +85,7 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - 'Partner at Supernova '
-      - 'Co-founder President at Key (EO & YPO)  '
+      - 'Co-founder at Key (EO & YPO)  '
       - 2x Exited Founder
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
