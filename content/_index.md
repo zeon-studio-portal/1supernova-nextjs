@@ -19,6 +19,7 @@ founders:
   title: 'Access an elite network of the best exited founders:'
   brands:
     - /images/founders/eo.svg
+    - /images/Hampton.png
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg
