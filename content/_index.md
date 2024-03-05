@@ -12,8 +12,8 @@ banner:
       - “scored our lead investor.”
       - “scaled faster than I dreamed.”
       - '"had the right people in my corner."'
-      - '"massively impacted humanity."'
       - “exited at higher multiples.”
+      - '"massively impacted humanity."'
       - '"manifested my dream."'
       - '"found my freedom."'
   video_button:
