@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'One olympic team for venture humanity:'
+  title: 'We are a constellation of exited founders advising great companies:'
   brands:
     - /images/founders/eo.svg
     - /images/founders/gaingels.svg
