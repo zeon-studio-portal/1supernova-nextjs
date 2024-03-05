@@ -37,9 +37,9 @@ items:
     quote: 'As a second-time founder, Supernova is a no-brainer.'
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
-    designation: CEO & Co-founder (6 exits)
-    company: Colossal
-    quote: Exited founders teaming up is Supernova's special sauce.
+    designation: 'CEO & Co-founder '
+    company: Colossal Biosciences (Unicorn)
+    quote: 'When exited founders team up, results grow exponentially.'
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
