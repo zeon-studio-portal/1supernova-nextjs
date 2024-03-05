@@ -3,28 +3,6 @@ enable: true
 title: What they are saying
 subtitle: The WOW factor is real when exited founders share their superpowers
 items:
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
-    designation: CEO & Founder
-    company: Jive
-    quote: Supernova is the ultimate support system for startups.
-  - name: Patrick Hilsbos
-    image: /images/testimonials/patrick-hilsbos.jpg
-    designation: CEO & Founder
-    company: Neuromore
-    quote: >-
-      Supernova 3x my sales in 120 days! It's not always what you know, it's who
-      you know.
-  - name: JT Marino
-    image: /images/testimonials/jt-marnio.jpg
-    designation: CEO & Co-founder
-    company: TN.com
-    quote: My advisors helped us hit $250MM in ARR and successfully exit.
-  - name: Daniel Gartenberg PHD
-    image: /images/testimonials/daniel-gartenberg.jpg
-    designation: CEO & Founder
-    company: SleepSpace
-    quote: …a 1-of-a-kind advisory and flywheel for Founders.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
@@ -40,6 +18,28 @@ items:
     designation: 'CEO & Co-founder '
     company: 'Colossal Biosciences '
     quote: 'When exited founders team up, results grow exponentially.'
+  - name: JT Marino
+    image: /images/testimonials/jt-marnio.jpg
+    designation: CEO & Co-founder
+    company: TN.com
+    quote: My advisors helped us hit $250MM in ARR and successfully exit.
+  - name: Patrick Hilsbos
+    image: /images/testimonials/patrick-hilsbos.jpg
+    designation: CEO & Founder
+    company: Neuromore
+    quote: >-
+      Supernova 3x my sales in 120 days! It's not always what you know, it's who
+      you know.
+  - name: Daniel Gartenberg PHD
+    image: /images/testimonials/daniel-gartenberg.jpg
+    designation: CEO & Founder
+    company: SleepSpace
+    quote: …a 1-of-a-kind advisory and flywheel for Founders.
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
+    designation: CEO & Founder
+    company: Jive
+    quote: Supernova is the ultimate support system for startups.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
