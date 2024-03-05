@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'We are a constellation of exited founders advising great companies:'
+  title: 'We are the #1 exited founder community:'
   brands:
     - /images/founders/eo.svg
     - /images/founders/gaingels.svg
