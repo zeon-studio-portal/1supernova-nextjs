@@ -39,7 +39,7 @@ items:
     image: /images/testimonials/ben-lamm.jpg
     designation: 'CEO & Co-founder '
     company: Colossal Biosciences (Unicorn)
-    quote: 'When exited founders team up, results grow exponentially.'
+    quote: 'When exited founders team up, results happen exponentially faster.'
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
