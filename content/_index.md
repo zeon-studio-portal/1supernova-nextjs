@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'Get advised from the world''s best exited founders:'
+  title: 'Add the world''s best exited founders to your team:'
   brands:
     - /images/founders/eo.svg
     - /images/founders/gaingels.svg
