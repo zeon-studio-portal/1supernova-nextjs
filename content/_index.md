@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'Access an elite network of the best exited founders:'
+  title: Access an elite network of the best exited founders
   brands:
     - /images/EO Logo.webp
     - /images/Hampton.png
