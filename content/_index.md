@@ -18,7 +18,7 @@ banner:
 founders:
   title: 'We are a constellation of the world''s top exited founders:'
   brands:
-    - /images/Endeavor_Global_logo.png
+    - /images/E.jpeg
     - /images/EO3.jpeg
     - /images/Hampton.png
     - /images/founders/vistage.svg
