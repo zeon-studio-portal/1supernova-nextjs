@@ -7,10 +7,10 @@ banner:
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
-      - '"built with the best."'
       - “maintained my sanity.”
       - “landed our whale customer.”
       - “scored our lead investor.”
+      - '"built with the best talent."'
       - “scaled faster than I dreamed.”
       - “exited at higher multiples.”
       - '"gained my freedom."'
