@@ -11,7 +11,9 @@ banner:
       - “landed our whale customer.”
       - “scored our lead investor.”
       - “scaled faster than I dreamed.”
+      - '"stayed a few steps ahead."'
       - “exited at higher multiples.”
+      - '"gained my freedom."'
   video_button:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
