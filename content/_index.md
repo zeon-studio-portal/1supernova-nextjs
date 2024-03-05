@@ -19,9 +19,9 @@ founders:
   title: 'Access an elite network of the best exited founders:'
   brands:
     - /images/founders/eo.svg
+    - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg
-    - /images/founders/vistage.svg
 advisory:
   enable: true
   title: Advisory as a Service™
