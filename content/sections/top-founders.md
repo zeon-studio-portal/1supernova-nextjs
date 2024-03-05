@@ -1,7 +1,7 @@
 ---
 enable: true
-title: 'We back evolutionary entrepreneurs '
-subtitle: ' Early and growth-stage startups that drive a better future forward'
+title: Our Portfolio
+subtitle: We back evolutionary entrepreneurs that drive a better future forward
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
@@ -15,7 +15,7 @@ lists:
     group: Seed
   - name: Paul Graf
     image: /images/top-founders/paul.jpg
-    designation: 'CEO & Founder'
+    designation: CEO & Founder
     brand_logo: /images/hym.png
     group: Seed
   - name: Kathryn Fantauzzi
