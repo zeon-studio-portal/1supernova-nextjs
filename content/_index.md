@@ -20,6 +20,7 @@ founders:
   brands:
     - /images/founders/eo.svg
     - /images/Hampton.png
+    - /images/Summit.png
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg
