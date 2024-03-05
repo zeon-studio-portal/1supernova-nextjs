@@ -18,9 +18,9 @@ banner:
 founders:
   title: We are a constellation of the world's best exited founders
   brands:
+    - /images/Summit.png
     - /images/EO logo_RGB_stacked.webp
     - /images/Hampton.png
-    - /images/Summit.png
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg
