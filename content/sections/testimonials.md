@@ -36,7 +36,7 @@ items:
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
     company: SleepSpace
-    quote: …a 1-of-a-kind advisory and flywheel for Founders.
+    quote: Supernova is a 1-of-a-kind advisory and flywheel for Founders.
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: 'CEO & Co-founder '
