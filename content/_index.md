@@ -2,7 +2,7 @@
 banner:
   title: 'Build With Exited Founders '
   subtitle: >-
-    We Back Top Startups Changing the World With Advisory, Operational and
+    We Back Top Startups Changing the World With Elite Advisory, Operational and
     Investment Support
   quote:
     title: 'Without my advisors, I wouldn’t have'
