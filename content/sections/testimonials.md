@@ -44,9 +44,7 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: >-
-      Exited founders joining forces as all-star teams is Supernova's special
-      sauce.
+    quote: Exited founders joining forces is Supernova's special sauce.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
