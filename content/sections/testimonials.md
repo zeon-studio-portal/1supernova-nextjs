@@ -49,6 +49,6 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: 'You''re busy. Turn-key your advisory team to Supernova. '
+    quote: Exited founders teaming up is Supernova's special sauce.
 ---
 
