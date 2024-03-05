@@ -7,7 +7,7 @@ items:
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
-    quote: 'Supernova is the real deal. '
+    quote: Supernova is the ultimate support system for startups.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
