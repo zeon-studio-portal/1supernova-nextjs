@@ -29,7 +29,7 @@ items:
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
     company: Aya Mastercard
-    quote: Supernova is a next-level accelerator.
+    quote: 'Supernova delivers what elite VC''s and top accelerators advertise. '
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
