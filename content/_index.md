@@ -18,7 +18,6 @@ banner:
 founders:
   title: 'We are exited founders, mentoring all-star teams: '
   brands:
-    - ''
     - /images/EO3.jpeg
     - /images/Hampton.png
     - /images/founders/vistage.svg
