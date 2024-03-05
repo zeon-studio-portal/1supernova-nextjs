@@ -49,6 +49,6 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: Entrepreneurs are *finally* joining forces for the greater good.
+    quote: 'You''re busy. Turn-key your advisory team to Supernova. '
 ---
 
