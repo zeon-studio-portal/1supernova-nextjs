@@ -18,7 +18,7 @@ banner:
 founders:
   title: 'Access an elite network of the best exited founders:'
   brands:
-    - /images/Entrepreneurs Organization.png
+    - /images/EO Logo.webp
     - /images/Hampton.png
     - /images/Summit.png
     - /images/founders/vistage.svg
