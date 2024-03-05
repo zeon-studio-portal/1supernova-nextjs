@@ -18,8 +18,8 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: >-
-      Supernova 3x my sales in 120 days! It's not always what you know, it's who
-      you know.
+      Supernova got hands-on and 3x my sales in 120 days! It's not always what
+      you know, it's who you know.
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
