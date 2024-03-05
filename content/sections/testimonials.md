@@ -19,7 +19,7 @@ items:
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
     company: TN.com
-    quote: My advisors helped us grow to $250MM in ARR and successfully exit.
+    quote: My advisors helped us hit $250MM in ARR and successfully exit.
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
