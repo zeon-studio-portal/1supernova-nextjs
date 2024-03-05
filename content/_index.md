@@ -12,7 +12,7 @@ banner:
       - “scored our lead investor.”
       - “scaled faster than I dreamed.”
       - '"had the right people in my corner."'
-      - '"positively impacted humanity."'
+      - '"massively impacted humanity."'
       - “exited at higher multiples.”
       - '"manifested my dream."'
       - '"found my freedom."'
