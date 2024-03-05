@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'We are exited founders serving you as all-star teams: '
+  title: 'We are exited founders, uniting as all-star teams: '
   brands:
     - ''
     - /images/EO3.jpeg
