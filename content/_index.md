@@ -18,7 +18,7 @@ banner:
 founders:
   title: 'We are an elite network of exited founders building together: '
   brands:
-    - /images/Endeavor_logo_black.png
+    - ''
     - /images/EO3.jpeg
     - /images/Hampton.png
     - /images/founders/vistage.svg
