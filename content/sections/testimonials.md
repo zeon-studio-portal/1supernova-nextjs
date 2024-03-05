@@ -8,21 +8,11 @@ items:
     designation: CEO & Founder
     company: Aya Mastercard
     quote: 'Supernova delivers what elite VC''s and top accelerators advertise. '
-  - name: Abhishek Anand
-    image: /images/testimonials/abhishek-anand.jpg
-    designation: CEO & Founder
-    company: Parkqulility
-    quote: 'As a second-time founder, Supernova is a no-brainer.'
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: 'CEO & Co-founder '
     company: 'Colossal Biosciences '
     quote: 'When exited founders team up, results grow exponentially.'
-  - name: JT Marino
-    image: /images/testimonials/jt-marnio.jpg
-    designation: CEO & Co-founder
-    company: TN.com
-    quote: My advisors helped us hit $250MM in ARR and successfully exit.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
@@ -30,11 +20,16 @@ items:
     quote: >-
       Supernova 3x my sales in 120 days! It's not always what you know, it's who
       you know.
-  - name: Daniel Gartenberg PHD
-    image: /images/testimonials/daniel-gartenberg.jpg
-    designation: CEO & Founder
-    company: SleepSpace
-    quote: …a 1-of-a-kind advisory and flywheel for Founders.
+  - name: JT Marino
+    image: /images/testimonials/jt-marnio.jpg
+    designation: CEO & Co-founder
+    company: TN.com
+    quote: My advisors helped us hit $250MM in ARR and successfully exit.
+  - name: Gary Moon
+    image: /images/testimonials/gary-moon.jpg
+    designation: CEO
+    company: nfluence Partners
+    quote: Exited founders teaming up is Supernova's special sauce.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
@@ -45,10 +40,15 @@ items:
     designation: Partner
     company: Mayfield VC
     quote: Supernova is how I support conscious entrepreneurship.
-  - name: Gary Moon
-    image: /images/testimonials/gary-moon.jpg
-    designation: CEO
-    company: nfluence Partners
-    quote: Exited founders teaming up is Supernova's special sauce.
+  - name: Abhishek Anand
+    image: /images/testimonials/abhishek-anand.jpg
+    designation: CEO & Founder
+    company: Parkqulility
+    quote: 'As a second-time founder, Supernova is a no-brainer.'
+  - name: Daniel Gartenberg PHD
+    image: /images/testimonials/daniel-gartenberg.jpg
+    designation: CEO & Founder
+    company: SleepSpace
+    quote: …a 1-of-a-kind advisory and flywheel for Founders.
 ---
 
