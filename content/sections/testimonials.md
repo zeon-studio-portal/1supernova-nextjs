@@ -8,11 +8,6 @@ items:
     designation: CEO & Founder
     company: Aya Mastercard
     quote: 'Supernova delivers what elite VC''s and top accelerators advertise. '
-  - name: Ben Lamm
-    image: /images/testimonials/ben-lamm.jpg
-    designation: 'CEO & Co-founder '
-    company: 'Colossal Biosciences '
-    quote: 'When exited founders team up, results grow exponentially.'
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
@@ -25,6 +20,11 @@ items:
     designation: CEO & Co-founder
     company: TN.com
     quote: My advisors helped us hit $250MM in ARR and successfully exit.
+  - name: Ben Lamm
+    image: /images/testimonials/ben-lamm.jpg
+    designation: 'CEO & Co-founder '
+    company: 'Colossal Biosciences '
+    quote: 'When exited founders team up, results grow exponentially.'
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
