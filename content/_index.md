@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'We are an elite network of exited founders building together: '
+  title: 'We are superstar founders building together: '
   brands:
     - ''
     - /images/EO3.jpeg
