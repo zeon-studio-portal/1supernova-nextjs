@@ -7,7 +7,6 @@ banner:
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
-      - '"manifested my dream."'
       - “maintained my sanity.”
       - “landed our whale customer.”
       - “scored our lead investor.”
@@ -15,7 +14,8 @@ banner:
       - '"had the right people in my corner."'
       - '"positively impacted humanity."'
       - “exited at higher multiples.”
-      - '"gained my freedom."'
+      - '"manifested my dream."'
+      - '"found my freedom."'
   video_button:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
