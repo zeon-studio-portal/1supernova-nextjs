@@ -16,7 +16,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We are a constellation of the world's best exited founders
+  title: 'We are a constellation of the world''s top exited founders:'
   brands:
     - /images/Summit.png
     - /images/EO logo_RGB_stacked.webp
