@@ -20,7 +20,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: "We are exited founders united as all-star teams \U0001F680"
+  title: "We are exited founders united as all-star teams\U0001F680"
   brands:
     - /images/Endeavor_logo_white-sm.png
     - /images/Hampton.png
