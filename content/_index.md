@@ -22,7 +22,8 @@ banner:
 founders:
   title: 'We are exited founders uniting as all-star teams: '
   brands:
-    - /images/EO3.jpeg
+    - /images/Endeavor_logo_white.png
+    - /images/EO black logo-inverted.jpg
     - /images/Hampton.png
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
