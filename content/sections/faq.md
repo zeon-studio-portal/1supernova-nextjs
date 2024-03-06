@@ -25,10 +25,10 @@ lists:
       problems.
   - question: Who would my advisors be?
     answer: >-
-      You’ll be matched with six to eight exited founders that have relevant
-      expertise with your company's near term priorities. As your needs evolve,
-      so does your advisory team. We rotate talent in and out based on your
-      dynamic needs. You are always in control and score advisors based on the
+      You’ll be matched with five exited founders who have relevant expertise
+      with your company's near term priorities. As your needs evolve, so does
+      your advisory team. We rotate talent in and out based on your dynamic
+      needs. You are always in control and score advisors based on the
       achievement of measurable milestones to award equity based on merit vs.
       traditional vesting schedules. 
   - question: What if I don’t have time for my advisors?
