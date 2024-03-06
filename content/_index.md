@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Build With Us
+  title: Build With Exited Founders
   subtitle: >-
     We Back Top Startups Changing the World With Advisory, Operational and
     Investment Support
