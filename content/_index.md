@@ -22,8 +22,8 @@ banner:
 founders:
   title: We are exited founders united as all-star teams
   brands:
-    - /images/Endeavor_logo_white-sm.png
     - /images/Hampton.png
+    - /images/Endeavor_logo_white-sm.png
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg

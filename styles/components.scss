@@ -220,9 +220,8 @@
   &-author {
     @apply flex flex-row items-center sm:flex-col;
     &-image {
-      @apply h-[64px] w-[64px] max-w-none object-cover sm:h-[160px] sm:w-[160px];
       img {
-        @apply grayscale;
+        @apply h-[64px] w-[64px] max-w-none object-cover grayscale sm:h-[155px] sm:w-[155px];
       }
     }
     &-content {
@@ -254,10 +253,9 @@
       &-author {
         @apply flex-row pt-2 sm:pt-0;
         &-image {
-          @apply sm:h-[124px] sm:w-[124px];
           @apply ring-0 #{!important};
           img {
-            @apply grayscale-0;
+            @apply grayscale-0 sm:h-[124px] sm:w-[124px];
           }
         }
         &-content {
