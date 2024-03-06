@@ -1,6 +1,6 @@
 ---
 banner:
-  title: '#1 Exited Founder Community'
+  title: Build With Us
   subtitle: >-
     We Back Top Startups Changing the World With Advisory, Operational and
     Investment Support
