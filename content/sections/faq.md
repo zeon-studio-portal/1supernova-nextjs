@@ -50,11 +50,11 @@ lists:
   - question: What makes Supernova so different?
     answer: >-
       We are the first and only resource able to curate successfully exited
-      entrepreneurs and adapt that team to serve the evolving priorities and
-      challenges of your company. Our mission is to accelerate the realization
-      of the founder's vision from the only perspective that truly understands
-      the journey, as founders ourselves. Supernova is the future of startup
-      advising.  
+      entrepreneurs and adapt that all-star team to serve the evolving
+      priorities and challenges of your company. Our mission is to accelerate
+      the realization of the founder's vision from the only perspective that
+      truly understands the journey, as founders ourselves. Supernova is the
+      future of startup advising.  
   - question: How much does Supernova charge?
     answer: >-
       Supernova’s advisory service model is charged as a monthly, at-will
