@@ -24,9 +24,7 @@ items:
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
     company: TN.com
-    quote: >-
-      My advisors helped us bootstrap to $250MM in ARR and merge with the
-      industry leader.
+    quote: My advisors helped us bootstrap to $250MM ARR and merge for a major exit.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
