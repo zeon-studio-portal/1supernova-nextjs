@@ -197,6 +197,35 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.  
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
+    department:
+      - HR
+      - CULTURE
+      - LEADERSHIP
+      - FUNDING
+      - M&A
+      - PRODUCT
+      - TECH
+      - OPS
+      - SCALING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Venture Partner at Launch Capital
+      - Co-founder & CEO at CreatorPlus
+      - CPO/COO with 8 exits
+    content: >
+      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
+      venture-backed startup building the future of transactional video
+      on-demand for consumers, creators, film producers and IP holders. Jonathan
+      was a Venture Partner for Launch Capital, a seed stage venture capital
+      firm. For 25 years in San Francisco he has held operational and executive
+      roles in 10 tech startups, primarily in consumer media and entertainment,
+      of which 8 were VC backed and acquired. His investing experience includes
+      nearly 2 years as COO of a seed stage family office, managing internal
+      operations, overseeing a portfolio of 150+ companies, leading his own
+      investments, and serving on boards. Jonathan also co-founded his own
+      investment firm with two other GPs.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -317,35 +346,6 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
-    department:
-      - HR
-      - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECH
-      - OPS
-      - SCALING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Venture Partner at Launch Capital
-      - Co-founder & CEO at CreatorPlus
-      - CPO/COO with 8 exits
-    content: >
-      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
-      venture-backed startup building the future of transactional video
-      on-demand for consumers, creators, film producers and IP holders. Jonathan
-      was a Venture Partner for Launch Capital, a seed stage venture capital
-      firm. For 25 years in San Francisco he has held operational and executive
-      roles in 10 tech startups, primarily in consumer media and entertainment,
-      of which 8 were VC backed and acquired. His investing experience includes
-      nearly 2 years as COO of a seed stage family office, managing internal
-      operations, overseeing a portfolio of 150+ companies, leading his own
-      investments, and serving on boards. Jonathan also co-founded his own
-      investment firm with two other GPs.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -615,6 +615,33 @@ team:
       led the creation of the Fluid Blockchain Accelerator and served as Head of
       Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
       founders and their ventures.
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+    bulletpoints:
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -729,33 +756,6 @@ team:
       - Chief of Staff at MRGN
       - Head of Finance HDHome ($270M Home Depot Startup)
     content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
