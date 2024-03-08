@@ -596,6 +596,7 @@ team:
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
+      - Leadership
       - COACHING
       - CULTURE
       - STRATEGY
