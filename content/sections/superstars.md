@@ -422,30 +422,28 @@ team:
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
     department:
-      - AI
-      - FUNDING
       - OPS
-      - SCALING
-      - LEGAL
+      - AI
+      - TECH
+      - GROWTH
+      - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - President at Glo
-      - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
+      - Founder & CEO of Ink
+      - Advisor to Tellus Investment Partners
+      - Co-founder of Code Pilot (Exited to AngelList)
     content: >
-      Hogan Lee is the President & COO of Glo, whose mission is to connect
-      people through self-care. Hogan was the Co-Founder & Chief Experience
-      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
-      Operations at Flipagram, an exciting post-acquisition position where he
-      advanced organizational growth by leading the integration of the Flipagram
-      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
-      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
-      in Senior Technical Project Management positions. He has also served as a
-      Mentor for 500 Global and Endeavor, supporting successful startups and
-      their leadership teams. Hogan is based in Los Angeles, CA.
+      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
+      solution. Caleb was the co-founder and COO of Code Pilot (exited to
+      AngeList), an online platform that provides production-grade development
+      environments with coding analytics to train, test, and assess software
+      developers skills and behavioral adaptability. He is also an advisor to
+      Tellus Investment Partners, a select group of family offices and
+      agribusiness professionals leveraging their resources to create
+      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
@@ -476,6 +474,20 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department:
+      - IMPACT
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder Wyntalent
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Endeavor Entrepreneur '
+    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -540,20 +552,30 @@ team:
       established teams scaling past 7 figures, and partnering with CEOs who
       want help exiting their current companies so they can start a more
       purpose-driven enterprise.
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
     department:
-      - IMPACT
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
+      - AI
       - FUNDING
+      - OPS
+      - SCALING
+      - LEGAL
       - EXITED FOUNDER
     bulletpoints:
-      - Co-founder Wyntalent
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Endeavor Entrepreneur '
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+      - President at Glo
+      - CEO a Carenote (Exited to Evite)
+      - 'Head of Ops at Flipagram (Exited to TikTok) '
+    content: >
+      Hogan Lee is the President & COO of Glo, whose mission is to connect
+      people through self-care. Hogan was the Co-Founder & Chief Experience
+      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
+      Operations at Flipagram, an exciting post-acquisition position where he
+      advanced organizational growth by leading the integration of the Flipagram
+      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
+      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
+      in Senior Technical Project Management positions. He has also served as a
+      Mentor for 500 Global and Endeavor, supporting successful startups and
+      their leadership teams. Hogan is based in Los Angeles, CA.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -583,28 +605,6 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
-    department:
-      - OPS
-      - AI
-      - TECH
-      - GROWTH
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & CEO of Ink
-      - Advisor to Tellus Investment Partners
-      - Co-founder of Code Pilot (Exited to AngelList)
-    content: >
-      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
-      solution. Caleb was the co-founder and COO of Code Pilot (exited to
-      AngeList), an online platform that provides production-grade development
-      environments with coding analytics to train, test, and assess software
-      developers skills and behavioral adaptability. He is also an advisor to
-      Tellus Investment Partners, a select group of family offices and
-      agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
