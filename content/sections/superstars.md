@@ -240,7 +240,7 @@ team:
       - M&A
       - STRATEGY
       - PRODUCT
-      - TECH
+      - TECHNOLOGY
       - GTM
       - COACHING
     bulletpoints:
