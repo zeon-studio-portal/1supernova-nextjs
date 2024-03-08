@@ -596,11 +596,10 @@ team:
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
+      - COACHING
       - CULTURE
       - STRATEGY
-      - HR
       - IMPACT
-      - EXITED FOUNDER
     bulletpoints:
       - Founder of Ferrazzi Greenlight
       - CMO at Starwood & Deloitte
