@@ -605,31 +605,41 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
+  - name: Andrew Sturner
+    image: /images/123285.png
     department:
-      - SALES
-      - HR
-      - CULTURE
-      - MARKETING
-      - MARKETING
+      - LEGAL/IP
       - FUNDING
-      - IMPACT
+      - TECH
       - LEADERSHIP
+      - SCALING
+      - EXITED FOUNDER
     bulletpoints:
-      - Managing Director at AI2 Incubator
-      - CEO & Founder of Loftium (Exit to Flyhomes)
-      - CEO & Founder of GymPact (Top 5 fitness app)
+      - Founder & MP at Entourage Effect Capital
+      - Co-founder at Boatsetter (Series B)
+      - Founder at Interactive Services (Exited)
     content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
+      Andrew Sturner has been navigating the high seas of entrepreneurship for
+      the more than three decades. Andy is an impact investor and has been
+      described as a “provocateur” with a passion for guiding executives through
+      complex situations. After a stint as a bankruptcy attorney at Stroock &
+      Stroock & Lavan in NYC, Andy traded in his suit for jeans and went on to
+      participate as an executive in six startups, two of which he guided
+      through IPOs as well as multiple exits. He sold his first startup to
+      MovieFone, where he served as VP of Business Development (IPO’d ‘94 and
+      sold to AOL ‘99). Andrew then founded Sportsline.com (IPO’d in ‘97 and
+      sold to CBS ‘04) launching one of the world’s first commercial websites in
+      1995. He then founded Aqua Marine Partners, owner and operator of a
+      portfolio of marina real estate and incubator of marine technology
+      companies with a focus on innovation (exited to  Equity Lifestyles (NYSE:
+      ELS) joint venture in ‘20). Any co-founded one of the first Miami-based
+      angel investment groups now called Miami Angels. Andy co-founded
+      Boatsetter.com and launched his 5th startup – awebsite that combines the
+      rental mechanics of Airbnb with the on-demand labor dynamics of Uber. In
+      2016, after studying the burgeoning legal cannabis landscape, Andy began
+      investing in the space and ultimately co-founded his 6th startup –
+      Entourage Effect Capital to invest in this generational wealth creation
+      event.
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
@@ -718,41 +728,22 @@ team:
       - Founder at Hardline (Exited)
       - Head of Product at Shape (Exited)
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Andrew Sturner
-    image: /images/123285.png
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
     department:
-      - LEGAL/IP
       - FUNDING
+      - PRODUCT
       - TECH
-      - LEADERSHIP
-      - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & MP at Entourage Effect Capital
-      - Co-founder at Boatsetter (Series B)
-      - Founder at Interactive Services (Exited)
+      - 2x Exited Founder
+      - General Partner at Rabbit VC
+      - CEO & Founder TNC (Exited to Google)
     content: >
-      Andrew Sturner has been navigating the high seas of entrepreneurship for
-      the more than three decades. Andy is an impact investor and has been
-      described as a “provocateur” with a passion for guiding executives through
-      complex situations. After a stint as a bankruptcy attorney at Stroock &
-      Stroock & Lavan in NYC, Andy traded in his suit for jeans and went on to
-      participate as an executive in six startups, two of which he guided
-      through IPOs as well as multiple exits. He sold his first startup to
-      MovieFone, where he served as VP of Business Development (IPO’d ‘94 and
-      sold to AOL ‘99). Andrew then founded Sportsline.com (IPO’d in ‘97 and
-      sold to CBS ‘04) launching one of the world’s first commercial websites in
-      1995. He then founded Aqua Marine Partners, owner and operator of a
-      portfolio of marina real estate and incubator of marine technology
-      companies with a focus on innovation (exited to  Equity Lifestyles (NYSE:
-      ELS) joint venture in ‘20). Any co-founded one of the first Miami-based
-      angel investment groups now called Miami Angels. Andy co-founded
-      Boatsetter.com and launched his 5th startup – awebsite that combines the
-      rental mechanics of Airbnb with the on-demand labor dynamics of Uber. In
-      2016, after studying the burgeoning legal cannabis landscape, Andy began
-      investing in the space and ultimately co-founded his 6th startup –
-      Entourage Effect Capital to invest in this generational wealth creation
-      event.
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC. 
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
@@ -860,22 +851,31 @@ team:
       a mobile security company that transitioned to Moseda Technologies, Inc.;
       focused on healthcare, monitoring elderly patients in their homes and in
       care homes, using mobile and wearable technologies.
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
     department:
+      - SALES
+      - HR
+      - CULTURE
+      - MARKETING
+      - MARKETING
       - FUNDING
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
+      - IMPACT
+      - LEADERSHIP
     bulletpoints:
-      - 2x Exited Founder
-      - General Partner at Rabbit VC
-      - CEO & Founder TNC (Exited to Google)
+      - Managing Director at AI2 Incubator
+      - CEO & Founder of Loftium (Exit to Flyhomes)
+      - CEO & Founder of GymPact (Top 5 fitness app)
     content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC. 
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
     department:
