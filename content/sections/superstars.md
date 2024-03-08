@@ -305,7 +305,7 @@ team:
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
-      - LEGAL/IP
+      - SCIENCE
       - STRATEGY
       - OPS
       - TECH
