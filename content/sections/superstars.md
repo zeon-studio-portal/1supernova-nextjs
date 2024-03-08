@@ -615,7 +615,7 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & MP at Entourage Effect Capital
+      - Founder at Entourage Effect Capital
       - Co-founder at Boatsetter (Series B)
       - Founder at Interactive Services (Exited)
     content: >
@@ -743,7 +743,7 @@ team:
       Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
       Google. He is the former Global Strategy Officer of Kakao Entertainment
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC. 
+      and has his own fund called Rabbit VC.
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
