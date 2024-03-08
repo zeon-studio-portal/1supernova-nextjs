@@ -939,12 +939,11 @@ team:
       to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
       at UC Santa Barbara.
   - name: Chang Kim
-    image: /images/Chang Kim.jpeg
+    image: /images/Chang-Kim-pic.jpg
     department:
+      - FUNDING
       - PRODUCT
       - TECH
-      - LEGAL
-      - WEB3
       - EXITED FOUNDER
     bulletpoints:
       - 2x Exited Founder
