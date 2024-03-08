@@ -348,7 +348,7 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - 8 exits (CPO/COO)
+      - 8 Exits (CPO/COO)
       - COO at INTO Technologies
       - Co-founder at Launch Capital
     content: >
