@@ -938,8 +938,8 @@ team:
       mental health support in the Isla Vista community. Brett grow the company
       to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
       at UC Santa Barbara.
-  - name: Eli Blatt PhD
-    image: /images/1517675870938.jpeg
+  - name: Chang Kim
+    image: /images/Chang Kim.jpeg
     department:
       - PRODUCT
       - TECH
@@ -947,10 +947,14 @@ team:
       - WEB3
       - EXITED FOUNDER
     bulletpoints:
-      - 'Venture Fellow at NewChip Accelerator '
-      - Managing Partner at Megacap Capital
-      - Founder at GoCase (Exited)
-    content: "Eli Blatt is a Venture Fellow at NewChip Accelerator, helping other Founders by mentoring early stage startups. Eli is the Founder & MP of MegaCap Capital, offering Special Purpose Vehicles containing secondary market shares. Since their first deal in late 2021, they have raised over $10M from investors for numerous SPVs, including SpaceX, Betterment, FTX and others. Eli was the Founder & CEO of BitFinance, a Public Benefit Corp with the mission of democratizing finance via the blockchain.\_He was the Founder of Co-Case (Exited), a premium accessories for portable electronics sold in over 500 retail and online stores worldwide, including every Best Buy Canada store.\_ Eli was the Head of Player Insights (Competitive Benchmarking) at Zynga, a global leader in interactive entertainment with a mission to connect the world through games. He also was the Chief Scientist at Brookeside Group, the World's authority on measuring and building customer loyalty. Eli earned his PhD from Stanford University, TRIUM Global Executive MBA (Joint Global Executive MBA Program between NYU Stern, London School of Economics, and HEC Paris), and undergraduate degree from Brown University.\n"
+      - 2x Exited Founder
+      - General Partner at Rabbit VC
+      - CEO & Founder TNC (Exited to Google)
+    content: >
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC. 
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
