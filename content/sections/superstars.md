@@ -605,9 +605,8 @@ team:
     department:
       - Leadership
       - COACHING
-      - CULTURE
-      - STRATEGY
-      - IMPACT
+      - SCALE
+      - SALES
     bulletpoints:
       - Founder of Ferrazzi Greenlight
       - CMO at Starwood & Deloitte
