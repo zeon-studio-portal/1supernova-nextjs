@@ -718,7 +718,7 @@ team:
     department:
       - PRODUCT
       - TECH
-      - EXITED FOUNDER
+      - AI
     bulletpoints:
       - 2x Exited Founder
       - Founder at Hardline (Exited)
