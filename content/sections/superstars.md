@@ -528,10 +528,11 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
+      - GTM
       - COACHING
       - SALES
       - LEADERSHIP
-      - SOCIAL
+      - SYSTEMS
       - EXITED FOUNDER
     bulletpoints:
       - Founder of Leaders Create Leaders
