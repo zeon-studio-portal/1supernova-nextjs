@@ -79,11 +79,11 @@ team:
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     department:
-      - SUPERCONNECTOR
+      - CEO COACHING
       - PRODUCT
       - TECH
       - FUNDING
-      - EXITED FOUNDER
+      - SALES
     bulletpoints:
       - 2x Exited Founder
       - 'Partner at Supernova '
