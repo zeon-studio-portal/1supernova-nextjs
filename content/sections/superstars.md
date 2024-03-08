@@ -241,8 +241,8 @@ team:
       - STRATEGY
       - PRODUCT
       - TECH
-      - WEB3
-      - EXITED FOUNDER
+      - GTM
+      - COACHING
     bulletpoints:
       - Senior Advisor (M&A) at Mastercard
       - 'SVP Product at Mastercard, Merchant Loyalty'
