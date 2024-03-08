@@ -84,9 +84,9 @@ team:
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
+      - 2x Exited Founder
       - 'Partner at Supernova '
       - 'Co-founder at Key (EO & YPO)  '
-      - 2x Exited Founder
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
       first two venture-backed companies and joined Airbnb full-time where he
