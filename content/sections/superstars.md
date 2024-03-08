@@ -105,7 +105,7 @@ team:
       - PRODUCT
       - TECH
       - CULTURE
-      - STRATEGY
+      - SCIENCE
     bulletpoints:
       - CEO & Founder at Marino
       - CEO & Founder at TN.com ($250MM ARR & Exited)
