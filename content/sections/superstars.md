@@ -699,6 +699,7 @@ team:
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
+      - AI
       - LEADERSHIP
       - PRODUCT
       - TECHNOLOGY
