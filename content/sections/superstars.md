@@ -853,12 +853,12 @@ team:
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
-      - GROWTH
+      - SCALE
       - SALES
       - FUNDING
       - LEADERSHIP
-      - WEB3
-      - EXITED FOUNDER
+      - TECHNOLOGY
+      - SCIENCE
     bulletpoints:
       - Co-founder at Wake Network
       - CEO at AdvancedCare
