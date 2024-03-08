@@ -128,7 +128,6 @@ team:
     department:
       - MARKETING
       - SOCIAL
-      - HR
       - SALES
     bulletpoints:
       - Board Member at Songtradr (Series E)
