@@ -493,6 +493,7 @@ team:
   - name: Joel French
     image: /images/Joel-French.jpg
     department:
+      - Scale
       - HR
       - M&A
       - GTM
