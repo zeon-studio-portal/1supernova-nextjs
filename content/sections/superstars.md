@@ -66,7 +66,7 @@ team:
       $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
       Fortune 500. Barry is a keynote speaker for work/life transformation. He
       is based in Charleston, SC.
-  - name: Christopher Staley
+  - name: 'Christopher Staley '
     image: /images/_images_superstars_team-thumb-2.png
     department:
       - OPS
