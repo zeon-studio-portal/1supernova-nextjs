@@ -12,7 +12,7 @@ group_list:
     icon: /images/superstars/icons/leadership.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
-  - name: Coaching
+  - name: 'Coaching '
     icon: /images/superstars/icons/community.svg
   - name: HR
     icon: /images/superstars/icons/human-resources.svg
