@@ -442,9 +442,9 @@ team:
       - LEADERSHIP
       - EXITED FOUNDER
     bulletpoints:
+      - 3x Exited Founder
       - Founder of Minerva Health Ventures
       - 'CEO, DTES of Happiest Minds'
-      - 3x Exited Founder
     content: >
       Leo is currently the co-founder of 6 companies gifting well-being to the
       world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
