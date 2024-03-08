@@ -896,7 +896,7 @@ team:
       - STRATEGY
       - PRODUCT
       - SCIENCE
-      - GROWTH
+      - CULTURE
       - IMPACT
     bulletpoints:
       - Co-founder Mindshift Recovery
