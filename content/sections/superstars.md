@@ -182,7 +182,7 @@ team:
       - M&A
       - EXITED FOUNDER
     bulletpoints:
-      - 4x exited founder
+      - 4x Exited Founder
       - Operating Partner at Bullpen Capital
       - 'Co-founder at Zynga (IPO), Madison Reed, Coremetrics'
     content: >
