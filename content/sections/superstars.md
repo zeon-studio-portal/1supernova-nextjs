@@ -158,8 +158,8 @@ team:
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     department:
-      - STAFFING
-      - STRATEGY
+      - AI
+      - SCALE
       - FUNDING
       - COACHING
       - HR
