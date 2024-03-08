@@ -167,7 +167,7 @@ team:
     bulletpoints:
       - 6x Exited Founder
       - Founder & CEO at Colossal Biosciences (Unicorn)
-      - Co-fonder at Form Bio
+      - Co-founder at Form Bio (Series A)
     content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Andrew Trader
     image: /images/AT.jpeg
