@@ -603,7 +603,7 @@ team:
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
-      - Leadership
+      - LEADERSHIP
       - COACHING
       - SCALE
       - 'SALES '
