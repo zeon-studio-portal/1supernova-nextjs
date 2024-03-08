@@ -78,7 +78,7 @@ team:
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     department:
-      - CEO COACHING
+      - COACHING
       - PRODUCT
       - TECH
       - FUNDING
