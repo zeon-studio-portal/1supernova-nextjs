@@ -499,6 +499,21 @@ team:
       - 'Chairman of the Board at Seattles Children''s '
       - 'EVP at RCM (Nasdaq: RCM)'
       - CEO & Founder of SCI Solutions (Exit to RCM)
+    content: >
+      Joel French is the Chairman of the Board of Trustee's at Seattle
+      Childrens. When Scheduling.com, Inc. (dba SCI Solutions) was acquired by
+      R1 RCM (Nasdaq: RCM) in April 2020, post-acquisition, French through June
+      2021, served as Executive Vice President of R1, responsible for its
+      patient experience technology lines of business, including SCI Solutions,
+      Tonic Health, and DatStat. After leading the acquisition of SCI Solutions,
+      sponsored by The Wicks Group, French served as CEO of SCI Solutions and as
+      an investor in and board member of its parent company, Clearsight Group
+      Holdings, LLC. SCI built and operated a multi-sided SaaS marketplace
+      designed to improve patient access experiences based on subscription
+      agreements with 2,500 hospitals, 14,000 physician practices, millions of
+      end-user patients, and automation with 2,000 health plans. In addition to
+      its organic growth, SCI integrated acquired capabilities from three
+      technology companies. 
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
