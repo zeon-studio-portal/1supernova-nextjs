@@ -270,30 +270,27 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
+  - name: Roy Chung
+    image: /images/38387311.jpeg
     department:
-      - AI
-      - FUNDING
-      - OPS
-      - SCALING
-      - LEGAL
       - EXITED FOUNDER
+      - SALES
+      - GROWTH
+      - FUNDING
+      - WEB3
+      - IMPACT
     bulletpoints:
-      - President at Glo
-      - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
+      - Founder at Apollo (Series C)
+      - Venture Partner at Joyfund
+      - 'S14’, W16’ at Y-Combinator'
     content: >
-      Hogan Lee is the President & COO of Glo, whose mission is to connect
-      people through self-care. Hogan was the Co-Founder & Chief Experience
-      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
-      Operations at Flipagram, an exciting post-acquisition position where he
-      advanced organizational growth by leading the integration of the Flipagram
-      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
-      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
-      in Senior Technical Project Management positions. He has also served as a
-      Mentor for 500 Global and Endeavor, supporting successful startups and
-      their leadership teams. Hogan is based in Los Angeles, CA.
+      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
+      platform used by +30,000 organizations and +1MM users to drive revenue.
+      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
+      Apollo to provide business intelligence and drive revenue growth. Backed
+      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
+      the Joy Fund and Partner in Lionheart Ventures. He started his career at
+      McKinsey & Co.
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
@@ -397,28 +394,65 @@ team:
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
+  - name: Scott Weller
+    image: /images/1675213967983.jpeg
     department:
-      - OPS
-      - AI
+      - LEADERSHIP
+      - HR
+      - CULTURE
+      - M&A
+      - STRATEGY
+      - PRODUCT
       - TECH
-      - GROWTH
-      - FUNDING
+      - WEB3
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & CEO of Ink
-      - Advisor to Tellus Investment Partners
-      - Co-founder of Code Pilot (Exited to AngelList)
+      - Senior Advisor (M&A) at Mastercard
+      - 'SVP Product at Mastercard, Merchant Loyalty'
+      - Co-founder at SessionM (Exit to Mastercard)
     content: >
-      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
-      solution. Caleb was the co-founder and COO of Code Pilot (exited to
-      AngeList), an online platform that provides production-grade development
-      environments with coding analytics to train, test, and assess software
-      developers skills and behavioral adaptability. He is also an advisor to
-      Tellus Investment Partners, a select group of family offices and
-      agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. He is based in Austin, Texas.
+      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
+      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
+      (exited Mastercard), a next generation consumer loyalty and engagement
+      platform. Scott then led the Merchant Loyalty product division (formerly
+      SessionM) at Mastercard, focusing on next generation consumer loyalty and
+      engagement capabilities for merchants and global brands. Scott has been an
+      investor, board member and/or advisor to the following companies: 
+      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
+      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
+      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
+      in leading teams to achieve their full potential, in the development and
+      commercialization of advanced technologies across industries and global
+      markets with specialities in real-time mission critical systems, mobile
+      applications, API/driven platforms, data management, data privacy, CRM,
+      customer engagement, artificial intelligence and game theory. He started
+      in software development when I was very young, joining a group of awesome
+      geeks as a teenager, to help build one of the US’s first internet services
+      providers. He is based in Boston, Massachusetts.
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
+    department:
+      - AI
+      - FUNDING
+      - OPS
+      - SCALING
+      - LEGAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - President at Glo
+      - CEO a Carenote (Exited to Evite)
+      - 'Head of Ops at Flipagram (Exited to TikTok) '
+    content: >
+      Hogan Lee is the President & COO of Glo, whose mission is to connect
+      people through self-care. Hogan was the Co-Founder & Chief Experience
+      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
+      Operations at Flipagram, an exciting post-acquisition position where he
+      advanced organizational growth by leading the integration of the Flipagram
+      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
+      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
+      in Senior Technical Project Management positions. He has also served as a
+      Mentor for 500 Global and Endeavor, supporting successful startups and
+      their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
     department:
@@ -446,27 +480,6 @@ team:
       their labradoodle, Momoe. Tiffany volunteers in her community and serves
       as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
       Malaysia.
-  - name: Roy Chung
-    image: /images/38387311.jpeg
-    department:
-      - EXITED FOUNDER
-      - SALES
-      - GROWTH
-      - FUNDING
-      - WEB3
-      - IMPACT
-    bulletpoints:
-      - Founder at Apollo (Series C)
-      - Venture Partner at Joyfund
-      - 'S14’, W16’ at Y-Combinator'
-    content: >
-      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
-      platform used by +30,000 organizations and +1MM users to drive revenue.
-      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
-      Apollo to provide business intelligence and drive revenue growth. Backed
-      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
-      the Joy Fund and Partner in Lionheart Ventures. He started his career at
-      McKinsey & Co.
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
@@ -507,41 +520,28 @@ team:
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
       - 'Endeavor Entrepreneur '
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
-  - name: Scott Weller
-    image: /images/1675213967983.jpeg
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
     department:
-      - LEADERSHIP
-      - HR
-      - CULTURE
-      - M&A
-      - STRATEGY
-      - PRODUCT
+      - OPS
+      - AI
       - TECH
-      - WEB3
+      - GROWTH
+      - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - Senior Advisor (M&A) at Mastercard
-      - 'SVP Product at Mastercard, Merchant Loyalty'
-      - Co-founder at SessionM (Exit to Mastercard)
+      - Founder & CEO of Ink
+      - Advisor to Tellus Investment Partners
+      - Co-founder of Code Pilot (Exited to AngelList)
     content: >
-      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
-      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
-      (exited Mastercard), a next generation consumer loyalty and engagement
-      platform. Scott then led the Merchant Loyalty product division (formerly
-      SessionM) at Mastercard, focusing on next generation consumer loyalty and
-      engagement capabilities for merchants and global brands. Scott has been an
-      investor, board member and/or advisor to the following companies: 
-      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
-      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
-      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
-      in leading teams to achieve their full potential, in the development and
-      commercialization of advanced technologies across industries and global
-      markets with specialities in real-time mission critical systems, mobile
-      applications, API/driven platforms, data management, data privacy, CRM,
-      customer engagement, artificial intelligence and game theory. He started
-      in software development when I was very young, joining a group of awesome
-      geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts.
+      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
+      solution. Caleb was the co-founder and COO of Code Pilot (exited to
+      AngeList), an online platform that provides production-grade development
+      environments with coding analytics to train, test, and assess software
+      developers skills and behavioral adaptability. He is also an advisor to
+      Tellus Investment Partners, a select group of family offices and
+      agribusiness professionals leveraging their resources to create
+      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
