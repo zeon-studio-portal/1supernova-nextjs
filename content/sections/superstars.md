@@ -46,9 +46,9 @@ team:
       - MARKETING
       - EXITED FOUNDER
     bulletpoints:
-      - '3x Exited Founder '
       - CEO & Co-founder at Supernova
       - Co-founder at 1heart.com
+      - '3x Exited Founder '
     content: >
       Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
       Barry is the co-founder of 1heart (1heart.com), a human accelerator
@@ -95,39 +95,6 @@ team:
       venture funding from top-tier institutions. Daniel is an active member of
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
-  - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
-    department:
-      - MARKETING
-      - SOCIAL
-      - PR
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founding Member of Legacy 8
-      - CMO at SongTradr
-      - Founder & CEO at Jive (Exited)
-    content: >
-      Lindsay is a founding member of Legacy 8, an early stage venture capital
-      fund that focuses on the intersection of science and consciousness.
-      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
-      relations agency in Los Angeles, Vancouver and Toronto as well as the
-      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
-      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
-      North America to start her first business after six years working abroad
-      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
-      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
-      Women by the Financial Post, an Enterprising Women of the Year, Top 40
-      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
-      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
-      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
-      Change Film Festival and a mentor for WXN (Women's Executive Network) and
-      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
-      financial literacy in youth. She built a financial literacy app for kids
-      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
-      Pig Savings). She has an honors degree (summa cum laude) from the
-      International University of London, UK, an Entrepreneurial Strategy
-      certificate from Harvard Business School and is an insatiable travel
-      junkie.
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department:
@@ -165,11 +132,44 @@ team:
       - SOCIAL
       - EXITED FOUNDER
     bulletpoints:
-      - 6x Exited Founder
       - Founder & CEO at Colossal
       - Founder & CEO at Hypergiant
+      - 5x Exited Founder
     content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
-  - name: Andrew Trader
+  - name: Lindsay Nahmiache
+    image: /images/superstars/team-thumb-15.png
+    department:
+      - MARKETING
+      - SOCIAL
+      - PR
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founding Member of Legacy 8
+      - CMO at SongTradr
+      - Founder & CEO at Jive (Exited)
+    content: >
+      Lindsay is a founding member of Legacy 8, an early stage venture capital
+      fund that focuses on the intersection of science and consciousness.
+      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
+      relations agency in Los Angeles, Vancouver and Toronto as well as the
+      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
+      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
+      North America to start her first business after six years working abroad
+      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
+      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
+      Women by the Financial Post, an Enterprising Women of the Year, Top 40
+      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
+      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
+      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
+      Change Film Festival and a mentor for WXN (Women's Executive Network) and
+      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
+      financial literacy in youth. She built a financial literacy app for kids
+      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
+      Pig Savings). She has an honors degree (summa cum laude) from the
+      International University of London, UK, an Entrepreneurial Strategy
+      certificate from Harvard Business School and is an insatiable travel
+      junkie.
+  - name: Andrew Trader (AT)
     image: /images/AT.jpeg
     department:
       - TECH
@@ -182,9 +182,9 @@ team:
       - M&A
       - EXITED FOUNDER
     bulletpoints:
-      - 4x exited founder
+      - '4x exited founder ($13b) '
       - Operating Partner at Bullpen Capital
-      - 'Co-founder at Zynga (IPO), Madison Reed, Coremetrics'
+      - 'Co-founder of Zynga (IPO), Madison Reed, Tribe, Coremetrics'
     content: >
       A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
       an entrepreneur, he co-founded 5 companies with $13b in exits including
@@ -196,7 +196,7 @@ team:
       functions (sales, marketing, and biz dev), setting and accelerating
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
-      leadership teams, organizational structure, and company culture.
+      leadership teams, organizational structure, and company culture.  
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -211,22 +211,21 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
+      - Venture Partner at Launch Capital
+      - Co-founder & CEO at CreatorPlus
       - CPO/COO with 8 exits
-      - Co-founder at Launch CapitalCOO at INTO Technologies
-      - Venture Parter at Launch Capital
     content: >
       Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
-      venture-backed startup building the future of transactional
-      video-on-demand for consumers, creators, film producers and IP holders.
-      Jonathan was a Venture Partner for Launch Capital, a seed-stage venture
-      capital firm. For 25 years in San Francisco he has held operational and
-      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
-      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
-      consumer media and entertainment, of which 8 were VC backed and acquired.
-      His investing experience includes nearly 2 years as COO of a seed stage
-      family office, managing internal operations, overseeing a portfolio of
-      150+ companies, leading his own investments, and serving on boards.
-      Jonathan also co-founded his own investment firm with two other GPs.
+      venture-backed startup building the future of transactional video
+      on-demand for consumers, creators, film producers and IP holders. Jonathan
+      was a Venture Partner for Launch Capital, a seed stage venture capital
+      firm. For 25 years in San Francisco he has held operational and executive
+      roles in 10 tech startups, primarily in consumer media and entertainment,
+      of which 8 were VC backed and acquired. His investing experience includes
+      nearly 2 years as COO of a seed stage family office, managing internal
+      operations, overseeing a portfolio of 150+ companies, leading his own
+      investments, and serving on boards. Jonathan also co-founded his own
+      investment firm with two other GPs.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -270,6 +269,32 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
+    department:
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
+      - Founder & CEO at Luna (Exited)
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -294,68 +319,6 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: 'Leo Rastogi, PhD'
-    image: /images/superstars/team-thumb-22.png
-    department:
-      - LEGAL/IP
-      - STRATEGY
-      - OPS
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
-      - EXITED FOUNDER
-    bulletpoints:
-      - 3x Exited Founder
-      - Founder of Minerva Health Ventures
-      - 'CEO, DTES of Happiest Minds'
-    content: >
-      Leo is currently the co-founder of 6 companies gifting well-being to the
-      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
-      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
-      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
-      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
-      Business School with a PhD in Leadership. Leo also studied psychological
-      and neurobiological basis of Mindfulness and Meditation at Oxford
-      University and Kings College. He also briefly lived as Buddhist Monk - a
-      bookend to his multiple monastic sabbatical. Over two decades, Leo
-      travelled to 70+ countries, immersed himself in monastic experiences, led
-      retreats in the birthplaces of great civilizations and studied with
-      enlightened masters – an experience he cherishes most in his life. Much of
-      which he has synthesize in his two critically acclaimed books : Many Path,
-      Many Truths : A Journey through world religions that have shaped the 20th
-      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
-      is a rare blend of thought leader, author, successful entrepreneur,
-      philosopher, mindfulness mentor, monk and spiritual scientist.
-  - name: Peter Yared
-    image: /images/superstars/peteryared.png
-    department:
-      - LEGAL/IP
-      - EXITED FOUNDER
-      - TECH
-      - PRODUCT
-      - SCALING
-      - LEADERSHIP
-    bulletpoints:
-      - 6x Exited Founder
-      - CEO & Founder at InCountry
-      - CTO at CBS Interactive
-    content: >
-      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
-      Residency-as-a-Service for SaaS and internal apps. Peter is also the
-      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
-      Peter previously founded six enterprise software companies that were
-      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
-      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
-      into the cloud with the end-to-end replatform of its Comscore #7 group of
-      Internet properties. At Sun, Peter was the CTO of the Application Server
-      Division and the CTO of the Liberty federated identity consortium that
-      created SAML 2. Peter is the inventor of several patents on core Internet
-      infrastructure, including federated single sign on and dynamic data
-      requests. He began programming games and utilities at age ten and started
-      his career developing systems for U.S. government agencies. Peter
-      regularly speaks and writes about technology trends and their impact on
-      society, and has written for the Wall Street Journal, BusinessWeek,
-      TechCrunch and VentureBeat.
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -419,33 +382,6 @@ team:
       Tellus Investment Partners, a select group of family offices and
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
@@ -467,32 +403,82 @@ team:
       by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
       the Joy Fund and Partner in Lionheart Ventures. He started his career at
       McKinsey & Co.
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
+  - name: Tim Sae Koo
+    image: /images/102929.png
     department:
-      - M&A
-      - STRATEGY
-      - FUNDING
+      - OPS
+      - TECH
+      - CULTURE
+      - MARKETING
+      - IMPACT
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & MP at Nfluence Partners
-      - Managing Director at Headwaters
-      - Founder & CEO at Luna (Exited)
+      - Co-founder at 1heart.com
+      - Founder & CEO Tintup (Exited)
+      - Founder at WAI Wear (Exited)
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+  - name: 'Leo Rastogi, PhD'
+    image: /images/superstars/team-thumb-22.png
+    department:
+      - LEGAL/IP
+      - STRATEGY
+      - OPS
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Minerva Health Ventures
+      - 'CEO, DTES of Happiest Minds'
+      - 3x Exited Founder
     content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University.
+      Leo is currently the co-founder of 6 companies gifting well-being to the
+      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
+      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
+      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
+      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
+      Business School with a PhD in Leadership. Leo also studied psychological
+      and neurobiological basis of Mindfulness and Meditation at Oxford
+      University and Kings College. He also briefly lived as Buddhist Monk - a
+      bookend to his multiple monastic sabbatical. Over two decades, Leo
+      travelled to 70+ countries, immersed himself in monastic experiences, led
+      retreats in the birthplaces of great civilizations and studied with
+      enlightened masters – an experience he cherishes most in his life. Much of
+      which he has synthesize in his two critically acclaimed books : Many Path,
+      Many Truths : A Journey through world religions that have shaped the 20th
+      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
+      is a rare blend of thought leader, author, successful entrepreneur,
+      philosopher, mindfulness mentor, monk and spiritual scientist.
+  - name: Peter Yared
+    image: /images/superstars/peteryared.png
+    department:
+      - LEGAL/IP
+      - EXITED FOUNDER
+      - TECH
+      - PRODUCT
+      - SCALING
+      - LEADERSHIP
+    bulletpoints:
+      - CEO & Founder at InCountry
+      - CTO at CBS Interactive
+      - 6x Exited Founder
+    content: >
+      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
+      Residency-as-a-Service for SaaS and internal apps. Peter is also the
+      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
+      Peter previously founded six enterprise software companies that were
+      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
+      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
+      into the cloud with the end-to-end replatform of its Comscore #7 group of
+      Internet properties. At Sun, Peter was the CTO of the Application Server
+      Division and the CTO of the Liberty federated identity consortium that
+      created SAML 2. Peter is the inventor of several patents on core Internet
+      infrastructure, including federated single sign on and dynamic data
+      requests. He began programming games and utilities at age ten and started
+      his career developing systems for U.S. government agencies. Peter
+      regularly speaks and writes about technology trends and their impact on
+      society, and has written for the Wall Street Journal, BusinessWeek,
+      TechCrunch and VentureBeat.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -507,41 +493,6 @@ team:
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
       - 'Endeavor Entrepreneur '
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
-  - name: Scott Weller
-    image: /images/1675213967983.jpeg
-    department:
-      - LEADERSHIP
-      - HR
-      - CULTURE
-      - M&A
-      - STRATEGY
-      - PRODUCT
-      - TECH
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Senior Advisor (M&A) at Mastercard
-      - 'SVP Product at Mastercard, Merchant Loyalty'
-      - Co-founder at SessionM (Exit to Mastercard)
-    content: >
-      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
-      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
-      (exited Mastercard), a next generation consumer loyalty and engagement
-      platform. Scott then led the Merchant Loyalty product division (formerly
-      SessionM) at Mastercard, focusing on next generation consumer loyalty and
-      engagement capabilities for merchants and global brands. Scott has been an
-      investor, board member and/or advisor to the following companies: 
-      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
-      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
-      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
-      in leading teams to achieve their full potential, in the development and
-      commercialization of advanced technologies across industries and global
-      markets with specialities in real-time mission critical systems, mobile
-      applications, API/driven platforms, data management, data privacy, CRM,
-      customer engagement, artificial intelligence and game theory. He started
-      in software development when I was very young, joining a group of awesome
-      geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -577,6 +528,41 @@ team:
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
       event.
+  - name: Scott Weller
+    image: /images/1675213967983.jpeg
+    department:
+      - LEADERSHIP
+      - HR
+      - CULTURE
+      - M&A
+      - STRATEGY
+      - PRODUCT
+      - TECH
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Senior Advisor (M&A) at Mastercard
+      - 'SVP Product at Mastercard, Merchant Loyalty'
+      - Co-founder at SessionM (Exit to Mastercard)
+    content: >
+      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
+      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
+      (exited Mastercard), a next generation consumer loyalty and engagement
+      platform. Scott then led the Merchant Loyalty product division (formerly
+      SessionM) at Mastercard, focusing on next generation consumer loyalty and
+      engagement capabilities for merchants and global brands. Scott has been an
+      investor, board member and/or advisor to the following companies: 
+      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
+      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
+      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
+      in leading teams to achieve their full potential, in the development and
+      commercialization of advanced technologies across industries and global
+      markets with specialities in real-time mission critical systems, mobile
+      applications, API/driven platforms, data management, data privacy, CRM,
+      customer engagement, artificial intelligence and game theory. He started
+      in software development when I was very young, joining a group of awesome
+      geeks as a teenager, to help build one of the US’s first internet services
+      providers. He is based in Boston, Massachusetts.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -606,35 +592,6 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Tim Sae Koo
-    image: /images/102929.png
-    department:
-      - OPS
-      - TECH
-      - CULTURE
-      - MARKETING
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Co-founder at 1heart.com
-      - Founder & CEO Tintup (Exited)
-      - Founder at WAI Wear (Exited)
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Chris Carson
-    image: /images/1668277982538.jpeg
-    department:
-      - LEGAL/IP
-      - AI
-      - FUNDING
-      - SCALING
-      - TECH
-      - PRODUCT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & CEO at Hayden AI (Series B)
-      - Founder & CEO at Nueevo Technologies
-      - 'Founder & CEO at Louisa (Exited) '
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department:
@@ -658,6 +615,33 @@ team:
       led the creation of the Fluid Blockchain Accelerator and served as Head of
       Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
       founders and their ventures.
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+    bulletpoints:
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
@@ -762,6 +746,21 @@ team:
       - Founder at Local Leaders Collective
       - CEO & Co-founder at LiveNinja (Exited)
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
+  - name: Chris Carson
+    image: /images/1668277982538.jpeg
+    department:
+      - LEGAL/IP
+      - AI
+      - FUNDING
+      - SCALING
+      - TECH
+      - PRODUCT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Hayden AI (Series B)
+      - Founder & CEO at Nueevo Technologies
+      - 'Founder & CEO at Louisa (Exited) '
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
