@@ -796,7 +796,7 @@ team:
       - LEADERSHIP
       - HR
     bulletpoints:
-      - Founder & CEO at Evo
+      - CEO & Founder at Evo
       - Head of Data & Innovation at Cox Enterprises
       - Head of Consulting at Acxiom (Exited)
     content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
@@ -874,6 +874,49 @@ team:
       Google. He is the former Global Strategy Officer of Kakao Entertainment
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
       and has his own fund called Rabbit VC. 
+  - name: 'Jud Brewer '
+    image: /images/Jud.jpeg
+    department:
+      - STRATEGY
+      - PRODUCT
+      - EXITED FOUNDER
+      - GROWTH
+      - IMPACT
+    bulletpoints:
+      - Co-founder Mindshift Recovery
+      - Chief Medical Officer at Sharecare
+      - CEO/Founder at Mindsciences (Exit to Sharecare)
+    content: >
+      Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
+      thought leader in the field of habit change and the “science of
+      self-mastery”, having combined over 25 years of experience with
+      mindfulness training with his scientific research therein. He is the
+      Director of Research and Innovation at the Mindfulness Center and
+      professor in Behavioral and Social Sciences and Psychiatry at the Schools
+      of Public Health & Medicine at Brown University. A psychiatrist and
+      internationally known expert in mindfulness training for addictions,
+      Brewer has developed and tested novel mindfulness programs for habit
+      change, including both in-person and app-based treatments for smoking,
+      emotional eating, and anxiety. Dr. Brewer founded MindSciences (which
+      merged with Sharecare Inc. in 2020) to move his discoveries of clinical
+      evidence behind mindfulness for anxiety, eating, smoking and other
+      behavior change into the hands of consumers. He co-founded Mindshift
+      Recovery, a non-profit creating evidence-based tools to help build
+      recovery capital for those struggling with addiction. He has studied the
+      underlying neural mechanisms of mindfulness using standard and real-time
+      fMRI and EEG neurofeedback. He has trained US Olympic athletes and
+      coaches, foreign government ministers, and his work has been featured on
+      60 Minutes, TED (4th most viewed talk of 2016, with 19+ Million views),
+      the New York Times, Time magazine (top 100 new health discoveries of
+      2013), Forbes, BBC, NPR, Al Jazeera (documentary about his research),
+      Businessweek and others. His work has been funded by the National
+      Institutes of Health, American Heart Association, among others. He is the
+      author of The Craving Mind: from cigarettes to smartphones to love, why we
+      get hooked and how we can break bad habits (New Haven: Yale University
+      Press, 2017), the New York Times best-seller, Unwinding Anxiety: New
+      Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind
+      (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
+      We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
@@ -936,49 +979,6 @@ team:
       - Chief of Staff at MRGN
       - Head of Finance HDHome ($270M Home Depot Startup)
     content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
-  - name: 'Jud Brewer '
-    image: /images/Jud.jpeg
-    department:
-      - STRATEGY
-      - PRODUCT
-      - EXITED FOUNDER
-      - GROWTH
-      - IMPACT
-    bulletpoints:
-      - Co-founder Mindshift Recovery
-      - Chief Medical Officer at Sharecare
-      - CEO/Founder at Mindsciences (Exit to Sharecare)
-    content: >
-      Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
-      thought leader in the field of habit change and the “science of
-      self-mastery”, having combined over 25 years of experience with
-      mindfulness training with his scientific research therein. He is the
-      Director of Research and Innovation at the Mindfulness Center and
-      professor in Behavioral and Social Sciences and Psychiatry at the Schools
-      of Public Health & Medicine at Brown University. A psychiatrist and
-      internationally known expert in mindfulness training for addictions,
-      Brewer has developed and tested novel mindfulness programs for habit
-      change, including both in-person and app-based treatments for smoking,
-      emotional eating, and anxiety. Dr. Brewer founded MindSciences (which
-      merged with Sharecare Inc. in 2020) to move his discoveries of clinical
-      evidence behind mindfulness for anxiety, eating, smoking and other
-      behavior change into the hands of consumers. He co-founded Mindshift
-      Recovery, a non-profit creating evidence-based tools to help build
-      recovery capital for those struggling with addiction. He has studied the
-      underlying neural mechanisms of mindfulness using standard and real-time
-      fMRI and EEG neurofeedback. He has trained US Olympic athletes and
-      coaches, foreign government ministers, and his work has been featured on
-      60 Minutes, TED (4th most viewed talk of 2016, with 19+ Million views),
-      the New York Times, Time magazine (top 100 new health discoveries of
-      2013), Forbes, BBC, NPR, Al Jazeera (documentary about his research),
-      Businessweek and others. His work has been funded by the National
-      Institutes of Health, American Heart Association, among others. He is the
-      author of The Craving Mind: from cigarettes to smartphones to love, why we
-      get hooked and how we can break bad habits (New Haven: Yale University
-      Press, 2017), the New York Times best-seller, Unwinding Anxiety: New
-      Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind
-      (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
-      We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
