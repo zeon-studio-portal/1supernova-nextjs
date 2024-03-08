@@ -630,17 +630,6 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department:
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
-    bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -737,6 +726,17 @@ team:
       - Founder & CEO Tintup (Exited)
       - Founder at WAI Wear (Exited)
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - 2x Exited Founder
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department:
