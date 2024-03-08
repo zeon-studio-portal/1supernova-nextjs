@@ -633,7 +633,6 @@ team:
       - FUNDING
       - PRODUCT
       - TECHNOLOGY
-      - EXITED FOUNDER
     bulletpoints:
       - 2x Exited Founder
       - General Partner at Rabbit VC
