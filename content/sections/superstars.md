@@ -8,10 +8,10 @@ quote: >-
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
+  - name: Culture
+    icon: /images/superstars/icons/strategy.svg
   - name: 'Coaching '
     icon: /images/superstars/icons/community.svg
-  - name: Science
-    icon: /images/superstars/icons/leadership.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
   - name: Leadership
@@ -28,10 +28,10 @@ group_list:
     icon: /images/superstars/icons/product.svg
   - name: Sales
     icon: /images/superstars/icons/sales-marketing.svg
+  - name: Science
+    icon: /images/superstars/icons/leadership.svg
   - name: Social
     icon: /images/superstars/icons/social.svg
-  - name: Culture
-    icon: /images/superstars/icons/strategy.svg
   - name: Tech
     icon: /images/superstars/icons/technology.svg
 team:
