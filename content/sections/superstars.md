@@ -632,7 +632,7 @@ team:
     department:
       - FUNDING
       - PRODUCT
-      - TECH
+      - TECHNOLOGY
       - EXITED FOUNDER
     bulletpoints:
       - 2x Exited Founder
