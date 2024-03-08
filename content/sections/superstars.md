@@ -685,12 +685,11 @@ team:
   - name: Tim Sae Koo
     image: /images/102929.png
     department:
+      - COACHING
       - OPS
-      - TECH
-      - CULTURE
+      - TECHNOLOGY
       - MARKETING
-      - IMPACT
-      - EXITED FOUNDER
+      - LEADERSHIP
     bulletpoints:
       - Co-founder at 1heart.com
       - Founder & CEO Tintup (Exited)
