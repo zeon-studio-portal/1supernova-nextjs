@@ -292,13 +292,13 @@ team:
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     department:
-      - LEGAL/IP
+      - STAFFING
       - AI
       - FUNDING
-      - SCALING
+      - SCIENCE
       - TECH
       - PRODUCT
-      - EXITED FOUNDER
+      - COACHING
     bulletpoints:
       - Founder & CEO at Hayden AI (Series B)
       - Founder & CEO at Nueevo Technologies
