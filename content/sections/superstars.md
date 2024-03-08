@@ -40,7 +40,7 @@ team:
     department:
       - Scale
       - GTM
-      - Impact
+      - Leadership
       - AI
       - Coaching
       - SALES
