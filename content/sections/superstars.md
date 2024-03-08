@@ -639,11 +639,11 @@ team:
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
+      - OPS
       - CULTURE
       - STRATEGY
-      - TALENT
       - LEADERSHIP
-      - LEGAL/IP
+      - SCIENCE
     bulletpoints:
       - Founder of Xenex Healthcare Services
       - Fellow at IDSA & Royal Society of Medicine
