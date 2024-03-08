@@ -364,6 +364,133 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
+  - name: Roy Chung
+    image: /images/38387311.jpeg
+    department:
+      - EXITED FOUNDER
+      - SALES
+      - GROWTH
+      - FUNDING
+      - WEB3
+      - IMPACT
+    bulletpoints:
+      - Founder at Apollo (Series C)
+      - Venture Partner at Joyfund
+      - 'S14’, W16’ at Y-Combinator'
+    content: >
+      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
+      platform used by +30,000 organizations and +1MM users to drive revenue.
+      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
+      Apollo to provide business intelligence and drive revenue growth. Backed
+      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
+      the Joy Fund and Partner in Lionheart Ventures. He started his career at
+      McKinsey & Co.
+  - name: Peter Kellner
+    image: /images/superstars/peterkellner.png
+    department:
+      - FUNDING
+      - STRATEGY
+      - TECH
+      - SOCIAL
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Richmond Global
+      - 'Co-founder at Endeavor '
+      - Co-founder at EMLA Association
+    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
+    department:
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
+      - Founder & CEO at Luna (Exited)
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University.
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
+    department:
+      - AI
+      - FUNDING
+      - OPS
+      - SCALING
+      - LEGAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - President at Glo
+      - CEO a Carenote (Exited to Evite)
+      - 'Head of Ops at Flipagram (Exited to TikTok) '
+    content: >
+      Hogan Lee is the President & COO of Glo, whose mission is to connect
+      people through self-care. Hogan was the Co-Founder & Chief Experience
+      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
+      Operations at Flipagram, an exciting post-acquisition position where he
+      advanced organizational growth by leading the integration of the Flipagram
+      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
+      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
+      in Senior Technical Project Management positions. He has also served as a
+      Mentor for 500 Global and Endeavor, supporting successful startups and
+      their leadership teams. Hogan is based in Los Angeles, CA.
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
+    department:
+      - HR
+      - CULTURE
+      - LEADERSHIP
+      - FUNDING
+      - M&A
+      - PRODUCT
+      - TECH
+      - OPS
+      - SCALING
+      - EXITED FOUNDER
+    bulletpoints:
+      - 8 exits (CPO/COO)
+      - COO at INTO Technologies
+      - Co-founder at Launch Capital
+    content: >
+      Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
+      startup. For 25 years in San Francisco, he has held operational and
+      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
+      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
+      consumer media and entertainment, of which 8 were VC backed and acquired.
+      His investing experience includes nearly 2 years as COO of a seed stage
+      family office, managing internal operations, overseeing a portfolio of
+      150+ companies, leading his own investments, and serving on boards.
+      Jonathan also co-founded his own investment firm with two other GPs.
+  - name: Peter Bordes
+    image: /images/superstars/peterbordes.png
+    department:
+      - M&A
+      - LEGAL
+      - STRATEGY
+      - FUNDING
+      - TECH
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Trajectory Capital
+      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
+      - CEO & Founder at MediaTrust
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -391,136 +518,6 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
-  - name: Peter Kellner
-    image: /images/superstars/peterkellner.png
-    department:
-      - FUNDING
-      - STRATEGY
-      - TECH
-      - SOCIAL
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Richmond Global
-      - 'Co-founder at Endeavor '
-      - Co-founder at EMLA Association
-    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
-  - name: Roy Chung
-    image: /images/38387311.jpeg
-    department:
-      - EXITED FOUNDER
-      - SALES
-      - GROWTH
-      - FUNDING
-      - WEB3
-      - IMPACT
-    bulletpoints:
-      - Founder at Apollo (Series C)
-      - Venture Partner at Joyfund
-      - 'S14’, W16’ at Y-Combinator'
-    content: >
-      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
-      platform used by +30,000 organizations and +1MM users to drive revenue.
-      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
-      Apollo to provide business intelligence and drive revenue growth. Backed
-      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
-      the Joy Fund and Partner in Lionheart Ventures. He started his career at
-      McKinsey & Co.
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
-    department:
-      - M&A
-      - STRATEGY
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & MP at Nfluence Partners
-      - Managing Director at Headwaters
-      - Founder & CEO at Luna (Exited)
-    content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University.
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
-    department:
-      - HR
-      - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECH
-      - OPS
-      - SCALING
-      - EXITED FOUNDER
-    bulletpoints:
-      - 8 exits (CPO/COO)
-      - COO at INTO Technologies
-      - Co-founder at Launch Capital
-    content: >
-      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
-      venture-backed startup building the future of transactional
-      video-on-demand for consumers, creators, film producers and IP holders.
-      Jonathan was a Venture Partner for Launch Capital, a seed-stage venture
-      capital firm. For 25 years in San Francisco he has held operational and
-      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
-      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
-      consumer media and entertainment, of which 8 were VC backed and acquired.
-      His investing experience includes nearly 2 years as COO of a seed stage
-      family office, managing internal operations, overseeing a portfolio of
-      150+ companies, leading his own investments, and serving on boards.
-      Jonathan also co-founded his own investment firm with two other GPs.
-  - name: Peter Bordes
-    image: /images/superstars/peterbordes.png
-    department:
-      - M&A
-      - LEGAL
-      - STRATEGY
-      - FUNDING
-      - TECH
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Trajectory Capital
-      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
-      - CEO & Founder at MediaTrust
-    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
-    department:
-      - AI
-      - FUNDING
-      - OPS
-      - SCALING
-      - LEGAL
-      - EXITED FOUNDER
-    bulletpoints:
-      - President at Glo
-      - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
-    content: >
-      Hogan Lee is the President & COO of Glo, whose mission is to connect
-      people through self-care. Hogan was the Co-Founder & Chief Experience
-      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
-      Operations at Flipagram, an exciting post-acquisition position where he
-      advanced organizational growth by leading the integration of the Flipagram
-      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
-      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
-      in Senior Technical Project Management positions. He has also served as a
-      Mentor for 500 Global and Endeavor, supporting successful startups and
-      their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
