@@ -302,33 +302,6 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Keith Ferrazzi
-    image: /images/superstars/team-thumb-5.png
-    department:
-      - CULTURE
-      - STRATEGY
-      - HR
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
-    content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
@@ -391,6 +364,33 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
+    department:
+      - CULTURE
+      - STRATEGY
+      - HR
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
+    content: >
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -426,6 +426,32 @@ team:
       by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
       the Joy Fund and Partner in Lionheart Ventures. He started his career at
       McKinsey & Co.
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
+    department:
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
+      - Founder & CEO at Luna (Exited)
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -456,32 +482,6 @@ team:
       family office, managing internal operations, overseeing a portfolio of
       150+ companies, leading his own investments, and serving on boards.
       Jonathan also co-founded his own investment firm with two other GPs.
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
-    department:
-      - M&A
-      - STRATEGY
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & MP at Nfluence Partners
-      - Managing Director at Headwaters
-      - Founder & CEO at Luna (Exited)
-    content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
