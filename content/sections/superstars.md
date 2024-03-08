@@ -605,6 +605,28 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
+  - name: Juha Mikkola
+    image: /images/Juha-Mikkola.jpg
+    department:
+      - PRODUCT
+      - TECH
+      - STRATEGY
+      - COMMUNITY
+      - EXITED FOUNDER
+    bulletpoints:
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
+    content: >
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
@@ -691,29 +713,6 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department:
-      - AI
-      - STRATEGY
-      - GROWTH
-      - FUNDING
-      - IMPACT
-    bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
-    content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures.
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -760,28 +759,29 @@ team:
       - Founder at Hardline (Exited)
       - Head of Product at Shape (Exited)
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Juha Mikkola
-    image: /images/Juha-Mikkola.jpg
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
     department:
-      - PRODUCT
-      - TECH
+      - AI
       - STRATEGY
-      - COMMUNITY
-      - EXITED FOUNDER
+      - GROWTH
+      - FUNDING
+      - IMPACT
     bulletpoints:
-      - CEO & Founder at Usko Privacy
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Founder, Clutch Sports (Exited)'
+      - Founder at AI Dragons
+      - Certified Coach at OpenExO
+      - Grant Evaluator at EIT Health
     content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
+      Luciana Ledesma is the founder of AI Dragons, a global community that
+      leverages tech & business creation to achieve SDGs. She is a certified
+      coach at the Open ExO’s community (a spin-off from Singularity
+      University). Luciana is a grant evaluator for EIT Health and has assessed
+      over 100 projects for €1-3M  grants in Biomedicine, health records
+      management on blockchain, health insurance, and surgery robots. She was
+      co-founder and ceo of Teder.ai, an personalized education company. Luciana
+      led the creation of the Fluid Blockchain Accelerator and served as Head of
+      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
+      founders and their ventures.
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
