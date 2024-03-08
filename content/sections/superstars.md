@@ -674,14 +674,13 @@ team:
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department:
-      - STRATEGY
-      - CULTURE
-      - EXITED FOUNDER
+      - SCIENCE
+      - TECHNOLOGY
       - AI
-      - STRATEGY
-      - GROWTH
+      - SYSTEMS
+      - SCALE
       - LEADERSHIP
-      - HR
+      - MARKETING
     bulletpoints:
       - CEO & Founder at Evo
       - Head of Data & Innovation at Cox Enterprises
