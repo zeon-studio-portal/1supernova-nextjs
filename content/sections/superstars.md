@@ -179,7 +179,7 @@ team:
       - FUNDING
       - SCALING
       - M&A
-      - EXITED FOUNDER
+      - COACH
     bulletpoints:
       - 4x Exited Founder
       - Operating Partner at Bullpen Capital
