@@ -518,7 +518,7 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
-      - GROWTH
+      - COACH
       - SALES
       - LEADERSHIP
       - SOCIAL
