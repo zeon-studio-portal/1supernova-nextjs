@@ -988,6 +988,7 @@ team:
   - name: 'Revant Gupta '
     image: /images/7S9A2603-r.jpg
     department:
+      - OPS
       - STRATEGY
       - FUNDRAISING
     bulletpoints:
