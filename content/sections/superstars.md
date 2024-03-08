@@ -453,11 +453,9 @@ team:
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
-      - LEGAL/IP
-      - EXITED FOUNDER
-      - TECH
+      - TECHNOLOGY
       - PRODUCT
-      - SCALING
+      - SCALE
       - LEADERSHIP
     bulletpoints:
       - 6x Exited Founder
