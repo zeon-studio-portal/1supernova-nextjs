@@ -937,6 +937,7 @@ team:
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
+      - AI
       - COACHING
       - MARKETING
       - GTM
