@@ -946,7 +946,7 @@ team:
       - IMPACT
     bulletpoints:
       - Co-founder Mindshift Recovery
-      - 'Head of Research & Innovation at Brown University '
+      - Chief Medical Officer at Sharecare
       - CEO/Founder at Mindsciences (Exit to Sharecare)
     content: >
       Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
