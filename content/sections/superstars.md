@@ -490,6 +490,7 @@ team:
   - name: Joel French
     image: /images/Joel French.jpeg
     department:
+      - M&A
       - GTM
       - SALES
       - COACH
