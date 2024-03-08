@@ -10,7 +10,7 @@ group_list:
     icon: /images/superstars/icons/ai.svg
   - name: 'Coaching '
     icon: /images/superstars/icons/community.svg
-  - name: Culture
+  - name: Science
     icon: /images/superstars/icons/leadership.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
