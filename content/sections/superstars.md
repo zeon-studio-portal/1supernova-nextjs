@@ -270,32 +270,6 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
-    department:
-      - M&A
-      - STRATEGY
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & MP at Nfluence Partners
-      - Managing Director at Headwaters
-      - Founder & CEO at Luna (Exited)
-    content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -404,20 +378,59 @@ team:
       by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
       the Joy Fund and Partner in Lionheart Ventures. He started his career at
       McKinsey & Co.
-  - name: Tim Sae Koo
-    image: /images/102929.png
+  - name: Gary Moon
+    image: /images/superstars/team-thumb-9.png
     department:
-      - OPS
-      - TECH
-      - CULTURE
-      - MARKETING
-      - IMPACT
+      - M&A
+      - STRATEGY
+      - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - Co-founder at 1heart.com
-      - Founder & CEO Tintup (Exited)
-      - Founder at WAI Wear (Exited)
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+      - Founder & MP at Nfluence Partners
+      - Managing Director at Headwaters
+      - Founder & CEO at Luna (Exited)
+    content: >
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partner focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University.
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+    bulletpoints:
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department:
@@ -593,6 +606,20 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
+  - name: Tim Sae Koo
+    image: /images/102929.png
+    department:
+      - OPS
+      - TECH
+      - CULTURE
+      - MARKETING
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder at 1heart.com
+      - Founder & CEO Tintup (Exited)
+      - Founder at WAI Wear (Exited)
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department:
@@ -616,33 +643,6 @@ team:
       led the creation of the Fluid Blockchain Accelerator and served as Head of
       Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
       founders and their ventures.
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
