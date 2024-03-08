@@ -343,6 +343,7 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
+      - M&A
       - AI
       - SYSTEMS
       - LEADERSHIP
