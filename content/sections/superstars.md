@@ -123,7 +123,7 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: Lindsay Nahmiache
+  - name: 'Lindsay Nahmiache '
     image: /images/lindsay.jpeg
     department:
       - MARKETING
