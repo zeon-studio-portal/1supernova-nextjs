@@ -98,7 +98,7 @@ team:
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department:
-      - CEO COACHING
+      - COACHING
       - PRODUCT
       - TECH
       - CULTURE
