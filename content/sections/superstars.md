@@ -102,8 +102,8 @@ team:
       - CEO COACHING
       - PRODUCT
       - TECH
-      - SCALING
-      - EXITED FOUNDER
+      - CULTURE
+      - STRATEGY
     bulletpoints:
       - CEO & Founder at Marino
       - CEO & Founder at TN.com ($250MM ARR & Exited)
