@@ -265,8 +265,6 @@ team:
     image: /images/superstars/team-thumb-26.png
     department:
       - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
       - SALES
       - SOCIAL
       - IMPACT
