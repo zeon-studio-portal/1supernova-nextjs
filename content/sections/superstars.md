@@ -162,7 +162,7 @@ team:
       - SCALE
       - FUNDING
       - COACHING
-      - HR
+      - CULTURE
       - SOCIAL
       - SCIENCE
     bulletpoints:
