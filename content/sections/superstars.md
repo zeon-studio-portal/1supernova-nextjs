@@ -360,7 +360,7 @@ team:
       functions (sales, marketing, and biz dev), setting and accelerating
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
-      leadership teams, organizational structure, and company culture. 
+      leadership teams, organizational structure, and company culture.  
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
