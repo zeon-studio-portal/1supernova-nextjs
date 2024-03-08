@@ -225,48 +225,6 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Chris Carson
-    image: /images/1668277982538.jpeg
-    department:
-      - LEGAL/IP
-      - AI
-      - FUNDING
-      - SCALING
-      - TECH
-      - PRODUCT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & CEO at Hayden AI (Series B)
-      - Founder & CEO at Nueevo Technologies
-      - 'Founder & CEO at Louisa (Exited) '
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -302,6 +260,48 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+    bulletpoints:
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
+  - name: Chris Carson
+    image: /images/1668277982538.jpeg
+    department:
+      - LEGAL/IP
+      - AI
+      - FUNDING
+      - SCALING
+      - TECH
+      - PRODUCT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Hayden AI (Series B)
+      - Founder & CEO at Nueevo Technologies
+      - 'Founder & CEO at Louisa (Exited) '
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
@@ -605,41 +605,22 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
-  - name: Andrew Sturner
-    image: /images/123285.png
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
     department:
-      - LEGAL/IP
       - FUNDING
+      - PRODUCT
       - TECH
-      - LEADERSHIP
-      - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder at Entourage Effect Capital
-      - Co-founder at Boatsetter (Series B)
-      - Founder at Interactive Services (Exited)
+      - 2x Exited Founder
+      - General Partner at Rabbit VC
+      - CEO & Founder TNC (Exited to Google)
     content: >
-      Andrew Sturner has been navigating the high seas of entrepreneurship for
-      the more than three decades. Andy is an impact investor and has been
-      described as a “provocateur” with a passion for guiding executives through
-      complex situations. After a stint as a bankruptcy attorney at Stroock &
-      Stroock & Lavan in NYC, Andy traded in his suit for jeans and went on to
-      participate as an executive in six startups, two of which he guided
-      through IPOs as well as multiple exits. He sold his first startup to
-      MovieFone, where he served as VP of Business Development (IPO’d ‘94 and
-      sold to AOL ‘99). Andrew then founded Sportsline.com (IPO’d in ‘97 and
-      sold to CBS ‘04) launching one of the world’s first commercial websites in
-      1995. He then founded Aqua Marine Partners, owner and operator of a
-      portfolio of marina real estate and incubator of marine technology
-      companies with a focus on innovation (exited to  Equity Lifestyles (NYSE:
-      ELS) joint venture in ‘20). Any co-founded one of the first Miami-based
-      angel investment groups now called Miami Angels. Andy co-founded
-      Boatsetter.com and launched his 5th startup – awebsite that combines the
-      rental mechanics of Airbnb with the on-demand labor dynamics of Uber. In
-      2016, after studying the burgeoning legal cannabis landscape, Andy began
-      investing in the space and ultimately co-founded his 6th startup –
-      Entourage Effect Capital to invest in this generational wealth creation
-      event.
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC.
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
@@ -728,22 +709,41 @@ team:
       - Founder at Hardline (Exited)
       - Head of Product at Shape (Exited)
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
+  - name: Andrew Sturner
+    image: /images/123285.png
     department:
+      - LEGAL/IP
       - FUNDING
-      - PRODUCT
       - TECH
+      - LEADERSHIP
+      - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - 2x Exited Founder
-      - General Partner at Rabbit VC
-      - CEO & Founder TNC (Exited to Google)
+      - Founder at Entourage Effect Capital
+      - Co-founder at Boatsetter (Series B)
+      - Founder at Interactive Services (Exited)
     content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC.
+      Andrew Sturner has been navigating the high seas of entrepreneurship for
+      the more than three decades. Andy is an impact investor and has been
+      described as a “provocateur” with a passion for guiding executives through
+      complex situations. After a stint as a bankruptcy attorney at Stroock &
+      Stroock & Lavan in NYC, Andy traded in his suit for jeans and went on to
+      participate as an executive in six startups, two of which he guided
+      through IPOs as well as multiple exits. He sold his first startup to
+      MovieFone, where he served as VP of Business Development (IPO’d ‘94 and
+      sold to AOL ‘99). Andrew then founded Sportsline.com (IPO’d in ‘97 and
+      sold to CBS ‘04) launching one of the world’s first commercial websites in
+      1995. He then founded Aqua Marine Partners, owner and operator of a
+      portfolio of marina real estate and incubator of marine technology
+      companies with a focus on innovation (exited to  Equity Lifestyles (NYSE:
+      ELS) joint venture in ‘20). Any co-founded one of the first Miami-based
+      angel investment groups now called Miami Angels. Andy co-founded
+      Boatsetter.com and launched his 5th startup – awebsite that combines the
+      rental mechanics of Airbnb with the on-demand labor dynamics of Uber. In
+      2016, after studying the burgeoning legal cannabis landscape, Andy began
+      investing in the space and ultimately co-founded his 6th startup –
+      Entourage Effect Capital to invest in this generational wealth creation
+      event.
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
