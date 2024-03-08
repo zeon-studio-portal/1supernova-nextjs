@@ -870,13 +870,11 @@ team:
     image: /images/Yifan.jpeg
     department:
       - SALES
-      - HR
-      - CULTURE
-      - MARKETING
+      - LEADERSHIP
+      - COACHING
       - MARKETING
       - FUNDING
-      - IMPACT
-      - LEADERSHIP
+      - TECHNOLOGY
     bulletpoints:
       - Managing Director at AI2 Incubator
       - CEO & Founder of Loftium (Exit to Flyhomes)
