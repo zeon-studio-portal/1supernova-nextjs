@@ -503,33 +503,6 @@ team:
       - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
       - CEO & Founder at MediaTrust
     content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
-  - name: Keith Ferrazzi
-    image: /images/superstars/team-thumb-5.png
-    department:
-      - CULTURE
-      - STRATEGY
-      - HR
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
-    content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
@@ -605,28 +578,33 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Juha Mikkola
-    image: /images/Juha-Mikkola.jpg
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
     department:
-      - PRODUCT
-      - TECH
+      - CULTURE
       - STRATEGY
-      - COMMUNITY
+      - HR
+      - IMPACT
       - EXITED FOUNDER
     bulletpoints:
-      - CEO & Founder at Usko Privacy
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Founder, Clutch Sports (Exited)'
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
     content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
@@ -652,6 +630,17 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - 2x Exited Founder
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -748,40 +737,28 @@ team:
       - Founder & CEO Tintup (Exited)
       - Founder at WAI Wear (Exited)
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
+  - name: Juha Mikkola
+    image: /images/Juha-Mikkola.jpg
     department:
       - PRODUCT
       - TECH
+      - STRATEGY
+      - COMMUNITY
       - EXITED FOUNDER
     bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department:
-      - AI
-      - STRATEGY
-      - GROWTH
-      - FUNDING
-      - IMPACT
-    bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
     content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures.
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
@@ -848,6 +825,29 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
+    department:
+      - AI
+      - STRATEGY
+      - GROWTH
+      - FUNDING
+      - IMPACT
+    bulletpoints:
+      - Founder at AI Dragons
+      - Certified Coach at OpenExO
+      - Grant Evaluator at EIT Health
+    content: >
+      Luciana Ledesma is the founder of AI Dragons, a global community that
+      leverages tech & business creation to achieve SDGs. She is a certified
+      coach at the Open ExO’s community (a spin-off from Singularity
+      University). Luciana is a grant evaluator for EIT Health and has assessed
+      over 100 projects for €1-3M  grants in Biomedicine, health records
+      management on blockchain, health insurance, and surgery robots. She was
+      co-founder and ceo of Teder.ai, an personalized education company. Luciana
+      led the creation of the Fluid Blockchain Accelerator and served as Head of
+      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
+      founders and their ventures.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
