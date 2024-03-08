@@ -95,6 +95,33 @@ team:
       venture funding from top-tier institutions. Daniel is an active member of
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
+  - name: JT Marino
+    image: /images/superstars/team-thumb-14.png
+    department:
+      - GROWTH
+      - PRODUCT
+      - TECH
+      - SCALING
+      - EXITED FOUNDER
+    bulletpoints:
+      - CEO & Founder at Marino
+      - CEO & Founder at TN.com ($250MM ARR & Exited)
+      - EO and YPO
+    content: >
+      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
+      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
+      ARR profitably in 5 years, grew to 150 employees, and delivered "The
+      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
+      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
+      at Supernova, Penn State University's School of Business, and the
+      Philanthropic Asset Committee of the Arizona State University Foundation.
+      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
+      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
+      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
+      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
+      received eTail West’s Visionary of the Year Award and appeared in McGraw
+      Hill’s curriculum. JT studied computer science and mathematics at Penn
+      State University. He is based in Phoenix, AZ.
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department:
@@ -128,33 +155,6 @@ team:
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
-  - name: JT Marino
-    image: /images/superstars/team-thumb-14.png
-    department:
-      - GROWTH
-      - PRODUCT
-      - TECH
-      - SCALING
-      - EXITED FOUNDER
-    bulletpoints:
-      - CEO & Founder at Marino
-      - CEO & Founder at TN.com ($250MM ARR & Exited)
-      - EO and YPO
-    content: >
-      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
-      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
-      ARR profitably in 5 years, grew to 150 employees, and delivered "The
-      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
-      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
-      at Supernova, Penn State University's School of Business, and the
-      Philanthropic Asset Committee of the Arizona State University Foundation.
-      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
-      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
-      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
-      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
-      received eTail West’s Visionary of the Year Award and appeared in McGraw
-      Hill’s curriculum. JT studied computer science and mathematics at Penn
-      State University. He is based in Phoenix, AZ.
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     department:
