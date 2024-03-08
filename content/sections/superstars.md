@@ -343,15 +343,14 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
-      - HR
-      - CULTURE
+      - AI
+      - SYSTEMS
       - LEADERSHIP
       - FUNDING
       - M&A
       - PRODUCT
-      - TECH
+      - TECHNOLOGY
       - OPS
-      - STAFFING
       - COACHING
     bulletpoints:
       - 8 Exits (CPO/COO)
