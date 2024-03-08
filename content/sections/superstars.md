@@ -197,6 +197,34 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
+  - name: Tim Chang
+    image: /images/superstars/timchang.png
+    department:
+      - AI
+      - FUNDING
+      - IMPACT
+      - WEB3
+    bulletpoints:
+      - Partner at Mayfield Fund
+      - Partner at Norwest Venture Partners
+      - Midas List of top 100 VCs
+    content: >
+      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
+      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
+      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
+      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
+      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
+      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
+      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
+      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
+      He was also actively involved with the boards of Placeware (acquired by
+      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
+      by private equity syndicate). Tim received his MBA from the Stanford
+      Graduate School of Business, where he graduated in the top 10% of his
+      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
+      Electrical Engineering from the University of Michigan, where he was a
+      Departmental Scholar and received a full PhD fellowship.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -242,34 +270,6 @@ team:
       - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
       - CEO & Founder at MediaTrust
     content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
-  - name: Tim Chang
-    image: /images/superstars/timchang.png
-    department:
-      - AI
-      - FUNDING
-      - IMPACT
-      - WEB3
-    bulletpoints:
-      - Partner at Mayfield Fund
-      - Partner at Norwest Venture Partners
-      - Midas List of top 100 VCs
-    content: >
-      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
-      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
-      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
-      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
-      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
-      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
-      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
-      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
-      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
-      He was also actively involved with the boards of Placeware (acquired by
-      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
-      by private equity syndicate). Tim received his MBA from the Stanford
-      Graduate School of Business, where he graduated in the top 10% of his
-      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
-      Electrical Engineering from the University of Michigan, where he was a
-      Departmental Scholar and received a full PhD fellowship.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
