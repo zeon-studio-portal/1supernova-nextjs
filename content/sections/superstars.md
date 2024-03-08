@@ -163,7 +163,7 @@ team:
       - COACHING
       - HR
       - SOCIAL
-      - EXITED FOUNDER
+      - SCIENCE
     bulletpoints:
       - 6x Exited Founder
       - Founder & CEO at Colossal Biosciences (Unicorn)
