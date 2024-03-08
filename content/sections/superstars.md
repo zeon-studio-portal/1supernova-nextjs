@@ -727,6 +727,31 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
+    department:
+      - SALES
+      - HR
+      - CULTURE
+      - MARKETING
+      - MARKETING
+      - FUNDING
+      - IMPACT
+      - LEADERSHIP
+    bulletpoints:
+      - Managing Director at AI2 Incubator
+      - CEO & Founder of Loftium (Exit to Flyhomes)
+      - CEO & Founder of GymPact (Top 5 fitness app)
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department:
@@ -749,19 +774,6 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
-  - name: Will Weinraub
-    image: /images/superstars/willweinraub.png
-    department:
-      - GROWTH
-      - SALES
-      - WEB3
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - CEO & co-founder at OnChain Studios
-      - Founder at Local Leaders Collective
-      - CEO & Co-founder at LiveNinja (Exited)
-    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
@@ -839,19 +851,19 @@ team:
       - Head of Product at Shape (Exited)
       - Founder of Yodel (Exited)
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Grant Hunter
-    image: /images/Grant.jpeg
+  - name: Will Weinraub
+    image: /images/superstars/willweinraub.png
     department:
-      - CULTURE
       - GROWTH
-      - IMPACT
-      - HR
+      - SALES
+      - WEB3
+      - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - Co-founder at Syntropy
-      - 'Co-founder of Lumeter (Exited) '
-      - Co-founder of INBOX Marketing (Exited)
-    content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
+      - CEO & co-founder at OnChain Studios
+      - Founder at Local Leaders Collective
+      - CEO & Co-founder at LiveNinja (Exited)
+    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
@@ -874,31 +886,19 @@ team:
       a mobile security company that transitioned to Moseda Technologies, Inc.;
       focused on healthcare, monitoring elderly patients in their homes and in
       care homes, using mobile and wearable technologies.
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
+  - name: Grant Hunter
+    image: /images/Grant.jpeg
     department:
-      - SALES
-      - HR
       - CULTURE
-      - MARKETING
-      - MARKETING
-      - FUNDING
+      - GROWTH
       - IMPACT
-      - LEADERSHIP
+      - HR
+      - EXITED FOUNDER
     bulletpoints:
-      - Managing Director at AI2 Incubator
-      - CEO & Founder of Loftium (Exit to Flyhomes)
-      - CEO & Founder of GymPact (Top 5 fitness app)
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
+      - Co-founder at Syntropy
+      - 'Co-founder of Lumeter (Exited) '
+      - Co-founder of INBOX Marketing (Exited)
+    content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     department:
