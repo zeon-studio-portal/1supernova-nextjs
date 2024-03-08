@@ -225,48 +225,33 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Keith Ferrazzi
-    image: /images/superstars/team-thumb-5.png
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
     department:
-      - CULTURE
-      - STRATEGY
-      - HR
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
       - IMPACT
-      - EXITED FOUNDER
     bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
     content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
-  - name: Peter Bordes
-    image: /images/superstars/peterbordes.png
-    department:
-      - M&A
-      - LEGAL
-      - STRATEGY
-      - FUNDING
-      - TECH
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Trajectory Capital
-      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
-      - CEO & Founder at MediaTrust
-    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -302,6 +287,48 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
+  - name: Peter Bordes
+    image: /images/superstars/peterbordes.png
+    department:
+      - M&A
+      - LEGAL
+      - STRATEGY
+      - FUNDING
+      - TECH
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Trajectory Capital
+      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
+      - CEO & Founder at MediaTrust
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
+    department:
+      - CULTURE
+      - STRATEGY
+      - HR
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
+    content: >
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
@@ -378,33 +405,6 @@ team:
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
