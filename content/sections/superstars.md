@@ -405,30 +405,27 @@ team:
       their labradoodle, Momoe. Tiffany volunteers in her community and serves
       as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
       Malaysia.
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
+  - name: Roy Chung
+    image: /images/38387311.jpeg
     department:
-      - AI
-      - FUNDING
-      - OPS
-      - SCALING
-      - LEGAL
       - EXITED FOUNDER
+      - SALES
+      - GROWTH
+      - FUNDING
+      - WEB3
+      - IMPACT
     bulletpoints:
-      - President at Glo
-      - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
+      - Founder at Apollo (Series C)
+      - Venture Partner at Joyfund
+      - 'S14’, W16’ at Y-Combinator'
     content: >
-      Hogan Lee is the President & COO of Glo, whose mission is to connect
-      people through self-care. Hogan was the Co-Founder & Chief Experience
-      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
-      Operations at Flipagram, an exciting post-acquisition position where he
-      advanced organizational growth by leading the integration of the Flipagram
-      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
-      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
-      in Senior Technical Project Management positions. He has also served as a
-      Mentor for 500 Global and Endeavor, supporting successful startups and
-      their leadership teams. Hogan is based in Los Angeles, CA.
+      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
+      platform used by +30,000 organizations and +1MM users to drive revenue.
+      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
+      Apollo to provide business intelligence and drive revenue growth. Backed
+      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
+      the Joy Fund and Partner in Lionheart Ventures. He started his career at
+      McKinsey & Co.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
@@ -485,27 +482,6 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Roy Chung
-    image: /images/38387311.jpeg
-    department:
-      - EXITED FOUNDER
-      - SALES
-      - GROWTH
-      - FUNDING
-      - WEB3
-      - IMPACT
-    bulletpoints:
-      - Founder at Apollo (Series C)
-      - Venture Partner at Joyfund
-      - 'S14’, W16’ at Y-Combinator'
-    content: >
-      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
-      platform used by +30,000 organizations and +1MM users to drive revenue.
-      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
-      Apollo to provide business intelligence and drive revenue growth. Backed
-      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
-      the Joy Fund and Partner in Lionheart Ventures. He started his career at
-      McKinsey & Co.
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     department:
@@ -521,6 +497,30 @@ team:
       - Founder & CEO at Nueevo Technologies
       - 'Founder & CEO at Louisa (Exited) '
     content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
+    department:
+      - AI
+      - FUNDING
+      - OPS
+      - SCALING
+      - LEGAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - President at Glo
+      - CEO a Carenote (Exited to Evite)
+      - 'Head of Ops at Flipagram (Exited to TikTok) '
+    content: >
+      Hogan Lee is the President & COO of Glo, whose mission is to connect
+      people through self-care. Hogan was the Co-Founder & Chief Experience
+      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
+      Operations at Flipagram, an exciting post-acquisition position where he
+      advanced organizational growth by leading the integration of the Flipagram
+      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
+      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
+      in Senior Technical Project Management positions. He has also served as a
+      Mentor for 500 Global and Endeavor, supporting successful startups and
+      their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -801,16 +801,6 @@ team:
       speaks and publishes on emerging digital business trends (web 3,
       collaboration, DAOs, AI, stakeholder participation models). He is based in
       Santa Monica, California.
-  - name: 'Revant Gupta '
-    image: /images/7S9A2603-r.jpg
-    department:
-      - STRATEGY
-      - FUNDRAISING
-    bulletpoints:
-      - Founder of Wind Sprint Capital
-      - Chief of Staff at MRGN
-      - Head of Finance HDHome ($270M Home Depot Startup)
-    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
@@ -838,6 +828,17 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+      - Founder of Yodel (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
@@ -851,24 +852,6 @@ team:
       - 'Co-founder of Lumeter (Exited) '
       - Co-founder of INBOX Marketing (Exited)
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
-  - name: Brett Donnelly
-    image: /images/1678937477620.jpeg
-    department:
-      - EXITED FOUNDER
-      - GROWTH
-      - TALENT
-      - IMPACT
-    bulletpoints:
-      - Head of Biz Dev at Mindpath Health
-      - 'Founder at Acacia Counseling & Wellness '
-    content: >
-      Brett Donnelly is head of business development at Mindpath Health, a
-      clinician-led mental health organization and leading, independent provider
-      of outpatient behavioral health services. Brett is the founder of Acacia
-      Counseling & Wellness (exited to Mindpath Health), the leading provider of
-      mental health support in the Isla Vista community. Brett grow the company
-      to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
-      at UC Santa Barbara.
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
     department:
@@ -916,6 +899,24 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
+  - name: Brett Donnelly
+    image: /images/1678937477620.jpeg
+    department:
+      - EXITED FOUNDER
+      - GROWTH
+      - TALENT
+      - IMPACT
+    bulletpoints:
+      - Head of Biz Dev at Mindpath Health
+      - 'Founder at Acacia Counseling & Wellness '
+    content: >
+      Brett Donnelly is head of business development at Mindpath Health, a
+      clinician-led mental health organization and leading, independent provider
+      of outpatient behavioral health services. Brett is the founder of Acacia
+      Counseling & Wellness (exited to Mindpath Health), the leading provider of
+      mental health support in the Isla Vista community. Brett grow the company
+      to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
+      at UC Santa Barbara.
   - name: Eli Blatt PhD
     image: /images/1517675870938.jpeg
     department:
@@ -943,17 +944,16 @@ team:
       - Head of Data & Innovation at Cox Enterprises
       - Head of Consulting at Acxiom (Exited)
     content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
+  - name: 'Revant Gupta '
+    image: /images/7S9A2603-r.jpg
     department:
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
+      - STRATEGY
+      - FUNDRAISING
     bulletpoints:
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-      - Founder of Yodel (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
+      - Founder of Wind Sprint Capital
+      - Chief of Staff at MRGN
+      - Head of Finance HDHome ($270M Home Depot Startup)
+    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
