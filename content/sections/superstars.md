@@ -104,7 +104,7 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - First investor in Supernova Capital
+      - CEO/Founder at Marino
       - CEO/Founder at TN.com (Bootstrapped to $250MM ARR & Exited)
       - EO and YPO
     content: >
