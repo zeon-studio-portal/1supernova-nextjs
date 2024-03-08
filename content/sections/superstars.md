@@ -14,7 +14,7 @@ group_list:
     icon: /images/superstars/icons/funding.svg
   - name: 'Coaching '
     icon: /images/superstars/icons/community.svg
-  - name: GTM
+  - name: IMPACT
     icon: /images/superstars/icons/human-resources.svg
   - name: Impact
     icon: /images/superstars/icons/sustainability.svg
