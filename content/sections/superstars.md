@@ -128,8 +128,9 @@ team:
   - name: 'Lindsay Nahmiache '
     image: /images/lindsay.jpeg
     department:
+      - LEADERSHIP
       - MARKETING
-      - SOCIAL
+      - GTM
       - SALES
     bulletpoints:
       - Board Member at Songtradr (Series E)
