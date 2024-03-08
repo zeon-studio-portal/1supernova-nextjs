@@ -46,9 +46,9 @@ team:
       - MARKETING
       - EXITED FOUNDER
     bulletpoints:
+      - '3x Exited Founder '
       - CEO & Co-founder at Supernova
       - Co-founder at 1heart.com
-      - '3x Exited Founder '
     content: >
       Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
       Barry is the co-founder of 1heart (1heart.com), a human accelerator
