@@ -169,7 +169,7 @@ team:
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
-  - name: Andrew Trader (AT)
+  - name: Andrew Trader
     image: /images/AT.jpeg
     department:
       - TECH
@@ -182,7 +182,7 @@ team:
       - M&A
       - EXITED FOUNDER
     bulletpoints:
-      - '4x exited founder ($13b) '
+      - 4x exited founder
       - Operating Partner at Bullpen Capital
       - 'Co-founder of Zynga (IPO), Madison Reed, Tribe, Coremetrics'
     content: >
@@ -196,7 +196,7 @@ team:
       functions (sales, marketing, and biz dev), setting and accelerating
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
-      leadership teams, organizational structure, and company culture.  
+      leadership teams, organizational structure, and company culture.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
