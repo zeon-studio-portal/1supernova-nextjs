@@ -99,6 +99,7 @@ team:
   - name: JT Marino
     image: /images/jt-1-5ece9936.jpg
     department:
+      - SCALE
       - COACHING
       - PRODUCT
       - TECH
