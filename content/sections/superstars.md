@@ -16,7 +16,7 @@ group_list:
     icon: /images/superstars/icons/community.svg
   - name: IMPACT
     icon: /images/superstars/icons/human-resources.svg
-  - name: Impact
+  - name: GTM
     icon: /images/superstars/icons/sustainability.svg
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
