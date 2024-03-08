@@ -38,6 +38,7 @@ team:
   - name: 'Barry Stamos '
     image: /images/_images_superstars_team-thumb-1.png
     department:
+      - AI
       - Scale
       - GTM
       - Leadership
