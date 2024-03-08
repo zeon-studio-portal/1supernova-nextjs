@@ -482,12 +482,11 @@ team:
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
-      - IMPACT
-      - TECH
+      - SCALE
       - PRODUCT
       - LEADERSHIP
       - FUNDING
-      - EXITED FOUNDER
+      - TECHNOLOGY
     bulletpoints:
       - Co-founder Wyntalent
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
