@@ -30,7 +30,7 @@ group_list:
     icon: /images/superstars/icons/sales-marketing.svg
   - name: Science
     icon: /images/superstars/icons/leadership.svg
-  - name: 'Staffing '
+  - name: Scale
     icon: /images/superstars/icons/social.svg
   - name: Tech
     icon: /images/superstars/icons/technology.svg
