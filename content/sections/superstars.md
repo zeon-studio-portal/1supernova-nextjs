@@ -16,8 +16,6 @@ group_list:
     icon: /images/superstars/icons/funding.svg
   - name: Leadership
     icon: /images/superstars/icons/human-resources.svg
-  - name: Systems
-    icon: /images/superstars/icons/sustainability.svg
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
   - name: Marketing
@@ -32,6 +30,8 @@ group_list:
     icon: /images/superstars/icons/leadership.svg
   - name: Scale
     icon: /images/superstars/icons/social.svg
+  - name: Systems
+    icon: /images/superstars/icons/sustainability.svg
   - name: Tech
     icon: /images/superstars/icons/technology.svg
 team:
@@ -158,6 +158,7 @@ team:
   - name: Ben Lamm
     image: /images/superstars/team-thumb-3.png
     department:
+      - TECH
       - AI
       - SCALE
       - FUNDING
