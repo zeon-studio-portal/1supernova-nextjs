@@ -347,8 +347,8 @@ team:
       - PRODUCT
       - TECH
       - OPS
-      - SCALING
-      - EXITED FOUNDER
+      - STAFFING
+      - COACHING
     bulletpoints:
       - 8 Exits (CPO/COO)
       - COO at INTO Technologies
