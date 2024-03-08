@@ -159,7 +159,7 @@ team:
     department:
       - STRATEGY
       - FUNDING
-      - SCALING
+      - COACHING
       - HR
       - SOCIAL
       - EXITED FOUNDER
