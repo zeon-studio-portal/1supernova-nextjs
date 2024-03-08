@@ -45,7 +45,7 @@ team:
       - Coaching
       - SALES
       - MARKETING
-      - EXITED FOUNDER
+      - TECHNOLOGY
     bulletpoints:
       - '3x Exited Founder '
       - CEO & Co-founder at Supernova
