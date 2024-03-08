@@ -883,6 +883,22 @@ team:
       a mobile security company that transitioned to Moseda Technologies, Inc.;
       focused on healthcare, monitoring elderly patients in their homes and in
       care homes, using mobile and wearable technologies.
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
+    department:
+      - FUNDING
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - 2x Exited Founder
+      - General Partner at Rabbit VC
+      - CEO & Founder TNC (Exited to Google)
+    content: >
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC. 
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
@@ -938,22 +954,6 @@ team:
       mental health support in the Isla Vista community. Brett grow the company
       to over $15M+ revenues and 200 employees. Brett is a postdoctoral fellow
       at UC Santa Barbara.
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
-    department:
-      - FUNDING
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
-    bulletpoints:
-      - 2x Exited Founder
-      - General Partner at Rabbit VC
-      - CEO & Founder TNC (Exited to Google)
-    content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC. 
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
