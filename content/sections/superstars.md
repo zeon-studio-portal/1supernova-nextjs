@@ -171,6 +171,7 @@ team:
   - name: Andrew Trader
     image: /images/AT.jpeg
     department:
+      - GTM
       - TECH
       - GROWTH
       - OPS
@@ -179,7 +180,7 @@ team:
       - FUNDING
       - SCALING
       - M&A
-      - COACH
+      - COACHING
     bulletpoints:
       - 4x Exited Founder
       - Operating Partner at Bullpen Capital
