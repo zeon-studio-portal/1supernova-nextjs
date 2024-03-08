@@ -937,14 +937,14 @@ team:
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
-      - IMPACT
+      - COACHING
       - MARKETING
-      - SOCIAL
-      - STRATEGY
-      - GROWTH
-      - TECH
+      - GTM
+      - SALES
+      - SCALE
+      - TECHNOLOGY
       - OPS
-      - EXITED FOUNDER
+      - SCIENCE
     bulletpoints:
       - Partner at Paper Latern
       - Head of Marketing at Thrive Market
