@@ -917,6 +917,29 @@ team:
       - Head of Data & Innovation at Cox Enterprises
       - Head of Consulting at Acxiom (Exited)
     content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+      - Founder of Yodel (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
+  - name: Tomy Lorsch
+    image: /images/Tomy.jpeg
+    department:
+      - GROWTH
+      - MARKETING
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Oneness Ventures
+      - Chief Ambassador at Second Time Founders
+      - Founder & CEO at Findasense (Exited)
+    content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
@@ -942,28 +965,5 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department:
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-      - Founder of Yodel (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Tomy Lorsch
-    image: /images/Tomy.jpeg
-    department:
-      - GROWTH
-      - MARKETING
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Oneness Ventures
-      - Chief Ambassador at Second Time Founders
-      - Founder & CEO at Findasense (Exited)
-    content: "Tomy is the founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
 ---
 
