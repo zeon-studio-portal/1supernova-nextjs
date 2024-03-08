@@ -174,7 +174,7 @@ team:
   - name: Andrew Trader
     image: /images/AT.jpeg
     department:
-      - STAFFING
+      - SYSTEMS
       - GTM
       - TECH
       - GROWTH
@@ -182,7 +182,7 @@ team:
       - CULTURE
       - LEADERSHIP
       - FUNDING
-      - SCALING
+      - SCALE
       - M&A
       - COACHING
     bulletpoints:
