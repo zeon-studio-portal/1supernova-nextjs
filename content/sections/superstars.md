@@ -197,35 +197,6 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.  
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
-    department:
-      - HR
-      - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECH
-      - OPS
-      - SCALING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Venture Partner at Launch Capital
-      - Co-founder & CEO at CreatorPlus
-      - CPO/COO with 8 exits
-    content: >
-      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
-      venture-backed startup building the future of transactional video
-      on-demand for consumers, creators, film producers and IP holders. Jonathan
-      was a Venture Partner for Launch Capital, a seed stage venture capital
-      firm. For 25 years in San Francisco he has held operational and executive
-      roles in 10 tech startups, primarily in consumer media and entertainment,
-      of which 8 were VC backed and acquired. His investing experience includes
-      nearly 2 years as COO of a seed stage family office, managing internal
-      operations, overseeing a portfolio of 150+ companies, leading his own
-      investments, and serving on boards. Jonathan also co-founded his own
-      investment firm with two other GPs.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -295,30 +266,35 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Hogan Lee
-    image: /images/HOGAN.jpeg
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
     department:
-      - AI
+      - HR
+      - CULTURE
+      - LEADERSHIP
       - FUNDING
+      - M&A
+      - PRODUCT
+      - TECH
       - OPS
       - SCALING
-      - LEGAL
       - EXITED FOUNDER
     bulletpoints:
-      - President at Glo
-      - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
+      - Venture Partner at Launch Capital
+      - Co-founder & CEO at CreatorPlus
+      - CPO/COO with 8 exits
     content: >
-      Hogan Lee is the President & COO of Glo, whose mission is to connect
-      people through self-care. Hogan was the Co-Founder & Chief Experience
-      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
-      Operations at Flipagram, an exciting post-acquisition position where he
-      advanced organizational growth by leading the integration of the Flipagram
-      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
-      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
-      in Senior Technical Project Management positions. He has also served as a
-      Mentor for 500 Global and Endeavor, supporting successful startups and
-      their leadership teams. Hogan is based in Los Angeles, CA.
+      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
+      venture-backed startup building the future of transactional video
+      on-demand for consumers, creators, film producers and IP holders. Jonathan
+      was a Venture Partner for Launch Capital, a seed stage venture capital
+      firm. For 25 years in San Francisco he has held operational and executive
+      roles in 10 tech startups, primarily in consumer media and entertainment,
+      of which 8 were VC backed and acquired. His investing experience includes
+      nearly 2 years as COO of a seed stage family office, managing internal
+      operations, overseeing a portfolio of 150+ companies, leading his own
+      investments, and serving on boards. Jonathan also co-founded his own
+      investment firm with two other GPs.
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -360,6 +336,30 @@ team:
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
+  - name: Hogan Lee
+    image: /images/HOGAN.jpeg
+    department:
+      - AI
+      - FUNDING
+      - OPS
+      - SCALING
+      - LEGAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - President at Glo
+      - CEO a Carenote (Exited to Evite)
+      - 'Head of Ops at Flipagram (Exited to TikTok) '
+    content: >
+      Hogan Lee is the President & COO of Glo, whose mission is to connect
+      people through self-care. Hogan was the Co-Founder & Chief Experience
+      Officer of Carenote/Forevernote (acquired by Evite). He also was Head of
+      Operations at Flipagram, an exciting post-acquisition position where he
+      advanced organizational growth by leading the integration of the Flipagram
+      and Musical.ly (US) businesses into ByteDance (exit to TikTok). Hogan held
+      senior leadership roles at Edmunds.com and eHarmony.com and MTV Networks
+      in Senior Technical Project Management positions. He has also served as a
+      Mentor for 500 Global and Endeavor, supporting successful startups and
+      their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
