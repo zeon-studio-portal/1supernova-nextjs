@@ -122,34 +122,20 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: Tim Chang
-    image: /images/superstars/timchang.png
+  - name: Ben Lamm
+    image: /images/superstars/team-thumb-3.png
     department:
-      - AI
+      - STRATEGY
       - FUNDING
-      - IMPACT
-      - WEB3
+      - SCALING
+      - HR
+      - SOCIAL
+      - EXITED FOUNDER
     bulletpoints:
-      - Partner at Mayfield Fund
-      - Partner at Norwest Venture Partners
-      - Midas List of top 100 VCs
-    content: >
-      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
-      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
-      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
-      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
-      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
-      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
-      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
-      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
-      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
-      He was also actively involved with the boards of Placeware (acquired by
-      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
-      by private equity syndicate). Tim received his MBA from the Stanford
-      Graduate School of Business, where he graduated in the top 10% of his
-      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
-      Electrical Engineering from the University of Michigan, where he was a
-      Departmental Scholar and received a full PhD fellowship.
+      - Founder & CEO at Colossal
+      - Founder & CEO at Hypergiant
+      - 5x Exited Founder
+    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department:
@@ -183,20 +169,77 @@ team:
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
-  - name: Ben Lamm
-    image: /images/superstars/team-thumb-3.png
+  - name: Andrew Trader (AT)
+    image: /images/AT.jpeg
     department:
-      - STRATEGY
+      - TECH
+      - GROWTH
+      - OPS
+      - CULTURE
+      - LEADERSHIP
       - FUNDING
       - SCALING
-      - HR
-      - SOCIAL
+      - M&A
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & CEO at Colossal
-      - Founder & CEO at Hypergiant
-      - 5x Exited Founder
-    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
+      - '4x exited founder ($13b) '
+      - Operating Partner at Bullpen Capital
+      - 'Co-founder of Zynga (IPO), Madison Reed, Tribe, Coremetrics'
+    content: >
+      A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
+      an entrepreneur, he co-founded 5 companies with $13b in exits including
+      Zynga (IPO, acquired by Take-Two), Madison Reed (raised $300M+), Tribe
+      (acquired by Cisco), and Coremetrics (acquired for $377M by IBM). As a VC
+      and Operating Partner he invested and coached 30 companies, helping to
+      raise $600m in follow-on financing (Mercury, Grin, OneRail) resulting in
+      $4b in increased valuation. AT excels at go-to-market strategy and
+      functions (sales, marketing, and biz dev), setting and accelerating
+      revenue goals and financial plans, and getting to the next stage of
+      funding. His expert guidance and wisdom also shine through when elevating
+      leadership teams, organizational structure, and company culture.  
+  - name: Peter Bordes
+    image: /images/superstars/peterbordes.png
+    department:
+      - M&A
+      - LEGAL
+      - STRATEGY
+      - FUNDING
+      - TECH
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder at Trajectory Capital
+      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
+      - CEO & Founder at MediaTrust
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
+  - name: Tim Chang
+    image: /images/superstars/timchang.png
+    department:
+      - AI
+      - FUNDING
+      - IMPACT
+      - WEB3
+    bulletpoints:
+      - Partner at Mayfield Fund
+      - Partner at Norwest Venture Partners
+      - Midas List of top 100 VCs
+    content: >
+      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
+      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
+      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
+      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
+      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
+      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
+      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
+      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
+      He was also actively involved with the boards of Placeware (acquired by
+      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
+      by private equity syndicate). Tim received his MBA from the Stanford
+      Graduate School of Business, where he graduated in the top 10% of his
+      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
+      Electrical Engineering from the University of Michigan, where he was a
+      Departmental Scholar and received a full PhD fellowship.
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
@@ -223,21 +266,6 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Peter Bordes
-    image: /images/superstars/peterbordes.png
-    department:
-      - M&A
-      - LEGAL
-      - STRATEGY
-      - FUNDING
-      - TECH
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Trajectory Capital
-      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
-      - CEO & Founder at MediaTrust
-    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -289,36 +317,35 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
-  - name: Peter Yared
-    image: /images/superstars/peteryared.png
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
     department:
-      - LEGAL/IP
-      - EXITED FOUNDER
-      - TECH
-      - PRODUCT
-      - SCALING
+      - HR
+      - CULTURE
       - LEADERSHIP
+      - FUNDING
+      - M&A
+      - PRODUCT
+      - TECH
+      - OPS
+      - SCALING
+      - EXITED FOUNDER
     bulletpoints:
-      - CEO & Founder at InCountry
-      - CTO at CBS Interactive
-      - 6x Exited Founder
+      - Venture Partner at Launch Capital
+      - Co-founder & CEO at CreatorPlus
+      - CPO/COO with 8 exits
     content: >
-      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
-      Residency-as-a-Service for SaaS and internal apps. Peter is also the
-      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
-      Peter previously founded six enterprise software companies that were
-      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
-      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
-      into the cloud with the end-to-end replatform of its Comscore #7 group of
-      Internet properties. At Sun, Peter was the CTO of the Application Server
-      Division and the CTO of the Liberty federated identity consortium that
-      created SAML 2. Peter is the inventor of several patents on core Internet
-      infrastructure, including federated single sign on and dynamic data
-      requests. He began programming games and utilities at age ten and started
-      his career developing systems for U.S. government agencies. Peter
-      regularly speaks and writes about technology trends and their impact on
-      society, and has written for the Wall Street Journal, BusinessWeek,
-      TechCrunch and VentureBeat.
+      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
+      venture-backed startup building the future of transactional video
+      on-demand for consumers, creators, film producers and IP holders. Jonathan
+      was a Venture Partner for Launch Capital, a seed stage venture capital
+      firm. For 25 years in San Francisco he has held operational and executive
+      roles in 10 tech startups, primarily in consumer media and entertainment,
+      of which 8 were VC backed and acquired. His investing experience includes
+      nearly 2 years as COO of a seed stage family office, managing internal
+      operations, overseeing a portfolio of 150+ companies, leading his own
+      investments, and serving on boards. Jonathan also co-founded his own
+      investment firm with two other GPs.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -333,34 +360,6 @@ team:
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
-  - name: Andrew Trader (AT)
-    image: /images/AT.jpeg
-    department:
-      - TECH
-      - GROWTH
-      - OPS
-      - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - SCALING
-      - M&A
-      - EXITED FOUNDER
-    bulletpoints:
-      - '4x exited founder ($13b) '
-      - Operating Partner at Bullpen Capital
-      - 'Co-founder of Zynga (IPO), Madison Reed, Tribe, Coremetrics'
-    content: >
-      A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
-      an entrepreneur, he co-founded 5 companies with $13b in exits including
-      Zynga (IPO, acquired by Take-Two), Madison Reed (raised $300M+), Tribe
-      (acquired by Cisco), and Coremetrics (acquired for $377M by IBM). As a VC
-      and Operating Partner he invested and coached 30 companies, helping to
-      raise $600m in follow-on financing (Mercury, Grin, OneRail) resulting in
-      $4b in increased valuation. AT excels at go-to-market strategy and
-      functions (sales, marketing, and biz dev), setting and accelerating
-      revenue goals and financial plans, and getting to the next stage of
-      funding. His expert guidance and wisdom also shine through when elevating
-      leadership teams, organizational structure, and company culture.  
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
@@ -450,6 +449,41 @@ team:
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
+  - name: Scott Weller
+    image: /images/1675213967983.jpeg
+    department:
+      - LEADERSHIP
+      - HR
+      - CULTURE
+      - M&A
+      - STRATEGY
+      - PRODUCT
+      - TECH
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Senior Advisor (M&A) at Mastercard
+      - 'SVP Product at Mastercard, Merchant Loyalty'
+      - Co-founder at SessionM (Exit to Mastercard)
+    content: >
+      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
+      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
+      (exited Mastercard), a next generation consumer loyalty and engagement
+      platform. Scott then led the Merchant Loyalty product division (formerly
+      SessionM) at Mastercard, focusing on next generation consumer loyalty and
+      engagement capabilities for merchants and global brands. Scott has been an
+      investor, board member and/or advisor to the following companies: 
+      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
+      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
+      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
+      in leading teams to achieve their full potential, in the development and
+      commercialization of advanced technologies across industries and global
+      markets with specialities in real-time mission critical systems, mobile
+      applications, API/driven platforms, data management, data privacy, CRM,
+      customer engagement, artificial intelligence and game theory. He started
+      in software development when I was very young, joining a group of awesome
+      geeks as a teenager, to help build one of the US’s first internet services
+      providers. He is based in Boston, Massachusetts.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -485,35 +519,6 @@ team:
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
       event.
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
-    department:
-      - HR
-      - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECH
-      - OPS
-      - SCALING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Venture Partner at Launch Capital
-      - Co-founder & CEO at CreatorPlus
-      - CPO/COO with 8 exits
-    content: >
-      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
-      venture-backed startup building the future of transactional video
-      on-demand for consumers, creators, film producers and IP holders. Jonathan
-      was a Venture Partner for Launch Capital, a seed stage venture capital
-      firm. For 25 years in San Francisco he has held operational and executive
-      roles in 10 tech startups, primarily in consumer media and entertainment,
-      of which 8 were VC backed and acquired. His investing experience includes
-      nearly 2 years as COO of a seed stage family office, managing internal
-      operations, overseeing a portfolio of 150+ companies, leading his own
-      investments, and serving on boards. Jonathan also co-founded his own
-      investment firm with two other GPs.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -528,6 +533,36 @@ team:
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
       - 'Endeavor Entrepreneur '
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+  - name: Peter Yared
+    image: /images/superstars/peteryared.png
+    department:
+      - LEGAL/IP
+      - EXITED FOUNDER
+      - TECH
+      - PRODUCT
+      - SCALING
+      - LEADERSHIP
+    bulletpoints:
+      - CEO & Founder at InCountry
+      - CTO at CBS Interactive
+      - 6x Exited Founder
+    content: >
+      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
+      Residency-as-a-Service for SaaS and internal apps. Peter is also the
+      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
+      Peter previously founded six enterprise software companies that were
+      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
+      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
+      into the cloud with the end-to-end replatform of its Comscore #7 group of
+      Internet properties. At Sun, Peter was the CTO of the Application Server
+      Division and the CTO of the Liberty federated identity consortium that
+      created SAML 2. Peter is the inventor of several patents on core Internet
+      infrastructure, including federated single sign on and dynamic data
+      requests. He began programming games and utilities at age ten and started
+      his career developing systems for U.S. government agencies. Peter
+      regularly speaks and writes about technology trends and their impact on
+      society, and has written for the Wall Street Journal, BusinessWeek,
+      TechCrunch and VentureBeat.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -671,41 +706,6 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
-  - name: Scott Weller
-    image: /images/1675213967983.jpeg
-    department:
-      - LEADERSHIP
-      - HR
-      - CULTURE
-      - M&A
-      - STRATEGY
-      - PRODUCT
-      - TECH
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Senior Advisor (M&A) at Mastercard
-      - 'SVP Product at Mastercard, Merchant Loyalty'
-      - Co-founder at SessionM (Exit to Mastercard)
-    content: >
-      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
-      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
-      (exited Mastercard), a next generation consumer loyalty and engagement
-      platform. Scott then led the Merchant Loyalty product division (formerly
-      SessionM) at Mastercard, focusing on next generation consumer loyalty and
-      engagement capabilities for merchants and global brands. Scott has been an
-      investor, board member and/or advisor to the following companies: 
-      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
-      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
-      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
-      in leading teams to achieve their full potential, in the development and
-      commercialization of advanced technologies across industries and global
-      markets with specialities in real-time mission critical systems, mobile
-      applications, API/driven platforms, data management, data privacy, CRM,
-      customer engagement, artificial intelligence and game theory. He started
-      in software development when I was very young, joining a group of awesome
-      geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
@@ -918,8 +918,12 @@ team:
       - Head of Consulting at Acxiom (Exited)
     content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Anthony Lacavaro
-    image: /images/Anthony.jpeg
+    image: /images/Yifan.jpeg
     department:
+      - SALES
+      - HR
+      - CULTURE
+      - MARKETING
       - MARKETING
       - FUNDING
       - IMPACT
@@ -928,7 +932,16 @@ team:
       - Principal at Aquarian Holdings
       - CMO of ClashTV
       - Managing Director at Guggenheim Partners
-    content: "Anthony is a Principal at Aquarian Holdings, a private holding company that brings strategic capital, insight, and resources to high-potential\_companies across a range of industries, with a focus on insurance and financial services, to help them create\_long-term value. He was the CMO of ClashTV, an interactive live streaming platform built to connect fans with the content and culture they love. Anthony is a Senior Advisor and former Managing Director of Afina International, business builders with a focus on agriculture, food, human health & nutrition, and LatAm cross-border trade and finance. He was the Managing Director of Brand Marketing & Communications at Guggenheim Partners where he served as head of Corporate Communications and the Human Capital Committee. He is the former Executive Director of Corporate Affairs at Morgan Stanley.\n"
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department:
