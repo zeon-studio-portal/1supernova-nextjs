@@ -95,20 +95,6 @@ team:
       venture funding from top-tier institutions. Daniel is an active member of
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
-  - name: Ben Lamm
-    image: /images/superstars/team-thumb-3.png
-    department:
-      - STRATEGY
-      - FUNDING
-      - SCALING
-      - HR
-      - SOCIAL
-      - EXITED FOUNDER
-    bulletpoints:
-      - 6x Exited Founder
-      - Founder & CEO at Colossal
-      - Founder & CEO at Hypergiant
-    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department:
@@ -169,6 +155,20 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
+  - name: Ben Lamm
+    image: /images/superstars/team-thumb-3.png
+    department:
+      - STRATEGY
+      - FUNDING
+      - SCALING
+      - HR
+      - SOCIAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - 6x Exited Founder
+      - Founder & CEO at Colossal
+      - Founder & CEO at Hypergiant
+    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Andrew Trader
     image: /images/AT.jpeg
     department:
@@ -294,33 +294,38 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
+  - name: 'Leo Rastogi, PhD'
+    image: /images/superstars/team-thumb-22.png
     department:
+      - LEGAL/IP
+      - STRATEGY
+      - OPS
+      - TECH
+      - PRODUCT
       - LEADERSHIP
       - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
     bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
+      - 3x Exited Founder
+      - Founder of Minerva Health Ventures
+      - 'CEO, DTES of Happiest Minds'
     content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
+      Leo is currently the co-founder of 6 companies gifting well-being to the
+      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
+      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
+      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
+      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
+      Business School with a PhD in Leadership. Leo also studied psychological
+      and neurobiological basis of Mindfulness and Meditation at Oxford
+      University and Kings College. He also briefly lived as Buddhist Monk - a
+      bookend to his multiple monastic sabbatical. Over two decades, Leo
+      travelled to 70+ countries, immersed himself in monastic experiences, led
+      retreats in the birthplaces of great civilizations and studied with
+      enlightened masters – an experience he cherishes most in his life. Much of
+      which he has synthesize in his two critically acclaimed books : Many Path,
+      Many Truths : A Journey through world religions that have shaped the 20th
+      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
+      is a rare blend of thought leader, author, successful entrepreneur,
+      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Peter Yared
     image: /images/superstars/peteryared.png
     department:
@@ -414,6 +419,33 @@ team:
       Tellus Investment Partners, a select group of family offices and
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+    bulletpoints:
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
@@ -461,38 +493,6 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: 'Leo Rastogi, PhD'
-    image: /images/superstars/team-thumb-22.png
-    department:
-      - LEGAL/IP
-      - STRATEGY
-      - OPS
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
-      - EXITED FOUNDER
-    bulletpoints:
-      - 3x Exited Founder
-      - Founder of Minerva Health Ventures
-      - 'CEO, DTES of Happiest Minds'
-    content: >
-      Leo is currently the co-founder of 6 companies gifting well-being to the
-      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
-      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
-      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
-      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
-      Business School with a PhD in Leadership. Leo also studied psychological
-      and neurobiological basis of Mindfulness and Meditation at Oxford
-      University and Kings College. He also briefly lived as Buddhist Monk - a
-      bookend to his multiple monastic sabbatical. Over two decades, Leo
-      travelled to 70+ countries, immersed himself in monastic experiences, led
-      retreats in the birthplaces of great civilizations and studied with
-      enlightened masters – an experience he cherishes most in his life. Much of
-      which he has synthesize in his two critically acclaimed books : Many Path,
-      Many Truths : A Journey through world religions that have shaped the 20th
-      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
-      is a rare blend of thought leader, author, successful entrepreneur,
-      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
