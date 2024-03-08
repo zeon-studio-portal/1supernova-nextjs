@@ -793,10 +793,9 @@ team:
     image: /images/Juha-Mikkola.jpg
     department:
       - PRODUCT
-      - TECH
-      - STRATEGY
-      - COMMUNITY
-      - EXITED FOUNDER
+      - TECHNOLOGY
+      - SALES
+      - LEADERSHIP
     bulletpoints:
       - CEO & Founder at Usko Privacy
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
