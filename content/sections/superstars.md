@@ -43,7 +43,7 @@ team:
       - GTM
       - Leadership
       - AI
-      - Coaching
+      - 'Coaching '
       - SALES
       - MARKETING
       - TECHNOLOGY
