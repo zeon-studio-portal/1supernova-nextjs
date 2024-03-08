@@ -124,7 +124,7 @@ team:
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
   - name: Lindsay Nahmiache
-    image: /images/superstars/team-thumb-15.png
+    image: /images/lindsay.jpeg
     department:
       - MARKETING
       - SOCIAL
