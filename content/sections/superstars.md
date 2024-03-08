@@ -518,6 +518,28 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
+  - name: Gerard Adams
+    image: /images/superstars/team-thumb-21.png
+    department:
+      - GROWTH
+      - SALES
+      - LEADERSHIP
+      - SOCIAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Leaders Create Leaders
+      - Co-founder of Elite Daily (Exited)
+      - Founder of Fownders
+    content: >
+      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
+      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
+      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
+      investor, philanthropist, and trusted advisor consulting with conscious
+      founders who are looking to leave a legacy through their work. He
+      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
+      established teams scaling past 7 figures, and partnering with CEOs who
+      want help exiting their current companies so they can start a more
+      purpose-driven enterprise.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -532,28 +554,6 @@ team:
       - ' Co-Founder, Wyncode (Exited to BrainStation)'
       - 'Endeavor Entrepreneur '
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
-    department:
-      - OPS
-      - AI
-      - TECH
-      - GROWTH
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & CEO of Ink
-      - Advisor to Tellus Investment Partners
-      - Co-founder of Code Pilot (Exited to AngelList)
-    content: >
-      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
-      solution. Caleb was the co-founder and COO of Code Pilot (exited to
-      AngeList), an online platform that provides production-grade development
-      environments with coding analytics to train, test, and assess software
-      developers skills and behavioral adaptability. He is also an advisor to
-      Tellus Investment Partners, a select group of family offices and
-      agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. He is based in Austin, Texas.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -583,51 +583,53 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Gerard Adams
-    image: /images/superstars/team-thumb-21.png
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
     department:
-      - GROWTH
-      - SALES
-      - LEADERSHIP
-      - SOCIAL
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder of Leaders Create Leaders
-      - Co-founder of Elite Daily (Exited)
-      - Founder of Fownders
-    content: >
-      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
-      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
-      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
-      investor, philanthropist, and trusted advisor consulting with conscious
-      founders who are looking to leave a legacy through their work. He
-      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
-      established teams scaling past 7 figures, and partnering with CEOs who
-      want help exiting their current companies so they can start a more
-      purpose-driven enterprise.
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department:
+      - OPS
       - AI
-      - STRATEGY
+      - TECH
       - GROWTH
       - FUNDING
-      - IMPACT
+      - EXITED FOUNDER
     bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
+      - Founder & CEO of Ink
+      - Advisor to Tellus Investment Partners
+      - Co-founder of Code Pilot (Exited to AngelList)
     content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures.
+      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
+      solution. Caleb was the co-founder and COO of Code Pilot (exited to
+      AngeList), an online platform that provides production-grade development
+      environments with coding analytics to train, test, and assess software
+      developers skills and behavioral adaptability. He is also an advisor to
+      Tellus Investment Partners, a select group of family offices and
+      agribusiness professionals leveraging their resources to create
+      proprietary investment opportunities. He is based in Austin, Texas.
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
+    department:
+      - SALES
+      - HR
+      - CULTURE
+      - MARKETING
+      - MARKETING
+      - FUNDING
+      - IMPACT
+      - LEADERSHIP
+    bulletpoints:
+      - Managing Director at AI2 Incubator
+      - CEO & Founder of Loftium (Exit to Flyhomes)
+      - CEO & Founder of GymPact (Top 5 fitness app)
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -663,6 +665,55 @@ team:
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
       event.
+  - name: Tuck Stibich PhD
+    image: /images/superstars/team-thumb-25.png
+    department:
+      - CULTURE
+      - STRATEGY
+      - TALENT
+      - LEADERSHIP
+      - LEGAL/IP
+    bulletpoints:
+      - Founder of Xenex Healthcare Services
+      - Fellow at IDSA & Royal Society of Medicine
+      - Scientist at MD Anderson Cancer Center
+    content: >
+      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
+      Services, a company that uses a patented pulsed xenon disinfection system
+      to make patient care areas safer by reducing the microbial contamination
+      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
+      in Forbes, CNN and other media outlets as well as in peer-reviewed
+      scientific publications. He has presented at TEDx, DENT and the Royal
+      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
+      numerous other media outlets. Dr. Stibich specializes in creating
+      efficient solutions for public health problems. He received his doctoral
+      training from the Johns Hopkins School of Public Health and has been
+      involved in multiple international research and intervention projects. He
+      is an inventor on over 160 granted patents and a principal investigator on
+      an NIH grant.
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
+    department:
+      - AI
+      - STRATEGY
+      - GROWTH
+      - FUNDING
+      - IMPACT
+    bulletpoints:
+      - Founder at AI Dragons
+      - Certified Coach at OpenExO
+      - Grant Evaluator at EIT Health
+    content: >
+      Luciana Ledesma is the founder of AI Dragons, a global community that
+      leverages tech & business creation to achieve SDGs. She is a certified
+      coach at the Open ExO’s community (a spin-off from Singularity
+      University). Luciana is a grant evaluator for EIT Health and has assessed
+      over 100 projects for €1-3M  grants in Biomedicine, health records
+      management on blockchain, health insurance, and surgery robots. She was
+      co-founder and ceo of Teder.ai, an personalized education company. Luciana
+      led the creation of the Fluid Blockchain Accelerator and served as Head of
+      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
+      founders and their ventures.
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -698,57 +749,17 @@ team:
       - Founder & CEO Tintup (Exited)
       - Founder at WAI Wear (Exited)
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
     department:
-      - CULTURE
-      - STRATEGY
-      - TALENT
-      - LEADERSHIP
-      - LEGAL/IP
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
     bulletpoints:
-      - Founder of Xenex Healthcare Services
-      - Fellow at IDSA & Royal Society of Medicine
-      - Scientist at MD Anderson Cancer Center
-    content: >
-      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
-      Services, a company that uses a patented pulsed xenon disinfection system
-      to make patient care areas safer by reducing the microbial contamination
-      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
-      in Forbes, CNN and other media outlets as well as in peer-reviewed
-      scientific publications. He has presented at TEDx, DENT and the Royal
-      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
-      numerous other media outlets. Dr. Stibich specializes in creating
-      efficient solutions for public health problems. He received his doctoral
-      training from the Johns Hopkins School of Public Health and has been
-      involved in multiple international research and intervention projects. He
-      is an inventor on over 160 granted patents and a principal investigator on
-      an NIH grant.
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
-    department:
-      - SALES
-      - HR
-      - CULTURE
-      - MARKETING
-      - MARKETING
-      - FUNDING
-      - IMPACT
-      - LEADERSHIP
-    bulletpoints:
-      - Managing Director at AI2 Incubator
-      - CEO & Founder of Loftium (Exit to Flyhomes)
-      - CEO & Founder of GymPact (Top 5 fitness app)
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
+      - 2x Exited Founder
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
     department:
@@ -872,17 +883,6 @@ team:
       a mobile security company that transitioned to Moseda Technologies, Inc.;
       focused on healthcare, monitoring elderly patients in their homes and in
       care homes, using mobile and wearable technologies.
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department:
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
-    bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
