@@ -235,8 +235,8 @@ team:
     image: /images/1675213967983.jpeg
     department:
       - LEADERSHIP
-      - HR
-      - CULTURE
+      - SCALE
+      - SYSTEMS
       - M&A
       - STRATEGY
       - PRODUCT
