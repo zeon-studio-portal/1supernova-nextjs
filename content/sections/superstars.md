@@ -97,7 +97,7 @@ team:
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
   - name: JT Marino
-    image: /images/superstars/team-thumb-14.png
+    image: /images/jt-1-5ece9936.jpg
     department:
       - COACHING
       - PRODUCT
