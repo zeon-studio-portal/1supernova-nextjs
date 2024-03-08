@@ -310,7 +310,7 @@ team:
       - TECH
       - PRODUCT
       - LEADERSHIP
-      - EXITED FOUNDER
+      - COACHING
     bulletpoints:
       - 3x Exited Founder
       - Founder of Minerva Health Ventures
