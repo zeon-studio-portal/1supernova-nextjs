@@ -128,8 +128,8 @@ team:
     department:
       - MARKETING
       - SOCIAL
-      - PR
-      - EXITED FOUNDER
+      - HR
+      - SALES
     bulletpoints:
       - Board Member at Songtradr (Series E)
       - Founder & CEO at Jive (Exited)
