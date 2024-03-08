@@ -282,7 +282,7 @@ team:
     bulletpoints:
       - Venture Partner at Launch Capital
       - Co-founder & CEO at CreatorPlus
-      - CPO/COO with 8 exits
+      - 8 exits (CPO/COO)
     content: >
       Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
       venture-backed startup building the future of transactional video
