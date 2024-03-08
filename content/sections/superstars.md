@@ -36,7 +36,7 @@ group_list:
     icon: /images/superstars/icons/technology.svg
 team:
   - name: Barry Stamos
-    image: /images/superstars/team-thumb-1.png
+    image: /images/barry bio photo.jpeg
     department:
       - Scale
       - GTM
