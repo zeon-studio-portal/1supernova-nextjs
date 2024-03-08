@@ -41,7 +41,7 @@ team:
       - Impact
       - AI
       - STRATEGY
-      - CEO Coaching
+      - Coaching
       - SALES
       - MARKETING
       - EXITED FOUNDER
