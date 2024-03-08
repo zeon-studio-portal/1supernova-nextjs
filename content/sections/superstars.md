@@ -69,7 +69,6 @@ team:
     image: /images/superstars/team-thumb-2.png
     department:
       - OPS
-      - CEO Coaching
       - FUNDING
     bulletpoints:
       - Co-founder at Supernova
