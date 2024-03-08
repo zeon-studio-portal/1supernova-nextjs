@@ -367,33 +367,6 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
-  - name: Keith Ferrazzi
-    image: /images/superstars/team-thumb-5.png
-    department:
-      - CULTURE
-      - STRATEGY
-      - HR
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
-    content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -435,27 +408,6 @@ team:
       their labradoodle, Momoe. Tiffany volunteers in her community and serves
       as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
       Malaysia.
-  - name: Roy Chung
-    image: /images/38387311.jpeg
-    department:
-      - EXITED FOUNDER
-      - SALES
-      - GROWTH
-      - FUNDING
-      - WEB3
-      - IMPACT
-    bulletpoints:
-      - Founder at Apollo (Series C)
-      - Venture Partner at Joyfund
-      - 'S14’, W16’ at Y-Combinator'
-    content: >
-      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
-      platform used by +30,000 organizations and +1MM users to drive revenue.
-      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
-      Apollo to provide business intelligence and drive revenue growth. Backed
-      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
-      the Joy Fund and Partner in Lionheart Ventures. He started his career at
-      McKinsey & Co.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -480,6 +432,33 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
+    department:
+      - CULTURE
+      - STRATEGY
+      - HR
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
+    content: >
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
@@ -506,6 +485,42 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
+  - name: Roy Chung
+    image: /images/38387311.jpeg
+    department:
+      - EXITED FOUNDER
+      - SALES
+      - GROWTH
+      - FUNDING
+      - WEB3
+      - IMPACT
+    bulletpoints:
+      - Founder at Apollo (Series C)
+      - Venture Partner at Joyfund
+      - 'S14’, W16’ at Y-Combinator'
+    content: >
+      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
+      platform used by +30,000 organizations and +1MM users to drive revenue.
+      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
+      Apollo to provide business intelligence and drive revenue growth. Backed
+      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
+      the Joy Fund and Partner in Lionheart Ventures. He started his career at
+      McKinsey & Co.
+  - name: Chris Carson
+    image: /images/1668277982538.jpeg
+    department:
+      - LEGAL/IP
+      - AI
+      - FUNDING
+      - SCALING
+      - TECH
+      - PRODUCT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Hayden AI (Series B)
+      - Founder & CEO at Nueevo Technologies
+      - 'Founder & CEO at Louisa (Exited) '
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
@@ -542,6 +557,80 @@ team:
       Tellus Investment Partners, a select group of family offices and
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
+  - name: 'Chris Chaney  '
+    image: /images/Chris.jpeg
+    department:
+      - SALES
+      - TALENT
+      - OPS
+      - FUNDING
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & Managing Partner of C4+
+      - Founder at Infinite Esports (Exited)
+      - Co-founder of Limitless Studios
+    content: >
+      Chris Chaney is the Founder & Managing Partner of C4+, his personal
+      investment and advisory firm partnering with likable entrepreneurs across
+      sports, esports and gaming. Portfolio companies include TMRW Sports,
+      Community Gaming and Versusgame. Chris the co-founder of Ephere Football,
+      a venture-backed web3 game studio currently building a football management
+      game that is deeply rooted in the power of the global football community -
+      led by Agustín Rodrígues. Chris is the Co-founder of Limitless Studios is
+      a female-led venture-backed media company geared toward providing children
+      around the world with entertaining content, relatable characters, and
+      important life lessons by leveraging high-quality 3D animation - led by
+      Agnes Soyode-Johnson.  Chris graduated from Princeton University where his
+      activities and societies included: Student Manager, Men’s Basketball Team;
+      Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
+      America Conference; Founder, Princeton’s Charity Basketball Tournament. He
+      is based in Dallas, Texas.
+  - name: Gerard Adams
+    image: /images/superstars/team-thumb-21.png
+    department:
+      - GROWTH
+      - SALES
+      - LEADERSHIP
+      - SOCIAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder of Leaders Create Leaders
+      - Co-founder of Elite Daily (Exited)
+      - Founder of Fownders
+    content: >
+      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
+      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
+      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
+      investor, philanthropist, and trusted advisor consulting with conscious
+      founders who are looking to leave a legacy through their work. He
+      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
+      established teams scaling past 7 figures, and partnering with CEOs who
+      want help exiting their current companies so they can start a more
+      purpose-driven enterprise.
+  - name: Luciana Ledesma
+    image: /images/LUCIE.jpeg
+    department:
+      - AI
+      - STRATEGY
+      - GROWTH
+      - FUNDING
+      - IMPACT
+    bulletpoints:
+      - Founder at AI Dragons
+      - Certified Coach at OpenExO
+      - Grant Evaluator at EIT Health
+    content: >
+      Luciana Ledesma is the founder of AI Dragons, a global community that
+      leverages tech & business creation to achieve SDGs. She is a certified
+      coach at the Open ExO’s community (a spin-off from Singularity
+      University). Luciana is a grant evaluator for EIT Health and has assessed
+      over 100 projects for €1-3M  grants in Biomedicine, health records
+      management on blockchain, health insurance, and surgery robots. She was
+      co-founder and ceo of Teder.ai, an personalized education company. Luciana
+      led the creation of the Fluid Blockchain Accelerator and served as Head of
+      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
+      founders and their ventures.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -577,109 +666,6 @@ team:
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
       event.
-  - name: 'Chris Chaney  '
-    image: /images/Chris.jpeg
-    department:
-      - SALES
-      - TALENT
-      - OPS
-      - FUNDING
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & Managing Partner of C4+
-      - Founder at Infinite Esports (Exited)
-      - Co-founder of Limitless Studios
-    content: >
-      Chris Chaney is the Founder & Managing Partner of C4+, his personal
-      investment and advisory firm partnering with likable entrepreneurs across
-      sports, esports and gaming. Portfolio companies include TMRW Sports,
-      Community Gaming and Versusgame. Chris the co-founder of Ephere Football,
-      a venture-backed web3 game studio currently building a football management
-      game that is deeply rooted in the power of the global football community -
-      led by Agustín Rodrígues. Chris is the Co-founder of Limitless Studios is
-      a female-led venture-backed media company geared toward providing children
-      around the world with entertaining content, relatable characters, and
-      important life lessons by leveraging high-quality 3D animation - led by
-      Agnes Soyode-Johnson.  Chris graduated from Princeton University where his
-      activities and societies included: Student Manager, Men’s Basketball Team;
-      Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
-      America Conference; Founder, Princeton’s Charity Basketball Tournament. He
-      is based in Dallas, Texas.
-  - name: Tim Sae Koo
-    image: /images/102929.png
-    department:
-      - OPS
-      - TECH
-      - CULTURE
-      - MARKETING
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Co-founder at 1heart.com
-      - Founder & CEO Tintup (Exited)
-      - Founder at WAI Wear (Exited)
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Chris Carson
-    image: /images/1668277982538.jpeg
-    department:
-      - LEGAL/IP
-      - AI
-      - FUNDING
-      - SCALING
-      - TECH
-      - PRODUCT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & CEO at Hayden AI (Series B)
-      - Founder & CEO at Nueevo Technologies
-      - 'Founder & CEO at Louisa (Exited) '
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department:
-      - AI
-      - STRATEGY
-      - GROWTH
-      - FUNDING
-      - IMPACT
-    bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
-    content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures.
-  - name: Gerard Adams
-    image: /images/superstars/team-thumb-21.png
-    department:
-      - GROWTH
-      - SALES
-      - LEADERSHIP
-      - SOCIAL
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder of Leaders Create Leaders
-      - Co-founder of Elite Daily (Exited)
-      - Founder of Fownders
-    content: >
-      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
-      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
-      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
-      investor, philanthropist, and trusted advisor consulting with conscious
-      founders who are looking to leave a legacy through their work. He
-      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
-      established teams scaling past 7 figures, and partnering with CEOs who
-      want help exiting their current companies so they can start a more
-      purpose-driven enterprise.
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
@@ -701,6 +687,20 @@ team:
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
       based in Silicon Valley.
+  - name: Tim Sae Koo
+    image: /images/102929.png
+    department:
+      - OPS
+      - TECH
+      - CULTURE
+      - MARKETING
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder at 1heart.com
+      - Founder & CEO Tintup (Exited)
+      - Founder at WAI Wear (Exited)
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
