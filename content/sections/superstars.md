@@ -945,8 +945,9 @@ team:
       - GROWTH
       - IMPACT
     bulletpoints:
-      - Head of Biz Dev at Mindpath Health
-      - 'Founder at Acacia Counseling & Wellness '
+      - Co-founder Mindshift Recovery
+      - 'Head of Research & Innovation at Brown University '
+      - CEO/Founder at Mindsciences (Exit to Sharecare)
     content: >
       Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
       thought leader in the field of habit change and the “science of
