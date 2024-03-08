@@ -396,12 +396,11 @@ team:
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
-      - EXITED FOUNDER
+      - GTM
       - SALES
-      - GROWTH
+      - SCALE
       - FUNDING
-      - WEB3
-      - IMPACT
+      - TECHNOLOGY
     bulletpoints:
       - Founder at Apollo (Series C)
       - Venture Partner at Joyfund
