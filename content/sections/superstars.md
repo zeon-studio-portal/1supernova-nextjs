@@ -8,12 +8,12 @@ quote: >-
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
-  - name: GTM
-    icon: /images/superstars/icons/strategy.svg
   - name: 'Coaching '
     icon: /images/superstars/icons/community.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
+  - name: GTM
+    icon: /images/superstars/icons/strategy.svg
   - name: Leadership
     icon: /images/superstars/icons/human-resources.svg
   - name: M&A
@@ -32,7 +32,7 @@ group_list:
     icon: /images/superstars/icons/social.svg
   - name: Systems
     icon: /images/superstars/icons/sustainability.svg
-  - name: Tech
+  - name: Technology
     icon: /images/superstars/icons/technology.svg
 team:
   - name: Barry Stamos
