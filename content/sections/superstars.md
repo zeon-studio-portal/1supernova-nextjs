@@ -789,6 +789,7 @@ team:
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department:
+      - CULTURE
       - EXITED FOUNDER
       - AI
       - STRATEGY
