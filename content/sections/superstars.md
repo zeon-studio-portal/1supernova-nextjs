@@ -334,36 +334,33 @@ team:
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
-  - name: Peter Yared
-    image: /images/superstars/peteryared.png
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
     department:
-      - LEGAL/IP
-      - EXITED FOUNDER
-      - TECH
-      - PRODUCT
-      - SCALING
+      - HR
+      - CULTURE
       - LEADERSHIP
+      - FUNDING
+      - M&A
+      - PRODUCT
+      - TECH
+      - OPS
+      - SCALING
+      - EXITED FOUNDER
     bulletpoints:
-      - 6x Exited Founder
-      - CEO & Founder at InCountry
-      - CTO at CBS Interactive
+      - 8 exits (CPO/COO)
+      - COO at INTO Technologies
+      - Co-founder at Launch Capital
     content: >
-      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
-      Residency-as-a-Service for SaaS and internal apps. Peter is also the
-      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
-      Peter previously founded six enterprise software companies that were
-      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
-      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
-      into the cloud with the end-to-end replatform of its Comscore #7 group of
-      Internet properties. At Sun, Peter was the CTO of the Application Server
-      Division and the CTO of the Liberty federated identity consortium that
-      created SAML 2. Peter is the inventor of several patents on core Internet
-      infrastructure, including federated single sign on and dynamic data
-      requests. He began programming games and utilities at age ten and started
-      his career developing systems for U.S. government agencies. Peter
-      regularly speaks and writes about technology trends and their impact on
-      society, and has written for the Wall Street Journal, BusinessWeek,
-      TechCrunch and VentureBeat.
+      Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
+      startup. For 25 years in San Francisco, he has held operational and
+      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
+      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
+      consumer media and entertainment, of which 8 were VC backed and acquired.
+      His investing experience includes nearly 2 years as COO of a seed stage
+      family office, managing internal operations, overseeing a portfolio of
+      150+ companies, leading his own investments, and serving on boards.
+      Jonathan also co-founded his own investment firm with two other GPs.
   - name: Roy Chung
     image: /images/38387311.jpeg
     department:
@@ -449,33 +446,36 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
+  - name: Peter Yared
+    image: /images/superstars/peteryared.png
     department:
-      - HR
-      - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECH
-      - OPS
-      - SCALING
+      - LEGAL/IP
       - EXITED FOUNDER
+      - TECH
+      - PRODUCT
+      - SCALING
+      - LEADERSHIP
     bulletpoints:
-      - 8 exits (CPO/COO)
-      - COO at INTO Technologies
-      - Co-founder at Launch Capital
+      - 6x Exited Founder
+      - CEO & Founder at InCountry
+      - CTO at CBS Interactive
     content: >
-      Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
-      startup. For 25 years in San Francisco, he has held operational and
-      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
-      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
-      consumer media and entertainment, of which 8 were VC backed and acquired.
-      His investing experience includes nearly 2 years as COO of a seed stage
-      family office, managing internal operations, overseeing a portfolio of
-      150+ companies, leading his own investments, and serving on boards.
-      Jonathan also co-founded his own investment firm with two other GPs.
+      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
+      Residency-as-a-Service for SaaS and internal apps. Peter is also the
+      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
+      Peter previously founded six enterprise software companies that were
+      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
+      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
+      into the cloud with the end-to-end replatform of its Comscore #7 group of
+      Internet properties. At Sun, Peter was the CTO of the Application Server
+      Division and the CTO of the Liberty federated identity consortium that
+      created SAML 2. Peter is the inventor of several patents on core Internet
+      infrastructure, including federated single sign on and dynamic data
+      requests. He began programming games and utilities at age ten and started
+      his career developing systems for U.S. government agencies. Peter
+      regularly speaks and writes about technology trends and their impact on
+      society, and has written for the Wall Street Journal, BusinessWeek,
+      TechCrunch and VentureBeat.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
