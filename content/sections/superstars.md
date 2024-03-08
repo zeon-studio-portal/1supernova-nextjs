@@ -555,8 +555,8 @@ team:
       - FUNDING
       - OPS
       - SCALING
-      - LEGAL
-      - EXITED FOUNDER
+      - TECHNOLOGY
+      - GTM
     bulletpoints:
       - President at Glo
       - CEO a Carenote (Exited to Evite)
