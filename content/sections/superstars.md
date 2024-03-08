@@ -157,7 +157,7 @@ team:
       certificate from Harvard Business School and is an insatiable travel
       junkie.
   - name: Ben Lamm
-    image: /images/ben lamm.jpeg
+    image: /images/ben lamm.webp
     department:
       - TECH
       - AI
