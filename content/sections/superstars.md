@@ -334,7 +334,7 @@ team:
       - Co-founder at EMLA Association
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
   - name: Andrew Trader (AT)
-    image: /images/superstars/frankfawzi-k.png
+    image: /images/AT.jpeg
     department:
       - TECH
       - GROWTH
@@ -346,21 +346,21 @@ team:
       - M&A
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & CEO at Intelepeer (Series B)
-      - CTO at ADC Telecom
-      - Founder of CommTech (Exited)
+      - '4x exited founder ($13b) '
+      - Partner at Bullpen Capital
+      - 'Co-founder of Zynga (IPO), Madison Reed, Tribe, Coremetrics'
     content: >
-      Frank Fawzi is Founder & CEO at IntelePeer (Series B), a Communications
-      Platform as a Service (CPaaS) provider for enterprises. Fank has been
-      recognized by Deloitte’s Silicon Valley’s Fast 50 Rising Star. In March
-      2015, Mr. Fawzi was the recipient of the 2014 ‘Entrepreneur of the Year’
-      Award by Stevens Technology Institute. As well as the 2017 University of
-      Michigan/KPMG QuantumShift’s Top Entrepreneur in America award.  Frank is
-      the Founder of CommTech Corporation and sold to ADC for $178MM.  Prior to
-      founding CommTech, Frank worked at AT\&T Bell Laboratories where he was
-      the lead data communications architect on a team responsible for AT\&T
-      being awarded a $1.4 billion contract from the U.S. Internal Revenue
-      Service.
+      A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
+      an entrepreneur, he co-founded 5 companies with $13b in exits including
+      Zynga (IPO, acquired by Take-Two), Madison Reed (raised $300M+), Tribe
+      (acquired by Cisco), and Coremetrics (acquired for $377M by IBM). As a VC
+      and Operating Partner he invested and coached 30 companies, helping to
+      raise $600m in follow-on financing (Mercury, Grin, OneRail) resulting in
+      $4b in increased valuation. AT excels at go-to-market strategy and
+      functions (sales, marketing, and biz dev), setting and accelerating
+      revenue goals and financial plans, and getting to the next stage of
+      funding. His expert guidance and wisdom also shine through when elevating
+      leadership teams, organizational structure, and company culture. 
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
