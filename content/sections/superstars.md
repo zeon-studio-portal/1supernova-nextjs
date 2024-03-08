@@ -493,7 +493,7 @@ team:
   - name: Joel French
     image: /images/Joel-French.jpg
     department:
-      - STAFFING
+      - HR
       - M&A
       - GTM
       - SALES
