@@ -418,11 +418,11 @@ team:
     image: /images/superstars/peterkellner.png
     department:
       - FUNDING
-      - STRATEGY
-      - TECH
-      - SOCIAL
-      - IMPACT
-      - EXITED FOUNDER
+      - SCIENCE
+      - TECHNOLOGY
+      - GTM
+      - M&A
+      - COACHING
     bulletpoints:
       - Founder at Richmond Global
       - 'Co-founder at Endeavor '
