@@ -294,6 +294,63 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
+  - name: Tiffany Liu
+    image: /images/superstars/team-thumb-26.png
+    department:
+      - LEADERSHIP
+      - EXITED FOUNDER
+      - GROWTH
+      - SALES
+      - SOCIAL
+      - IMPACT
+    bulletpoints:
+      - Founder at Soul Seated Journey
+      - GM & VP at Legal Zoom
+      - Co-founder at Logrado (Exited)
+    content: >
+      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
+      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
+      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
+      Tiffany served as a Fortune 50 executive as the General Manager and Vice
+      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
+      effort to expand the company's core business into emerging markets. Before
+      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
+      as part of the CIO staff where her business unit was responsible for
+      strategic IT advisory, solution development, and partnership operations.
+      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
+      their labradoodle, Momoe. Tiffany volunteers in her community and serves
+      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
+      Malaysia.
+  - name: Peter Yared
+    image: /images/superstars/peteryared.png
+    department:
+      - LEGAL/IP
+      - EXITED FOUNDER
+      - TECH
+      - PRODUCT
+      - SCALING
+      - LEADERSHIP
+    bulletpoints:
+      - 6x Exited Founder
+      - CEO & Founder at InCountry
+      - CTO at CBS Interactive
+    content: >
+      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
+      Residency-as-a-Service for SaaS and internal apps. Peter is also the
+      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
+      Peter previously founded six enterprise software companies that were
+      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
+      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
+      into the cloud with the end-to-end replatform of its Comscore #7 group of
+      Internet properties. At Sun, Peter was the CTO of the Application Server
+      Division and the CTO of the Liberty federated identity consortium that
+      created SAML 2. Peter is the inventor of several patents on core Internet
+      infrastructure, including federated single sign on and dynamic data
+      requests. He began programming games and utilities at age ten and started
+      his career developing systems for U.S. government agencies. Peter
+      regularly speaks and writes about technology trends and their impact on
+      society, and has written for the Wall Street Journal, BusinessWeek,
+      TechCrunch and VentureBeat.
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -404,33 +461,6 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - EXITED FOUNDER
-      - GROWTH
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: 'Leo Rastogi, PhD'
     image: /images/superstars/team-thumb-22.png
     department:
@@ -463,36 +493,6 @@ team:
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
-  - name: Peter Yared
-    image: /images/superstars/peteryared.png
-    department:
-      - LEGAL/IP
-      - EXITED FOUNDER
-      - TECH
-      - PRODUCT
-      - SCALING
-      - LEADERSHIP
-    bulletpoints:
-      - 6x Exited Founder
-      - CEO & Founder at InCountry
-      - CTO at CBS Interactive
-    content: >
-      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
-      Residency-as-a-Service for SaaS and internal apps. Peter is also the
-      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
-      Peter previously founded six enterprise software companies that were
-      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
-      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
-      into the cloud with the end-to-end replatform of its Comscore #7 group of
-      Internet properties. At Sun, Peter was the CTO of the Application Server
-      Division and the CTO of the Liberty federated identity consortium that
-      created SAML 2. Peter is the inventor of several patents on core Internet
-      infrastructure, including federated single sign on and dynamic data
-      requests. He began programming games and utilities at age ten and started
-      his career developing systems for U.S. government agencies. Peter
-      regularly speaks and writes about technology trends and their impact on
-      society, and has written for the Wall Street Journal, BusinessWeek,
-      TechCrunch and VentureBeat.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
     department:
