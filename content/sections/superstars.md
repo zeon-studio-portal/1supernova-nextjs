@@ -252,6 +252,21 @@ team:
       their labradoodle, Momoe. Tiffany volunteers in her community and serves
       as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
       Malaysia.
+  - name: Chris Carson
+    image: /images/1668277982538.jpeg
+    department:
+      - LEGAL/IP
+      - AI
+      - FUNDING
+      - SCALING
+      - TECH
+      - PRODUCT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & CEO at Hayden AI (Series B)
+      - Founder & CEO at Nueevo Technologies
+      - 'Founder & CEO at Louisa (Exited) '
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -287,21 +302,6 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Peter Bordes
-    image: /images/superstars/peterbordes.png
-    department:
-      - M&A
-      - LEGAL
-      - STRATEGY
-      - FUNDING
-      - TECH
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder at Trajectory Capital
-      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
-      - CEO & Founder at MediaTrust
-    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
     department:
@@ -482,21 +482,21 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Chris Carson
-    image: /images/1668277982538.jpeg
+  - name: Peter Bordes
+    image: /images/superstars/peterbordes.png
     department:
-      - LEGAL/IP
-      - AI
+      - M&A
+      - LEGAL
+      - STRATEGY
       - FUNDING
-      - SCALING
       - TECH
-      - PRODUCT
+      - WEB3
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & CEO at Hayden AI (Series B)
-      - Founder & CEO at Nueevo Technologies
-      - 'Founder & CEO at Louisa (Exited) '
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+      - Founder at Trajectory Capital
+      - 'CEO at Kubient (IPO/NASDAQ:KBNT)'
+      - CEO & Founder at MediaTrust
+    content: "Peter Bordes is the Founder and Managing Partner at\_Trajectory Ventures & Trajectory Capital, which invests in early-stage companies and entrepreneurs leading the digital transformation of industries. Investments include Local Mind (acquired by AirBnB), Think Real-time (acquired by Dealer.com), TripleLift (ad tech unicorn), and Fraud.Net. Peter is ranked in the top 100 most influential angel investors and business leaders in the United States on social media. Member of the Thiel Foundation 20 Under 20 Mentor Program. Founding member and Chairman of the Performance Marketing Association. Peter led cloud advertising company Kubient as CEO and the companies IPO on the NASDAQ:KBNT and serves on the company's Board of Directors. Prior to Kubient he was a co-founder, CEO & Chairman of MediaTrust. The leading performance marketing exchange. During his tenure as CEO, he led the company from startup to $70m in sales and named the 9th fastest growing company in the United States on the Inc 500.\n"
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
