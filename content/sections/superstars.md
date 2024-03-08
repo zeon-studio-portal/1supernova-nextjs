@@ -840,17 +840,6 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department:
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
-    bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
@@ -886,6 +875,17 @@ team:
       a mobile security company that transitioned to Moseda Technologies, Inc.;
       focused on healthcare, monitoring elderly patients in their homes and in
       care homes, using mobile and wearable technologies.
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - 2x Exited Founder
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
