@@ -8,7 +8,7 @@ quote: >-
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
-  - name: 'Coaching '
+  - name: 'Coaching  '
     icon: /images/superstars/icons/community.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
