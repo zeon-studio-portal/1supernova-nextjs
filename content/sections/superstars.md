@@ -42,7 +42,6 @@ team:
       - GTM
       - Impact
       - AI
-      - STRATEGY
       - Coaching
       - SALES
       - MARKETING
