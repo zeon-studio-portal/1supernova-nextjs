@@ -630,6 +630,100 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
+  - name: Tuck Stibich PhD
+    image: /images/superstars/team-thumb-25.png
+    department:
+      - CULTURE
+      - STRATEGY
+      - TALENT
+      - LEADERSHIP
+      - LEGAL/IP
+    bulletpoints:
+      - Founder of Xenex Healthcare Services
+      - Fellow at IDSA & Royal Society of Medicine
+      - Scientist at MD Anderson Cancer Center
+    content: >
+      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
+      Services, a company that uses a patented pulsed xenon disinfection system
+      to make patient care areas safer by reducing the microbial contamination
+      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
+      in Forbes, CNN and other media outlets as well as in peer-reviewed
+      scientific publications. He has presented at TEDx, DENT and the Royal
+      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
+      numerous other media outlets. Dr. Stibich specializes in creating
+      efficient solutions for public health problems. He received his doctoral
+      training from the Johns Hopkins School of Public Health and has been
+      involved in multiple international research and intervention projects. He
+      is an inventor on over 160 granted patents and a principal investigator on
+      an NIH grant.
+  - name: Juha Mikkola
+    image: /images/Juha-Mikkola.jpg
+    department:
+      - PRODUCT
+      - TECH
+      - STRATEGY
+      - COMMUNITY
+      - EXITED FOUNDER
+    bulletpoints:
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
+    content: >
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
+  - name: Tim Sae Koo
+    image: /images/102929.png
+    department:
+      - OPS
+      - TECH
+      - CULTURE
+      - MARKETING
+      - IMPACT
+      - EXITED FOUNDER
+    bulletpoints:
+      - Co-founder at 1heart.com
+      - Founder & CEO Tintup (Exited)
+      - Founder at WAI Wear (Exited)
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
+    department:
+      - HR
+      - PRODUCT
+      - TECH
+      - FUNDRAISING
+      - STRATEGY
+      - EXITED FOUNDER
+    bulletpoints:
+      - Investor & Advisor at InRoad Ventures
+      - Co-founder Rallytream (Exited to Workday)
+      - 'Mentor at TechStars '
+    content: >
+      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
+      investments for the family office. He has invested in 40+ startups with 4
+      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
+      Grin). Dan is the co-founder at Rallyteam, a venture backed talent
+      management platform (exited to Workday). He is a Canadian Serial
+      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
+      based in Silicon Valley.
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+      - EXITED FOUNDER
+    bulletpoints:
+      - 2x Exited Founder
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -665,139 +759,6 @@ team:
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
       event.
-  - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
-    department:
-      - CULTURE
-      - STRATEGY
-      - TALENT
-      - LEADERSHIP
-      - LEGAL/IP
-    bulletpoints:
-      - Founder of Xenex Healthcare Services
-      - Fellow at IDSA & Royal Society of Medicine
-      - Scientist at MD Anderson Cancer Center
-    content: >
-      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
-      Services, a company that uses a patented pulsed xenon disinfection system
-      to make patient care areas safer by reducing the microbial contamination
-      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
-      in Forbes, CNN and other media outlets as well as in peer-reviewed
-      scientific publications. He has presented at TEDx, DENT and the Royal
-      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
-      numerous other media outlets. Dr. Stibich specializes in creating
-      efficient solutions for public health problems. He received his doctoral
-      training from the Johns Hopkins School of Public Health and has been
-      involved in multiple international research and intervention projects. He
-      is an inventor on over 160 granted patents and a principal investigator on
-      an NIH grant.
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
-    department:
-      - HR
-      - PRODUCT
-      - TECH
-      - FUNDRAISING
-      - STRATEGY
-      - EXITED FOUNDER
-    bulletpoints:
-      - Investor & Advisor at InRoad Ventures
-      - Co-founder Rallytream (Exited to Workday)
-      - 'Mentor at TechStars '
-    content: >
-      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
-      investments for the family office. He has invested in 40+ startups with 4
-      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
-      Grin). Dan is the co-founder at Rallyteam, a venture backed talent
-      management platform (exited to Workday). He is a Canadian Serial
-      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley.
-  - name: Tim Sae Koo
-    image: /images/102929.png
-    department:
-      - OPS
-      - TECH
-      - CULTURE
-      - MARKETING
-      - IMPACT
-      - EXITED FOUNDER
-    bulletpoints:
-      - Co-founder at 1heart.com
-      - Founder & CEO Tintup (Exited)
-      - Founder at WAI Wear (Exited)
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department:
-      - PRODUCT
-      - TECH
-      - EXITED FOUNDER
-    bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Juha Mikkola
-    image: /images/Juha-Mikkola.jpg
-    department:
-      - PRODUCT
-      - TECH
-      - STRATEGY
-      - COMMUNITY
-      - EXITED FOUNDER
-    bulletpoints:
-      - CEO & Founder at Usko Privacy
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Founder, Clutch Sports (Exited)'
-    content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
-  - name: Juston Brommel
-    image: /images/JB.jpeg
-    department:
-      - IMPACT
-      - MARKETING
-      - SOCIAL
-      - STRATEGY
-      - GROWTH
-      - TECH
-      - OPS
-      - EXITED FOUNDER
-    bulletpoints:
-      - Partner at Paper Latern
-      - Head of Marketing at Thrive Market
-      - Co-founder INBOX Marketing (Exited)
-    content: >
-      Juston Brommel is the founder of Paper Lantern, a strategic advisory and
-      commercialization firm that partners with companies to drive valuation,
-      capitalization, growth, profitability, impact and exits. Juston Brommel is
-      a serial entrepreneur (CEO, CSO, CRO, CMO, COO), investor, company
-      builder, and trusted advisor to CEOs, boards, investors, and senior teams.
-      In 2007 Juston sold his first startup INBOX Marketing, a SaaS Martech co,
-      to Responsys pre-IPO and exited to Oracle for $1.6B. Juston moved from
-      silicon valley to LA to help build the silicon beach community, where his
-      venture studio helped launch Thrive Market, a DTC impact brand w/$80M run
-      rate in year one, IPO imminent). He has partnered with over 50 high-growth
-      startups and Fortune 500 companies including: StubHub (acquired by eBay),
-      philosophy (acquired by Coty), 7Hands (hemp/cbd), Ad:Tech (Sold to dmg),
-      Adorama Camera, Allstate, Anchor (cannabis tech), Anomaly, AOL, Art of
-      Charm, AT\&T, Best Buy, Disney, Dow Corning, E-Loan, Forrester Research,
-      Fortune Magazine, Gevalia, Hcareers, Intrawest Resorts, Key Bank, Kraft
-      Foods, Lego, Lending Tree, LoveTV, Lumenis, Nidek, Orbitz, Quill, Quicken
-      Loans, Scotiabank, See's Candies, Starcom MediaVest Group, The Hero
-      Company, Thomson Reuters, Time Inc, Titan Gaming, Trend Micro, Uplift.love
-      (media / foundation), Virgin America, WeDeepen, Wells Fargo, WherezHemp,
-      WuTang Clan/Wu Music Group, and Xfire Gaming (Spun-out of MTV). Juston
-      speaks and publishes on emerging digital business trends (web 3,
-      collaboration, DAOs, AI, stakeholder participation models). He is based in
-      Santa Monica, California.
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
@@ -825,6 +786,20 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
+  - name: J Patrick Bewley
+    image: /images/superstars/team-thumb-18.png
+    department:
+      - EXITED FOUNDER
+      - AI
+      - STRATEGY
+      - GROWTH
+      - LEADERSHIP
+      - HR
+    bulletpoints:
+      - Founder & CEO at Evo
+      - Head of Data & Innovation at Cox Enterprises
+      - Head of Consulting at Acxiom (Exited)
+    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
     department:
@@ -899,6 +874,45 @@ team:
       Google. He is the former Global Strategy Officer of Kakao Entertainment
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
       and has his own fund called Rabbit VC. 
+  - name: Juston Brommel
+    image: /images/JB.jpeg
+    department:
+      - IMPACT
+      - MARKETING
+      - SOCIAL
+      - STRATEGY
+      - GROWTH
+      - TECH
+      - OPS
+      - EXITED FOUNDER
+    bulletpoints:
+      - Partner at Paper Latern
+      - Head of Marketing at Thrive Market
+      - Co-founder INBOX Marketing (Exited)
+    content: >
+      Juston Brommel is the founder of Paper Lantern, a strategic advisory and
+      commercialization firm that partners with companies to drive valuation,
+      capitalization, growth, profitability, impact and exits. Juston Brommel is
+      a serial entrepreneur (CEO, CSO, CRO, CMO, COO), investor, company
+      builder, and trusted advisor to CEOs, boards, investors, and senior teams.
+      In 2007 Juston sold his first startup INBOX Marketing, a SaaS Martech co,
+      to Responsys pre-IPO and exited to Oracle for $1.6B. Juston moved from
+      silicon valley to LA to help build the silicon beach community, where his
+      venture studio helped launch Thrive Market, a DTC impact brand w/$80M run
+      rate in year one, IPO imminent). He has partnered with over 50 high-growth
+      startups and Fortune 500 companies including: StubHub (acquired by eBay),
+      philosophy (acquired by Coty), 7Hands (hemp/cbd), Ad:Tech (Sold to dmg),
+      Adorama Camera, Allstate, Anchor (cannabis tech), Anomaly, AOL, Art of
+      Charm, AT\&T, Best Buy, Disney, Dow Corning, E-Loan, Forrester Research,
+      Fortune Magazine, Gevalia, Hcareers, Intrawest Resorts, Key Bank, Kraft
+      Foods, Lego, Lending Tree, LoveTV, Lumenis, Nidek, Orbitz, Quill, Quicken
+      Loans, Scotiabank, See's Candies, Starcom MediaVest Group, The Hero
+      Company, Thomson Reuters, Time Inc, Titan Gaming, Trend Micro, Uplift.love
+      (media / foundation), Virgin America, WeDeepen, Wells Fargo, WherezHemp,
+      WuTang Clan/Wu Music Group, and Xfire Gaming (Spun-out of MTV). Juston
+      speaks and publishes on emerging digital business trends (web 3,
+      collaboration, DAOs, AI, stakeholder participation models). He is based in
+      Santa Monica, California.
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
@@ -912,20 +926,6 @@ team:
       - 'Co-founder of Lumeter (Exited) '
       - Co-founder of INBOX Marketing (Exited)
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
-  - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
-    department:
-      - EXITED FOUNDER
-      - AI
-      - STRATEGY
-      - GROWTH
-      - LEADERSHIP
-      - HR
-    bulletpoints:
-      - Founder & CEO at Evo
-      - Head of Data & Innovation at Cox Enterprises
-      - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: 'Revant Gupta '
     image: /images/7S9A2603-r.jpg
     department:
