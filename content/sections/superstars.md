@@ -765,11 +765,11 @@ team:
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
     department:
-      - STRATEGY
-      - IMPACT
-      - HR
+      - COACHING
+      - SYSTEMS
+      - SCALE
       - LEADERSHIP
-      - GROWTH
+      - SALES
     bulletpoints:
       - Founder & CEO of 2Swell
       - Advisor of Blinkist (Exited to Go1)
