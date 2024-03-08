@@ -16,7 +16,7 @@ group_list:
     icon: /images/superstars/icons/funding.svg
   - name: Leadership
     icon: /images/superstars/icons/human-resources.svg
-  - name: GTM
+  - name: Systems
     icon: /images/superstars/icons/sustainability.svg
   - name: M&A
     icon: /images/superstars/icons/m-and-a.svg
