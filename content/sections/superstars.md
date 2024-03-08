@@ -309,8 +309,9 @@ team:
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
+      - AI
       - SCIENCE
-      - STRATEGY
+      - SYSTEMS
       - OPS
       - TECH
       - PRODUCT
