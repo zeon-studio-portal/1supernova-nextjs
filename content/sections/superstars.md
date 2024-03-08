@@ -95,6 +95,20 @@ team:
       venture funding from top-tier institutions. Daniel is an active member of
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
+  - name: Ben Lamm
+    image: /images/superstars/team-thumb-3.png
+    department:
+      - STRATEGY
+      - FUNDING
+      - SCALING
+      - HR
+      - SOCIAL
+      - EXITED FOUNDER
+    bulletpoints:
+      - 6x Exited Founder
+      - Founder & CEO at Colossal
+      - Founder & CEO at Hypergiant
+    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department:
@@ -122,20 +136,6 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: Ben Lamm
-    image: /images/superstars/team-thumb-3.png
-    department:
-      - STRATEGY
-      - FUNDING
-      - SCALING
-      - HR
-      - SOCIAL
-      - EXITED FOUNDER
-    bulletpoints:
-      - 6x Exited Founder
-      - Founder & CEO at Colossal
-      - Founder & CEO at Hypergiant
-    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Lindsay Nahmiache
     image: /images/superstars/team-thumb-15.png
     department:
