@@ -699,12 +699,11 @@ team:
   - name: Dan Ellis
     image: /images/Dan.jpeg
     department:
-      - HR
+      - LEADERSHIP
       - PRODUCT
-      - TECH
+      - TECHNOLOGY
       - FUNDRAISING
-      - STRATEGY
-      - EXITED FOUNDER
+      - SYSTEMS
     bulletpoints:
       - Investor & Advisor at InRoad Ventures
       - Co-founder Rallytream (Exited to Workday)
