@@ -347,7 +347,7 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - '4x exited founder ($13b) '
-      - Partner at Bullpen Capital
+      - Operating Partner at Bullpen Capital
       - 'Co-founder of Zynga (IPO), Madison Reed, Tribe, Coremetrics'
     content: >
       A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
