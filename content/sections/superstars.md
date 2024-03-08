@@ -895,7 +895,7 @@ team:
     department:
       - STRATEGY
       - PRODUCT
-      - EXITED FOUNDER
+      - SCIENCE
       - GROWTH
       - IMPACT
     bulletpoints:
