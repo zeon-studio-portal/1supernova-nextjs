@@ -173,6 +173,7 @@ team:
   - name: Andrew Trader
     image: /images/AT.jpeg
     department:
+      - STAFFING
       - GTM
       - TECH
       - GROWTH
