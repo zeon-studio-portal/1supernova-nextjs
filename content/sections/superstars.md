@@ -137,8 +137,8 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - CEO/Founder at Marino
-      - CEO/Founder at TN.com (Bootstrapped to $250MM ARR & Exited)
+      - CEO & Founder at Marino
+      - CEO & Founder at TN.com ($250MM ARR & Exited)
       - EO and YPO
     content: >
       JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
