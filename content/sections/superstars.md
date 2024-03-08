@@ -929,9 +929,9 @@ team:
       - IMPACT
       - LEADERSHIP
     bulletpoints:
-      - Principal at Aquarian Holdings
-      - CMO of ClashTV
-      - Managing Director at Guggenheim Partners
+      - Managing Director at AI2 Incubator
+      - CEO & Founder of Loftium (Exit to Flyhomes)
+      - CEO & Founder of GymPact (Top 5 fitness app)
     content: >
       Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
       Institute for AI (AI2). Previously 2x founder and CEO of Loftium
