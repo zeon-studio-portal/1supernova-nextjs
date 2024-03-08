@@ -225,36 +225,33 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
     department:
-      - HR
       - CULTURE
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECH
-      - OPS
-      - SCALING
+      - STRATEGY
+      - HR
+      - IMPACT
       - EXITED FOUNDER
     bulletpoints:
-      - 8 exits (CPO/COO)
-      - COO at INTO Technologies
-      - Co-founder at Launch Capital
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
     content: >
-      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
-      venture-backed startup building the future of transactional
-      video-on-demand for consumers, creators, film producers and IP holders.
-      Jonathan was a Venture Partner for Launch Capital, a seed-stage venture
-      capital firm. For 25 years in San Francisco he has held operational and
-      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
-      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
-      consumer media and entertainment, of which 8 were VC backed and acquired.
-      His investing experience includes nearly 2 years as COO of a seed stage
-      family office, managing internal operations, overseeing a portfolio of
-      150+ companies, leading his own investments, and serving on boards.
-      Jonathan also co-founded his own investment firm with two other GPs.
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Peter Bordes
     image: /images/superstars/peterbordes.png
     department:
@@ -432,33 +429,36 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Keith Ferrazzi
-    image: /images/superstars/team-thumb-5.png
+  - name: Jonathan Shambroom
+    image: /images/superstars/team-thumb-17.png
     department:
-      - CULTURE
-      - STRATEGY
       - HR
-      - IMPACT
+      - CULTURE
+      - LEADERSHIP
+      - FUNDING
+      - M&A
+      - PRODUCT
+      - TECH
+      - OPS
+      - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
+      - 8 exits (CPO/COO)
+      - COO at INTO Technologies
+      - Co-founder at Launch Capital
     content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
+      Jonathan Shambroom is the Co-founder & CEO of CreatorPlus, a
+      venture-backed startup building the future of transactional
+      video-on-demand for consumers, creators, film producers and IP holders.
+      Jonathan was a Venture Partner for Launch Capital, a seed-stage venture
+      capital firm. For 25 years in San Francisco he has held operational and
+      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
+      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
+      consumer media and entertainment, of which 8 were VC backed and acquired.
+      His investing experience includes nearly 2 years as COO of a seed stage
+      family office, managing internal operations, overseeing a portfolio of
+      150+ companies, leading his own investments, and serving on boards.
+      Jonathan also co-founded his own investment firm with two other GPs.
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
     department:
