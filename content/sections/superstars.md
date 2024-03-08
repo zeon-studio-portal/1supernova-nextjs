@@ -521,7 +521,7 @@ team:
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
-      - COACH
+      - COACHING
       - SALES
       - LEADERSHIP
       - SOCIAL
