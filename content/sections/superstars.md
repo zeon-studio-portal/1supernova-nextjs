@@ -68,7 +68,8 @@ team:
   - name: Christopher Staley
     image: /images/superstars/team-thumb-2.png
     department:
-      - GROWTH
+      - OPS
+      - CEO Coaching
       - FUNDING
     bulletpoints:
       - Co-founder at Supernova
