@@ -896,6 +896,30 @@ team:
       - 'Co-founder of Lumeter (Exited) '
       - Co-founder of INBOX Marketing (Exited)
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
+  - name: J Patrick Bewley
+    image: /images/superstars/team-thumb-18.png
+    department:
+      - EXITED FOUNDER
+      - AI
+      - STRATEGY
+      - GROWTH
+      - LEADERSHIP
+      - HR
+    bulletpoints:
+      - Founder & CEO at Evo
+      - Head of Data & Innovation at Cox Enterprises
+      - Head of Consulting at Acxiom (Exited)
+    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
+  - name: 'Revant Gupta '
+    image: /images/7S9A2603-r.jpg
+    department:
+      - STRATEGY
+      - FUNDRAISING
+    bulletpoints:
+      - Founder of Wind Sprint Capital
+      - Chief of Staff at MRGN
+      - Head of Finance HDHome ($270M Home Depot Startup)
+    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Brett Donnelly
     image: /images/1678937477620.jpeg
     department:
@@ -927,30 +951,6 @@ team:
       - Managing Partner at Megacap Capital
       - Founder at GoCase (Exited)
     content: "Eli Blatt is a Venture Fellow at NewChip Accelerator, helping other Founders by mentoring early stage startups. Eli is the Founder & MP of MegaCap Capital, offering Special Purpose Vehicles containing secondary market shares. Since their first deal in late 2021, they have raised over $10M from investors for numerous SPVs, including SpaceX, Betterment, FTX and others. Eli was the Founder & CEO of BitFinance, a Public Benefit Corp with the mission of democratizing finance via the blockchain.\_He was the Founder of Co-Case (Exited), a premium accessories for portable electronics sold in over 500 retail and online stores worldwide, including every Best Buy Canada store.\_ Eli was the Head of Player Insights (Competitive Benchmarking) at Zynga, a global leader in interactive entertainment with a mission to connect the world through games. He also was the Chief Scientist at Brookeside Group, the World's authority on measuring and building customer loyalty. Eli earned his PhD from Stanford University, TRIUM Global Executive MBA (Joint Global Executive MBA Program between NYU Stern, London School of Economics, and HEC Paris), and undergraduate degree from Brown University.\n"
-  - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
-    department:
-      - EXITED FOUNDER
-      - AI
-      - STRATEGY
-      - GROWTH
-      - LEADERSHIP
-      - HR
-    bulletpoints:
-      - Founder & CEO at Evo
-      - Head of Data & Innovation at Cox Enterprises
-      - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), an Atlanta based data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also runs Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
-  - name: 'Revant Gupta '
-    image: /images/7S9A2603-r.jpg
-    department:
-      - STRATEGY
-      - FUNDRAISING
-    bulletpoints:
-      - Founder of Wind Sprint Capital
-      - Chief of Staff at MRGN
-      - Head of Finance HDHome ($270M Home Depot Startup)
-    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
