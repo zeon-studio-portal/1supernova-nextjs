@@ -490,8 +490,9 @@ team:
   - name: Joel French
     image: /images/Joel French.jpeg
     department:
+      - GTM
       - SALES
-      - CEO COACHING
+      - COACH
       - FUNDING
       - STRATEGY
     bulletpoints:
