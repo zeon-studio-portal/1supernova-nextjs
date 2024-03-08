@@ -201,6 +201,7 @@ team:
   - name: Tim Chang
     image: /images/superstars/timchang.png
     department:
+      - COACHING
       - AI
       - FUNDING
       - IMPACT
