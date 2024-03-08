@@ -8,7 +8,7 @@ quote: >-
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
-  - name: Culture
+  - name: GTM
     icon: /images/superstars/icons/strategy.svg
   - name: 'Coaching '
     icon: /images/superstars/icons/community.svg
