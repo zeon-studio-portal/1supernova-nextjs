@@ -872,7 +872,7 @@ team:
       - SALES
       - LEADERSHIP
       - COACHING
-      - MARKETING
+      - GTM
       - FUNDING
       - TECHNOLOGY
     bulletpoints:
