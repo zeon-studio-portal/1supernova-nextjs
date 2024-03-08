@@ -974,11 +974,10 @@ team:
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
-      - CULTURE
-      - GROWTH
-      - IMPACT
-      - HR
-      - EXITED FOUNDER
+      - COACHING
+      - SALES
+      - SYSTEMS
+      - OPS
     bulletpoints:
       - Co-founder at Syntropy
       - 'Co-founder of Lumeter (Exited) '
