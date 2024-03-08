@@ -962,24 +962,23 @@ team:
       emotional eating, and anxiety. Dr. Brewer founded MindSciences (which
       merged with Sharecare Inc. in 2020) to move his discoveries of clinical
       evidence behind mindfulness for anxiety, eating, smoking and other
-      behavior change into the hands of consumers (see www\.drjud.com for more
-      information). He co-founded Mindshift Recovery, a non-profit creating
-      evidence-based tools to help build recovery capital for those struggling
-      with addiction. He has studied the underlying neural mechanisms of
-      mindfulness using standard and real-time fMRI and EEG neurofeedback. He
-      has trained US Olympic athletes and coaches, foreign government ministers,
-      and his work has been featured on 60 Minutes, TED (4th most viewed talk of
-      2016, with 19+ Million views), the New York Times, Time magazine (top 100
-      new health discoveries of 2013), Forbes, BBC, NPR, Al Jazeera (documentary
-      about his research), Businessweek and others. His work has been funded by
-      the National Institutes of Health, American Heart Association, among
-      others. He is the author of The Craving Mind: from cigarettes to
-      smartphones to love, why we get hooked and how we can break bad habits
-      (New Haven: Yale University Press, 2017), the New York Times best-seller,
-      Unwinding Anxiety: New Science Shows How to Break the Cycles of Worry and
-      Fear to Heal Your Mind (Avery/Penguin Random House, 2021), and The Hunger
-      Habit: Why We Eat When We’re Not hungry and How to Stop (Avery/Penguin
-      Random House, 2024).
+      behavior change into the hands of consumers. He co-founded Mindshift
+      Recovery, a non-profit creating evidence-based tools to help build
+      recovery capital for those struggling with addiction. He has studied the
+      underlying neural mechanisms of mindfulness using standard and real-time
+      fMRI and EEG neurofeedback. He has trained US Olympic athletes and
+      coaches, foreign government ministers, and his work has been featured on
+      60 Minutes, TED (4th most viewed talk of 2016, with 19+ Million views),
+      the New York Times, Time magazine (top 100 new health discoveries of
+      2013), Forbes, BBC, NPR, Al Jazeera (documentary about his research),
+      Businessweek and others. His work has been funded by the National
+      Institutes of Health, American Heart Association, among others. He is the
+      author of The Craving Mind: from cigarettes to smartphones to love, why we
+      get hooked and how we can break bad habits (New Haven: Yale University
+      Press, 2017), the New York Times best-seller, Unwinding Anxiety: New
+      Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind
+      (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
+      We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
