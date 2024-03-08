@@ -99,7 +99,7 @@ team:
   - name: JT Marino
     image: /images/superstars/team-thumb-14.png
     department:
-      - GROWTH
+      - CEO COACHING
       - PRODUCT
       - TECH
       - SCALING
