@@ -18,8 +18,8 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: >-
-      Supernova got hands-on and 3x sales in 120 days. Proving it's not always
-      what you know, it's who you know.
+      Supernova got hands-on and 3x our sales. Proving it's not always what you
+      know, it's who you know.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
