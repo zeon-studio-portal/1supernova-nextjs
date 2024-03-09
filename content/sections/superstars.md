@@ -344,6 +344,7 @@ team:
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
     department:
+      - SCALE
       - M&A
       - AI
       - SYSTEMS
@@ -522,7 +523,7 @@ team:
       patient access experiences based on subscription agreements with 2,500
       hospitals, 14,000 physician practices, millions of end-user patients, and
       automation with 2,000 health plans. In addition to its organic growth, SCI
-      integrated acquired capabilities from three technology companies. 
+      integrated acquired capabilities from three technology companies.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
