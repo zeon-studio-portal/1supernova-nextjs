@@ -59,7 +59,7 @@ const Header = () => {
     <header className={`header ${toggleNavbar ? "navbar-open" : ""}`}>
       <nav className="navbar container items-start px-0 sm:items-center sm:px-4">
         {/* logo */}
-        <div className="order-0 mr-auto pl-4 sm:pl-0">
+        <div className="order-0 mr-auto lg:mr-0 pl-4 sm:pl-0">
           <Logo src={logo} />
         </div>
         {/* navbar toggler */}
@@ -207,7 +207,7 @@ const Header = () => {
           </li>
         </ul>
 
-        <div className="order-1 mx-5 hidden items-center sm:block lg:order-2 lg:mr-0">
+        <div className="order-1 mx-5 hidden items-center sm:block lg:order-2 lg:mx-0">
           <Link
             className="btn btn-sm btn-dark py-4 leading-none"
             href={settings.header_cta_link}

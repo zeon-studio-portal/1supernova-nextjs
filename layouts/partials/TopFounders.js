@@ -6,7 +6,7 @@ const TopFounders = ({ top_founders }) => {
 
   return (
     top_founders.frontmatter.enable === true && (
-      <section className="bg-dark-secondary py-24">
+      <section id="portfolio" className="bg-dark-secondary py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
             {markdownify(

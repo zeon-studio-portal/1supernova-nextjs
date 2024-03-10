@@ -20,7 +20,7 @@ input#nav-toggle:checked ~ #nav-menu {
 
 // navbar items
 .navbar {
-  @apply relative flex flex-wrap items-center justify-between py-4;
+  @apply relative flex flex-wrap items-center justify-between lg:gap-x-4 py-4;
 }
 
 .navbar-brand {
@@ -39,7 +39,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-link {
-  @apply px-2 py-4 text-2xl text-white transition hover:text-primary-200 sm:py-2 sm:text-base lg:p-3;
+  @apply px-2 py-4 text-2xl text-white transition hover:text-primary-200 sm:py-2 lg:text-[16px] xl:text-base lg:p-1.5;
 }
 
 .mobile-cta {
