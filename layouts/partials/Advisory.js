@@ -44,7 +44,7 @@ const Advisory = ({ advisory }) => {
                   {markdownify(
                     advisory.quote,
                     "p",
-                    "text-left font-secondary sm:text-2xl pl-10 -rotate-3 max-w-[310px]"
+                    "text-secondary-800 text-left font-secondary sm:text-2xl pl-10 -rotate-3 max-w-[310px]"
                   )}
                 </div>
               </span>
