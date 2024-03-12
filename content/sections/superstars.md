@@ -563,7 +563,7 @@ team:
     bulletpoints:
       - President at Glo
       - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
+      - 'Head of Ops at Flipagram (Exit to TikTok) '
     content: >
       Hogan Lee is the President & COO of Glo, whose mission is to connect
       people through self-care. Hogan was the Co-Founder & Chief Experience
