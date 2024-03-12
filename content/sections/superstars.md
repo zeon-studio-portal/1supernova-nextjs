@@ -405,7 +405,7 @@ team:
       - COACHING
       - TECHNOLOGY
     bulletpoints:
-      - Founder at CARPORT
+      - Founder at Carport
       - CPO at Soraa
       - CPO & Founding Team at Beats by Dre (Exit to Apple)
     content: >
