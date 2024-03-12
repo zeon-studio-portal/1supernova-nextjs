@@ -445,7 +445,7 @@ team:
     bulletpoints:
       - Founder & CEO of Ink
       - Advisor to Tellus Investment Partners
-      - Co-founder of Code Pilot (Exited to AngelList)
+      - Co-founder of Code Pilot (Exit to AngelList)
     content: >
       Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
       solution. Caleb was the co-founder and COO of Code Pilot (exited to
