@@ -19,7 +19,7 @@ items:
     company: Neuromore
     quote: >-
       Supernova got hands-on to 3x sales! It's not always what you know, it's
-      who you know.
+      who you know. 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
