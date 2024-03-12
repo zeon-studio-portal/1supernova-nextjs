@@ -416,7 +416,7 @@ team:
       Skilled in Go-to-market Strategy, Manufacturing Operations, Corporate
       Development, Mergers & Acquisitions (M\&A), and Product Ideation, Product
       Management, Product Marketing. Strong business development professional
-      graduated from McMaster University.
+      graduated from McMaster University. 
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
