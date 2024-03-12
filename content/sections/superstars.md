@@ -395,26 +395,27 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Roy Chung
-    image: /images/38387311.jpeg
+  - name: TJ Grewal
+    image: /images/TJ.jpeg
     department:
+      - OPERATIONS
       - GTM
-      - SALES
+      - PRODUCT
       - SCALE
-      - FUNDING
+      - COACHING
       - TECHNOLOGY
     bulletpoints:
-      - Founder at Apollo (Series C)
-      - Venture Partner at Joyfund
-      - 'S14’, W16’ at Y-Combinator'
+      - Founder at CARPORT
+      - CPO at Soraa
+      - CPO & Founding Team at Beats by Dre (Exit to Apple)
     content: >
-      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
-      platform used by +30,000 organizations and +1MM users to drive revenue.
-      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
-      Apollo to provide business intelligence and drive revenue growth. Backed
-      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
-      the Joy Fund and Partner in Lionheart Ventures. He started his career at
-      McKinsey & Co.
+      TJ Grewel is the CPO & Founding team member of Beats by Dre (Exit to Apple
+      for $3.2B). TJ is an experienced Senior leader with a demonstrated history
+      of working in the consumer electronics industry. Skilled in Go-to-market
+      Strategy, Manufacturing Operations, Corporate Development, Mergers &
+      Acquisitions (M\&A), and Product Ideation, Product Management, Product
+      Marketing. Strong business development professional graduated from
+      McMaster University.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
