@@ -710,7 +710,7 @@ team:
       - SYSTEMS
     bulletpoints:
       - Investor & Advisor at InRoad Ventures
-      - Co-founder Rallytream (Exited to Workday)
+      - Co-founder Rallytream (Exit to Workday)
       - 'Mentor at TechStars '
     content: >
       Dan Ellis is an investor and advisor at InRoad Ventures where he directs
