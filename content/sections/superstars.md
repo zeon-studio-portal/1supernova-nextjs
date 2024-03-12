@@ -407,7 +407,7 @@ team:
     bulletpoints:
       - Founder at Carport
       - CPO at Soraa (Exit to Ecosense)
-      - CPO/Founding Team at Beats by Dre (Exit to Apple)
+      - CPO/Founding Team Beats by Dre (Exit to Apple)
     content: >
       TJ Grewel is the CPO & Founding team member of Beats by Dre (Exit to Apple
       for $3.2B). He was also the CPO of Soraa (Exit to Ecosense Lighting). TJ
