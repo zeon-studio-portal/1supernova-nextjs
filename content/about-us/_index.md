@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: >-
-  What if exited founders teamed up with startups changing the world to achieve
+  What if exited founders teamed up with companies changing the world to achieve
   their missions, faster?  Answer: Supernova
 who_we_are:
   enable: true
