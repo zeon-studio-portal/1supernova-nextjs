@@ -15,9 +15,9 @@ who_we_are:
     effective and sub-par advisor relationships. Through a lifetime of
     friendships, relationship building and curation, they have put together an
     assemblage of superstars who are motivated to share their knowledge and
-    talent with the next top startups, for the betterment of venture humanity.
-    More than 150 exited founders have come together to provide exponential
-    impact to the startups they serve.
+    talent with mission-driven companies, for the betterment of venture
+    humanity. More than 150 exited founders have come together to provide
+    exponential impact to companies they serve.
 our_values:
   enable: true
   title: Our Values
