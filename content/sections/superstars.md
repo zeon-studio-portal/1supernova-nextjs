@@ -35,16 +35,6 @@ group_list:
   - name: Technology
     icon: /images/superstars/icons/technology.svg
 team:
-  - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
-    department:
-      - SCIENCE
-      - SYSTEMS
-      - AI
-      - FUNDING
-      - COACHING
-    bulletpoints:
-      - Co-founder Resilience Reserve VC
   - name: 'Barry Stamos '
     image: /images/_images_superstars_team-thumb-1.png
     department:
@@ -759,6 +749,25 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+    department:
+      - SCIENCE
+      - SYSTEMS
+      - AI
+      - FUNDING
+      - COACHING
+    bulletpoints:
+      - Co-founder Resilience Reserve VC
+      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
+    content: >
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Rob Reid
     image: /images/Rob Reid.jpeg
     department:
