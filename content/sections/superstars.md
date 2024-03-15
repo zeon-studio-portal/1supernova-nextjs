@@ -409,16 +409,15 @@ team:
       - CPO at Soraa (Exit to Ecosense)
       - CPO/Founding Team Beats by Dre (Exit to Apple)
     content: >
-      TJ Grewel is the CPO & Founding team member of Beats by Dre (Exit to Apple
-      for $3.2B). He was also the CPO of Soraa (Exit to Ecosense Lighting). TJ
-      is currently the Founder of Carport. He is formerly an Engagement Manager
-      for McKinsey where he developed his problem-solving skills. TJ has a
-      star-studded background in product, operations, strategy and business
-      development. He is an experienced Senior leader with a demonstrated
-      history of working in the consumer electronics industry. Skilled in
-      Go-to-market Strategy, Manufacturing Operations, Corporate Development,
-      Mergers & Acquisitions (M\&A), and Product Ideation, Product Management,
-      Product Marketing.
+      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
+      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
+      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
+      developed his problem-solving skills. TJ has a star-studded background in
+      product, operations, strategy and business development. He is an
+      experienced Senior leader with a demonstrated history of working in the
+      consumer electronics industry. Skilled in Go-to-market Strategy,
+      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
+      (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
