@@ -418,7 +418,7 @@ team:
       history of working in the consumer electronics industry. Skilled in
       Go-to-market Strategy, Manufacturing Operations, Corporate Development,
       Mergers & Acquisitions (M\&A), and Product Ideation, Product Management,
-      Product Marketing. 
+      Product Marketing.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -813,18 +813,18 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
+  - name: Uli Orozco
+    image: /images/1585673787933.jpeg
     department:
+      - PRODUCT
       - AI
       - STRATEGY
-      - GROWTH
-      - FUNDING
-      - IMPACT
+      - SCALE
+      - TECHNOLOGY
     bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
+      - '2x Exited Founder '
+      - CEO & Founder of PTO Genius
+      - Co-founder of Gradvisor (Exited to Betterment)
     content: >
       Luciana Ledesma is the founder of AI Dragons, a global community that
       leverages tech & business creation to achieve SDGs. She is a certified
