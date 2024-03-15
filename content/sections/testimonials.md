@@ -39,7 +39,7 @@ items:
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
     company: SleepSpace
-    quote: Supernova is a 1-of-a-kind advisory and flywheel for Founders.
+    quote: Supernova is a flywheel for Founders.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
