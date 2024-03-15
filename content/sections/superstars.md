@@ -846,8 +846,8 @@ team:
       - Founder at Local Leaders Collective
       - CEO & Co-founder at LiveNinja (Exited)
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
-  - name: Nick Murray
-    image: /images/superstars/nickmurray-1.png
+  - name: Rob Reid
+    image: /images/Rob Reid.jpeg
     department:
       - SCALE
       - SALES
@@ -856,18 +856,18 @@ team:
       - TECHNOLOGY
       - SCIENCE
     bulletpoints:
-      - Co-founder at Wake Network
-      - CEO at AdvancedCare
-      - Founder at MobSafety/Reliq Health (IPO)
+      - Co-founder Resilience Reserve
+      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
-      Nick Murray is the Co-founder at Wake Network, furthering the field of
-      fungi and plant-based medicine.  He also was the CEO of AdvancedCare, a
-      leading electronic medical records and clinical research trial platform
-      for professionals and researchers under a single, unified platform. Nick
-      was the founder of MobSafety (Exited & IPO via Reliq Health - TSXV: RHT),
-      a mobile security company that transitioned to Moseda Technologies, Inc.;
-      focused on healthcare, monitoring elderly patients in their homes and in
-      care homes, using mobile and wearable technologies.
+      Rob Reid is a co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of [Listen.com](http://listen.com/),
+      which created the Rhapsody music service (later replicated by Spotify,
+      Apple and others) and exited to RealNetworks. He is a tech entrepreneur,
+      investor, New York Times bestselling science fiction author, and science
+      podcaster. Listen.com created the Rhapsody music service, which originated
+      the unlimited, on-demand streaming model that was later replicated by
+      Spotify, Apple, and so many others.  
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
