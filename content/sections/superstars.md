@@ -6,7 +6,6 @@ quote: >-
   We orbit around your needs as all-star advisory teams, mentors, and ceo
   coaches
 group_list:
-  - {}
   - name: AI
     icon: /images/superstars/icons/ai.svg
   - name: Coaching
@@ -36,6 +35,16 @@ group_list:
   - name: Technology
     icon: /images/superstars/icons/technology.svg
 team:
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+    department:
+      - SCIENCE
+      - SYSTEMS
+      - AI
+      - FUNDING
+      - COACHING
+    bulletpoints:
+      - Co-founder Resilience Reserve VC
   - name: 'Barry Stamos '
     image: /images/_images_superstars_team-thumb-1.png
     department:
@@ -749,9 +758,9 @@ team:
       platform (Exited to Betterment.com). He was the co-founder of
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
-      technology.   
+      technology.
   - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+    image: /images/Rob Reid.jpeg
     department:
       - LEADERSHIP
       - SCIENCE
