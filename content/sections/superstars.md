@@ -848,6 +848,7 @@ team:
   - name: Rob Reid
     image: /images/bc47aa47-cac0-4148-bf9e-8039418790d3_611x596.jpeg
     department:
+      - AI
       - COACH
       - SCALE
       - SALES
