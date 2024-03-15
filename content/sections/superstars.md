@@ -39,6 +39,7 @@ team:
   - name: Rob Reid
     image: /images/Rob Reid.jpeg
     department:
+      - LEADERSHIP
       - SCIENCE
       - COACHING
       - AI
