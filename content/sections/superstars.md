@@ -6,6 +6,7 @@ quote: >-
   We orbit around your needs as all-star advisory teams, mentors, and ceo
   coaches
 group_list:
+  - {}
   - name: AI
     icon: /images/superstars/icons/ai.svg
   - name: Coaching
@@ -748,9 +749,9 @@ team:
       platform (Exited to Betterment.com). He was the co-founder of
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
-      technology.
+      technology.   
   - name: Rob Reid
-    image: /images/Rob Reid.jpeg
+    image: /images/image-asset.jpeg
     department:
       - LEADERSHIP
       - SCIENCE
