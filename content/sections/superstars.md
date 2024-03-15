@@ -741,7 +741,7 @@ team:
     bulletpoints:
       - '2x Exited Founder '
       - CEO & Founder of PTO Genius
-      - Co-founder of Gradvisor (Exited to Betterment)
+      - Co-founder of Gradvisor (Exit to Betterment)
     content: >
       Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
       PTO Genius, an AI-powered platform to track, manage, and optimize time
