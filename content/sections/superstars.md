@@ -861,13 +861,13 @@ team:
       - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
       Rob Reid is a co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of [Listen.com](http://listen.com/),
-      which created the Rhapsody music service (later replicated by Spotify,
-      Apple and others) and exited to RealNetworks. He is a tech entrepreneur,
-      investor, New York Times bestselling science fiction author, and science
-      podcaster. Listen.com created the Rhapsody music service, which originated
-      the unlimited, on-demand streaming model that was later replicated by
-      Spotify, Apple, and so many others.  
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others) and
+      exited to RealNetworks. He is a tech entrepreneur, investor, New York
+      Times bestselling science fiction author, and science podcaster.
+      Listen.com created the Rhapsody music service, which originated the
+      unlimited, on-demand streaming model that was later replicated by Spotify,
+      Apple, and so many others.  
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
