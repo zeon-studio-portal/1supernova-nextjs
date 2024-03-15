@@ -813,7 +813,7 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
-  - name: Uli Orozco
+  - name: Ulises Orozco
     image: /images/1585673787933.jpeg
     department:
       - PRODUCT
