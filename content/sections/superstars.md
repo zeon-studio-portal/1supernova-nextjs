@@ -730,6 +730,26 @@ team:
       - Founder at Hardline (Exited)
       - Head of Product at Shape (Exited)
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
+  - name: Ulises Orozco
+    image: /images/1585673787933.jpeg
+    department:
+      - PRODUCT
+      - AI
+      - STRATEGY
+      - SCALE
+      - TECHNOLOGY
+    bulletpoints:
+      - '2x Exited Founder '
+      - CEO & Founder of PTO Genius
+      - Co-founder of Gradvisor (Exited to Betterment)
+    content: >
+      Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
+      PTO Genius, an AI-powered platform to track, manage, and optimize time
+      off. He was the co-founder & CPO of Gravisor, a digital investment
+      platform (Exited to Betterment.com). He was the co-founder of
+      Smartshopper, the first pay-as-you-go extended warranty for electronics
+      and appliances (Exited). His zone of genius are product, ops and
+      technology.   
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -813,26 +833,6 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
-  - name: Ulises Orozco
-    image: /images/1585673787933.jpeg
-    department:
-      - PRODUCT
-      - AI
-      - STRATEGY
-      - SCALE
-      - TECHNOLOGY
-    bulletpoints:
-      - '2x Exited Founder '
-      - CEO & Founder of PTO Genius
-      - Co-founder of Gradvisor (Exited to Betterment)
-    content: >
-      Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
-      PTO Genius, an AI-powered platform to track, manage, and optimize time
-      off. He was the co-founder & CPO of Gravisor, a digital investment
-      platform (Exited to Betterment.com). He was the co-founder of
-      Smartshopper, the first pay-as-you-go extended warranty for electronics
-      and appliances (Exited). His zone of genius are product, ops and
-      technology.   
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
