@@ -751,7 +751,7 @@ team:
       and appliances (Exited). His zone of genius are product, ops and
       technology.   
   - name: Rob Reid
-    image: /images/image-asset.jpeg
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
       - LEADERSHIP
       - SCIENCE
