@@ -826,16 +826,13 @@ team:
       - CEO & Founder of PTO Genius
       - Co-founder of Gradvisor (Exited to Betterment)
     content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures.
+      Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
+      PTO Genius, an AI-powered platform to track, manage, and optimize time
+      off. He was the co-founder & CPO of Gravisor, a digital investment
+      platform (Exited to Betterment.com). He was the co-founder of
+      Smartshopper, the first pay-as-you-go extended warranty for electronics
+      and appliances (Exited). His zone of genius are product, ops and
+      technology.   
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
