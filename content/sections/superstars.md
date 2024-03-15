@@ -749,6 +749,28 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.   
+  - name: Rob Reid
+    image: /images/bc47aa47-cac0-4148-bf9e-8039418790d3_611x596.jpeg
+    department:
+      - AI
+      - COACH
+      - SCALE
+      - SALES
+      - FUNDING
+      - LEADERSHIP
+      - TECHNOLOGY
+      - SCIENCE
+    bulletpoints:
+      - Co-founder Resilience Reserve
+      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
+    content: >
+      Rob Reid is a co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster. 
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -845,28 +867,6 @@ team:
       - Founder at Local Leaders Collective
       - CEO & Co-founder at LiveNinja (Exited)
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
-  - name: Rob Reid
-    image: /images/bc47aa47-cac0-4148-bf9e-8039418790d3_611x596.jpeg
-    department:
-      - AI
-      - COACH
-      - SCALE
-      - SALES
-      - FUNDING
-      - LEADERSHIP
-      - TECHNOLOGY
-      - SCIENCE
-    bulletpoints:
-      - Co-founder Resilience Reserve
-      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
-      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
-    content: >
-      Rob Reid is a co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster. 
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
