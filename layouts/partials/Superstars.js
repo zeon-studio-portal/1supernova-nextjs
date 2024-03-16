@@ -120,7 +120,7 @@ const Advisory = ({ superstars }) => {
                         {item.name}
                       </h3>
                       <div className="text-[16px] leading-[1.3] text-[#868686] group-[.active]:text-primary-200">
-                        <ul className="ml-4 text-left lg:ml-0">
+                        <ul className="ml-4 text-left lg:ml-1">
                           {item.bulletpoints?.map((d, i) => (
                             <li className="list-disc" key={i}>
                               {d}

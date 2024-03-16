@@ -759,7 +759,7 @@ team:
       - COACHING
     bulletpoints:
       - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
+      - Founder of Listen.com (Exit to Rhapsody / RealNetworks)
       - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
       Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
