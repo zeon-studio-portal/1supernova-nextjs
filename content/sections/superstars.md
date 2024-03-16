@@ -499,13 +499,13 @@ team:
     image: /images/Joel-French.jpg
     department:
       - Scale
-      - Science
+      - HR
       - M&A
       - GTM
       - SALES
-      - COACHING
+      - COACH
       - FUNDING
-      - TECHNOLOGY
+      - STRATEGY
     bulletpoints:
       - 'Chairman of the Board at Seattles Children''s '
       - 'EVP at RCM (Nasdaq: RCM)'
@@ -644,32 +644,25 @@ team:
       Google. He is the former Global Strategy Officer of Kakao Entertainment
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
       and has his own fund called Rabbit VC.
-  - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
-      - OPS
-      - CULTURE
-      - STRATEGY
-      - LEADERSHIP
       - SCIENCE
+      - SYSTEMS
+      - AI
+      - FUNDING
+      - COACHING
     bulletpoints:
-      - Founder of Xenex Healthcare Services
-      - Fellow at IDSA & Royal Society of Medicine
-      - Scientist at MD Anderson Cancer Center
+      - Co-founder Resilience Reserve VC
+      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
-      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
-      Services, a company that uses a patented pulsed xenon disinfection system
-      to make patient care areas safer by reducing the microbial contamination
-      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
-      in Forbes, CNN and other media outlets as well as in peer-reviewed
-      scientific publications. He has presented at TEDx, DENT and the Royal
-      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
-      numerous other media outlets. Dr. Stibich specializes in creating
-      efficient solutions for public health problems. He received his doctoral
-      training from the Johns Hopkins School of Public Health and has been
-      involved in multiple international research and intervention projects. He
-      is an inventor on over 160 granted patents and a principal investigator on
-      an NIH grant.
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
     department:
@@ -749,25 +742,32 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.
-  - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+  - name: Tuck Stibich PhD
+    image: /images/superstars/team-thumb-25.png
     department:
+      - OPS
+      - CULTURE
+      - STRATEGY
+      - LEADERSHIP
       - SCIENCE
-      - SYSTEMS
-      - AI
-      - FUNDING
-      - COACHING
     bulletpoints:
-      - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to Rhapsody / RealNetworks)
-      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
+      - Founder of Xenex Healthcare Services
+      - Fellow at IDSA & Royal Society of Medicine
+      - Scientist at MD Anderson Cancer Center
     content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
+      Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
+      Services, a company that uses a patented pulsed xenon disinfection system
+      to make patient care areas safer by reducing the microbial contamination
+      (from "superbugs" such as MRSA, VRE and C. diff.). Xenex has been featured
+      in Forbes, CNN and other media outlets as well as in peer-reviewed
+      scientific publications. He has presented at TEDx, DENT and the Royal
+      Society of Medicine and appeared on CNN, the Doctors, NPR, VOA and
+      numerous other media outlets. Dr. Stibich specializes in creating
+      efficient solutions for public health problems. He received his doctoral
+      training from the Johns Hopkins School of Public Health and has been
+      involved in multiple international research and intervention projects. He
+      is an inventor on over 160 granted patents and a principal investigator on
+      an NIH grant.
   - name: Andrew Sturner
     image: /images/123285.png
     department:
