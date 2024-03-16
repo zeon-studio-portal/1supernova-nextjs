@@ -6,7 +6,6 @@ quote: >-
   We orbit around your needs as all-star advisory teams, mentors, and ceo
   coaches
 group_list:
-  - {}
   - name: AI
     icon: /images/superstars/icons/ai.svg
   - name: Coaching
@@ -500,13 +499,13 @@ team:
     image: /images/Joel-French.jpg
     department:
       - Scale
-      - HR
+      - Science
       - M&A
       - GTM
       - SALES
-      - COACH
+      - COACHING
       - FUNDING
-      - STRATEGY
+      - TECHNOLOGY
     bulletpoints:
       - 'Chairman of the Board at Seattles Children''s '
       - 'EVP at RCM (Nasdaq: RCM)'
@@ -749,20 +748,18 @@ team:
       platform (Exited to Betterment.com). He was the co-founder of
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
-      technology.   
+      technology.
   - name: Rob Reid
     image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
-      - SYSTEMS
-      - LEADERSHIP
       - SCIENCE
-      - COACHING
+      - SYSTEMS
       - AI
-      - SALES
       - FUNDING
+      - COACHING
     bulletpoints:
       - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to Rhapsody/RealNetworks)
+      - Founder of Listen.com (Exit to Rhapsody / RealNetworks)
       - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
       Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
