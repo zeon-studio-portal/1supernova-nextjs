@@ -702,8 +702,8 @@ team:
       - SYSTEMS
     bulletpoints:
       - Investor & Advisor at InRoad Ventures
+      - Founder at Saturna Consulting Group
       - Co-founder Rallytream (Exit to Workday)
-      - 'Mentor at TechStars '
     content: >
       Dan Ellis is an investor and advisor at InRoad Ventures where he directs
       investments for the family office. He has invested in 40+ startups with 4
