@@ -1,10 +1,10 @@
-import Logo from "@components/Logo";
-import config from "@config/config.json";
-import menu from "@config/menu.json";
-import settings from "@config/settings.json";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { useEffect, useState } from "react";
+import Logo from '@components/Logo';
+import config from '@config/config.json';
+import menu from '@config/menu.json';
+import settings from '@config/settings.json';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import React, { useEffect, useState } from 'react';
 
 const Header = () => {
   // distructuring the main menu from menu object
@@ -20,13 +20,13 @@ const Header = () => {
   const [toggleNavbar, setToggleNavbar] = useState(false);
   const handleClick = () => {
     setToggleNavbar(!toggleNavbar);
-    document.body.style.overflow = toggleNavbar ? "unset" : "hidden";
+    document.body.style.overflow = toggleNavbar ? 'unset' : 'hidden';
   };
 
   useEffect(() => {
-    const announcement = document.querySelector(".announcement-bar");
-    const navbarBrand = document.querySelector(".navbar-brand");
-    const navbar = document.querySelector(".navbar");
+    const announcement = document.querySelector('.announcement-bar');
+    const navbarBrand = document.querySelector('.navbar-brand');
+    const navbar = document.querySelector('.navbar');
     function setHeight() {
       if (window.innerWidth < 540) {
         toggleNavbar
@@ -35,20 +35,20 @@ const Header = () => {
       }
     }
     setHeight();
-    window.addEventListener("resize", setHeight);
+    window.addEventListener('resize', setHeight);
   }, [toggleNavbar]);
 
   // smooth scroll to section when click on menu
   useEffect(() => {
     const anchors = document.querySelectorAll("a[href*='#']");
     for (let anchor of anchors) {
-      if (asPath === "/") {
-        anchor.addEventListener("click", function (e) {
+      if (asPath === '/') {
+        anchor.addEventListener('click', function (e) {
           e.preventDefault();
           document
-            .querySelector(this.getAttribute("href").replace("/", ""))
+            .querySelector(this.getAttribute('href').replace('/', ''))
             .scrollIntoView({
-              behavior: "smooth",
+              behavior: 'smooth',
             });
         });
       }
@@ -56,10 +56,10 @@ const Header = () => {
   }, [asPath]);
 
   return (
-    <header className={`header ${toggleNavbar ? "navbar-open" : ""}`}>
+    <header className={`header ${toggleNavbar ? 'navbar-open' : ''}`}>
       <nav className="navbar container items-start px-0 sm:items-center sm:px-4">
         {/* logo */}
-        <div className="order-0 mr-auto lg:mr-0 pl-4 sm:pl-0">
+        <div className="order-0 mr-auto pl-4 sm:pl-0 lg:mr-0">
           <Logo src={logo} />
         </div>
         {/* navbar toggler */}
@@ -72,16 +72,14 @@ const Header = () => {
         <label
           id="show-button"
           htmlFor="nav-toggle"
-          className="order-2 flex cursor-pointer items-center pr-4 sm:pr-0 lg:order-1 lg:hidden"
-        >
+          className="order-2 flex cursor-pointer items-center pr-4 lg:order-1 sm:pr-0 lg:hidden">
           <svg
             width="40"
             height="40"
             viewBox="0 0 40 40"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
-            className="text-primary"
-          >
+            className="text-primary">
             <path
               opacity="0.4"
               fillRule="evenodd"
@@ -107,16 +105,14 @@ const Header = () => {
         <label
           id="hide-button"
           htmlFor="nav-toggle"
-          className="order-2 hidden cursor-pointer items-center pr-4 sm:pr-0 lg:order-1"
-        >
+          className="order-2 hidden cursor-pointer items-center pr-4 lg:order-1 sm:pr-0">
           <svg
             width="40"
             height="40"
             viewBox="0 0 40 40"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
-            className="text-light-primary"
-          >
+            className="text-light-primary">
             <path
               opacity="0.4"
               fillRule="evenodd"
@@ -136,8 +132,7 @@ const Header = () => {
 
         <ul
           id="nav-menu"
-          className="navbar-nav order-3 hidden h-full w-full md:h-auto lg:order-1 lg:flex lg:w-auto lg:space-x-2"
-        >
+          className="navbar-nav order-3 hidden h-full w-full lg:order-1 md:h-auto lg:flex lg:w-auto lg:space-x-2">
           {main.map((menu, i) => (
             <React.Fragment key={`menu-${i}`}>
               {menu.hasChildren ? (
@@ -154,9 +149,8 @@ const Header = () => {
                         <Link
                           href={child.url}
                           className={`nav-dropdown-link block ${
-                            asPath === child.url && "active"
-                          }`}
-                        >
+                            asPath === child.url && 'active'
+                          }`}>
                           {child.name}
                         </Link>
                       </li>
@@ -168,9 +162,8 @@ const Header = () => {
                   <Link
                     href={menu.url}
                     className={`nav-link block ${
-                      asPath === menu.url && "active"
-                    }`}
-                  >
+                      asPath === menu.url && 'active'
+                    }`}>
                     {menu.name}
                   </Link>
                 </li>
@@ -185,8 +178,7 @@ const Header = () => {
               className="btn btn-sm btn-light py-4 leading-none"
               href={settings.header_cta_link}
               target="_blank"
-              rel="noopener nofollow noreferrer"
-            >
+              rel="noopener nofollow noreferrer">
               Book a Call
               <svg
                 width="20"
@@ -194,8 +186,7 @@ const Header = () => {
                 viewBox="0 0 20 20"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
-                className="ml-2 inline align-[-4px]"
-              >
+                className="ml-2 inline align-[-4px]">
                 <path
                   fillRule="evenodd"
                   clipRule="evenodd"
@@ -207,13 +198,12 @@ const Header = () => {
           </li>
         </ul>
 
-        <div className="order-1 mx-5 hidden items-center sm:block lg:order-2 lg:mx-0">
+        <div className="order-1 mx-5 hidden items-center lg:order-2 sm:block lg:mx-0">
           <Link
             className="btn btn-sm btn-dark py-4 leading-none"
             href={settings.header_cta_link}
             target="_blank"
-            rel="noopener nofollow noreferrer"
-          >
+            rel="noopener nofollow noreferrer">
             Book a Call
             <svg
               width="20"
@@ -221,8 +211,7 @@ const Header = () => {
               viewBox="0 0 20 20"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              className="ml-2 inline align-[-4px]"
-            >
+              className="ml-2 inline align-[-4px]">
               <path
                 fillRule="evenodd"
                 clipRule="evenodd"

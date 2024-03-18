@@ -1,8 +1,8 @@
-import config from "@config/config.json";
-import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
-import VisibilitySensor from "react-visibility-sensor";
-import { CountUp } from "use-count-up";
+import config from '@config/config.json';
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
+import VisibilitySensor from 'react-visibility-sensor';
+import { CountUp } from 'use-count-up';
 
 const Advisory = ({ advisory }) => {
   const colors = advisory.facts_colors;
@@ -12,10 +12,10 @@ const Advisory = ({ advisory }) => {
       <section className="bg-dark-secondary py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            {markdownify(advisory.title, "h2", "font-medium mb-4")}
+            {markdownify(advisory.title, 'h2', 'font-medium mb-4')}
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
-            {markdownify(advisory.subtitle, "p", "text-light-secondary")}
+            {markdownify(advisory.subtitle, 'p', 'text-light-secondary')}
           </div>
 
           <div className="mt-20 md:flex md:space-x-6 lg:space-x-10">
@@ -43,8 +43,8 @@ const Advisory = ({ advisory }) => {
                 <div data-aos="fade-in" data-aos-delay="100">
                   {markdownify(
                     advisory.quote,
-                    "p",
-                    "text-secondary-800 text-left font-secondary sm:text-2xl pl-10 -rotate-3 max-w-[310px]"
+                    'p',
+                    'text-secondary-800 text-left font-secondary sm:text-2xl pl-10 -rotate-3 max-w-[310px]'
                   )}
                 </div>
               </span>
@@ -52,8 +52,7 @@ const Advisory = ({ advisory }) => {
             <div
               className="pointer-events-none mt-8 select-none md:mt-20 lg:mt-14"
               data-aos="fade-in"
-              data-aos-delay="150"
-            >
+              data-aos-delay="150">
               <Image
                 className="hidden md:block"
                 src={advisory.services_image}
@@ -72,8 +71,7 @@ const Advisory = ({ advisory }) => {
             <div
               className="mt-8 self-center"
               data-aos="fade-in"
-              data-aos-delay="200"
-            >
+              data-aos-delay="200">
               <div className="inline-block rotate-6 rounded-3xl bg-dark-quaternary">
                 <Image
                   className="rounded-3xl"
@@ -97,12 +95,10 @@ const Advisory = ({ advisory }) => {
                     key={index}
                     className="gy-4 text-center sm:col-6 md:col-3 md:gy-5"
                     data-aos="fade-up-sm"
-                    data-aos-delay={index * 100}
-                  >
+                    data-aos-delay={index * 100}>
                     <span
                       className="block h-[50px] text-4xl font-bold"
-                      style={{ color: colors[index] }}
-                    >
+                      style={{ color: colors[index] }}>
                       {fact.number > 0 && isVisible && (
                         <CountUp isCounting end={fact.number} duration={1} />
                       )}

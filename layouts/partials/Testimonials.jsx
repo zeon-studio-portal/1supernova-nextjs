@@ -1,9 +1,9 @@
-import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
-import { Autoplay, Pagination } from "swiper";
-import "swiper/css";
-import "swiper/css/pagination";
-import { Swiper, SwiperSlide } from "swiper/react";
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
+import { Autoplay, Pagination } from 'swiper';
+import 'swiper/css';
+import 'swiper/css/pagination';
+import { Swiper, SwiperSlide } from 'swiper/react';
 
 const Testimonials = ({ testimonials }) => {
   return (
@@ -14,29 +14,29 @@ const Testimonials = ({ testimonials }) => {
             <div data-aos="fade-up-sm">
               {markdownify(
                 testimonials.frontmatter.title,
-                "h2",
-                "font-medium mb-4"
+                'h2',
+                'font-medium mb-4'
               )}
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(
                 testimonials.frontmatter.subtitle,
-                "p",
-                "text-light-secondary"
+                'p',
+                'text-light-secondary'
               )}
             </div>
           </div>
 
-          <div className="testimonials-slider-wrapper relative group" data-aos>
+          <div className="testimonials-slider-wrapper group relative" data-aos>
             <Image
-              className="absolute -left-20 top-[28%] -z-20 hidden -translate-y-1/2 translate-x-[-40%] md:block xl:translate-x-[-50%] group-[.aos-animate]:xl:translate-x-[15%] xl:opacity-0 group-[.aos-animate]:xl:opacity-100 transition-all duration-700"
+              className="absolute -left-20 top-[28%] -z-20 hidden -translate-y-1/2 translate-x-[-40%] transition-all duration-700 md:block xl:translate-x-[-50%] xl:opacity-0 group-[.aos-animate]:xl:translate-x-[15%] group-[.aos-animate]:xl:opacity-100"
               src="/images/testimonials/layer-1.svg"
               alt="layer-1"
               width={411}
               height={414}
             />
             <Image
-              className="absolute -left-[10px] top-[calc(28%_+_64px)] z-30 hidden -translate-y-1/2 translate-x-[-40%] md:block xl:translate-x-[-50%] group-[.aos-animate]:xl:translate-x-[15%] xl:opacity-0 group-[.aos-animate]:xl:opacity-100 transition-all duration-700"
+              className="absolute -left-[10px] top-[calc(28%_+_64px)] z-30 hidden -translate-y-1/2 translate-x-[-40%] transition-all duration-700 md:block xl:translate-x-[-50%] xl:opacity-0 group-[.aos-animate]:xl:translate-x-[15%] group-[.aos-animate]:xl:opacity-100"
               src="/images/testimonials/layer-2.svg"
               alt="layer-2"
               width={398}
@@ -71,14 +71,15 @@ const Testimonials = ({ testimonials }) => {
                     slidesPerView: 3,
                     spaceBetween: 50,
                   },
-                }}
-              >
+                }}>
                 {testimonials.frontmatter.items.map((item, index) => (
                   <SwiperSlide key={index}>
-                    <div className="rounded-2xl bg-dark-quaternary" data-aos="fade-left" data-aos-delay={100}>
+                    <div
+                      className="rounded-2xl bg-dark-quaternary"
+                      data-aos="fade-left"
+                      data-aos-delay={100}>
                       <div
-                        className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}
-                      >
+                        className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}>
                         <p className="mb-8 text-xl font-semibold">
                           {item.quote}
                         </p>

@@ -30,8 +30,8 @@ const Home = ({
       <Banner banner={banner} founders={founders} />
       <Advisory advisory={advisory} />
       <Testimonials testimonials={testimonials_page} />
-      <Superstars superstars={superstars_page} />
       <AdvisoryGame advisory_game={advisory_game} />
+      <Superstars superstars={superstars_page} />
       <AdvisoryTeam advisory_team={advisory_team_page} />
       <HowItWorks how_it_works={how_it_works_page} />
       <TopFounders top_founders={top_founders_page} />

@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from 'next/image';
 
 const Founders = ({ founders }) => {
   return (
@@ -8,21 +8,19 @@ const Founders = ({ founders }) => {
           className="text-md mb-2 w-full text-center leading-snug text-[#747474] lg:mb-0 lg:w-[12rem] lg:text-start lg:text-[15px]"
           data-aos="fade"
           data-aos-delay="200"
-          data-aos-offset="0"
-        >
+          data-aos-offset="0">
           {founders.title}
         </li>
         {founders.brands.map((item, i) => (
           <li
             className="opacity-100 transition-all md:opacity-40 md:hover:opacity-100"
-            key={i}
-          >
+            key={i}>
             <Image
               src={item}
               alt="supernova founder"
               width={260}
               height={100}
-              style={{ maxHeight: "30px", width: "auto" }}
+              style={{ maxHeight: '30px', width: 'auto' }}
               data-aos="fade"
               data-aos-offset="0"
               data-aos-delay={`${250 + i * 100 - 50}`}

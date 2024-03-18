@@ -1,5 +1,5 @@
-import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
 
 const TopFounders = ({ top_founders }) => {
   const colors = top_founders.frontmatter.list_colors;
@@ -11,15 +11,15 @@ const TopFounders = ({ top_founders }) => {
           <div data-aos="fade-up-sm">
             {markdownify(
               top_founders.frontmatter.title,
-              "h2",
-              "font-medium mb-4"
+              'h2',
+              'font-medium mb-4'
             )}
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(
               top_founders.frontmatter.subtitle,
-              "p",
-              "text-light-secondary"
+              'p',
+              'text-light-secondary'
             )}
           </div>
 
@@ -29,13 +29,11 @@ const TopFounders = ({ top_founders }) => {
                 key={index}
                 className="mt-8 flex flex-col"
                 data-aos="fade-up-sm"
-                data-aos-delay={(index - 0.5) * 100}
-              >
+                data-aos-delay={(index - 0.5) * 100}>
                 <div className="relative h-full rounded-b-3xl rounded-tr-3xl bg-[#2D2D2D]">
                   <span
                     className={`absolute left-0 -translate-y-full rounded-t-2xl bg-[#2D2D2D] px-4 pb-1 pt-2 text-[17px]`}
-                    style={{ color: colors[index] }}
-                  >
+                    style={{ color: colors[index] }}>
                     {item.group}
                   </span>
                   <Image

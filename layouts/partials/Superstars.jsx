@@ -1,11 +1,11 @@
-import useWindow from "@hooks/useWindow";
-import { markdownify, slugify } from "@lib/utils/textConverter";
-import Image from "next/image";
-import { useEffect, useState } from "react";
+import useWindow from '@hooks/useWindow';
+import { markdownify, slugify } from '@lib/utils/textConverter';
+import Image from 'next/image';
+import { useEffect, useState } from 'react';
 
 const Advisory = ({ superstars }) => {
   let allMembers = superstars.frontmatter.team;
-  const [active, setActive] = useState("");
+  const [active, setActive] = useState('');
   const [filteredMember, setFilteredMember] = useState(allMembers);
   const [slicedMember, setSlicedMember] = useState(filteredMember);
   const mobile = useWindow(539) < 540;
@@ -27,7 +27,7 @@ const Advisory = ({ superstars }) => {
     setFilteredMember(allMembers);
 
     if (active === item) {
-      setActive("");
+      setActive('');
       setFilteredMember(allMembers);
     }
   };
@@ -40,23 +40,23 @@ const Advisory = ({ superstars }) => {
             <div data-aos="fade-up-sm">
               {markdownify(
                 superstars.frontmatter.title,
-                "h2",
-                "font-medium mb-4"
+                'h2',
+                'font-medium mb-4'
               )}
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(
                 superstars.frontmatter.subtitle,
-                "p",
-                "text-light-secondary"
+                'p',
+                'text-light-secondary'
               )}
             </div>
 
             <div data-aos="fade-up-sm" data-aos-delay="200">
               {markdownify(
                 superstars.frontmatter.quote,
-                "p",
-                "text-secondary-800 font-secondary mt-6 text-2xl -rotate-1"
+                'p',
+                'text-secondary-800 font-secondary mt-6 text-2xl -rotate-1'
               )}
             </div>
           </div>
@@ -64,18 +64,16 @@ const Advisory = ({ superstars }) => {
           <div
             className="mb-10 overflow-x-auto"
             data-aos="fade-in"
-            data-aos-delay="250"
-          >
+            data-aos-delay="250">
             <div className="mt-20 flex text-left sm:flex-wrap">
               {superstars.frontmatter.group_list.map((item, index) => (
                 <div
                   key={index}
                   className={`${
-                    active === slugify(item.name) ? "active" : ""
+                    active === slugify(item.name) ? 'active' : ''
                   } group mb-5 mr-5 inline-flex cursor-pointer select-none items-center rounded-2xl bg-dark-quaternary px-4 py-2 transition duration-200 hover:bg-secondary-200/10 [&.active]:bg-primary-800`}
                   data-target={slugify(item.name)}
-                  onClick={() => handleFilter(slugify(item.name))}
-                >
+                  onClick={() => handleFilter(slugify(item.name))}>
                   <Image
                     className="group-[.active]:contrast-200 group-[.active]:grayscale"
                     src={item.icon}
@@ -93,17 +91,15 @@ const Advisory = ({ superstars }) => {
 
           <div
             className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6"
-            data-aos="fade-in"
-          >
+            data-aos="fade-in">
             {slicedMember.map((item, i) => (
               <div
                 key={i}
-                className={`${item.content && "team-card"} group col mb-8 ${
+                className={`${item.content && 'team-card'} group col mb-8 ${
                   item.department.map((d) => slugify(d)).includes(active)
-                    ? "active"
-                    : ""
-                }`}
-              >
+                    ? 'active'
+                    : ''
+                }`}>
                 <div className="team-card-body">
                   <div className="team-card-author">
                     <div className="team-card-author-image shrink-0 rounded-full group-[.active]:border-[5px] group-[.active]:border-primary-600">
@@ -133,8 +129,8 @@ const Advisory = ({ superstars }) => {
                   <div className="team-card-content">
                     {markdownify(
                       item.content,
-                      "div",
-                      "text-[16px] font-medium text-dark-primary"
+                      'div',
+                      'text-[16px] font-medium text-dark-primary'
                     )}
                     {item.brands && (
                       <ul className="mt-5">
@@ -155,6 +151,7 @@ const Advisory = ({ superstars }) => {
                 </div>
               </div>
             ))}
+            <div className="col">lorem20</div>
           </div>
         </div>
       </section>

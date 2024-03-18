@@ -1,7 +1,7 @@
-import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
-import { useEffect, useState } from "react";
-import ReactPlayer from "react-player";
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
+import { useEffect, useState } from 'react';
+import ReactPlayer from 'react-player';
 
 const GoSupernova = ({ go_supernova }) => {
   const [loading, setLoading] = useState(true);
@@ -18,15 +18,15 @@ const GoSupernova = ({ go_supernova }) => {
             <div data-aos="fade-up-sm">
               {markdownify(
                 go_supernova.frontmatter.title,
-                "h2",
-                "font-medium mb-4"
+                'h2',
+                'font-medium mb-4'
               )}
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(
                 go_supernova.frontmatter.subtitle,
-                "p",
-                "text-secondary-800 font-secondary text-2xl -rotate-1"
+                'p',
+                'text-secondary-800 font-secondary text-2xl -rotate-1'
               )}
             </div>
           </div>
@@ -55,8 +55,7 @@ const GoSupernova = ({ go_supernova }) => {
               </div>
               <div
                 className="player-wrapper relative z-10"
-                data-aos="fade-up-sm"
-              >
+                data-aos="fade-up-sm">
                 <ReactPlayer
                   url={go_supernova.frontmatter.video_url}
                   controls
@@ -93,8 +92,7 @@ const GoSupernova = ({ go_supernova }) => {
                     key={index}
                     className="text-center md:col-4"
                     data-aos="fade-up-sm"
-                    data-aos-delay={(index - 0.5) * 100 + 100}
-                  >
+                    data-aos-delay={(index - 0.5) * 100 + 100}>
                     <Image
                       src={feature.icon}
                       alt="supernova"
@@ -104,8 +102,8 @@ const GoSupernova = ({ go_supernova }) => {
                     />
                     {markdownify(
                       feature.content,
-                      "div",
-                      "prose-strong:font-secondary prose-strong:text-yellow-500 prose-strong:text-xl prose-strong:!font-normal"
+                      'div',
+                      'prose-strong:font-secondary prose-strong:text-yellow-500 prose-strong:text-xl prose-strong:!font-normal'
                     )}
                   </div>
                 ))}
@@ -116,12 +114,11 @@ const GoSupernova = ({ go_supernova }) => {
           <div
             className="text-center"
             data-aos="fade-up-sm"
-            data-aos-delay="150"
-          >
+            data-aos-delay="150">
             {markdownify(
               go_supernova.frontmatter.quote,
-              "p",
-              " bg-gradient-text text-transparent bg-clip-text font-secondary mt-20 text-3xl -rotate-1"
+              'p',
+              ' bg-gradient-text text-transparent bg-clip-text font-secondary mt-20 text-3xl -rotate-1'
             )}
           </div>
         </div>

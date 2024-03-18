@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
-import Image from "next/image";
-import { useEffect, useState } from "react";
+import Image from 'next/image';
+import { useEffect, useState } from 'react';
 
 const ImageFallback = (props) => {
   const { src, fallback, ...rest } = props;

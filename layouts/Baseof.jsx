@@ -1,11 +1,11 @@
-import config from "@config/config.json";
-import settings from "@config/settings.json";
-import { plainify } from "@lib/utils/textConverter";
-import AnnouncementBar from "@partials/AnnouncementBar";
-import Footer from "@partials/Footer";
-import Header from "@partials/Header";
-import Head from "next/head";
-import { useRouter } from "next/router";
+import config from '@config/config.json';
+import settings from '@config/settings.json';
+import { plainify } from '@lib/utils/textConverter';
+import AnnouncementBar from '@partials/AnnouncementBar';
+import Footer from '@partials/Footer';
+import Header from '@partials/Header';
+import Head from 'next/head';
+import { useRouter } from 'next/router';
 
 const Base = ({
   title,
@@ -62,7 +62,7 @@ const Base = ({
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content={`${base_url}/${router.asPath.replace("/", "")}`}
+          content={`${base_url}/${router.asPath.replace('/', '')}`}
         />
 
         {/* twitter-title */}

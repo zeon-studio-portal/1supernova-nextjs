@@ -1,5 +1,5 @@
-import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
 
 const TopFounders = ({ join_community }) => {
   return (
@@ -9,15 +9,15 @@ const TopFounders = ({ join_community }) => {
           <div data-aos="fade-up-sm">
             {markdownify(
               join_community.frontmatter.title,
-              "h2",
-              "font-medium mb-4"
+              'h2',
+              'font-medium mb-4'
             )}
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(
               join_community.frontmatter.subtitle,
-              "p",
-              "text-light-secondary"
+              'p',
+              'text-light-secondary'
             )}
           </div>
 
@@ -27,8 +27,7 @@ const TopFounders = ({ join_community }) => {
                 key={index}
                 className="md:col-4"
                 data-aos="fade-up-sm"
-                data-aos-delay={(index - 0.5) * 100 + 100}
-              >
+                data-aos-delay={(index - 0.5) * 100 + 100}>
                 <div className="flex h-full flex-col rounded-2xl bg-dark-quaternary px-8 py-10">
                   <div className="mb-6">
                     <Image
@@ -43,8 +42,8 @@ const TopFounders = ({ join_community }) => {
                     </p>
                     {markdownify(
                       item.content,
-                      "div",
-                      "prose-strong:font-secondary prose-strong:text-yellow-500 prose-strong:text-xl prose-strong:!font-normal"
+                      'div',
+                      'prose-strong:font-secondary prose-strong:text-yellow-500 prose-strong:text-xl prose-strong:!font-normal'
                     )}
                   </div>
 
@@ -52,8 +51,7 @@ const TopFounders = ({ join_community }) => {
                     href={item.button.link}
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="btn btn-light mt-auto text-[17px]"
-                  >
+                    className="btn btn-light mt-auto text-[17px]">
                     {item.button.label}
                     <svg
                       className="ml-2 inline align-[-5px]"
@@ -61,8 +59,7 @@ const TopFounders = ({ join_community }) => {
                       height="24"
                       viewBox="0 0 25 24"
                       fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
+                      xmlns="http://www.w3.org/2000/svg">
                       <path
                         fillRule="evenodd"
                         clipRule="evenodd"
@@ -79,12 +76,11 @@ const TopFounders = ({ join_community }) => {
           <div
             className="mt-8 text-center"
             data-aos="fade-up-sm"
-            data-aos-delay="50"
-          >
+            data-aos-delay="50">
             {markdownify(
               join_community.frontmatter.info,
-              "div",
-              "text-light-secondary has-link has-link-primary"
+              'div',
+              'text-light-secondary has-link has-link-primary'
             )}
           </div>
         </div>

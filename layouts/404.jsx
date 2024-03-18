@@ -1,4 +1,4 @@
-import { markdownify } from "@lib/utils/textConverter";
+import { markdownify } from '@lib/utils/textConverter';
 
 const NotFound = ({ data }) => {
   const { frontmatter, content } = data;
@@ -9,7 +9,7 @@ const NotFound = ({ data }) => {
         <div className="flex h-[40vh] items-center justify-center">
           <div className="text-center">
             <h1 className="mb-4">{frontmatter.title}</h1>
-            {markdownify(content, "div", "content")}
+            {markdownify(content, 'div', 'content')}
           </div>
         </div>
       </div>

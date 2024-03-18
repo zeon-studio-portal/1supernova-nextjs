@@ -1,4 +1,4 @@
-import { markdownify } from "@lib/utils/textConverter";
+import { markdownify } from '@lib/utils/textConverter';
 
 const AnnouncementBar = ({ content }) => {
   return (
@@ -12,8 +12,7 @@ const AnnouncementBar = ({ content }) => {
               viewBox="0 0 20 18"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              className="text-body mr-2 hidden align-[-3px] sm:inline"
-            >
+              className="text-body mr-2 hidden align-[-3px] sm:inline">
               <path
                 fillRule="evenodd"
                 clipRule="evenodd"
@@ -22,7 +21,7 @@ const AnnouncementBar = ({ content }) => {
               />
             </svg>
 
-            {markdownify(content, "span", "text-body leading-normal")}
+            {markdownify(content, 'span', 'text-body leading-normal')}
           </div>
         </div>
       </div>
