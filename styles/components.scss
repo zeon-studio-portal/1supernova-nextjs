@@ -181,6 +181,16 @@
   @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:leading-tight prose-headings:text-light-primary;
   @apply prose-p:text-base prose-p:text-gray-400;
   @apply prose-a:text-light-primary prose-a:underline;
+
+  &-superstar {
+    @apply prose-p:mt-0 prose-p:mb-1.5 prose-li:text-light-quaternary prose-ul:pl-4;
+  }
+  &>*:first-child {
+    @apply mt-0;
+  }
+  &>*:last-child {
+    @apply mb-0;
+  }
 }
 
 .team-card {
