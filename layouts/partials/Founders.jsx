@@ -2,14 +2,16 @@ import Image from 'next/image';
 
 const Founders = ({ founders }) => {
   return (
-    <div className="container mt-8">
+    <div className="container">
       <ul className="flex flex-wrap items-center justify-center space-x-6 space-y-6 lg:flex-nowrap lg:justify-start lg:space-y-0">
         <li
-          className="text-md mb-2 w-full text-center leading-snug text-[#747474] lg:mb-0 lg:w-[12rem] lg:text-start lg:text-[15px]"
+          className="text-md mb-2 w-full text-center leading-snug lg:mb-0 lg:w-[12rem] lg:text-start lg:text-[15px]"
           data-aos="fade"
           data-aos-delay="200"
           data-aos-offset="0">
-          {founders.title}
+          <span className="text-light-quaternary opacity-70">
+            {founders.title}
+          </span>
         </li>
         {founders.brands.map((item, i) => (
           <li

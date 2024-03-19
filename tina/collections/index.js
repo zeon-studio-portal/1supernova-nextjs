@@ -28,6 +28,11 @@ const index = {
           type: "string",
         },
         {
+          label: "Background Video Source",
+          name: "background_video_src",
+          type: "string",
+        },
+        {
           label: "Quote",
           name: "quote",
           type: "object",

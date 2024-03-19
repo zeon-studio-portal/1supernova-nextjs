@@ -37,12 +37,14 @@
     @apply -left-[350px] top-0 md:-left-[220px] md:top-[5%];
     transform-origin: top;
     img {
+      @apply max-sm:opacity-60;
       animation: rotate 100s linear infinite;
     }
   }
   &-right {
     @apply -right-[285px] bottom-0 top-auto rotate-[190deg] md:-right-[185px] md:bottom-auto md:top-[15%];
     img {
+      @apply max-sm:opacity-60;
       animation: rotate 100s linear infinite reverse;
     }
   }
@@ -145,14 +147,14 @@
 }
 
 .video-wrapper {
-  @apply relative mx-auto inline-block aspect-video h-[120px] overflow-hidden rounded-xl sm:h-[200px] 2xl:h-[300px];
+  @apply relative mx-auto inline-block aspect-video overflow-hidden rounded-xl h-[65px];
   iframe {
     width: 500%;
     height: 100%;
     margin-left: -200%;
   }
   &-btn {
-    @apply absolute left-0 top-0 z-10 flex h-full w-full items-center justify-center;
+    @apply absolute left-0 top-0 z-10 flex w-full items-center justify-center;
     &-icon {
       @apply h-16 w-16 rounded-full bg-primary-600/50 text-center leading-[60px];
     }

@@ -4,6 +4,7 @@ banner:
   subtitle: >-
     We Back Top Startups Changing the World With Advisory, Operational and
     Investment Support
+  background_video_src: "videos/banner-bg-video.mp4"
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
@@ -22,7 +23,7 @@ banner:
 founders:
   title: We are exited founders united as all-star teams
   brands:
-    - /images/Hampton.png
+    - /images/hampton_transparent.png
     - /images/Endeavor_logo_white-sm.png
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
