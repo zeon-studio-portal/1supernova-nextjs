@@ -39,192 +39,49 @@ const Advisory = ({ superstars }) => {
     superstars.frontmatter.enable === true && (
       <section id="superstars" className="py-24">
         <div className="container">
-          <div className="text-center">
-            <div data-aos="fade-up-sm">
-              {markdownify(
-                superstars.frontmatter.title,
-                'h2',
-                'font-medium mb-4'
-              )}
-            </div>
-            <div data-aos="fade-up-sm" data-aos-delay="100">
-              {markdownify(
-                superstars.frontmatter.subtitle,
-                'p',
-                'text-light-secondary'
-              )}
-            </div>
-
-            <div data-aos="fade-up-sm" data-aos-delay="200">
-              {markdownify(
-                superstars.frontmatter.quote,
-                'p',
-                'text-secondary-800 font-secondary mt-6 text-2xl -rotate-1'
-              )}
-            </div>
-          </div>
-
-          <div className="row pt-10">
-            <div className="md:col-3">
-              <div className="overflow-hidden rounded-2xl">
-                <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
-                  <Image
-                    className="relative -z-10 w-full rounded-t-2xl object-cover"
-                    src={'/images/example-user.jpeg'}
-                    alt="wewe"
-                    width={300}
-                    height={300}
-                  />
-                  <div className="h4 absolute bottom-0 left-0 z-20 px-5 py-4 font-medium leading-snug">
-                    Product & Sales Advice
-                  </div>
-                </div>
-                <div className="bg-dark-tertiary px-5 pt-6">
-                  <div>
-                    <h3 className="h4">Michael Litt</h3>
-                    <div className="mt-2 [&>*]:text-sm content content-superstar">
-                      <p>Co-Founder & CEO - Vidyard</p>
-                      <p>GTM & Generative AI Expert</p>
-                      <ul>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                      </ul>
+          <div className="row pt-10 hidden">
+            {[].map((item, index) => (
+              <div key={index} className="md:col-3">
+                <div className="overflow-hidden rounded-2xl">
+                  <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
+                    <Image
+                      className="relative -z-10 w-full rounded-t-2xl object-cover"
+                      src={'/images/example-user.jpeg'}
+                      alt="wewe"
+                      width={300}
+                      height={300}
+                    />
+                    <div className="h4 absolute bottom-0 left-0 z-20 px-5 py-4 font-medium leading-snug">
+                      Product & Sales Advice
                     </div>
                   </div>
-                  <div className="mt-5 border-t border-t-primary/10 pb-8 pt-5 text-center">
-                    <Image
-                      className="mx-auto block rounded-t-2xl object-cover"
-                      src={'/images/superstars/logo/logo.svg'}
-                      alt="wewe"
-                      width={150}
-                      height={100}
-                    />
+                  <div className="bg-dark-tertiary px-5 pt-6">
+                    <div>
+                      <h3 className="h4">Michael Litt</h3>
+                      <div className="content content-superstar mt-2 [&>*]:text-sm">
+                        <p>Co-Founder & CEO - Vidyard</p>
+                        <p>GTM & Generative AI Expert</p>
+                        <ul>
+                          <li>4x Exited Founder</li>
+                          <li>4x Exited Founder</li>
+                          <li>4x Exited Founder</li>
+                          <li>4x Exited Founder</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="mt-5 border-t border-t-primary/10 pb-8 pt-5 text-center">
+                      <Image
+                        className="mx-auto block rounded-t-2xl object-cover"
+                        src={'/images/superstars/logo/logo.svg'}
+                        alt="wewe"
+                        width={150}
+                        height={100}
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div className="md:col-3">
-              <div className="overflow-hidden rounded-2xl">
-                <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
-                  <Image
-                    className="relative -z-10 w-full rounded-t-2xl object-cover"
-                    src={'/images/example-user.jpeg'}
-                    alt="wewe"
-                    width={300}
-                    height={300}
-                  />
-                  <div className="h4 absolute bottom-0 left-0 z-20 px-5 py-4 font-medium leading-snug">
-                    Product & Sales Advice
-                  </div>
-                </div>
-                <div className="bg-dark-tertiary px-5 pt-6">
-                  <div>
-                    <h3 className="h4">Michael Litt</h3>
-                    <div className="mt-2 [&>*]:text-sm content content-superstar">
-                      <p>Co-Founder & CEO - Vidyard</p>
-                      <p>GTM & Generative AI Expert</p>
-                      <ul>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className="mt-5 border-t border-t-primary/10 pb-8 pt-5 text-center">
-                    <Image
-                      className="mx-auto block rounded-t-2xl object-cover"
-                      src={'/images/superstars/logo/logo.svg'}
-                      alt="wewe"
-                      width={150}
-                      height={100}
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="md:col-3">
-              <div className="overflow-hidden rounded-2xl">
-                <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
-                  <Image
-                    className="relative -z-10 w-full rounded-t-2xl object-cover"
-                    src={'/images/example-user.jpeg'}
-                    alt="wewe"
-                    width={300}
-                    height={300}
-                  />
-                  <div className="h4 absolute bottom-0 left-0 z-20 px-5 py-4 font-medium leading-snug">
-                    Product & Sales Advice
-                  </div>
-                </div>
-                <div className="bg-dark-tertiary px-5 pt-6">
-                  <div>
-                    <h3 className="h4">Michael Litt</h3>
-                    <div className="mt-2 [&>*]:text-sm content content-superstar">
-                      <p>Co-Founder & CEO - Vidyard</p>
-                      <p>GTM & Generative AI Expert</p>
-                      <ul>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className="mt-5 border-t border-t-primary/10 pb-8 pt-5 text-center">
-                    <Image
-                      className="mx-auto block rounded-t-2xl object-cover"
-                      src={'/images/superstars/logo/logo.svg'}
-                      alt="wewe"
-                      width={150}
-                      height={100}
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="md:col-3">
-              <div className="overflow-hidden rounded-2xl">
-                <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
-                  <Image
-                    className="relative -z-10 w-full rounded-t-2xl object-cover"
-                    src={'/images/example-user.jpeg'}
-                    alt="wewe"
-                    width={300}
-                    height={300}
-                  />
-                  <div className="h4 absolute bottom-0 left-0 z-20 px-5 py-4 font-medium leading-snug">
-                    Product & Sales Advice
-                  </div>
-                </div>
-                <div className="bg-dark-tertiary px-5 pt-6">
-                  <div>
-                    <h3 className="h4">Michael Litt</h3>
-                    <div className="mt-2 [&>*]:text-sm content content-superstar">
-                      <p>Co-Founder & CEO - Vidyard</p>
-                      <p>GTM & Generative AI Expert</p>
-                      <ul>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                        <li>4x Exited Founder</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className="mt-5 border-t border-t-primary/10 pb-8 pt-5 text-center">
-                    <Image
-                      className="mx-auto block rounded-t-2xl object-cover"
-                      src={'/images/superstars/logo/logo.svg'}
-                      alt="wewe"
-                      width={150}
-                      height={100}
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
+            ))}
           </div>
 
           <div
