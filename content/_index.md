@@ -27,6 +27,7 @@ founders:
     - /images/founders/vistage.svg
     - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg
+    - /images/founders/Entrepreneurs_Organization.png
 advisory:
   enable: true
   title: Advisory as a Service™
