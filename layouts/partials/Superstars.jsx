@@ -39,7 +39,31 @@ const Advisory = ({ superstars }) => {
     superstars.frontmatter.enable === true && (
       <section id="superstars" className="py-24">
         <div className="container">
-          <div className="row pt-10 hidden">
+          <div className="text-center">
+            <div data-aos="fade-up-sm">
+              {markdownify(
+                superstars.frontmatter.title,
+                'h2',
+                'font-medium mb-4'
+              )}
+            </div>
+            <div data-aos="fade-up-sm" data-aos-delay="100">
+              {markdownify(
+                superstars.frontmatter.subtitle,
+                'p',
+                'text-light-secondary'
+              )}
+            </div>
+
+            <div data-aos="fade-up-sm" data-aos-delay="200">
+              {markdownify(
+                superstars.frontmatter.quote,
+                'p',
+                'text-secondary-800 font-secondary mt-6 text-2xl -rotate-1'
+              )}
+            </div>
+          </div>
+          <div className="row hidden pt-10">
             {[].map((item, index) => (
               <div key={index} className="md:col-3">
                 <div className="overflow-hidden rounded-2xl">
