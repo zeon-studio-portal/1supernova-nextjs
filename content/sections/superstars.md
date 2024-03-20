@@ -288,7 +288,7 @@ team:
       (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
       bestselling science fiction author, and science podcaster.
   - name: Chris Carson
-    image: /images/1668277982538.jpeg
+    image: /images/1685460170918.jpeg
     department:
       - STAFFING
       - AI
