@@ -268,25 +268,19 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
     department:
-      - SCIENCE
-      - SYSTEMS
-      - AI
+      - SCALE
+      - PRODUCT
+      - LEADERSHIP
       - FUNDING
-      - COACHING
+      - TECHNOLOGY
     bulletpoints:
-      - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to RealNetworks)
-      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
-    content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
+      - Co-founder Wyntalent
+      - ' Co-Founder, Wyncode (Exit to BrainStation)'
+      - 'Endeavor Entrepreneur '
+    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Chris Carson
     image: /images/1685460170918.jpeg
     department:
@@ -476,19 +470,25 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
-      - SCALE
-      - PRODUCT
-      - LEADERSHIP
+      - SCIENCE
+      - SYSTEMS
+      - AI
       - FUNDING
-      - TECHNOLOGY
+      - COACHING
     bulletpoints:
-      - Co-founder Wyntalent
-      - ' Co-Founder, Wyncode (Exit to BrainStation)'
-      - 'Endeavor Entrepreneur '
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+      - Co-founder Resilience Reserve VC
+      - Founder of Listen.com (Exit to RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
+    content: >
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Joel French
     image: /images/Joel-French.jpg
     department:
@@ -653,6 +653,27 @@ team:
       - Head of Data & Innovation at Cox Enterprises
       - Head of Consulting at Acxiom (Exited)
     content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also ran Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
+  - name: Juha Mikkola
+    image: /images/Juha-Mikkola.jpg
+    department:
+      - PRODUCT
+      - TECHNOLOGY
+      - SALES
+      - LEADERSHIP
+    bulletpoints:
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
+    content: >
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
   - name: Tim Sae Koo
     image: /images/102929.png
     department:
@@ -842,27 +863,6 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
-  - name: Juha Mikkola
-    image: /images/Juha-Mikkola.jpg
-    department:
-      - PRODUCT
-      - TECHNOLOGY
-      - SALES
-      - LEADERSHIP
-    bulletpoints:
-      - CEO & Founder at Usko Privacy
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Founder, Clutch Sports (Exited)'
-    content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
