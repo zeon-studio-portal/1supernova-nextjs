@@ -20,7 +20,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We are all-star teams
+  title: We back top startups
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
