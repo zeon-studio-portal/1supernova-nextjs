@@ -1,7 +1,9 @@
 ---
 banner:
   title: Build With Exited Founders
-  subtitle: Stack Your Advisory Board With Successfully Exited Founders
+  subtitle: >-
+    Stack Your Advisory Board With Successfully Exited Founders For Stellar
+    Results
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
