@@ -20,7 +20,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We serve startups across communities
+  title: We serve startups across ecosystems
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
