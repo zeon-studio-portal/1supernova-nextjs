@@ -20,7 +20,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: 'We proudly serve growth-stage startups '
+  title: We serve startups across communities
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
