@@ -22,12 +22,12 @@ banner:
 founders:
   title: We are exited founders united as all-star teams
   brands:
-    - /images/Endeavor_logo_white-sm.png
+    - /images/founders/ypo.svg
+    - /images/founders/y-combinator.svg
     - /images/founders/Entrepreneurs_Organization.png
+    - /images/Endeavor_logo_white-sm.png
     - /images/Hampton.png
     - /images/founders/vistage.svg
-    - /images/founders/y-combinator.svg
-    - /images/founders/ypo.svg
 advisory:
   enable: true
   title: Advisory as a Service™
