@@ -2,8 +2,8 @@
 banner:
   title: Build With Exited Founders
   subtitle: >-
-    We Back Companies Changing the World With Advisory, Operational and
-    Investment Support
+    We Back Companies With All-Star Advisory Boards Sourced By The #1 Exited
+    Founder Community
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
