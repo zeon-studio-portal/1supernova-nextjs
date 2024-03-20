@@ -7,12 +7,12 @@ banner:
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
-      - “maintained my sanity.”
-      - “landed our whale customer.”
-      - “scored our lead investor.”
-      - “scaled faster than I dreamed.”
+      - '"maintained my sanity.”'
+      - '"landed our whale customer.”'
+      - '"scored our lead investor.”'
+      - '"scaled faster than I dreamed.”'
       - '"had the right people in my corner."'
-      - “exited at higher multiples.”
+      - '"exited at higher multiples.”'
       - '"massively impacted humanity."'
       - '"manifested my dream."'
       - '"found my freedom."'
