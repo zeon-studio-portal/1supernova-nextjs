@@ -268,31 +268,43 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
+  - name: Alex Simpson
+    image: /images/Alex Simpson 2.jpeg
     department:
-      - LEADERSHIP
       - SALES
-      - SOCIAL
-      - IMPACT
+      - SCALE
+      - FUNDING
+      - GTM
     bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
+      - 4x Exited Founder
+      - Co-founder of Openstock (LiquidLP)
+      - >-
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited) 
     content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
+      Alex leads LiquidLP (previously known as Openstock), which focuses on
+      enabling Limited Partners and General Partners with lending solutions. As
+      an executive and builder in Fintech, Alex leverages his 12+ years of
+      experience and expertise in the fintech ecosystem to co-found, connect,
+      and architect businesses and people from the inside out. With a proven
+      track record, he has successfully generated seven-figure revenue streams,
+      secured over $200 million in funding for fintech ventures, and implemented
+      transformative growth and turnaround strategies for global corporations.In
+      addition to this, Alex serves as an advisor and investor in various
+      fintech companies. He is the co-founder of Kandua (exited) which helps
+      small service businesses grow. He is the co-founder of Kundau (Exited),
+      South Africa’s #1 online marketplace for home services. Alex is the
+      Venture Partner of Launchpad Capital, joined forces with Castle Creek
+      Capital in establishing a venture capital fund to catalyze change in
+      financial services through partnerships between fintech companies and 34
+      community bank Limited Partners. Alex was a Partner at Truenorth. He also
+      is a Co-founder (exited) of BizPay, a fintech platform enabling more
+      business for the industry by offering key suppliers immediate payments and
+      customized pay later solutions for their customers. Alex was the
+      co-founder of SOLDI POS (exited), an enterprise-grade integrated
+      Point-of-Sale designed to work across verticals and organization of all
+      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
+      of the Entrepreneurs Organization (EO).
   - name: Chris Carson
     image: /images/1668277982538.jpeg
     department:
