@@ -1,9 +1,9 @@
 ---
 enable: true
 title: Meet the Superstars ✨
-subtitle: Over 150+ exited founders ready to serve as growth catalysts for your company
+subtitle: Over 150+ exited founders ready to serve as all-star teams for your company
 quote: >-
-  We orbit around your needs as all-star advisory teams, mentors, and ceo
+  We orbit around your needs as bespoke advisory boards, mentors, and ceo
   coaches
 group_list:
   - name: AI
