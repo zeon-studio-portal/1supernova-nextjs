@@ -20,7 +20,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We are exited founders united as all-star teams
+  title: 'We proudly serve growth-stage startups '
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
