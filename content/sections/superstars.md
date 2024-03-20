@@ -125,39 +125,35 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: 'Lindsay Nahmiache '
-    image: /images/lindsay.jpeg
+  - name: Tim Chang
+    image: /images/superstars/timchang.png
     department:
-      - LEADERSHIP
-      - MARKETING
-      - GTM
-      - SALES
+      - COACHING
+      - AI
+      - FUNDING
+      - IMPACT
+      - WEB3
     bulletpoints:
-      - Board Member at Songtradr (Series E)
-      - Founder & CEO at Jive (Exited)
-      - PR at E! Entertainment
+      - Partner at Mayfield Fund
+      - Partner at Norwest Venture Partners
+      - Midas List of top 100 VCs
     content: >
-      Lindsay is a founding member of Legacy 8, an early stage venture capital
-      fund that focuses on the intersection of science and consciousness.
-      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
-      relations agency in Los Angeles, Vancouver and Toronto as well as the
-      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
-      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
-      North America to start her first business after six years working abroad
-      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
-      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
-      Women by the Financial Post, an Enterprising Women of the Year, Top 40
-      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
-      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
-      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
-      Change Film Festival and a mentor for WXN (Women's Executive Network) and
-      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
-      financial literacy in youth. She built a financial literacy app for kids
-      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
-      Pig Savings). She has an honors degree (summa cum laude) from the
-      International University of London, UK, an Entrepreneurial Strategy
-      certificate from Harvard Business School and is an insatiable travel
-      junkie.
+      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
+      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
+      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
+      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
+      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
+      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
+      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
+      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
+      He was also actively involved with the boards of Placeware (acquired by
+      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
+      by private equity syndicate). Tim received his MBA from the Stanford
+      Graduate School of Business, where he graduated in the top 10% of his
+      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
+      Electrical Engineering from the University of Michigan, where he was a
+      Departmental Scholar and received a full PhD fellowship.
   - name: Ben Lamm
     image: /images/_images_superstars_team-thumb-3.png
     department:
@@ -204,35 +200,25 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
-  - name: Tim Chang
-    image: /images/superstars/timchang.png
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
-      - COACHING
+      - SCIENCE
+      - SYSTEMS
       - AI
       - FUNDING
-      - IMPACT
-      - WEB3
+      - COACHING
     bulletpoints:
-      - Partner at Mayfield Fund
-      - Partner at Norwest Venture Partners
-      - Midas List of top 100 VCs
+      - Co-founder Resilience Reserve VC
+      - Founder of Listen.com (Exit to RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
-      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
-      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
-      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
-      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
-      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
-      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
-      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
-      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
-      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
-      He was also actively involved with the boards of Placeware (acquired by
-      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
-      by private equity syndicate). Tim received his MBA from the Stanford
-      Graduate School of Business, where he graduated in the top 10% of his
-      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
-      Electrical Engineering from the University of Michigan, where he was a
-      Departmental Scholar and received a full PhD fellowship.
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -268,25 +254,6 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
-    department:
-      - SCIENCE
-      - SYSTEMS
-      - AI
-      - FUNDING
-      - COACHING
-    bulletpoints:
-      - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to RealNetworks)
-      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
-    content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
   - name: Chris Carson
     image: /images/1685460170918.jpeg
     department:
@@ -302,6 +269,39 @@ team:
       - Founder & CEO at Nueevo Technologies
       - 'Founder & CEO at Louisa (Exited) '
     content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+  - name: 'Lindsay Nahmiache '
+    image: /images/lindsay.jpeg
+    department:
+      - LEADERSHIP
+      - MARKETING
+      - GTM
+      - SALES
+    bulletpoints:
+      - Board Member at Songtradr (Series E)
+      - Founder & CEO at Jive (Exited)
+      - PR at E! Entertainment
+    content: >
+      Lindsay is a founding member of Legacy 8, an early stage venture capital
+      fund that focuses on the intersection of science and consciousness.
+      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
+      relations agency in Los Angeles, Vancouver and Toronto as well as the
+      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
+      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
+      North America to start her first business after six years working abroad
+      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
+      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
+      Women by the Financial Post, an Enterprising Women of the Year, Top 40
+      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
+      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
+      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
+      Change Film Festival and a mentor for WXN (Women's Executive Network) and
+      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
+      financial literacy in youth. She built a financial literacy app for kids
+      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
+      Pig Savings). She has an honors degree (summa cum laude) from the
+      International University of London, UK, an Entrepreneurial Strategy
+      certificate from Harvard Business School and is an insatiable travel
+      junkie.
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
@@ -594,35 +594,6 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: 'Chris Chaney  '
-    image: /images/Chris.jpeg
-    department:
-      - SALES
-      - TALENT
-      - OPS
-      - FUNDING
-      - WEB3
-      - EXITED FOUNDER
-    bulletpoints:
-      - Founder & Managing Partner of C4+
-      - Founder at Infinite Esports (Exited)
-      - Co-founder of Limitless Studios
-    content: >
-      Chris Chaney is the Founder & Managing Partner of C4+, his personal
-      investment and advisory firm partnering with likable entrepreneurs across
-      sports, esports and gaming. Portfolio companies include TMRW Sports,
-      Community Gaming and Versusgame. Chris the co-founder of Ephere Football,
-      a venture-backed web3 game studio currently building a football management
-      game that is deeply rooted in the power of the global football community -
-      led by Agustín Rodrígues. Chris is the Co-founder of Limitless Studios is
-      a female-led venture-backed media company geared toward providing children
-      around the world with entertaining content, relatable characters, and
-      important life lessons by leveraging high-quality 3D animation - led by
-      Agnes Soyode-Johnson.  Chris graduated from Princeton University where his
-      activities and societies included: Student Manager, Men’s Basketball Team;
-      Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
-      America Conference; Founder, Princeton’s Charity Basketball Tournament. He
-      is based in Dallas, Texas.
   - name: Alex Simpson
     image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
     department:
@@ -660,6 +631,35 @@ team:
       Point-of-Sale designed to work across verticals and organization of all
       sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
       of the Entrepreneurs Organization (EO).
+  - name: 'Chris Chaney  '
+    image: /images/Chris.jpeg
+    department:
+      - SALES
+      - TALENT
+      - OPS
+      - FUNDING
+      - WEB3
+      - EXITED FOUNDER
+    bulletpoints:
+      - Founder & Managing Partner of C4+
+      - Founder at Infinite Esports (Exited)
+      - Co-founder of Limitless Studios
+    content: >
+      Chris Chaney is the Founder & Managing Partner of C4+, his personal
+      investment and advisory firm partnering with likable entrepreneurs across
+      sports, esports and gaming. Portfolio companies include TMRW Sports,
+      Community Gaming and Versusgame. Chris the co-founder of Ephere Football,
+      a venture-backed web3 game studio currently building a football management
+      game that is deeply rooted in the power of the global football community -
+      led by Agustín Rodrígues. Chris is the Co-founder of Limitless Studios is
+      a female-led venture-backed media company geared toward providing children
+      around the world with entertaining content, relatable characters, and
+      important life lessons by leveraging high-quality 3D animation - led by
+      Agnes Soyode-Johnson.  Chris graduated from Princeton University where his
+      activities and societies included: Student Manager, Men’s Basketball Team;
+      Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
+      America Conference; Founder, Princeton’s Charity Basketball Tournament. He
+      is based in Dallas, Texas.
   - name: Chang Kim
     image: /images/Chang-Kim-pic.jpg
     department:
