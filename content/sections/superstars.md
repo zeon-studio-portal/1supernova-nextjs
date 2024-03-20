@@ -268,19 +268,25 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
-      - SCALE
-      - PRODUCT
-      - LEADERSHIP
+      - SCIENCE
+      - SYSTEMS
+      - AI
       - FUNDING
-      - TECHNOLOGY
+      - COACHING
     bulletpoints:
-      - Co-founder Wyntalent
-      - ' Co-Founder, Wyncode (Exit to BrainStation)'
-      - 'Endeavor Entrepreneur '
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+      - Co-founder Resilience Reserve VC
+      - Founder of Listen.com (Exit to RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
+    content: >
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Chris Carson
     image: /images/1685460170918.jpeg
     department:
@@ -470,25 +476,19 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
-  - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
     department:
-      - SCIENCE
-      - SYSTEMS
-      - AI
+      - SCALE
+      - PRODUCT
+      - LEADERSHIP
       - FUNDING
-      - COACHING
+      - TECHNOLOGY
     bulletpoints:
-      - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to RealNetworks)
-      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
-    content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
+      - Co-founder Wyntalent
+      - ' Co-Founder, Wyncode (Exit to BrainStation)'
+      - 'Endeavor Entrepreneur '
+    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Joel French
     image: /images/Joel-French.jpg
     department:
@@ -521,6 +521,32 @@ team:
       hospitals, 14,000 physician practices, millions of end-user patients, and
       automation with 2,000 health plans. In addition to its organic growth, SCI
       integrated acquired capabilities from three technology companies.
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
+    department:
+      - LEADERSHIP
+      - COACHING
+      - SCALE
+      - 'SALES '
+    bulletpoints:
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
+    content: >
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
@@ -597,32 +623,43 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Keith Ferrazzi
-    image: /images/superstars/team-thumb-5.png
+  - name: Alex Simpson
+    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
     department:
-      - LEADERSHIP
-      - COACHING
+      - SALES
       - SCALE
-      - 'SALES '
+      - FUNDING
+      - GTM
     bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
+      - 4x Exited Founder
+      - Co-founder of Openstock (LiquidLP)
+      - >-
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited) 
     content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
+      Alex leads LiquidLP (previously known as Openstock), which focuses on
+      enabling Limited Partners and General Partners with lending solutions. As
+      an executive and builder in Fintech, Alex leverages his 12+ years of
+      experience and expertise in the fintech ecosystem to co-found, connect,
+      and architect businesses and people from the inside out. With a proven
+      track record, he has successfully generated seven-figure revenue streams,
+      secured over $200 million in funding for fintech ventures, and implemented
+      transformative growth and turnaround strategies for global corporations.In
+      addition to this, Alex serves as an advisor and investor in various
+      fintech companies. He is the co-founder of Kandua (exited) which helps
+      small service businesses grow. He is the co-founder of Kundau (Exited),
+      South Africa’s #1 online marketplace for home services. Alex is the
+      Venture Partner of Launchpad Capital, joined forces with Castle Creek
+      Capital in establishing a venture capital fund to catalyze change in
+      financial services through partnerships between fintech companies and 34
+      community bank Limited Partners. Alex was a Partner at Truenorth. He also
+      is a Co-founder (exited) of BizPay, a fintech platform enabling more
+      business for the industry by offering key suppliers immediate payments and
+      customized pay later solutions for their customers. Alex was the
+      co-founder of SOLDI POS (exited), an enterprise-grade integrated
+      Point-of-Sale designed to work across verticals and organization of all
+      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
+      of the Entrepreneurs Organization (EO).
   - name: Chang Kim
     image: /images/Chang-Kim-pic.jpg
     department:
@@ -738,43 +775,6 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.
-  - name: Alex Simpson
-    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
-    department:
-      - SALES
-      - SCALE
-      - FUNDING
-      - GTM
-    bulletpoints:
-      - 4x Exited Founder
-      - Co-founder of Openstock (LiquidLP)
-      - >-
-        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
-        LiveGlass (Exited) 
-    content: >
-      Alex leads LiquidLP (previously known as Openstock), which focuses on
-      enabling Limited Partners and General Partners with lending solutions. As
-      an executive and builder in Fintech, Alex leverages his 12+ years of
-      experience and expertise in the fintech ecosystem to co-found, connect,
-      and architect businesses and people from the inside out. With a proven
-      track record, he has successfully generated seven-figure revenue streams,
-      secured over $200 million in funding for fintech ventures, and implemented
-      transformative growth and turnaround strategies for global corporations.In
-      addition to this, Alex serves as an advisor and investor in various
-      fintech companies. He is the co-founder of Kandua (exited) which helps
-      small service businesses grow. He is the co-founder of Kundau (Exited),
-      South Africa’s #1 online marketplace for home services. Alex is the
-      Venture Partner of Launchpad Capital, joined forces with Castle Creek
-      Capital in establishing a venture capital fund to catalyze change in
-      financial services through partnerships between fintech companies and 34
-      community bank Limited Partners. Alex was a Partner at Truenorth. He also
-      is a Co-founder (exited) of BizPay, a fintech platform enabling more
-      business for the industry by offering key suppliers immediate payments and
-      customized pay later solutions for their customers. Alex was the
-      co-founder of SOLDI POS (exited), an enterprise-grade integrated
-      Point-of-Sale designed to work across verticals and organization of all
-      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
-      of the Entrepreneurs Organization (EO).
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
