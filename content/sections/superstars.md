@@ -717,6 +717,43 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.
+  - name: Alex Simpson
+    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
+    department:
+      - SALES
+      - SCALE
+      - FUNDING
+      - GTM
+    bulletpoints:
+      - 4x Exited Founder
+      - Co-founder of Openstock (LiquidLP)
+      - >-
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited) 
+    content: >
+      Alex leads LiquidLP (previously known as Openstock), which focuses on
+      enabling Limited Partners and General Partners with lending solutions. As
+      an executive and builder in Fintech, Alex leverages his 12+ years of
+      experience and expertise in the fintech ecosystem to co-found, connect,
+      and architect businesses and people from the inside out. With a proven
+      track record, he has successfully generated seven-figure revenue streams,
+      secured over $200 million in funding for fintech ventures, and implemented
+      transformative growth and turnaround strategies for global corporations.In
+      addition to this, Alex serves as an advisor and investor in various
+      fintech companies. He is the co-founder of Kandua (exited) which helps
+      small service businesses grow. He is the co-founder of Kundau (Exited),
+      South Africa’s #1 online marketplace for home services. Alex is the
+      Venture Partner of Launchpad Capital, joined forces with Castle Creek
+      Capital in establishing a venture capital fund to catalyze change in
+      financial services through partnerships between fintech companies and 34
+      community bank Limited Partners. Alex was a Partner at Truenorth. He also
+      is a Co-founder (exited) of BizPay, a fintech platform enabling more
+      business for the industry by offering key suppliers immediate payments and
+      customized pay later solutions for their customers. Alex was the
+      co-founder of SOLDI POS (exited), an enterprise-grade integrated
+      Point-of-Sale designed to work across verticals and organization of all
+      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
+      of the Entrepreneurs Organization (EO).
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
@@ -981,42 +1018,5 @@ team:
       - CEO/Founder at Oneness Ventures
       - CEO/Founder at Findasense (Exited)
     content: "Tomy is the CEO & founder of Complex Chaos, an applied collaborative AI company backed by Village Global (chaired by Reid Hoffman and visionaries like Bill Gates, Jeff Bezos, Mark Zuckerberg, Anne Wojcicki, Eric Smidt, and many others). Tomy is also the CEO & Founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA). a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
-  - name: Alex Simpson
-    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
-    department:
-      - SALES
-      - SCALE
-      - FUNDING
-      - GTM
-    bulletpoints:
-      - 4x Exited Founder
-      - Co-founder of Openstock (LiquidLP)
-      - >-
-        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
-        LiveGlass (Exited) 
-    content: >
-      Alex leads LiquidLP (previously known as Openstock), which focuses on
-      enabling Limited Partners and General Partners with lending solutions. As
-      an executive and builder in Fintech, Alex leverages his 12+ years of
-      experience and expertise in the fintech ecosystem to co-found, connect,
-      and architect businesses and people from the inside out. With a proven
-      track record, he has successfully generated seven-figure revenue streams,
-      secured over $200 million in funding for fintech ventures, and implemented
-      transformative growth and turnaround strategies for global corporations.In
-      addition to this, Alex serves as an advisor and investor in various
-      fintech companies. He is the co-founder of Kandua (exited) which helps
-      small service businesses grow. He is the co-founder of Kundau (Exited),
-      South Africa’s #1 online marketplace for home services. Alex is the
-      Venture Partner of Launchpad Capital, joined forces with Castle Creek
-      Capital in establishing a venture capital fund to catalyze change in
-      financial services through partnerships between fintech companies and 34
-      community bank Limited Partners. Alex was a Partner at Truenorth. He also
-      is a Co-founder (exited) of BizPay, a fintech platform enabling more
-      business for the industry by offering key suppliers immediate payments and
-      customized pay later solutions for their customers. Alex was the
-      co-founder of SOLDI POS (exited), an enterprise-grade integrated
-      Point-of-Sale designed to work across verticals and organization of all
-      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
-      of the Entrepreneurs Organization (EO).
 ---
 
