@@ -65,7 +65,7 @@ const HowItWorks = ({ how_it_works }) => {
                           )}
                           {item.button.enable && (
                             <a
-                              className="btn btn-dark mt-4 bg-opacity-50 text-sm md:text-base"
+                              className="btn btn-light mt-4 text-sm md:text-base"
                               href={item.button.link}>
                               {item.button.label}
                             </a>
@@ -110,7 +110,7 @@ const HowItWorks = ({ how_it_works }) => {
                     )}
                     {item.button.enable && (
                       <a
-                        className="btn btn-dark mt-8 bg-opacity-50"
+                        className="btn btn-light mt-8"
                         href={item.button.link}>
                         {item.button.label}
                       </a>
