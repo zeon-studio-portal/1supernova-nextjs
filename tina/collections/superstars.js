@@ -72,6 +72,23 @@ const superstars = {
           type: "image",
         },
         {
+          label: "Logo",
+          name: "logo",
+          type: "object",
+          fields: [
+            {
+              label: "File",
+              name: "file",
+              type: "image",
+            },
+            {
+              label: "Alt",
+              name: "alt",
+              type: "string",
+            },
+          ],
+        },
+        {
           label: "Department",
           name: "department",
           type: "string",

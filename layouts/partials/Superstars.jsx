@@ -63,50 +63,6 @@ const Advisory = ({ superstars }) => {
               )}
             </div>
           </div>
-          <div className="row hidden pt-10">
-            {[].map((item, index) => (
-              <div key={index} className="md:col-3">
-                <div className="overflow-hidden rounded-2xl">
-                  <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
-                    <Image
-                      className="relative -z-10 w-full rounded-t-2xl object-cover"
-                      src={'/images/example-user.jpeg'}
-                      alt="wewe"
-                      width={300}
-                      height={300}
-                    />
-                    <div className="h4 absolute bottom-0 left-0 z-20 px-5 py-4 font-medium leading-snug">
-                      Product & Sales Advice
-                    </div>
-                  </div>
-                  <div className="bg-dark-tertiary px-5 pt-6">
-                    <div>
-                      <h3 className="h4">Michael Litt</h3>
-                      <div className="content content-superstar mt-2 [&>*]:text-sm">
-                        <p>Co-Founder & CEO - Vidyard</p>
-                        <p>GTM & Generative AI Expert</p>
-                        <ul>
-                          <li>4x Exited Founder</li>
-                          <li>4x Exited Founder</li>
-                          <li>4x Exited Founder</li>
-                          <li>4x Exited Founder</li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div className="mt-5 border-t border-t-primary/10 pb-8 pt-5 text-center">
-                      <Image
-                        className="mx-auto block rounded-t-2xl object-cover"
-                        src={'/images/superstars/logo/logo.svg'}
-                        alt="wewe"
-                        width={150}
-                        height={100}
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
 
           <div
             className="mb-10 overflow-x-auto"
@@ -135,70 +91,65 @@ const Advisory = ({ superstars }) => {
               ))}
             </div>
           </div>
-
-          <div
-            className="row row-cols-1 sm:row-cols-2 md:row-cols-4 lg:row-cols-5 xl:row-cols-6"
-            data-aos="fade-in">
-            {filteredMember.map((item, i) => (
-              <div
-                key={i}
-                className={`${item.content && 'team-card'} group col mb-8 ${
+          <div className="row gy-4 pt-10">
+            {filteredMember.map((item, index) => (
+              <div key={index} className="md:col-3">
+                <div className={`relative overflow-hidden group rounded-3xl [&.active]:border-primary-200 border-2 border-transparent ${
                   item.department.map((d) => slugify(d)).includes(active)
                     ? 'active'
                     : ''
                 }`}>
-                <div className="team-card-body">
-                  <div className="team-card-author">
-                    <div className="team-card-author-image shrink-0 rounded-full group-[.active]:border-[5px] group-[.active]:border-primary-600">
-                      <Image
-                        className="rounded-full object-cover"
-                        src={item.image}
-                        alt={item.name}
-                        width={160}
-                        height={160}
-                      />
-                    </div>
-                    <div className="team-card-author-content">
-                      <h3 className="my-2 text-[18px] font-semibold leading-snug">
-                        {item.name}
-                      </h3>
-                      <div className="text-[16px] leading-[1.3] text-[#868686] group-[.active]:text-primary-200">
-                        <ul className="ml-4 text-left lg:ml-0">
-                          {item.bulletpoints?.map((d, i) => (
-                            <li className="list-disc" key={i}>
-                              {d}
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    </div>
+                  <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
+                    <Image
+                      className="relative -z-10 max-h-[250px] w-full rounded-t-3xl object-cover object-center"
+                      src={item.image}
+                      alt={item.name}
+                      width={300}
+                      height={300}
+                    />
                   </div>
-                  <div className="team-card-content">
-                    {markdownify(
-                      item.content,
-                      'div',
-                      'text-[16px] font-medium text-dark-primary'
+                  <div className="bg-dark-tertiary px-5 pt-6">
+                    <div className="pb-5">
+                      <h3 className="h4">{item.name}</h3>
+                      {item.bulletpoints && (
+                        <div className="content content-superstar mt-2 [&>*]:text-sm">
+                          <ul>
+                            {item.bulletpoints?.map((d, i) => (
+                              <li key={i}>{d}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </div>
+                    {item.logo && item.logo.file && (
+                      <div className="border-t border-t-primary/10 pb-8 pt-5 text-center">
+                        <Image
+                          className="mx-auto block rounded-t-2xl object-cover"
+                          src={item.logo && item.logo.file}
+                          alt="company logo"
+                          width={150}
+                          height={100}
+                        />
+                      </div>
                     )}
-                    {item.brands && (
-                      <ul className="mt-5">
-                        {item.brands.map((b, i) => (
-                          <li key={i} className="mx-3 inline-block">
-                            <Image
-                              src={b}
-                              alt="brand logo"
-                              className="w-auto"
-                              width={100}
-                              height={40}
-                            />
-                          </li>
-                        ))}
-                      </ul>
-                    )}
+                  </div>
+                  {/* Overlay Content */}
+                  <div className="absolute inset-0 h-full w-full bg-dark-quaternary group-hover:visible invisible opacity-50 group-hover:opacity-100 duration-300 transition-[opacity]">
+                    <Image
+                      className="relative mx-auto mt-2 mb-4 block h-[70px] w-[70px] rounded-full object-cover"
+                      src={item.image}
+                      alt={item.name}
+                      width={100}
+                      height={100}
+                    />
+                    {item.content &&
+                      markdownify(item.content, 'div', 'content content-superstar [&>*]:text-sm p-5 pt-0 pb-10 overflow-y-auto h-[calc(100%_-_75px)]')}
                   </div>
                 </div>
               </div>
             ))}
           </div>
+
           {!loadItemsFinished ? (
             <button
               onClick={loadItemsHandler}
