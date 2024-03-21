@@ -93,7 +93,7 @@ const Advisory = ({ superstars }) => {
           </div>
           <div className="row gy-4 pt-10">
             {filteredMember.map((item, index) => (
-              <div key={index} className="md:col-3">
+              <div key={index} className="col-8 max-sm:max-w-full max-sm:w-[320px] max-sm:mx-auto sm:col-6 md:col-4 lg:col-3">
                 <div className={`relative overflow-hidden group rounded-3xl [&.active]:border-primary-200 border-2 border-transparent ${
                   item.department.map((d) => slugify(d)).includes(active)
                     ? 'active'
@@ -101,7 +101,7 @@ const Advisory = ({ superstars }) => {
                 }`}>
                   <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
                     <Image
-                      className="relative -z-10 max-h-[250px] w-full rounded-t-3xl object-cover object-center"
+                      className="relative -z-10 w-full rounded-t-3xl max-h-[250px] object-cover object-top"
                       src={item.image}
                       alt={item.name}
                       width={300}
@@ -153,14 +153,14 @@ const Advisory = ({ superstars }) => {
           {!loadItemsFinished ? (
             <button
               onClick={loadItemsHandler}
-              className="btn btn-light ml-auto block sm:hidden">
+              className="btn btn-light ml-auto block md:hidden mt-5">
               <span className="pointer-events-none me-2">
                 See More Superstars
               </span>
               ✨
             </button>
           ) : (
-            <button className="btn btn-light ml-auto block sm:hidden">
+            <button className="btn btn-light ml-auto block md:hidden mt-5">
               <span className="pointer-events-none me-2">
                 That's All Superstars
               </span>
