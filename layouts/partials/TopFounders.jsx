@@ -23,21 +23,16 @@ const TopFounders = ({ top_founders }) => {
             )}
           </div>
 
-          <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 md:grid-cols-4">
+          <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 md:grid-cols-3 lg:grid-cols-4">
             {top_founders.frontmatter.lists.map((item, index) => (
               <div
                 key={index}
-                className="mt-8 flex flex-col"
+                className="flex flex-col"
                 data-aos="fade-up-sm"
                 data-aos-delay={(index - 0.5) * 100}>
-                <div className="relative h-full rounded-b-3xl rounded-tr-3xl bg-[#2D2D2D]">
-                  <span
-                    className={`absolute left-0 -translate-y-full rounded-t-2xl bg-[#2D2D2D] px-4 pb-1 pt-2 text-[17px]`}
-                    style={{ color: colors[index] }}>
-                    {item.group}
-                  </span>
+                <div className="relative h-full overflow-hidden rounded-b-3xl rounded-t-3xl bg-[#2D2D2D]">
                   <Image
-                    className="h-auto w-full max-w-full rounded-b-3xl rounded-tr-3xl"
+                    className="h-auto w-full max-w-full rounded-b-3xl rounded-t-3xl"
                     src={item.image}
                     alt={item.name}
                     width={160}
@@ -52,14 +47,20 @@ const TopFounders = ({ top_founders }) => {
                     </span>
                   </div>
                 </div>
-                <div className="relative mx-auto mt-6 h-[60px] w-[170px]">
+                <div className="relative mx-auto mt-6 flex h-[55px] w-[170px] items-center">
                   <Image
-                    className="mx-auto !w-auto"
-                    src={item.brand_logo}
+                    width={item.brand_logo.width}
+                    height={item.brand_logo.height}
+                    className="mx-auto"
+                    src={item.brand_logo.file}
                     alt={item.name}
-                    fill
                   />
                 </div>
+                {item.description && (
+                  <div className="mt-3 px-2 text-[15px] text-light-quaternary">
+                    {item.description}
+                  </div>
+                )}
               </div>
             ))}
           </div>

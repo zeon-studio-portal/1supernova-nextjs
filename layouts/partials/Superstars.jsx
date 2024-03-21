@@ -94,7 +94,7 @@ const Advisory = ({ superstars }) => {
           <div className="row gy-4 pt-10">
             {filteredMember.map((item, index) => (
               <div key={index} className="col-8 max-sm:max-w-full max-sm:w-[320px] max-sm:mx-auto sm:col-6 md:col-4 lg:col-3">
-                <div className={`relative overflow-hidden group rounded-3xl [&.active]:border-primary-200 border-2 border-transparent ${
+                <div className={`relative min-h-full overflow-hidden group rounded-3xl [&.active]:border-primary-200 border-2 flex flex-col border-transparent ${
                   item.department.map((d) => slugify(d)).includes(active)
                     ? 'active'
                     : ''
@@ -108,7 +108,7 @@ const Advisory = ({ superstars }) => {
                       height={300}
                     />
                   </div>
-                  <div className="bg-dark-tertiary px-5 pt-6">
+                  <div className="bg-dark-tertiary px-5 pt-6 flex-1">
                     <div className="pb-5">
                       <h3 className="h4">{item.name}</h3>
                       {item.bulletpoints && (

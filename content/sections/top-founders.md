@@ -11,22 +11,58 @@ lists:
   - name: Juan Luis Betancourt
     image: /images/top-founders/juan-luis.jpg
     designation: CEO & Founder
-    brand_logo: /images/Logo_white_on_transparent_bg-106.png
-    group: Seed
+    description: World's first de-extinciton company
+    brand_logo:
+      width: 150
+      height: 110
+      file: /images/humantelligence-logo-white.svg
   - name: Paul Graf
     image: /images/top-founders/paul.jpg
     designation: CEO & Founder
-    brand_logo: /images/hym.png
-    group: Seed
+    description:
+    brand_logo:
+      width: 100
+      height: 80
+      file: /images/hym.png
   - name: Kathryn Fantauzzi
     image: /images/top-founders/kathryn.jpg
     designation: CEO & Founder
-    brand_logo: /images/top-founders/kathryn-brand.svg
-    group: Series A
+    description: World's first de-extinciton company
+    brand_logo:
+      width: 130
+      height: 50
+      file: /images/top-founders/kathryn-brand.svg
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
     designation: CEO & Founder (5x Exits)
-    brand_logo: /images/top-founders/ben-brand.svg
-    group: Series B
+    description:
+    brand_logo:
+      width: 130
+      height: 50
+      file: /images/top-founders/ben-brand.svg
+  - name: Ignacio Handal
+    image: /images/top-founders/ignacio-handal.png
+    designation: CEO & Founder
+    description: World's first de-extinciton company
+    brand_logo:
+      width: 130
+      height: 50
+      file: /images/top-founders/ignacio-handal-brand.png
+  - name: Ariane & Turner
+    image: /images/top-founders/ariane-turner.svg
+    designation: Co-founders
+    description: World's first de-extinciton company
+    brand_logo:
+      width: 130
+      height: 50
+      file: /images/top-founders/ariane-turner-brand.png
+  - name: Roberto Salcedo
+    image: /images/top-founders/roberto-salcedo.png
+    designation: CEO & Founder
+    description: World's first de-extinciton company
+    brand_logo:
+      width: 130
+      height: 50
+      file: /images/top-founders/roberto-salcedo-brand.webp
 ---
 
