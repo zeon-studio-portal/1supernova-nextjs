@@ -1,4 +1,3 @@
-import useLoadMore from '@hooks/useLoadMore';
 import useWindow from '@hooks/useWindow';
 import { markdownify, slugify } from '@lib/utils/textConverter';
 import Image from 'next/image';
@@ -6,16 +5,28 @@ import { useEffect, useState } from 'react';
 
 const Advisory = ({ superstars }) => {
   let allMembers = superstars.frontmatter.team;
-  const [mounted, setMounted] = useState(false);
   const [active, setActive] = useState('');
+  const [lastLoadedItems, setLastLoadedItems] = useState(4);
   const [filteredMember, setFilteredMember] = useState(allMembers);
-  const mobile = useWindow(539) < 540;
+  const mobile = useWindow(767) < 768;
+  const [loadedItems, setLoadedItems] = useState({
+    items: [],
+    finished: false,
+  });
 
-  const { loadedItems, loadItemsHandler, loadItemsFinished } = useLoadMore(
-    filteredMember,
-    6,
-    mounted
-  );
+  const handleLoadMore = ({ btnClicked }) => {
+    let items = [];
+    items = filteredMember.slice(
+      0,
+      btnClicked ? loadedItems.items.length + 4 : lastLoadedItems
+    );
+
+    setLoadedItems({
+      ...loadedItems,
+      items,
+      finished: items.length === filteredMember.length,
+    });
+  };
 
   const handleFilter = (item) => {
     setActive(item);
@@ -34,6 +45,18 @@ const Advisory = ({ superstars }) => {
       setFilteredMember(allMembers);
     }
   };
+
+  // show loadedItems on initial render and window innerWidth change (Didn't show increased loadedItems because btn is not clicked. Show increased loadedItems only after btn is clicked) 
+  useEffect(() => {
+    handleLoadMore({ btnClicked: false });
+  }, [filteredMember, mobile]);
+
+  // Save last loaded items to state
+  useEffect(() => {
+    setLastLoadedItems(loadedItems.items.length);
+  }, [loadedItems.items.length]);
+
+  const membersToRender = mobile ? loadedItems.items : filteredMember;
 
   return (
     superstars.frontmatter.enable === true && (
@@ -92,75 +115,86 @@ const Advisory = ({ superstars }) => {
             </div>
           </div>
           <div className="row gy-4 pt-10">
-            {filteredMember.map((item, index) => (
-              <div key={index} className="col-8 max-sm:max-w-full max-sm:w-[320px] max-sm:mx-auto sm:col-6 md:col-4 lg:col-3">
-                <div className={`relative min-h-full overflow-hidden group rounded-3xl [&.active]:border-primary-200 border-2 flex flex-col border-transparent ${
-                  item.department.map((d) => slugify(d)).includes(active)
-                    ? 'active'
-                    : ''
-                }`}>
-                  <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
-                    <Image
-                      className="relative -z-10 w-full rounded-t-3xl max-h-[250px] object-cover object-top"
-                      src={item.image}
-                      alt={item.name}
-                      width={300}
-                      height={300}
-                    />
-                  </div>
-                  <div className="bg-dark-tertiary px-5 pt-6 flex-1">
-                    <div className="pb-5">
-                      <h3 className="h4">{item.name}</h3>
-                      {item.bulletpoints && (
-                        <div className="content content-superstar mt-2 [&>*]:text-sm">
-                          <ul>
-                            {item.bulletpoints?.map((d, i) => (
-                              <li key={i}>{d}</li>
-                            ))}
-                          </ul>
+            {membersToRender &&
+              membersToRender.map((item, index) => (
+                <div
+                  key={index}
+                  className="col-8 sm:col-6 md:col-4 lg:col-3 max-sm:mx-auto max-sm:w-[320px] max-sm:max-w-full">
+                  <div
+                    className={`group relative flex min-h-full flex-col overflow-hidden rounded-3xl border-2 border-transparent [&.active]:border-primary-200 ${
+                      item.department.map((d) => slugify(d)).includes(active)
+                        ? 'active'
+                        : ''
+                    }`}>
+                    <div className="relative bg-gradient-to-t from-black/60 from-0% to-transparent to-50%">
+                      <Image
+                        className="relative -z-10 max-h-[250px] w-full rounded-t-3xl object-cover object-top"
+                        src={item.image}
+                        alt={item.name}
+                        width={300}
+                        height={300}
+                      />
+                    </div>
+                    <div className="flex-1 bg-dark-tertiary px-5 pt-6">
+                      <div className="pb-5">
+                        <h3 className="h4">{item.name}</h3>
+                        {item.bulletpoints && (
+                          <div className="content content-superstar mt-2 [&>*]:text-sm">
+                            <ul>
+                              {item.bulletpoints?.map((d, i) => (
+                                <li key={i}>{d}</li>
+                              ))}
+                            </ul>
+                          </div>
+                        )}
+                      </div>
+                      {item.logo && item.logo.file && (
+                        <div className="border-t border-t-primary/10 pb-8 pt-5 text-center">
+                          <Image
+                            className="mx-auto block rounded-t-2xl object-cover"
+                            src={item.logo && item.logo.file}
+                            alt="company logo"
+                            width={150}
+                            height={100}
+                          />
                         </div>
                       )}
                     </div>
-                    {item.logo && item.logo.file && (
-                      <div className="border-t border-t-primary/10 pb-8 pt-5 text-center">
-                        <Image
-                          className="mx-auto block rounded-t-2xl object-cover"
-                          src={item.logo && item.logo.file}
-                          alt="company logo"
-                          width={150}
-                          height={100}
-                        />
-                      </div>
-                    )}
-                  </div>
-                  {/* Overlay Content */}
-                  <div className="absolute inset-0 h-full w-full bg-dark-quaternary group-hover:visible invisible opacity-50 group-hover:opacity-100 duration-300 transition-[opacity]">
-                    <Image
-                      className="relative mx-auto mt-2 mb-4 block h-[70px] w-[70px] rounded-full object-cover"
-                      src={item.image}
-                      alt={item.name}
-                      width={100}
-                      height={100}
-                    />
-                    {item.content &&
-                      markdownify(item.content, 'div', 'content content-superstar [&>*]:text-sm p-5 pt-0 pb-10 overflow-y-auto h-[calc(100%_-_75px)]')}
+                    {/* Overlay Content */}
+                    <div className="invisible absolute inset-0 h-full w-full bg-dark-quaternary opacity-50 transition-[opacity] duration-300 group-hover:visible group-hover:opacity-100">
+                      <Image
+                        className="relative mx-auto mb-4 mt-2 block h-[70px] w-[70px] rounded-full object-cover"
+                        src={item.image}
+                        alt={item.name}
+                        width={100}
+                        height={100}
+                      />
+                      {item.content &&
+                        markdownify(
+                          item.content,
+                          'div',
+                          'content content-superstar [&>*]:text-sm p-5 pt-0 pb-10 overflow-y-auto h-[calc(100%_-_75px)]'
+                        )}
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
+              ))}
           </div>
-
-          {!loadItemsFinished ? (
-            <button
-              onClick={loadItemsHandler}
-              className="btn btn-light ml-auto block md:hidden mt-5">
-              <span className="pointer-events-none me-2">
-                See More Superstars
-              </span>
-              ✨
-            </button>
+          {!loadedItems.finished ? (
+            mobile && (
+              <button
+                onClick={() => {
+                  handleLoadMore({ btnClicked: true });
+                }}
+                className="btn btn-light ml-auto mt-5 block">
+                <span className="pointer-events-none me-2">
+                  See More Superstars
+                </span>
+                ✨
+              </button>
+            )
           ) : (
-            <button className="btn btn-light ml-auto block md:hidden mt-5">
+            <button className="btn btn-light ml-auto mt-5 block">
               <span className="pointer-events-none me-2">
                 That's All Superstars
               </span>
