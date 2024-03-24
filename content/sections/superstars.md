@@ -78,7 +78,7 @@ team:
       - Founding Partner at Rokk3r Fuel ($250MM Fund)
     content: "Christopher Staley is the Co-founder & Chief Investment Officer of Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG company he built with Jonas Temple (cofounder of Beatport & Beats by Dre). Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel, a $250MM+ global VC. \_\n"
   - name: Daniel Dubois
-    image: /images/Daniel.jpeg
+    image: /images/DanielDubois-R.jpg
     department:
       - COACHING
       - PRODUCT
