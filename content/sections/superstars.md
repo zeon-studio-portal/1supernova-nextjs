@@ -68,7 +68,7 @@ team:
       Fortune 500. Barry is a keynote speaker for work/life transformation. He
       is based in Charleston, SC.
   - name: 'Christopher Staley '
-    image: /images/_images_superstars_team-thumb-2.png
+    image: /images/ChristopherStaley-R.jpg
     department:
       - OPS
       - FUNDING
