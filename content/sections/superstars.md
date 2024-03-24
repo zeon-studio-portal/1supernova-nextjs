@@ -126,7 +126,7 @@ team:
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
   - name: Tim Chang
-    image: /images/superstars/timchang.png
+    image: /images/TimChang-r.jpg
     department:
       - COACHING
       - AI
