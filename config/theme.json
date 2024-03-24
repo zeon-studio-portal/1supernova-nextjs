@@ -26,5 +26,11 @@
       "tertiary": "#DDDDDD",
       "quaternary": "#C2C2C2"
     }
+  },
+  "fonts": {
+    "font_size": {
+      "base": "18",
+      "scale": "1.248"
+    }
   }
 }

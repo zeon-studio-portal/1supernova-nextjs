@@ -27,7 +27,7 @@ const aboutUs = ({ about }) => {
                 {markdownify(title, "h1", "font-bold mb-4")}
               </div>
               <div data-aos="fade-up-sm" data-aos-delay="50">
-                {markdownify(description, "p", "text-light-secondary")}
+                {markdownify(description, "p", "text-light-secondary md:text-xl")}
               </div>
             </div>
           </div>
@@ -78,7 +78,7 @@ const aboutUs = ({ about }) => {
                     {markdownify(
                       our_values.subtitle,
                       "p",
-                      "text-light-secondary"
+                      "text-light-secondary md:text-xl"
                     )}
                   </div>
                 </div>

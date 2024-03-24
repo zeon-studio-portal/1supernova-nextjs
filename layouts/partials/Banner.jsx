@@ -12,21 +12,17 @@ const Banner = ({ banner, founders }) => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="relative overflow-hidden pb-16 pt-12 md:pt-8 after:absolute after:inset-0 after:z-20 after:h-full after:w-full after:bg-dark-primary/70 after:content-['']">
-      <div className="relative z-30 flex sm:h-[calc(100vh_-_122px)] flex-col justify-around">
+    <section className="relative overflow-hidden pb-16 pt-12 after:absolute after:inset-0 after:z-20 after:h-full after:w-full after:bg-dark-primary/70 after:content-[''] md:pt-8">
+      <div className="relative z-30 flex flex-col justify-around sm:h-[calc(100vh_-_122px)]">
         <div className="container relative z-50 text-center">
           <div data-aos="fade-up">
-            {markdownify(
-              banner.title,
-              'h1',
-              'text-6xl/none font-medium mb-8'
-            )}
+            {markdownify(banner.title, 'h1', 'text-6xl/none font-medium mb-8')}
           </div>
           <div data-aos="fade-up" data-aos-delay="50">
             {markdownify(
               banner.subtitle,
               'p',
-              'sm:max-w-[400px] mx-auto mb-10'
+              'sm:max-w-[600px] mx-auto mb-10 md:text-xl'
             )}
           </div>
 
@@ -114,7 +110,7 @@ const Banner = ({ banner, founders }) => {
           />
         </div>
       </div>
-      <video
+      {/* <video
         id="banner-video-bg"
         className="absolute inset-0 z-10 h-full w-full object-cover"
         width="400"
@@ -126,7 +122,12 @@ const Banner = ({ banner, founders }) => {
         muted
         loop>
         <source src={banner.background_video_src} />
-      </video>
+      </video> */}
+      <div class="youtube-container absolute inset-0 z-10 h-full w-full object-cover">
+        <iframe
+          src="https://www.youtube.com/embed/Mq61xLTDdGI?playlist=Mq61xLTDdGI&autoplay=1&mute=1&loop=1&color=white&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1&start=34&controls=0&showinfo=0"
+          frameborder="0"></iframe>
+      </div>
     </section>
   );
 };

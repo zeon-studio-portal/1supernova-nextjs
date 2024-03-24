@@ -4,7 +4,7 @@ banner:
   subtitle: >-
     We Back Top Startups Changing the World With Advisory, Operational and
     Investment Support
-  background_video_src: "videos/banner-bg-video.mp4"
+  background_video_src: 'videos/banner-bg-video.mp4'
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
@@ -34,7 +34,7 @@ advisory:
   subtitle: 'Get backed by the #1 exited founder community'
   quote: >-
     Exited founders team up and share time, wisdom, resources and networks to
-    help startups achieve their mission, faster 
+    **help startups achieve their mission, faster**
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
@@ -66,4 +66,3 @@ advisory_game:
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
-

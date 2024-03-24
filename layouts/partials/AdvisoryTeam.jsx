@@ -18,7 +18,7 @@ const TopFounders = ({ advisory_team }) => {
             {markdownify(
               advisory_team.frontmatter.subtitle,
               'p',
-              'text-light-secondary'
+              'text-light-secondary md:text-xl'
             )}
           </div>
 

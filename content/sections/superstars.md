@@ -9,44 +9,41 @@ group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
   - name: Coaching
-    icon: /images/superstars/icons/community.svg
+    icon: /images/superstars/icons/coaching.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
   - name: GTM
-    icon: /images/superstars/icons/strategy.svg
-  - name: 'Leadership '
-    icon: /images/superstars/icons/human-resources.svg
+    icon: /images/superstars/icons/gtm.svg
+  - name: Leadership
+    icon: /images/superstars/icons/leadership.svg
   - name: M&A
-    icon: /images/superstars/icons/m-and-a.svg
+    icon: /images/superstars/icons/m&a.svg
   - name: Marketing
-    icon: /images/superstars/icons/finance.svg
+    icon: /images/superstars/icons/marketing.svg
   - name: Ops
-    icon: /images/superstars/icons/operations.svg
+    icon: /images/superstars/icons/ops.svg
   - name: Product
     icon: /images/superstars/icons/product.svg
   - name: Sales
-    icon: /images/superstars/icons/sales-marketing.svg
+    icon: /images/superstars/icons/sales.svg
   - name: Science
-    icon: /images/superstars/icons/leadership.svg
+    icon: /images/superstars/icons/science.svg
   - name: Scale
-    icon: /images/superstars/icons/social.svg
+    icon: /images/superstars/icons/scale.svg
   - name: Systems
-    icon: /images/superstars/icons/sustainability.svg
+    icon: /images/superstars/icons/systems.svg
   - name: Technology
     icon: /images/superstars/icons/technology.svg
 team:
-  - name: 'Barry Stamos '
+  - name: Barry Stamos
     image: /images/barry_stamos_.jpg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - AI
       - Scale
       - GTM
       - Leadership
       - AI
-      - 'Coaching '
+      - Coaching
       - SALES
       - MARKETING
       - TECHNOLOGY
@@ -72,9 +69,6 @@ team:
       is based in Charleston, SC.
   - name: 'Christopher Staley '
     image: /images/christopher_staley.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - OPS
       - FUNDING
@@ -85,9 +79,6 @@ team:
     content: "Christopher Staley is the Co-founder & Chief Investment Officer of Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG company he built with Jonas Temple (cofounder of Beatport & Beats by Dre). Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel, a $250MM+ global VC. \_\n"
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - COACHING
       - PRODUCT
@@ -108,9 +99,6 @@ team:
       venture capitalists and unicorn founders.
   - name: JT Marino
     image: /images/jt-1-5ece9936.jpg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SCALE
       - COACHING
@@ -139,9 +127,6 @@ team:
       State University. He is based in Phoenix, AZ.
   - name: 'Lindsay Nahmiache '
     image: /images/lindsay.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - LEADERSHIP
       - MARKETING
@@ -175,9 +160,6 @@ team:
       junkie.
   - name: Ben Lamm
     image: /images/_images_superstars_team-thumb-3.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - TECH
       - AI
@@ -194,9 +176,6 @@ team:
     content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Andrew Trader
     image: /images/AT.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SYSTEMS
       - GTM
@@ -227,9 +206,6 @@ team:
       leadership teams, organizational structure, and company culture.
   - name: Tim Chang
     image: /images/superstars/timchang.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - COACHING
       - AI
@@ -259,9 +235,6 @@ team:
       Departmental Scholar and received a full PhD fellowship.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - LEADERSHIP
       - SCALE
@@ -297,9 +270,6 @@ team:
       providers. He is based in Boston, Massachusetts.
   - name: Tiffany Liu
     image: /images/superstars/team-thumb-26.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - LEADERSHIP
       - SALES
@@ -325,9 +295,6 @@ team:
       Malaysia.
   - name: Chris Carson
     image: /images/1668277982538.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - STAFFING
       - AI
@@ -343,9 +310,6 @@ team:
     content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - AI
       - SCIENCE
@@ -379,9 +343,6 @@ team:
       philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Jonathan Shambroom
     image: /images/superstars/team-thumb-17.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SCALE
       - M&A
@@ -410,9 +371,6 @@ team:
       Jonathan also co-founded his own investment firm with two other GPs.
   - name: Gary Moon
     image: /images/superstars/team-thumb-9.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - M&A
       - STRATEGY
@@ -439,9 +397,6 @@ team:
       from Stanford University.
   - name: Roy Chung
     image: /images/38387311.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - GTM
       - SALES
@@ -462,9 +417,6 @@ team:
       McKinsey & Co.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - FUNDING
       - SCIENCE
@@ -479,9 +431,6 @@ team:
     content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
   - name: Caleb Jones
     image: /images/Caleb.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - OPS
       - AI
@@ -504,9 +453,6 @@ team:
       proprietary investment opportunities. He is based in Austin, Texas.
   - name: Peter Yared
     image: /images/superstars/peteryared.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - TECHNOLOGY
       - PRODUCT
@@ -535,9 +481,6 @@ team:
       TechCrunch and VentureBeat.
   - name: Johanna Mikkola
     image: /images/Johanna.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SCALE
       - PRODUCT
@@ -551,9 +494,6 @@ team:
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Joel French
     image: /images/Joel-French.jpg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - Scale
       - HR
@@ -586,9 +526,6 @@ team:
       integrated acquired capabilities from three technology companies.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - GTM
       - COACHING
@@ -612,9 +549,6 @@ team:
       purpose-driven enterprise.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - AI
       - FUNDING
@@ -639,9 +573,6 @@ team:
       their leadership teams. Hogan is based in Los Angeles, CA.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SALES
       - TALENT
@@ -671,14 +602,11 @@ team:
       is based in Dallas, Texas.
   - name: Keith Ferrazzi
     image: /images/superstars/team-thumb-5.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - LEADERSHIP
       - COACHING
       - SCALE
-      - 'SALES '
+      - SALES
     bulletpoints:
       - Founder of Ferrazzi Greenlight
       - CMO at Starwood & Deloitte
@@ -700,9 +628,6 @@ team:
       transformations.
   - name: Chang Kim
     image: /images/Chang-Kim-pic.jpg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - FUNDING
       - PRODUCT
@@ -718,9 +643,6 @@ team:
       and has his own fund called Rabbit VC.
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - OPS
       - CULTURE
@@ -747,9 +669,6 @@ team:
       an NIH grant.
   - name: J Patrick Bewley
     image: /images/superstars/team-thumb-18.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SCIENCE
       - TECHNOLOGY
@@ -765,9 +684,6 @@ team:
     content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also ran Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Tim Sae Koo
     image: /images/102929.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - COACHING
       - OPS
@@ -781,9 +697,6 @@ team:
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
   - name: Dan Ellis
     image: /images/Dan.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - AI
       - LEADERSHIP
@@ -805,9 +718,6 @@ team:
       based in Silicon Valley.
   - name: Seth Forsgren
     image: /images/Seth.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - PRODUCT
       - TECH
@@ -818,9 +728,6 @@ team:
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Andrew Sturner
     image: /images/123285.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - LEGAL/IP
       - FUNDING
@@ -856,9 +763,6 @@ team:
       event.
   - name: Michel Koopman
     image: /images/1682430241664.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - COACHING
       - SYSTEMS
@@ -886,9 +790,6 @@ team:
       University School of Business. He is based in Miami, Florida.
   - name: Juha Mikkola
     image: /images/Juha-Mikkola.jpg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - PRODUCT
       - TECHNOLOGY
@@ -910,9 +811,6 @@ team:
       solving and communication.
   - name: Luciana Ledesma
     image: /images/LUCIE.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - AI
       - STRATEGY
@@ -936,9 +834,6 @@ team:
       founders and their ventures.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - GROWTH
       - SALES
@@ -952,9 +847,6 @@ team:
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
   - name: Nick Murray
     image: /images/superstars/nickmurray-1.png
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SCALE
       - SALES
@@ -977,9 +869,6 @@ team:
       care homes, using mobile and wearable technologies.
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - SALES
       - LEADERSHIP
@@ -1003,9 +892,6 @@ team:
       University alum.
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - STRATEGY
       - PRODUCT
@@ -1049,9 +935,6 @@ team:
       We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Juston Brommel
     image: /images/JB.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - COACHING
       - MARKETING
@@ -1091,9 +974,6 @@ team:
       Santa Monica, California.
   - name: Grant Hunter
     image: /images/Grant.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - COACHING
       - SALES
@@ -1106,9 +986,6 @@ team:
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
   - name: 'Revant Gupta '
     image: /images/7S9A2603-r.jpg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - GTM
       - OPS
@@ -1121,9 +998,6 @@ team:
     content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
-    logo:
-      file: /images/superstars/logo/logo.svg
-      alt: vidyard
     department:
       - AI
       - GROWTH

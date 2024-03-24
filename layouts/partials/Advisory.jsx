@@ -15,7 +15,7 @@ const Advisory = ({ advisory }) => {
             {markdownify(advisory.title, 'h2', 'font-medium mb-4')}
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
-            {markdownify(advisory.subtitle, 'p', 'text-light-secondary')}
+            {markdownify(advisory.subtitle, 'p', 'text-light-secondary md:text-xl')}
           </div>
 
           <div className="mt-20 md:flex md:space-x-6 lg:space-x-10">
@@ -44,7 +44,7 @@ const Advisory = ({ advisory }) => {
                   {markdownify(
                     advisory.quote,
                     'p',
-                    'text-secondary-800 text-left font-secondary sm:text-2xl pl-10 -rotate-3 max-w-[310px]'
+                    'text-left font-secondary text-2xl pl-10 -rotate-3 max-w-[310px] [&>strong]:text-secondary-800 [&>strong]:font-normal'
                   )}
                 </div>
               </span>

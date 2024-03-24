@@ -26,7 +26,7 @@ const AdvisoryGame = ({ advisory_game }) => {
               {markdownify(
                 advisory_game.subtitle,
                 'p',
-                'text-light-secondary font-lg max-w-sm'
+                'text-light-secondary font-lg max-w-sm md:text-xl'
               )}
             </div>
           </div>

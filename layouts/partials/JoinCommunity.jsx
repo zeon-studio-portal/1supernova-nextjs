@@ -17,7 +17,7 @@ const TopFounders = ({ join_community }) => {
             {markdownify(
               join_community.frontmatter.subtitle,
               'p',
-              'text-light-secondary'
+              'text-light-secondary md:text-xl'
             )}
           </div>
 

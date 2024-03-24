@@ -1,3 +1,4 @@
+import ImageFallback from '@components/ImageFallback';
 import useWindow from '@hooks/useWindow';
 import { markdownify, slugify } from '@lib/utils/textConverter';
 import Image from 'next/image';
@@ -46,17 +47,25 @@ const Advisory = ({ superstars }) => {
     }
   };
 
-  // show loadedItems on initial render and window innerWidth change (Didn't show increased loadedItems because btn is not clicked. Show increased loadedItems only after btn is clicked) 
+  // show loadedItems on initial render and window innerWidth change (Didn't show increased loadedItems because btn is not clicked. Show increased loadedItems only after btn is clicked)
   useEffect(() => {
     handleLoadMore({ btnClicked: false });
   }, [filteredMember, mobile]);
 
   // Save last loaded items to state
   useEffect(() => {
-    setLastLoadedItems(loadedItems.items.length);
+    loadedItems.items.length && setLastLoadedItems(loadedItems.items.length);
   }, [loadedItems.items.length]);
 
   const membersToRender = mobile ? loadedItems.items : filteredMember;
+
+  const items = superstars.frontmatter.group_list;
+  const ww = [];
+  items.filter((item) => {
+    if (filteredMember[0]?.department.includes(item.name)) {
+      ww.push(item);
+    }
+  });
 
   return (
     superstars.frontmatter.enable === true && (
@@ -74,7 +83,7 @@ const Advisory = ({ superstars }) => {
               {markdownify(
                 superstars.frontmatter.subtitle,
                 'p',
-                'text-light-secondary'
+                'text-light-secondary md:text-xl'
               )}
             </div>
 
@@ -137,9 +146,18 @@ const Advisory = ({ superstars }) => {
                     </div>
                     <div className="flex-1 bg-dark-tertiary px-5 pt-6">
                       <div className="pb-5">
-                        <h3 className="h4">{item.name}</h3>
+                        <div className="relative mb-5">
+                          <h3 className="h6 pe-10">{item.name}</h3>
+                          <div className="absolute -right-5 -top-2 inline-block rounded-s-md bg-dark-secondary p-2.5">
+                            <img
+                              src="/images/favicon.png"
+                              alt="1supernova"
+                              width={20}
+                            />
+                          </div>
+                        </div>
                         {item.bulletpoints && (
-                          <div className="content content-superstar mt-2 [&>*]:text-sm">
+                          <div className="content content-superstar mt-2 [&>*]:text-[16px] [&>ul>li]:my-0">
                             <ul>
                               {item.bulletpoints?.map((d, i) => (
                                 <li key={i}>{d}</li>
@@ -148,20 +166,9 @@ const Advisory = ({ superstars }) => {
                           </div>
                         )}
                       </div>
-                      {item.logo && item.logo.file && (
-                        <div className="border-t border-t-primary/10 pb-8 pt-5 text-center">
-                          <Image
-                            className="mx-auto block rounded-t-2xl object-cover"
-                            src={item.logo && item.logo.file}
-                            alt="company logo"
-                            width={150}
-                            height={100}
-                          />
-                        </div>
-                      )}
                     </div>
                     {/* Overlay Content */}
-                    <div className="invisible absolute inset-0 h-full w-full bg-dark-quaternary opacity-50 transition-[opacity] duration-300 group-hover:visible group-hover:opacity-100">
+                    <div className="invisible absolute inset-0 h-full w-full overflow-auto bg-white opacity-50 transition-[opacity] duration-300 group-hover:visible group-hover:opacity-100">
                       <Image
                         className="relative mx-auto mb-4 mt-2 block h-[70px] w-[70px] rounded-full object-cover"
                         src={item.image}
@@ -169,11 +176,35 @@ const Advisory = ({ superstars }) => {
                         width={100}
                         height={100}
                       />
+                      <div className="flex flex-wrap bg-black gap-2 justify-center py-4 mx-2 px-1 rounded-md text-center">
+                        {item.department &&
+                          item.department.map((d, i) => (
+                            <div
+                              key={i}
+                              className={`group inline-flex select-none items-center rounded-md bg-dark-quaternary p-2 transition duration-200 hover:bg-secondary-200/10 [&.active]:bg-primary-800`}>
+                              <ImageFallback
+                                className="group-[.active]:contrast-200 group-[.active]:grayscale"
+                                src={
+                                  `/images/superstars/icons/` +
+                                  d.toLowerCase() +
+                                  `.svg`
+                                }
+                                fallback="/images/superstars/icons/fallback.svg"
+                                alt={d}
+                                width={20}
+                                height={20}
+                              />
+                              <span className="ml-2 block whitespace-nowrap text-sm">
+                                {d}
+                              </span>
+                            </div>
+                          ))}
+                      </div>
                       {item.content &&
                         markdownify(
                           item.content,
                           'div',
-                          'content content-superstar [&>*]:text-sm p-5 pt-0 pb-10 overflow-y-auto h-[calc(100%_-_75px)]'
+                          'content content-superstar [&>*]:text-sm py-5 px-2.5 [&>*]:text-black text-center mt-3 pt-0 pb-10 overflow-y-auto'
                         )}
                     </div>
                   </div>
@@ -186,7 +217,7 @@ const Advisory = ({ superstars }) => {
                 onClick={() => {
                   handleLoadMore({ btnClicked: true });
                 }}
-                className="btn btn-light ml-auto mt-5 block">
+                className="btn btn-light mx-auto mt-10 block">
                 <span className="pointer-events-none me-2">
                   See More Superstars
                 </span>
@@ -194,7 +225,7 @@ const Advisory = ({ superstars }) => {
               </button>
             )
           ) : (
-            <button className="btn btn-light ml-auto mt-5 block">
+            <button className="btn btn-light mx-auto mt-10 block">
               <span className="pointer-events-none me-2">
                 That's All Superstars
               </span>

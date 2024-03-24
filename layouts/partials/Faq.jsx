@@ -24,7 +24,7 @@ const Faq = ({ faq }) => {
                   {markdownify(
                     faq.frontmatter.subtitle,
                     'p',
-                    'text-light-tertiary leading-normal has-link has-link-secondary mb-8 hidden md:block'
+                    'text-light-tertiary md:text-xl leading-normal has-link has-link-secondary mb-8 hidden md:block'
                   )}
                 </div>
                 <div

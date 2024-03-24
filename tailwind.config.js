@@ -1,6 +1,13 @@
 const theme = require("./config/theme.json");
 
-const { primary } = theme.colors.primary;
+let font_base = Number(theme.fonts.font_size.base.replace("px", ""));
+let font_scale = Number(theme.fonts.font_size.scale);
+let h6 = font_scale;
+let h5 = h6 * font_scale;
+let h4 = h5 * font_scale;
+let h3 = h4 * font_scale;
+let h2 = h3 * font_scale;
+let h1 = h2 * font_scale;
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -58,16 +65,17 @@ module.exports = {
           "linear-gradient(119.47deg, #0AA5FE -10.19%, #02DDEB 20.98%, #FDD13B 47.06%, #FF8F81 78.87%, #C14ECF 111.95%)",
       },
       fontSize: {
-        base: "18px",
-        h1: "3.157rem",
-        h1_sm: "2.314rem",
-        h2: "2.369rem",
-        h2_sm: "2rem",
-        h3: "1.777rem",
-        h3_sm: "1.554rem",
-        h4: "1.333rem",
-        h5: "1rem",
-        h6: "0.75rem",
+        base: font_base + "px",
+        "base-sm": font_base * 0.8 + "px",
+        h1: h1 + "rem",
+        "h1_sm": h1 * 0.9 + "rem",
+        h2: h2 + "rem",
+        "h2_sm": h2 * 0.9 + "rem",
+        h3: h3 + "rem",
+        "h3_sm": h3 * 0.9 + "rem",
+        h4: h4 + "rem",
+        h5: h5 + "rem",
+        h6: h6 + "rem",
       },
       fontFamily: {
         primary: "var(--font-primary)",

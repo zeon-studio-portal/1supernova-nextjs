@@ -19,7 +19,7 @@ const TopFounders = ({ top_founders }) => {
             {markdownify(
               top_founders.frontmatter.subtitle,
               'p',
-              'text-light-secondary'
+              'text-light-secondary md:text-xl'
             )}
           </div>
 
@@ -47,7 +47,7 @@ const TopFounders = ({ top_founders }) => {
                     </span>
                   </div>
                 </div>
-                <div className="relative mx-auto mt-6 flex h-[55px] w-[170px] items-center">
+                <div className="relative mx-auto mt-6 flex h-[55px] w-full max-w-[170px] items-center">
                   <Image
                     width={item.brand_logo.width}
                     height={item.brand_logo.height}
