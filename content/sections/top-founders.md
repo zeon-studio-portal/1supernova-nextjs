@@ -39,7 +39,7 @@ lists:
   - name: Paul Graf
     image: /images/top-founders/paul.jpg
     designation: CEO & Founder
-    description: "Pediatric online therapy for all kids and teens \U0001F64B\U0001F3FB"
+    description: "Affordable online therapy for all kids and teens \U0001F64B\U0001F3FB"
     brand_logo:
       width: 100
       file: /images/hym.png
