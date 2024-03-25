@@ -449,7 +449,7 @@ team:
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
   - name: Peter Yared
-    image: /images/superstars/peteryared.png
+    image: /images/download.jpg
     department:
       - TECHNOLOGY
       - PRODUCT
