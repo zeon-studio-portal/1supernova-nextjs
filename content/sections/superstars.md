@@ -802,7 +802,7 @@ team:
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
   - name: Andrew Sturner
-    image: /images/123285.png
+    image: /images/download-11.jpg
     department:
       - LEGAL/IP
       - FUNDING
