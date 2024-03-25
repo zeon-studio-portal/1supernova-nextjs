@@ -837,7 +837,7 @@ team:
       Entourage Effect Capital to invest in this generational wealth creation
       event.
   - name: Michel Koopman
-    image: /images/1682430241664.jpeg
+    image: /images/download-12.jpg
     department:
       - COACHING
       - SYSTEMS
