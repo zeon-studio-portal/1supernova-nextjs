@@ -201,7 +201,7 @@ team:
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
   - name: Rob Reid
-    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
+    image: /images/vb-dqdcz_400x400.jpg
     department:
       - SCIENCE
       - SYSTEMS
