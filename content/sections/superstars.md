@@ -415,7 +415,7 @@ team:
   - name: Peter Kellner
     image: /images/images-1.jpg
     department:
-      - FUNDING
+      - 'FUNDING '
       - SCIENCE
       - TECHNOLOGY
       - GTM
