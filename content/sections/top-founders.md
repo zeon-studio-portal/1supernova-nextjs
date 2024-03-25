@@ -11,7 +11,7 @@ lists:
   - name: Kathryn Fantauzzi
     image: /images/top-founders/kathryn.jpg
     designation: CEO & Founder
-    description: "Calm your mind to stress less and sleep more, effortlessly \U0001F9D8\U0001F3FB"
+    description: "Calm your mind to stress less and sleep more, effortlessly \U0001F9D8\U0001F3FD"
     brand_logo:
       width: 130
       file: /images/top-founders/kathryn-brand.svg
