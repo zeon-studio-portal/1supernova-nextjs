@@ -9,41 +9,41 @@ group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
   - name: Coaching
-    icon: /images/superstars/icons/community.svg
+    icon: /images/superstars/icons/coaching.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
   - name: GTM
-    icon: /images/superstars/icons/strategy.svg
-  - name: 'Leadership '
-    icon: /images/superstars/icons/human-resources.svg
+    icon: /images/superstars/icons/gtm.svg
+  - name: Leadership
+    icon: /images/superstars/icons/leadership.svg
   - name: M&A
-    icon: /images/superstars/icons/m-and-a.svg
+    icon: /images/superstars/icons/m&a.svg
   - name: Marketing
-    icon: /images/superstars/icons/finance.svg
+    icon: /images/superstars/icons/marketing.svg
   - name: Ops
-    icon: /images/superstars/icons/operations.svg
+    icon: /images/superstars/icons/ops.svg
   - name: Product
     icon: /images/superstars/icons/product.svg
   - name: Sales
-    icon: /images/superstars/icons/sales-marketing.svg
+    icon: /images/superstars/icons/sales.svg
   - name: Science
-    icon: /images/superstars/icons/leadership.svg
+    icon: /images/superstars/icons/science.svg
   - name: Scale
-    icon: /images/superstars/icons/social.svg
+    icon: /images/superstars/icons/scale.svg
   - name: Systems
-    icon: /images/superstars/icons/sustainability.svg
+    icon: /images/superstars/icons/systems.svg
   - name: Technology
     icon: /images/superstars/icons/technology.svg
 team:
-  - name: 'Barry Stamos '
-    image: /images/BarryStamos-r.jpg
+  - name: Barry Stamos
+    image: /images/barry_stamos_.jpg
     department:
       - AI
       - Scale
       - GTM
       - Leadership
       - AI
-      - 'Coaching '
+      - Coaching
       - SALES
       - MARKETING
       - TECHNOLOGY
@@ -68,7 +68,7 @@ team:
       Fortune 500. Barry is a keynote speaker for work/life transformation. He
       is based in Charleston, SC.
   - name: 'Christopher Staley '
-    image: /images/ChristopherStaley-R.jpg
+    image: /images/christopher_staley.jpeg
     department:
       - OPS
       - FUNDING

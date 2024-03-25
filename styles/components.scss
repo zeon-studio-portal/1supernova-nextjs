@@ -9,10 +9,10 @@
 }
 
 // AOS Style
-[data-aos="fade-up-sm"] {
+[data-aos='fade-up-sm'] {
   transform: translate3d(0, 30px, 0);
 }
-[data-aos="rotate"] {
+[data-aos='rotate'] {
   opacity: 0;
   transform: rotateZ(360deg);
   transition-property: transform, opacity;
@@ -37,12 +37,14 @@
     @apply -left-[350px] top-0 md:-left-[220px] md:top-[5%];
     transform-origin: top;
     img {
+      @apply max-sm:opacity-60;
       animation: rotate 100s linear infinite;
     }
   }
   &-right {
     @apply -right-[285px] bottom-0 top-auto rotate-[190deg] md:-right-[185px] md:bottom-auto md:top-[15%];
     img {
+      @apply max-sm:opacity-60;
       animation: rotate 100s linear infinite reverse;
     }
   }
@@ -145,14 +147,14 @@
 }
 
 .video-wrapper {
-  @apply relative mx-auto inline-block aspect-video h-[120px] overflow-hidden rounded-xl sm:h-[200px] 2xl:h-[300px];
+  @apply relative mx-auto inline-block aspect-video h-[65px] overflow-hidden rounded-xl;
   iframe {
     width: 500%;
     height: 100%;
     margin-left: -200%;
   }
   &-btn {
-    @apply absolute left-0 top-0 z-10 flex h-full w-full items-center justify-center;
+    @apply absolute left-0 top-0 z-10 flex w-full items-center justify-center;
     &-icon {
       @apply h-16 w-16 rounded-full bg-primary-600/50 text-center leading-[60px];
     }
@@ -181,6 +183,16 @@
   @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:leading-tight prose-headings:text-light-primary;
   @apply prose-p:text-base prose-p:text-gray-400;
   @apply prose-a:text-light-primary prose-a:underline;
+
+  &-superstar {
+    @apply prose-p:mb-1.5 prose-p:mt-0 prose-ul:pl-4 prose-li:text-light-quaternary;
+  }
+  & > *:first-child {
+    @apply mt-0;
+  }
+  & > *:last-child {
+    @apply mb-0;
+  }
 }
 
 .team-card {
@@ -271,6 +283,31 @@
       &-content {
         @apply block;
       }
+    }
+  }
+}
+
+.video-background {
+  overflow: hidden;
+  width: 100vw;
+  min-height: 800px;
+  position: absolute;
+  top: 0;
+
+  iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+
+    @media (min-aspect-ratio: 16/9) {
+      height: 56.25vw;
+    }
+
+    @media (max-aspect-ratio: 16/9) {
+      width: 177.78vh;
     }
   }
 }
