@@ -11,7 +11,7 @@ lists:
   - name: Juan Luis Betancourt
     image: /images/top-founders/juan-luis.jpg
     designation: CEO & Founder
-    description: World's first de-extinciton company
+    description: AI for smarter collaboration and team performance
     brand_logo:
       width: 150
       height: 110
@@ -19,7 +19,7 @@ lists:
   - name: Paul Graf
     image: /images/top-founders/paul.jpg
     designation: CEO & Founder
-    description:
+    description: Personalized child and teen therapy online
     brand_logo:
       width: 100
       height: 80
@@ -27,7 +27,7 @@ lists:
   - name: Kathryn Fantauzzi
     image: /images/top-founders/kathryn.jpg
     designation: CEO & Founder
-    description: World's first de-extinciton company
+    description: Stress less and sleep more, effortlessly
     brand_logo:
       width: 130
       height: 50
@@ -35,7 +35,7 @@ lists:
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
     designation: CEO & Founder (5x Exits)
-    description:
+    description: World’s first de-extinction company
     brand_logo:
       width: 130
       height: 50
@@ -43,7 +43,7 @@ lists:
   - name: Ignacio Handal
     image: /images/top-founders/ignacio-handal.png
     designation: CEO & Founder
-    description: World's first de-extinciton company
+    description: Detect 80+ mental health conditions in one assessment
     brand_logo:
       width: 130
       height: 50
@@ -59,7 +59,7 @@ lists:
   - name: Roberto Salcedo
     image: /images/top-founders/roberto-salcedo.png
     designation: CEO & Founder
-    description: World's first de-extinciton company
+    description: Smart micro financing for everyone
     brand_logo:
       width: 130
       height: 50

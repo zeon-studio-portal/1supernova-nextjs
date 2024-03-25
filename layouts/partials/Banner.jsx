@@ -110,10 +110,9 @@ const Banner = ({ banner, founders }) => {
           />
         </div>
       </div>
-      <div class="video-background">
+      <div className="video-background">
         <iframe
-          src="https://www.youtube.com/embed/Mq61xLTDdGI?playlist=Mq61xLTDdGI&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34"
-          frameborder="0"></iframe>
+          src="https://www.youtube.com/embed/Mq61xLTDdGI?playlist=Mq61xLTDdGI&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34"></iframe>
       </div>
     </section>
   );
