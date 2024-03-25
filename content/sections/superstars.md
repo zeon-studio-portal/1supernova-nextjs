@@ -676,7 +676,7 @@ team:
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
       and has his own fund called Rabbit VC.
   - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
+    image: /images/download-8.jpg
     department:
       - SCIENCE
       - TECHNOLOGY
