@@ -364,7 +364,7 @@ team:
       150+ companies, leading his own investments, and serving on boards.
       Jonathan also co-founded his own investment firm with two other GPs.
   - name: Gary Moon
-    image: /images/superstars/team-thumb-9.png
+    image: /images/1516070710044.jpg
     department:
       - M&A
       - STRATEGY
