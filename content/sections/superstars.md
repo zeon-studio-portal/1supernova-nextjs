@@ -413,7 +413,7 @@ team:
       Manufacturing Operations, Corporate Development, Mergers & Acquisitions
       (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Peter Kellner
-    image: /images/superstars/peterkellner.png
+    image: /images/images.jpg
     department:
       - FUNDING
       - SCIENCE
