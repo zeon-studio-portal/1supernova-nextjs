@@ -776,7 +776,7 @@ team:
       and appliances (Exited). His zone of genius are product, ops and
       technology.
   - name: Tuck Stibich PhD
-    image: /images/superstars/team-thumb-25.png
+    image: /images/download-10.jpg
     department:
       - OPS
       - CULTURE
