@@ -11,7 +11,7 @@ lists:
   - name: Kathryn Fantauzzi
     image: /images/top-founders/kathryn.jpg
     designation: CEO & Founder
-    description: 'Wearable AI to stress less and sleep more, effortlessly ⚡'
+    description: 'Calm your mind to stress less and sleep more, effortlessly ⚡'
     brand_logo:
       width: 130
       file: /images/top-founders/kathryn-brand.svg
