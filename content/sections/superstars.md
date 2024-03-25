@@ -36,7 +36,7 @@ group_list:
     icon: /images/superstars/icons/technology.svg
 team:
   - name: Barry Stamos
-    image: /images/barry_stamos_.jpg
+    image: /images/BarryStamos-r.jpg
     department:
       - AI
       - Scale
