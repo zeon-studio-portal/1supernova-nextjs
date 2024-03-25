@@ -548,7 +548,7 @@ team:
       for senior-most executives driving large-scale organization
       transformations.
   - name: Gerard Adams
-    image: /images/superstars/team-thumb-21.png
+    image: /images/download-6.jpg
     department:
       - GTM
       - COACHING
