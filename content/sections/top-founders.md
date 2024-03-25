@@ -25,7 +25,7 @@ lists:
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
     designation: CEO & Founder (5x Exits)
-    description: World’s first de-extinction company
+    description: "World’s first de-extinction company \U0001F984"
     brand_logo:
       width: 130
       file: /images/top-founders/ben-brand.svg
