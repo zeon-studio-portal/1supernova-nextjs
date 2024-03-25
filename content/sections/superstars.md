@@ -220,7 +220,7 @@ team:
       (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
       bestselling science fiction author, and science podcaster.
   - name: Scott Weller
-    image: /images/Screenshot 2023-05-02 at 9.01.03 AM.png
+    image: /images/DjoesoLi_400x400.jpg
     department:
       - LEADERSHIP
       - SCALE
