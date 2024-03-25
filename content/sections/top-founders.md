@@ -46,7 +46,7 @@ lists:
   - name: 'Juan Luis Betancourt '
     image: /images/top-founders/juan-luis.jpg
     designation: CEO & Founder
-    description: AI for smarter collaboration and team performance
+    description: "AI for smarter collaboration and team performance \U0001F469\U0001F3FD‍\U0001F4BB"
     brand_logo:
       width: 150
       file: /images/humantelligence-logo-white.svg
