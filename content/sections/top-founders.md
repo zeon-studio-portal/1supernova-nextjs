@@ -27,7 +27,7 @@ lists:
   - name: Kathryn Fantauzzi
     image: /images/top-founders/kathryn.jpg
     designation: CEO & Founder
-    description: Stress less and sleep more, effortlessly
+    description: 'Stress less and sleep more, effortlessly'
     brand_logo:
       width: 130
       height: 50
@@ -65,4 +65,6 @@ lists:
       height: 50
       file: /images/top-founders/roberto-salcedo-brand.webp
 ---
+
+
 

@@ -64,10 +64,11 @@ const topFounders = {
           name: 'brand_logo',
           type: 'object',
           fields: [
-            { label: 'Width', name: 'width', type: 'string' },
+            { label: 'Width', name: 'width', type: 'number' },
+            { label: 'Height', name: 'height', type: 'number' },
             { label: 'File', name: 'file', type: 'image' },
           ],
-        }
+        },
       ],
       ui: {
         itemProps: (item) => {
