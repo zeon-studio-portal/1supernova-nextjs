@@ -524,7 +524,7 @@ team:
       automation with 2,000 health plans. In addition to its organic growth, SCI
       integrated acquired capabilities from three technology companies.
   - name: Keith Ferrazzi
-    image: /images/download-4.jpg
+    image: /images/58193.jpg
     department:
       - LEADERSHIP
       - COACHING
