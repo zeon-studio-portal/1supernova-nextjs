@@ -32,7 +32,7 @@ lists:
   - name: Ignacio Handal
     image: /images/top-founders/ignacio-handal.png
     designation: CEO & Founder
-    description: "Augmented intelligence for mental healthcare \U0001F9E0 "
+    description: "Augmented intelligence for mental healthcare \U0001F9E0"
     brand_logo:
       width: 130
       file: /images/top-founders/ignacio-handal-brand.png
