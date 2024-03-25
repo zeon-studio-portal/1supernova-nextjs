@@ -185,9 +185,11 @@ team:
       - M&A
       - COACHING
     bulletpoints:
-      - 4x Exited Founder
-      - Operating Partner at Bullpen Capital
-      - 'Co-founder at Zynga (IPO), Madison Reed, Coremetrics'
+      - >-
+        AT is a 5-time founder with 3 exits: Zynga ($8B market cap), Madison
+        Reed (raised 120M), Coremetrics (acquired by IBM for $377M), and Tribe
+        (Acquired by Cisco).  Coached 30 CEO’s over the past 10 years he has
+        helped companies raise over $500M in follow-on capital.
     content: >
       A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
       an entrepreneur, he co-founded 5 companies with $13b in exits including
