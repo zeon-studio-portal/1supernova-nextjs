@@ -50,12 +50,5 @@ lists:
     brand_logo:
       width: 150
       file: /images/humantelligence-logo-white.svg
-  - name: Ariane & Turner
-    image: /images/top-founders/ariane-turner.svg
-    designation: Co-founders
-    description: World's first de-extinciton company
-    brand_logo:
-      width: 130
-      file: /images/top-founders/ariane-turner-brand.png
 ---
 
