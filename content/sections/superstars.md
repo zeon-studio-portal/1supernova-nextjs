@@ -775,8 +775,8 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.
-  - name: Tuck Stibich PhD
-    image: /images/download-10.jpg
+  - name: Tuck Stibich
+    image: /images/download-13.jpg
     department:
       - OPS
       - CULTURE
