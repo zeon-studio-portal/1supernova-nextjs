@@ -336,7 +336,7 @@ team:
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Jonathan Shambroom
-    image: /images/superstars/team-thumb-17.png
+    image: /images/1627622186259.jpg
     department:
       - SCALE
       - M&A
