@@ -18,8 +18,8 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: >-
-      Supernova got hands-on and 3x our sales! It's not always what you know,
-      it's who you know.
+      Supernova got hands-on to 3x sales! It's not always what you know, it's
+      who you know. 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
@@ -39,7 +39,7 @@ items:
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
     company: SleepSpace
-    quote: Supernova is a 1-of-a-kind advisory and flywheel for Founders.
+    quote: Supernova is a flywheel for Founders.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder

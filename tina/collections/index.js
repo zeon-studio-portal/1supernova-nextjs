@@ -28,8 +28,8 @@ const index = {
           type: "string",
         },
         {
-          label: "Background Video Source",
-          name: "background_video_src",
+          label: "Background Video Youtube Id",
+          name: "background_youtube_video_id",
           type: "string",
         },
         {

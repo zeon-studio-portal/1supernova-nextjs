@@ -1,9 +1,9 @@
 ---
 enable: true
 title: Meet the Superstars ✨
-subtitle: Over 150+ exited founders ready to serve as growth catalysts for your company
+subtitle: Over 150+ exited founders ready to serve your company as all-star teams
 quote: >-
-  We orbit around your needs as all-star advisory teams, mentors, and ceo
+  We orbit around your needs as bespoke advisory boards, mentors, and ceo
   coaches
 group_list:
   - name: AI
@@ -78,7 +78,7 @@ team:
       - Founding Partner at Rokk3r Fuel ($250MM Fund)
     content: "Christopher Staley is the Co-founder & Chief Investment Officer of Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG company he built with Jonas Temple (cofounder of Beatport & Beats by Dre). Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel, a $250MM+ global VC. \_\n"
   - name: Daniel Dubois
-    image: /images/Daniel.jpeg
+    image: /images/DanielDubois-R.jpg
     department:
       - COACHING
       - PRODUCT
@@ -98,7 +98,7 @@ team:
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
   - name: JT Marino
-    image: /images/jt-1-5ece9936.jpg
+    image: /images/Screenshot 2024-03-24 at 9.48.54 AM.png
     department:
       - SCALE
       - COACHING
@@ -125,41 +125,37 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: 'Lindsay Nahmiache '
-    image: /images/lindsay.jpeg
+  - name: Tim Chang
+    image: /images/TimChang-r.jpg
     department:
-      - LEADERSHIP
-      - MARKETING
-      - GTM
-      - SALES
+      - COACHING
+      - AI
+      - FUNDING
+      - IMPACT
+      - WEB3
     bulletpoints:
-      - Board Member at Songtradr (Series E)
-      - Founder & CEO at Jive (Exited)
-      - PR at E! Entertainment
+      - Partner at Mayfield Fund
+      - Partner at Norwest Venture Partners
+      - Midas List of top 100 VCs
     content: >
-      Lindsay is a founding member of Legacy 8, an early stage venture capital
-      fund that focuses on the intersection of science and consciousness.
-      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
-      relations agency in Los Angeles, Vancouver and Toronto as well as the
-      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
-      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
-      North America to start her first business after six years working abroad
-      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
-      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
-      Women by the Financial Post, an Enterprising Women of the Year, Top 40
-      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
-      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
-      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
-      Change Film Festival and a mentor for WXN (Women's Executive Network) and
-      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
-      financial literacy in youth. She built a financial literacy app for kids
-      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
-      Pig Savings). She has an honors degree (summa cum laude) from the
-      International University of London, UK, an Entrepreneurial Strategy
-      certificate from Harvard Business School and is an insatiable travel
-      junkie.
+      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
+      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
+      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
+      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
+      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
+      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
+      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
+      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
+      He was also actively involved with the boards of Placeware (acquired by
+      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
+      by private equity syndicate). Tim received his MBA from the Stanford
+      Graduate School of Business, where he graduated in the top 10% of his
+      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
+      Electrical Engineering from the University of Michigan, where he was a
+      Departmental Scholar and received a full PhD fellowship.
   - name: Ben Lamm
-    image: /images/_images_superstars_team-thumb-3.png
+    image: /images/BenLamm-r.jpg
     department:
       - TECH
       - AI
@@ -204,35 +200,25 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
-  - name: Tim Chang
-    image: /images/superstars/timchang.png
+  - name: Rob Reid
+    image: /images/f4299c405557e817a40ba1753b9765ac2e68fd67_254x191.jpg
     department:
-      - COACHING
+      - SCIENCE
+      - SYSTEMS
       - AI
       - FUNDING
-      - IMPACT
-      - WEB3
+      - COACHING
     bulletpoints:
-      - Partner at Mayfield Fund
-      - Partner at Norwest Venture Partners
-      - Midas List of top 100 VCs
+      - Co-founder Resilience Reserve VC
+      - Founder of Listen.com (Exit to RealNetworks)
+      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
     content: >
-      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
-      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
-      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
-      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
-      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
-      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
-      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
-      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
-      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
-      He was also actively involved with the boards of Placeware (acquired by
-      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
-      by private equity syndicate). Tim received his MBA from the Stanford
-      Graduate School of Business, where he graduated in the top 10% of his
-      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
-      Electrical Engineering from the University of Michigan, where he was a
-      Departmental Scholar and received a full PhD fellowship.
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Scott Weller
     image: /images/1675213967983.jpeg
     department:
@@ -268,33 +254,8 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Tiffany Liu
-    image: /images/superstars/team-thumb-26.png
-    department:
-      - LEADERSHIP
-      - SALES
-      - SOCIAL
-      - IMPACT
-    bulletpoints:
-      - Founder at Soul Seated Journey
-      - GM & VP at Legal Zoom
-      - Co-founder at Logrado (Exited)
-    content: >
-      Tiffany Liu is the Founder of Soul Seated Journey, a 501(c)(3) youth
-      development nonprofit. Tiffany was the CEO & Co-founder of Logrado
-      (Exited), an ed-tech company. She was a Gates Foundation grant recipient.
-      Tiffany served as a Fortune 50 executive as the General Manager and Vice
-      President of Innovation and B2B Sales at Legalzoom (IPO) where she led the
-      effort to expand the company's core business into emerging markets. Before
-      LegalZoom, Tiffany worked for Enterprise Services (ES), where she excelled
-      as part of the CIO staff where her business unit was responsible for
-      strategic IT advisory, solution development, and partnership operations.
-      Currently, Tiffany lives in the Santa Cruz mountains with her partner and
-      their labradoodle, Momoe. Tiffany volunteers in her community and serves
-      as the Transformation Executive Advisor for Tzu Chi Charitable Foundation,
-      Malaysia.
   - name: Chris Carson
-    image: /images/1668277982538.jpeg
+    image: /images/1685460170918.jpeg
     department:
       - STAFFING
       - AI
@@ -308,6 +269,39 @@ team:
       - Founder & CEO at Nueevo Technologies
       - 'Founder & CEO at Louisa (Exited) '
     content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+  - name: 'Lindsay Nahmiache '
+    image: /images/lindsay.jpeg
+    department:
+      - LEADERSHIP
+      - MARKETING
+      - GTM
+      - SALES
+    bulletpoints:
+      - Board Member at Songtradr (Series E)
+      - Founder & CEO at Jive (Exited)
+      - PR at E! Entertainment
+    content: >
+      Lindsay is a founding member of Legacy 8, an early stage venture capital
+      fund that focuses on the intersection of science and consciousness.
+      Lindsay is the co-founder of Jive PR + Digital, an award-winning public
+      relations agency in Los Angeles, Vancouver and Toronto as well as the
+      Chief Marketing Officer of Songtradr Inc. the world's largest B2B Music
+      Licensing Marketplace. An ambitious entrepreneur, Lindsay returned to
+      North America to start her first business after six years working abroad
+      for E! Entertainment in London, UK and Contiloe Films in Mumbai, India
+      (a.k.a. Bollywood). Lindsay is recognized as one of the 100 Most Powerful
+      Women by the Financial Post, an Enterprising Women of the Year, Top 40
+      Under 40, PROFIT: Top Female Entrepreneurs, and ambassador to UN for
+      Women's Entrepreneurship, She is an adviser for St. Paul's Hospital
+      Foundation's Future Leaders, co-founder of the not-for-profit Projecting
+      Change Film Festival and a mentor for WXN (Women's Executive Network) and
+      CPRS. One of Lindsay's biggest passions is fostering entrepreneurship and
+      financial literacy in youth. She built a financial literacy app for kids
+      aged 2-4 and wrote a book that teaches them the importance of saving (Pogo
+      Pig Savings). She has an honors degree (summa cum laude) from the
+      International University of London, UK, an Entrepreneurial Strategy
+      certificate from Harvard Business School and is an insatiable travel
+      junkie.
   - name: Leo Rastogi
     image: /images/superstars/team-thumb-22.png
     department:
@@ -395,26 +389,29 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Roy Chung
-    image: /images/38387311.jpeg
+  - name: TJ Grewal
+    image: /images/TJ.jpeg
     department:
+      - OPERATIONS
       - GTM
-      - SALES
+      - PRODUCT
       - SCALE
-      - FUNDING
+      - COACHING
       - TECHNOLOGY
     bulletpoints:
-      - Founder at Apollo (Series C)
-      - Venture Partner at Joyfund
-      - 'S14’, W16’ at Y-Combinator'
+      - Founder at Carport
+      - CPO at Soraa (Exit to Ecosense)
+      - Founding CPO at Beats by Dre (Exit to Apple)
     content: >
-      Roy Chung is the Founder & COO of Apollo (Series C), the leading GTM
-      platform used by +30,000 organizations and +1MM users to drive revenue.
-      Companies like Oracle, Qualtrics, Salesforce, eBay, and Google rely on
-      Apollo to provide business intelligence and drive revenue growth. Backed
-      by Sequoia Capital, Tribe, Y Combinator & Nexus VC. Roy is co-founder in
-      the Joy Fund and Partner in Lionheart Ventures. He started his career at
-      McKinsey & Co.
+      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
+      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
+      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
+      developed his problem-solving skills. TJ has a star-studded background in
+      product, operations, strategy and business development. He is an
+      experienced Senior leader with a demonstrated history of working in the
+      consumer electronics industry. Skilled in Go-to-market Strategy,
+      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
+      (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Peter Kellner
     image: /images/superstars/peterkellner.png
     department:
@@ -441,7 +438,7 @@ team:
     bulletpoints:
       - Founder & CEO of Ink
       - Advisor to Tellus Investment Partners
-      - Co-founder of Code Pilot (Exited to AngelList)
+      - Co-founder of Code Pilot (Exit to AngelList)
     content: >
       Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
       solution. Caleb was the co-founder and COO of Code Pilot (exited to
@@ -489,7 +486,7 @@ team:
       - TECHNOLOGY
     bulletpoints:
       - Co-founder Wyntalent
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - ' Co-Founder, Wyncode (Exit to BrainStation)'
       - 'Endeavor Entrepreneur '
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Joel French
@@ -524,6 +521,32 @@ team:
       hospitals, 14,000 physician practices, millions of end-user patients, and
       automation with 2,000 health plans. In addition to its organic growth, SCI
       integrated acquired capabilities from three technology companies.
+  - name: Keith Ferrazzi
+    image: /images/superstars/team-thumb-5.png
+    department:
+      - LEADERSHIP
+      - COACHING
+      - SCALE
+      - 'SALES '
+    bulletpoints:
+      - Founder of Ferrazzi Greenlight
+      - CMO at Starwood & Deloitte
+      - 'Worlds’ #1 Executive Team Coach'
+    content: >
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Gerard Adams
     image: /images/superstars/team-thumb-21.png
     department:
@@ -559,7 +582,7 @@ team:
     bulletpoints:
       - President at Glo
       - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exited to TikTok) '
+      - 'Head of Ops at Flipagram (Exit to TikTok) '
     content: >
       Hogan Lee is the President & COO of Glo, whose mission is to connect
       people through self-care. Hogan was the Co-Founder & Chief Experience
@@ -571,6 +594,43 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
+  - name: Alex Simpson
+    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
+    department:
+      - SALES
+      - SCALE
+      - FUNDING
+      - GTM
+    bulletpoints:
+      - 4x Exited Founder
+      - Co-founder of Openstock (LiquidLP)
+      - >-
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited) 
+    content: >
+      Alex leads LiquidLP (previously known as Openstock), which focuses on
+      enabling Limited Partners and General Partners with lending solutions. As
+      an executive and builder in Fintech, Alex leverages his 12+ years of
+      experience and expertise in the fintech ecosystem to co-found, connect,
+      and architect businesses and people from the inside out. With a proven
+      track record, he has successfully generated seven-figure revenue streams,
+      secured over $200 million in funding for fintech ventures, and implemented
+      transformative growth and turnaround strategies for global corporations.In
+      addition to this, Alex serves as an advisor and investor in various
+      fintech companies. He is the co-founder of Kandua (exited) which helps
+      small service businesses grow. He is the co-founder of Kundau (Exited),
+      South Africa’s #1 online marketplace for home services. Alex is the
+      Venture Partner of Launchpad Capital, joined forces with Castle Creek
+      Capital in establishing a venture capital fund to catalyze change in
+      financial services through partnerships between fintech companies and 34
+      community bank Limited Partners. Alex was a Partner at Truenorth. He also
+      is a Co-founder (exited) of BizPay, a fintech platform enabling more
+      business for the industry by offering key suppliers immediate payments and
+      customized pay later solutions for their customers. Alex was the
+      co-founder of SOLDI POS (exited), an enterprise-grade integrated
+      Point-of-Sale designed to work across verticals and organization of all
+      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
+      of the Entrepreneurs Organization (EO).
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -641,6 +701,106 @@ team:
       Google. He is the former Global Strategy Officer of Kakao Entertainment
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
       and has his own fund called Rabbit VC.
+  - name: J Patrick Bewley
+    image: /images/superstars/team-thumb-18.png
+    department:
+      - SCIENCE
+      - TECHNOLOGY
+      - AI
+      - SYSTEMS
+      - SCALE
+      - LEADERSHIP
+      - MARKETING
+    bulletpoints:
+      - CEO & Founder at Evo
+      - Head of Data & Innovation at Cox Enterprises
+      - Head of Consulting at Acxiom (Exited)
+    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also ran Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
+  - name: Juha Mikkola
+    image: /images/Juha-Mikkola.jpg
+    department:
+      - PRODUCT
+      - TECHNOLOGY
+      - SALES
+      - LEADERSHIP
+    bulletpoints:
+      - CEO & Founder at Usko Privacy
+      - ' Co-Founder, Wyncode (Exited to BrainStation)'
+      - 'Founder, Clutch Sports (Exited)'
+    content: >
+      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
+      Council Technology Committee. Co-Founded Wyncode, South Florida Business
+      Journal Startup of the Year and Beacon Council Education and Talent
+      Development Award Winner with 1000 graduates. Wyncode was acquired by
+      BrainStation in January 2021. Raised millions in venture capital. Selected
+      as an Endeavor entrepreneur. A business and technology savvy
+      Commerce/Marketing graduate of the Rotman School of Management in Toronto
+      with proven skills in sales, leadership, innovation, proactive problem
+      solving and communication.
+  - name: Tim Sae Koo
+    image: /images/102929.png
+    department:
+      - COACHING
+      - OPS
+      - TECHNOLOGY
+      - MARKETING
+      - LEADERSHIP
+    bulletpoints:
+      - Co-founder at 1heart.com
+      - Founder & CEO Tintup (Exited)
+      - Founder at WAI Wear (Exited)
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
+    department:
+      - AI
+      - LEADERSHIP
+      - PRODUCT
+      - TECHNOLOGY
+      - FUNDRAISING
+      - SYSTEMS
+    bulletpoints:
+      - Investor & Advisor at InRoad Ventures
+      - Founder at Saturna Consulting Group
+      - Co-founder Rallytream (Exit to Workday)
+    content: >
+      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
+      investments for the family office. He has invested in 40+ startups with 4
+      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
+      Grin). Dan is the co-founder at Rallyteam, a venture backed talent
+      management platform (exited to Workday). He is a Canadian Serial
+      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
+      based in Silicon Valley.
+  - name: Seth Forsgren
+    image: /images/Seth.jpeg
+    department:
+      - PRODUCT
+      - TECH
+    bulletpoints:
+      - 2x Exited Founder
+      - Founder at Hardline (Exited)
+      - Head of Product at Shape (Exited)
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
+  - name: Ulises Orozco
+    image: /images/1585673787933.jpeg
+    department:
+      - PRODUCT
+      - AI
+      - STRATEGY
+      - SCALE
+      - TECHNOLOGY
+    bulletpoints:
+      - '2x Exited Founder '
+      - CEO & Founder of PTO Genius
+      - Co-founder of Gradvisor (Exit to Betterment)
+    content: >
+      Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
+      PTO Genius, an AI-powered platform to track, manage, and optimize time
+      off. He was the co-founder & CPO of Gravisor, a digital investment
+      platform (Exited to Betterment.com). He was the co-founder of
+      Smartshopper, the first pay-as-you-go extended warranty for electronics
+      and appliances (Exited). His zone of genius are product, ops and
+      technology.
   - name: Tuck Stibich PhD
     image: /images/superstars/team-thumb-25.png
     department:
@@ -667,65 +827,6 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
-  - name: J Patrick Bewley
-    image: /images/superstars/team-thumb-18.png
-    department:
-      - SCIENCE
-      - TECHNOLOGY
-      - AI
-      - SYSTEMS
-      - SCALE
-      - LEADERSHIP
-      - MARKETING
-    bulletpoints:
-      - CEO & Founder at Evo
-      - Head of Data & Innovation at Cox Enterprises
-      - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Fonder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP also ran Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding an additional $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
-  - name: Tim Sae Koo
-    image: /images/102929.png
-    department:
-      - COACHING
-      - OPS
-      - TECHNOLOGY
-      - MARKETING
-      - LEADERSHIP
-    bulletpoints:
-      - Co-founder at 1heart.com
-      - Founder & CEO Tintup (Exited)
-      - Founder at WAI Wear (Exited)
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
-    department:
-      - AI
-      - LEADERSHIP
-      - PRODUCT
-      - TECHNOLOGY
-      - FUNDRAISING
-      - SYSTEMS
-    bulletpoints:
-      - Investor & Advisor at InRoad Ventures
-      - Co-founder Rallytream (Exited to Workday)
-      - 'Mentor at TechStars '
-    content: >
-      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
-      investments for the family office. He has invested in 40+ startups with 4
-      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
-      Grin). Dan is the co-founder at Rallyteam, a venture backed talent
-      management platform (exited to Workday). He is a Canadian Serial
-      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley.
-  - name: Seth Forsgren
-    image: /images/Seth.jpeg
-    department:
-      - PRODUCT
-      - TECH
-    bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Andrew Sturner
     image: /images/123285.png
     department:
@@ -788,50 +889,6 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
-  - name: Juha Mikkola
-    image: /images/Juha-Mikkola.jpg
-    department:
-      - PRODUCT
-      - TECHNOLOGY
-      - SALES
-      - LEADERSHIP
-    bulletpoints:
-      - CEO & Founder at Usko Privacy
-      - ' Co-Founder, Wyncode (Exited to BrainStation)'
-      - 'Founder, Clutch Sports (Exited)'
-    content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
-  - name: Luciana Ledesma
-    image: /images/LUCIE.jpeg
-    department:
-      - AI
-      - STRATEGY
-      - GROWTH
-      - FUNDING
-      - IMPACT
-    bulletpoints:
-      - Founder at AI Dragons
-      - Certified Coach at OpenExO
-      - Grant Evaluator at EIT Health
-    content: >
-      Luciana Ledesma is the founder of AI Dragons, a global community that
-      leverages tech & business creation to achieve SDGs. She is a certified
-      coach at the Open ExO’s community (a spin-off from Singularity
-      University). Luciana is a grant evaluator for EIT Health and has assessed
-      over 100 projects for €1-3M  grants in Biomedicine, health records
-      management on blockchain, health insurance, and surgery robots. She was
-      co-founder and ceo of Teder.ai, an personalized education company. Luciana
-      led the creation of the Fluid Blockchain Accelerator and served as Head of
-      Innovation at Rokk3r Labs helping to advance over 30 entrepreneurial
-      founders and their ventures.
   - name: Will Weinraub
     image: /images/superstars/willweinraub.png
     department:
@@ -845,28 +902,6 @@ team:
       - Founder at Local Leaders Collective
       - CEO & Co-founder at LiveNinja (Exited)
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
-  - name: Nick Murray
-    image: /images/superstars/nickmurray-1.png
-    department:
-      - SCALE
-      - SALES
-      - FUNDING
-      - LEADERSHIP
-      - TECHNOLOGY
-      - SCIENCE
-    bulletpoints:
-      - Co-founder at Wake Network
-      - CEO at AdvancedCare
-      - Founder at MobSafety/Reliq Health (IPO)
-    content: >
-      Nick Murray is the Co-founder at Wake Network, furthering the field of
-      fungi and plant-based medicine.  He also was the CEO of AdvancedCare, a
-      leading electronic medical records and clinical research trial platform
-      for professionals and researchers under a single, unified platform. Nick
-      was the founder of MobSafety (Exited & IPO via Reliq Health - TSXV: RHT),
-      a mobile security company that transitioned to Moseda Technologies, Inc.;
-      focused on healthcare, monitoring elderly patients in their homes and in
-      care homes, using mobile and wearable technologies.
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:

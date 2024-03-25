@@ -2,18 +2,18 @@
 banner:
   title: Build With Exited Founders
   subtitle: >-
-    We Back Top Startups Changing the World With Advisory, Operational and
-    Investment Support
-  background_video_src: 'videos/banner-bg-video.mp4'
+    Stack Your Advisory Board With Successfully Exited Founders For Stellar
+    Results
+  background_youtube_video_id: 'Mq61xLTDdGI'
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
-      - “maintained my sanity.”
-      - “landed our whale customer.”
-      - “scored our lead investor.”
-      - “scaled faster than I dreamed.”
+      - '"maintained my sanity.” '
+      - '"landed our whale customer.”'
+      - '"scored our lead investor.”'
+      - '"scaled faster than I dreamed.”'
       - '"had the right people in my corner."'
-      - “exited at higher multiples.”
+      - '"exited at higher multiples.”'
       - '"massively impacted humanity."'
       - '"manifested my dream."'
       - '"found my freedom."'
@@ -21,13 +21,14 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We are exited founders united as all-star teams
+  title: We back top startups
   brands:
-    - /images/hampton_transparent.png
-    - /images/Endeavor_logo_white-sm.png
-    - /images/founders/vistage.svg
-    - /images/founders/y-combinator.svg
     - /images/founders/ypo.svg
+    - /images/founders/y-combinator.svg
+    - /images/founders/Entrepreneurs_Organization.png
+    - /images/Endeavor_logo_white-sm.png
+    - /images/hampton_transparent.png
+    - /images/founders/vistage.svg
 advisory:
   enable: true
   title: Advisory as a Service™
