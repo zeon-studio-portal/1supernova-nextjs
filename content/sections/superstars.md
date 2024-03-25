@@ -864,7 +864,7 @@ team:
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
   - name: Will Weinraub
-    image: /images/superstars/willweinraub.png
+    image: /images/43a397da-ba74-4fed-b09f-01db32eb3668.jpg
     department:
       - GROWTH
       - SALES
