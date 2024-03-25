@@ -8,13 +8,12 @@ list_colors:
   - '#F8878B'
   - '#D367B3'
 lists:
-  - name: Juan Luis Betancourt
+  - name: 'Juan Luis Betancourt '
     image: /images/top-founders/juan-luis.jpg
     designation: CEO & Founder
     description: AI for smarter collaboration and team performance
     brand_logo:
       width: 150
-      height: 110
       file: /images/humantelligence-logo-white.svg
   - name: Paul Graf
     image: /images/top-founders/paul.jpg
@@ -22,7 +21,6 @@ lists:
     description: Personalized child and teen therapy online
     brand_logo:
       width: 100
-      height: 80
       file: /images/hym.png
   - name: Kathryn Fantauzzi
     image: /images/top-founders/kathryn.jpg
@@ -30,7 +28,6 @@ lists:
     description: 'Stress less and sleep more, effortlessly'
     brand_logo:
       width: 130
-      height: 50
       file: /images/top-founders/kathryn-brand.svg
   - name: Ben Lamm
     image: /images/top-founders/ben.jpg
@@ -38,7 +35,6 @@ lists:
     description: World’s first de-extinction company
     brand_logo:
       width: 130
-      height: 50
       file: /images/top-founders/ben-brand.svg
   - name: Ignacio Handal
     image: /images/top-founders/ignacio-handal.png
@@ -46,7 +42,6 @@ lists:
     description: Detect 80+ mental health conditions in one assessment
     brand_logo:
       width: 130
-      height: 50
       file: /images/top-founders/ignacio-handal-brand.png
   - name: Ariane & Turner
     image: /images/top-founders/ariane-turner.svg
@@ -54,7 +49,6 @@ lists:
     description: World's first de-extinciton company
     brand_logo:
       width: 130
-      height: 50
       file: /images/top-founders/ariane-turner-brand.png
   - name: Roberto Salcedo
     image: /images/top-founders/roberto-salcedo.png
@@ -62,9 +56,6 @@ lists:
     description: Smart micro financing for everyone
     brand_logo:
       width: 130
-      height: 50
       file: /images/top-founders/roberto-salcedo-brand.webp
 ---
-
-
 
