@@ -13,7 +13,7 @@ const Banner = ({ banner, founders }) => {
 
   return (
     <section className="relative overflow-hidden pb-16 pt-12 after:absolute after:inset-0 after:z-20 after:h-full after:w-full after:bg-dark-primary/70 after:content-[''] md:pt-8">
-      <div className="relative z-30 flex flex-col justify-around sm:h-[calc(100vh_-_122px)]">
+      <div className="relative z-30 flex flex-col justify-around sm:min-h-[600px]">
         <div className="container relative z-50 text-center">
           <div data-aos="fade-up">
             {markdownify(banner.title, 'h1', 'text-6xl/none font-medium mb-8')}
@@ -110,22 +110,9 @@ const Banner = ({ banner, founders }) => {
           />
         </div>
       </div>
-      {/* <video
-        id="banner-video-bg"
-        className="absolute inset-0 z-10 h-full w-full object-cover"
-        width="400"
-        autoPlay
-        playsInline
-        onLoad={() => {
-          document.getElementById('banner-video-bg').play();
-        }}
-        muted
-        loop>
-        <source src={banner.background_video_src} />
-      </video> */}
-      <div class="youtube-container absolute inset-0 z-10 h-full w-full object-cover">
+      <div class="video-background">
         <iframe
-          src="https://www.youtube.com/embed/Mq61xLTDdGI?playlist=Mq61xLTDdGI&autoplay=1&mute=1&loop=1&color=white&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1&start=34&controls=0&showinfo=0"
+          src="https://www.youtube.com/embed/Mq61xLTDdGI?playlist=Mq61xLTDdGI&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34"
           frameborder="0"></iframe>
       </div>
     </section>

@@ -287,9 +287,27 @@
   }
 }
 
-.youtube-container {
-  @apply pointer-events-none aspect-[16/9] w-full overflow-hidden;
-}
-.youtube-container iframe {
-  @apply ml-[-100%] h-[140%] w-[300%];
+.video-background {
+  overflow: hidden;
+  width: 100vw;
+  min-height: 800px;
+  position: absolute;
+  top: 0;
+
+  iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+
+    @media (min-aspect-ratio: 16/9) {
+      height: 56.25vw;
+    }
+
+    @media (max-aspect-ratio: 16/9) {
+      width: 177.78vh;
+    }
+  }
 }

@@ -176,7 +176,7 @@ const Advisory = ({ superstars }) => {
                         width={100}
                         height={100}
                       />
-                      <div className="flex flex-wrap bg-black gap-2 justify-center py-4 mx-2 px-1 rounded-md text-center">
+                      <div className="hidden flex-wrap bg-black gap-2 justify-center py-4 mx-2 px-1 rounded-md text-center">
                         {item.department &&
                           item.department.map((d, i) => (
                             <div
@@ -204,7 +204,7 @@ const Advisory = ({ superstars }) => {
                         markdownify(
                           item.content,
                           'div',
-                          'content content-superstar [&>*]:text-sm py-5 px-2.5 [&>*]:text-black text-center mt-3 pt-0 pb-10 overflow-y-auto'
+                          'content content-superstar [&>p>a]:!text-dark-primary [&>*]:text-sm py-5 px-2.5 [&>*]:text-black text-center mt-3 pt-0 pb-10 overflow-y-auto'
                         )}
                     </div>
                   </div>
