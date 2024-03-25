@@ -303,7 +303,7 @@ team:
       certificate from Harvard Business School and is an insatiable travel
       junkie.
   - name: Leo Rastogi
-    image: /images/superstars/team-thumb-22.png
+    image: /images/Screenshot 2024-03-25 at 6.29.33 AM.png
     department:
       - AI
       - SCIENCE
