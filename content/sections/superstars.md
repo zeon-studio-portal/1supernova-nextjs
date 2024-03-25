@@ -1008,7 +1008,7 @@ team:
   - name: Krishan Arora
     image: /images/download-14.jpg
     bulletpoints:
-      - Partner at Novastone Capital Advisors (NCA
+      - Partner at Novastone Capital Advisors
       - LP at Flight Ventures
       - CEO/Founder at Arora Project (Exit to Republic.com)
     content: >
