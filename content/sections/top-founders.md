@@ -39,7 +39,7 @@ lists:
   - name: Paul Graf
     image: /images/top-founders/paul.jpg
     designation: CEO & Founder
-    description: "Teletherapy for kids and teens \U0001F64B\U0001F3FB"
+    description: "Online therapy for kids and teens \U0001F64B\U0001F3FB"
     brand_logo:
       width: 100
       file: /images/hym.png
