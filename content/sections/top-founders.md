@@ -32,7 +32,7 @@ lists:
   - name: Ignacio Handal
     image: /images/top-founders/ignacio-handal.png
     designation: CEO & Founder
-    description: Detect 80+ mental health conditions in one assessment
+    description: Detects 80+ mental health conditions in one assessment
     brand_logo:
       width: 130
       file: /images/top-founders/ignacio-handal-brand.png
