@@ -18,7 +18,7 @@ lists:
   - name: Roberto Salcedo
     image: /images/top-founders/roberto-salcedo.png
     designation: CEO & Founder
-    description: Smart micro financing for everyone
+    description: "Smart micro financing for everyone \U0001F4B5"
     brand_logo:
       width: 130
       file: /images/top-founders/roberto-salcedo-brand.webp
