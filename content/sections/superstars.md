@@ -247,9 +247,11 @@ team:
       - FUNDING
       - COACHING
     bulletpoints:
-      - Co-founder Resilience Reserve VC
-      - Founder of Listen.com (Exit to RealNetworks)
-      - 'Founding advisor/investor (Poshmark, Lyft, Kareo/Tebra)'
+      - >-
+        Co-founder of Resilience Reserve with Chris Anderson ( head of TED).
+        Founder of Listen.com (Exit to Rhapsody/RealNetworks). Founding
+        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
+        and Kareo/Tebra.
     content: >
       Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
       head of TED. He is also the founder of Listen.com, which created the
