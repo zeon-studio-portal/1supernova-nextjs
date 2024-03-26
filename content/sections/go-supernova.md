@@ -10,7 +10,7 @@ features:
   - icon: /images/go-supernova/01.svg
     content: >-
       **Our vision**  Exited founders team up to back a portfolio of thriving
-      startups changing the world.
+      startups changing the world. 
   - icon: /images/go-supernova/03.svg
     content: >-
       **Our mission**  accelerate the realization of the founder's vision – from
