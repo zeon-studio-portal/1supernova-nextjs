@@ -50,9 +50,9 @@ team:
     bulletpoints:
       - >-
         3x exited founder, including unicorn sale to Oracle (INBOX Marketing
-        exited to Responsys).  Barry is an elite advisor, superconnector and
-        growth catalyst. He was the Entrepreneur-in-Residence at 500 Global (#1
-        in VC Deal Counts & Exits) and paid consultant to 20% of Fortune 500
+        exit to Responsys pre-IPO).  Barry is an elite advisor, superconnector
+        and growth catalyst. He was the Entrepreneur-in-Residence at 500 Global
+        (#1 in VC Deal Counts & Exits) and paid consultant to 20% of Fortune 500
         companies. 
     content: >
       Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
