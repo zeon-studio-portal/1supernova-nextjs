@@ -413,8 +413,8 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        Co-founder of Resilience Reserve with Chris Anderson ( head of TED).
-        Founder of Listen.com (Exit to Rhapsody/RealNetworks). Founding
+        Co-founder of Resilience Reserve with Chris Anderson (head of TED).
+        Founder of Listen.com (Exit to Rhapsody; RealNetworks). Founding
         investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
         and Kareo/Tebra.
     content: >
