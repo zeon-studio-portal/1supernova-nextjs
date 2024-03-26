@@ -267,6 +267,22 @@ team:
       family office, managing internal operations, overseeing a portfolio of
       150+ companies, leading his own investments, and serving on boards.
       Jonathan also co-founded his own investment firm with two other GPs.
+  - name: Chris Carson
+    image: /images/1685460170918.jpeg
+    department:
+      - STAFFING
+      - AI
+      - FUNDING
+      - SCIENCE
+      - TECH
+      - PRODUCT
+      - COACHING
+    bulletpoints:
+      - >-
+        CEO & Founder at Hayden AI (Series B). CEO & Founder of Nueevo (formally
+        Caruma Technologies) and Louisa (Exited). Fleet Antiterrorism Security
+        Team Company (FAST), a top US special ops team.
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Scott Weller
     image: /images/DjoesoLi_400x400.jpg
     department:
@@ -304,22 +320,6 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Chris Carson
-    image: /images/1685460170918.jpeg
-    department:
-      - STAFFING
-      - AI
-      - FUNDING
-      - SCIENCE
-      - TECH
-      - PRODUCT
-      - COACHING
-    bulletpoints:
-      - >-
-        CEO & Founder at Hayden AI (Series B). CEO & Founder of Nueevo (formally
-        Caruma Technologies) and Louisa (Exited). Fleet Antiterrorism Security
-        Team Company (FAST), a top US special ops team.
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Leo Rastogi
     image: /images/download-1.jpg
     department:
