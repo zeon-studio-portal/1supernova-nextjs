@@ -130,7 +130,7 @@ team:
       - IMPACT
       - WEB3
     bulletpoints:
-      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) with 22 years of investment experience, now expert D2C investor/advisor in companies trying to change the world. He has been twice named on the Midas List of top 100 VCs."
+      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) now expert D2C investor/advisor in companies trying to change the world. He has been twice named on the Midas List of top 100 VCs."
     content: >
       Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
       invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
