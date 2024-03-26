@@ -182,8 +182,8 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        AT is a 5-time founder with 3 exits: Zynga ($8B market cap), Madison
-        Reed (raised 120M), Coremetrics (acquired by IBM for $377M), and Tribe
+        5-time founder with 3 exits: Zynga ($8B market cap), Madison Reed
+        (raised 120M), Coremetrics (acquired by IBM for $377M), and Tribe
         (Acquired by Cisco).  Coached 30 CEO’s and helped companies raise over
         $500M in follow-on capital.
     content: >
