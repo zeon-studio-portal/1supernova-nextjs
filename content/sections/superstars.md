@@ -65,7 +65,7 @@ team:
       business unit from scratch to $315MM annual revenues that sold to IPG for
       $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
       Fortune 500. Barry is a keynote speaker for work/life transformation.
-  - name: 'Christopher Staley '
+  - name: 'Chris Staley '
     image: /images/ChristopherStaley-R.jpg
     department:
       - OPS
