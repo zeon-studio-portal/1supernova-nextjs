@@ -272,13 +272,17 @@ team:
       - GTM
       - COACHING
     bulletpoints:
-      - Senior Advisor (M&A) at Mastercard
+      - >-
+        Senior Advisor (M&A) at Mastercard. CTO / Co-Founder at SessionM (Exit
+        to Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
+        Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cactivate, Cake, &
+        Esprezzo.
       - 'SVP Product at Mastercard, Merchant Loyalty'
       - Co-founder at SessionM (Exit to Mastercard)
     content: >
       Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
       at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
-      (exited Mastercard), a next generation consumer loyalty and engagement
+      (Exited Mastercard), a next generation consumer loyalty and engagement
       platform. Scott then led the Merchant Loyalty product division (formerly
       SessionM) at Mastercard, focusing on next generation consumer loyalty and
       engagement capabilities for merchants and global brands. Scott has been an
