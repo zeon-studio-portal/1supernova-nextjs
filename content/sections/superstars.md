@@ -423,7 +423,7 @@ team:
       - Founder at Richmond Global
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
-    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
+    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\"  - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
   - name: Joel French
     image: /images/download-3.jpg
     department:
@@ -629,29 +629,6 @@ team:
       Point-of-Sale designed to work across verticals and organization of all
       sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
       of the Entrepreneurs Organization (EO).
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
-    department:
-      - SALES
-      - LEADERSHIP
-      - COACHING
-      - GTM
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - Managing Director at AI2 Incubator
-      - CEO & Founder of Loftium (Exit to Flyhomes)
-      - CEO & Founder of GymPact (Top 5 fitness app)
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -822,41 +799,6 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
-  - name: Krishan Arora
-    image: /images/download-14.jpg
-    department:
-      - SYSTEMS
-      - MARKETING
-      - COACHING
-      - SALES
-      - GTM
-      - SCALE
-      - FUNDING
-    bulletpoints:
-      - LP at Flight Ventures
-      - Search Fund Principal at Novastone Capital
-      - CEO & Founder at Arora Project (Exit to Republic)
-    content: >
-      Krishan Arora is an LP at Flight Ventures the largest syndicate on
-      AngelList. He is also a Search Fund Principal in Novastone Capital
-      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
-      acquiring and scaling profitable SMEs around the world. To date, NCA has
-      deployed over $220M in capital and has acquired several global businesses.
-      Over the next few years, NCA is set to deploy another $320M+ to acquire
-      several additional profitable SMEs.
-
-
-      Krishan is the Founder & CEO of The Arora Project (Exited to
-      Republic.com), a venture capital media agency that has raised & invested
-      over $125,000,000+ for high-growth ventures around the world.
-
-
-      Krishan graduated from Harvard with a concentration in Economics and has
-      since gained over a decade of experience in product launches, venture
-      fundraising, and growth marketing. Krishan’s core expertise is in scaling
-      up innovative ventures across industries by creating and converting global
-      online communities. Krishan is also an avid writer for Forbes.com writing
-      on entrepreneurship, digital media, and venture fundraising.
   - name: Andrew Sturner
     image: /images/download-11.jpg
     department:
@@ -932,6 +874,29 @@ team:
       - Founder at Local Leaders Collective
       - CEO & Co-founder at LiveNinja (Exited)
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
+    department:
+      - SALES
+      - LEADERSHIP
+      - COACHING
+      - GTM
+      - FUNDING
+      - TECHNOLOGY
+    bulletpoints:
+      - Managing Director at AI2 Incubator
+      - CEO & Founder of Loftium (Exit to Flyhomes)
+      - CEO & Founder of GymPact (Top 5 fitness app)
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
     department:
@@ -1038,6 +1003,41 @@ team:
       - Chief of Staff at MRGN
       - Head of Finance HDHome ($270M Home Depot Startup)
     content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
+  - name: Krishan Arora
+    image: /images/download-14.jpg
+    department:
+      - SYSTEMS
+      - MARKETING
+      - COACHING
+      - SALES
+      - GTM
+      - SCALE
+      - FUNDING
+    bulletpoints:
+      - LP at Flight Ventures
+      - Search Fund Principal at Novastone Capital
+      - CEO & Founder at Arora Project (Exit to Republic)
+    content: >
+      Krishan Arora is an LP at Flight Ventures the largest syndicate on
+      AngelList. He is also a Search Fund Principal in Novastone Capital
+      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
+      acquiring and scaling profitable SMEs around the world. To date, NCA has
+      deployed over $220M in capital and has acquired several global businesses.
+      Over the next few years, NCA is set to deploy another $320M+ to acquire
+      several additional profitable SMEs. 
+
+
+      Krishan is the Founder & CEO of The Arora Project (Exited to
+      Republic.com), a venture capital media agency that has raised & invested
+      over $125,000,000+ for high-growth ventures around the world. 
+
+
+      Krishan graduated from Harvard with a concentration in Economics and has
+      since gained over a decade of experience in product launches, venture
+      fundraising, and growth marketing. Krishan’s core expertise is in scaling
+      up innovative ventures across industries by creating and converting global
+      online communities. Krishan is also an avid writer for Forbes.com writing
+      on entrepreneurship, digital media, and venture fundraising. 
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
