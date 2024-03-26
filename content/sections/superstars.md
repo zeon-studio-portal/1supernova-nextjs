@@ -188,10 +188,10 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        5-time founder with 3 exits: Zynga ($8B market cap), Madison Reed
-        (raised 120M), Coremetrics (acquired by IBM for $377M), and Tribe
-        (Acquired by Cisco).  Coached 30 CEO’s and helped them raise $500M+ in
-        follow-on capital.
+        5-time founder with 3 exits: Zynga (IPO: $8B market cap), Madison Reed
+        (raised $120M), Coremetrics (Exit to IBM for $377M) and Tribe (Exit to
+        Cisco).  Coached 30 CEO’s and helped them raise $500M+ in follow-on
+        capital.
     content: >
       A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
       an entrepreneur, he co-founded 5 companies with $13b in exits including
@@ -1032,12 +1032,12 @@ team:
       acquiring and scaling profitable SMEs around the world. To date, NCA has
       deployed over $220M in capital and has acquired several global businesses.
       Over the next few years, NCA is set to deploy another $320M+ to acquire
-      several additional profitable SMEs. 
+      several additional profitable SMEs.
 
 
       Krishan is the Founder & CEO of The Arora Project (Exited to
       Republic.com), a venture capital media agency that has raised & invested
-      over $125,000,000+ for high-growth ventures around the world. 
+      over $125,000,000+ for high-growth ventures around the world.
 
 
       Krishan graduated from Harvard with a concentration in Economics and has
@@ -1045,7 +1045,7 @@ team:
       fundraising, and growth marketing. Krishan’s core expertise is in scaling
       up innovative ventures across industries by creating and converting global
       online communities. Krishan is also an avid writer for Forbes.com writing
-      on entrepreneurship, digital media, and venture fundraising. 
+      on entrepreneurship, digital media, and venture fundraising.
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
