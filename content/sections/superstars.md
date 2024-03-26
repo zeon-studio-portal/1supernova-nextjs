@@ -89,7 +89,7 @@ team:
       - >-
         2x exited founder. CEO & Co-founder of Key, market leader in attainable
         homeownership with 8-figures of venture funding from top-tier
-        institutions. Led growth at Airbnb. Active member of EO and YPO. 
+        institutions. Led growth at Airbnb. Active member of EO and YPO.
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
       first two venture-backed companies and joined Airbnb full-time where he
