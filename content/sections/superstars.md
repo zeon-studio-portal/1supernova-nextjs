@@ -50,7 +50,7 @@ team:
     bulletpoints:
       - >-
         3x exited founder, including unicorn exit to Oracle; INBOX Marketing
-        Exit to Responsys. Entrepreneur-in-Residence at 500 Global (#1 in VC
+        (Exit to Responsys). Entrepreneur-in-Residence at 500 Global (#1 in VC
         Deal Counts & Exits) and paid consultant to 20% of Fortune 500
         companies. Elite advisor, growth catalyst and superconnector. 
     content: >
