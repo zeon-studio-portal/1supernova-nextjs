@@ -328,7 +328,7 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        3x Exited Founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
+        3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
         Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
         Former Monk.
     content: >
