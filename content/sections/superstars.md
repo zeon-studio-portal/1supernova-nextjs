@@ -49,7 +49,7 @@ team:
       - TECHNOLOGY
     bulletpoints:
       - >-
-        3x exited founder, including unicorn exit to Oracle; INBOX Marketing
+        3x exited founder, including unicorn (Exit to Oracle); INBOX Marketing
         (Exit to Responsys/IPO). EIR at 500 Global (#1 in VC Deal Counts &
         Exits). Co-founder at 1heart.com. C-level coach to 20% of Fortune 500
         brands. Elite advisor, growth catalyst and superconnector. 
