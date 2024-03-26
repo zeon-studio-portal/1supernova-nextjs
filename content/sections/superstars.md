@@ -142,35 +142,6 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: JT Marino
-    image: /images/jt-1-5ece9936.jpg
-    department:
-      - SCALE
-      - COACHING
-      - PRODUCT
-      - TECH
-      - CULTURE
-      - SCIENCE
-    bulletpoints:
-      - >-
-        CEO & Founder at TN.com where he bootrapped to $250MM ARR and merged
-        (Exit to Serta Simmons Bedding). Board member at Penn State. Catalyst,
-        Maker, Entrepreneur, Mentor, and Angel Investor. Member of EO and YPO. 
-    content: >
-      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
-      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
-      ARR profitably in 5 years, grew to 150 employees, and delivered "The
-      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
-      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
-      at Supernova, Penn State University's School of Business, and the
-      Philanthropic Asset Committee of the Arizona State University Foundation.
-      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
-      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
-      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
-      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
-      received eTail West’s Visionary of the Year Award and appeared in McGraw
-      Hill’s curriculum. JT studied computer science and mathematics at Penn
-      State University. He is based in Phoenix, AZ.
   - name: Andrew Trader
     image: /images/AT.jpeg
     department:
@@ -203,6 +174,35 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
+  - name: JT Marino
+    image: /images/jt-1-5ece9936.jpg
+    department:
+      - SCALE
+      - COACHING
+      - PRODUCT
+      - TECH
+      - CULTURE
+      - SCIENCE
+    bulletpoints:
+      - >-
+        CEO & Founder at TN.com where he bootrapped to $250MM ARR and merged
+        (Exit to Serta Simmons Bedding). Board member at Penn State. Catalyst,
+        Maker, Entrepreneur, Mentor, and Angel Investor. Member of EO and YPO. 
+    content: >
+      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
+      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
+      ARR profitably in 5 years, grew to 150 employees, and delivered "The
+      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
+      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
+      at Supernova, Penn State University's School of Business, and the
+      Philanthropic Asset Committee of the Arizona State University Foundation.
+      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
+      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
+      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
+      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
+      received eTail West’s Visionary of the Year Award and appeared in McGraw
+      Hill’s curriculum. JT studied computer science and mathematics at Penn
+      State University. He is based in Phoenix, AZ.
   - name: 'Lindsay Nahmiache '
     image: /images/lindsay.jpeg
     department:
