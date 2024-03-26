@@ -696,21 +696,41 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: J Patrick Bewley
-    image: /images/download-8.jpg
+  - name: Krishan Arora
+    image: /images/download-14.jpg
     department:
-      - SCIENCE
-      - TECHNOLOGY
-      - AI
       - SYSTEMS
-      - SCALE
-      - LEADERSHIP
       - MARKETING
+      - COACHING
+      - SALES
+      - GTM
+      - SCALE
+      - FUNDING
     bulletpoints:
-      - CEO & Founder at Evo
-      - Head of Data & Innovation at Cox Enterprises
-      - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
+      - LP at Flight Ventures
+      - Search Fund Principal at Novastone Capital
+      - CEO & Founder at Arora Project (Exit to Republic)
+    content: >
+      Krishan Arora is an LP at Flight Ventures the largest syndicate on
+      AngelList. He is also a Search Fund Principal in Novastone Capital
+      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
+      acquiring and scaling profitable SMEs around the world. To date, NCA has
+      deployed over $220M in capital and has acquired several global businesses.
+      Over the next few years, NCA is set to deploy another $320M+ to acquire
+      several additional profitable SMEs.
+
+
+      Krishan is the Founder & CEO of The Arora Project (Exited to
+      Republic.com), a venture capital media agency that has raised & invested
+      over $125,000,000+ for high-growth ventures around the world.
+
+
+      Krishan graduated from Harvard with a concentration in Economics and has
+      since gained over a decade of experience in product launches, venture
+      fundraising, and growth marketing. Krishan’s core expertise is in scaling
+      up innovative ventures across industries by creating and converting global
+      online communities. Krishan is also an avid writer for Forbes.com writing
+      on entrepreneurship, digital media, and venture fundraising.
   - name: Juha Mikkola
     image: /images/download-9.jpg
     department:
@@ -822,41 +842,21 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
-  - name: Krishan Arora
-    image: /images/download-14.jpg
+  - name: J Patrick Bewley
+    image: /images/download-8.jpg
     department:
+      - SCIENCE
+      - TECHNOLOGY
+      - AI
       - SYSTEMS
-      - MARKETING
-      - COACHING
-      - SALES
-      - GTM
       - SCALE
-      - FUNDING
+      - LEADERSHIP
+      - MARKETING
     bulletpoints:
-      - LP at Flight Ventures
-      - Search Fund Principal at Novastone Capital
-      - CEO & Founder at Arora Project (Exit to Republic)
-    content: >
-      Krishan Arora is an LP at Flight Ventures the largest syndicate on
-      AngelList. He is also a Search Fund Principal in Novastone Capital
-      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
-      acquiring and scaling profitable SMEs around the world. To date, NCA has
-      deployed over $220M in capital and has acquired several global businesses.
-      Over the next few years, NCA is set to deploy another $320M+ to acquire
-      several additional profitable SMEs.
-
-
-      Krishan is the Founder & CEO of The Arora Project (Exited to
-      Republic.com), a venture capital media agency that has raised & invested
-      over $125,000,000+ for high-growth ventures around the world.
-
-
-      Krishan graduated from Harvard with a concentration in Economics and has
-      since gained over a decade of experience in product launches, venture
-      fundraising, and growth marketing. Krishan’s core expertise is in scaling
-      up innovative ventures across industries by creating and converting global
-      online communities. Krishan is also an avid writer for Forbes.com writing
-      on entrepreneurship, digital media, and venture fundraising.
+      - CEO & Founder at Evo
+      - Head of Data & Innovation at Cox Enterprises
+      - Head of Consulting at Acxiom (Exited)
+    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Andrew Sturner
     image: /images/download-11.jpg
     department:
