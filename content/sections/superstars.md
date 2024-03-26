@@ -238,27 +238,35 @@ team:
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
-  - name: Rob Reid
-    image: /images/vb-dqdcz_400x400.jpg
+  - name: Jonathan Shambroom
+    image: /images/1627622186259.jpg
     department:
-      - SCIENCE
-      - SYSTEMS
+      - SCALE
+      - M&A
       - AI
+      - SYSTEMS
+      - LEADERSHIP
       - FUNDING
+      - M&A
+      - PRODUCT
+      - TECHNOLOGY
+      - OPS
       - COACHING
     bulletpoints:
       - >-
-        Co-founder of Resilience Reserve with Chris Anderson ( head of TED).
-        Founder of Listen.com (Exit to Rhapsody/RealNetworks). Founding
-        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
-        and Kareo/Tebra.
+        9 exits as CPO/COO in 11 VC-backed tech startups. COO at LaunchCapital.
+        CIO at Switchfly (Exit to Golub Capital). COO at Zozi (Exit to Peek).
+        CPO at Ning (Exit to Glam Media). CPO at Crackle (Exit to Grouper).
     content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
+      Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
+      startup. For 25 years in San Francisco, he has held operational and
+      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
+      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
+      consumer media and entertainment, of which 8 were VC backed and acquired.
+      His investing experience includes nearly 2 years as COO of a seed stage
+      family office, managing internal operations, overseeing a portfolio of
+      150+ companies, leading his own investments, and serving on boards.
+      Jonathan also co-founded his own investment firm with two other GPs.
   - name: Scott Weller
     image: /images/DjoesoLi_400x400.jpg
     department:
@@ -346,35 +354,6 @@ team:
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
-  - name: Jonathan Shambroom
-    image: /images/1627622186259.jpg
-    department:
-      - SCALE
-      - M&A
-      - AI
-      - SYSTEMS
-      - LEADERSHIP
-      - FUNDING
-      - M&A
-      - PRODUCT
-      - TECHNOLOGY
-      - OPS
-      - COACHING
-    bulletpoints:
-      - >-
-        9 exits as CPO/COO in 11 VC-backed tech startups. COO at LaunchCapital.
-        CIO at Switchfly (Exit to Golub Capital). COO at Zozi (Exit to Peek).
-        CPO at Ning (Exit to Glam Media). CPO at Crackle (Exit to Grouper).
-    content: >
-      Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
-      startup. For 25 years in San Francisco, he has held operational and
-      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
-      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
-      consumer media and entertainment, of which 8 were VC backed and acquired.
-      His investing experience includes nearly 2 years as COO of a seed stage
-      family office, managing internal operations, overseeing a portfolio of
-      150+ companies, leading his own investments, and serving on boards.
-      Jonathan also co-founded his own investment firm with two other GPs.
   - name: Gary Moon
     image: /images/1516070710044.jpg
     department:
@@ -424,6 +403,27 @@ team:
       consumer electronics industry. Skilled in Go-to-market Strategy,
       Manufacturing Operations, Corporate Development, Mergers & Acquisitions
       (M\&A), and Product Ideation, Product Management, Product Marketing.
+  - name: Rob Reid
+    image: /images/vb-dqdcz_400x400.jpg
+    department:
+      - SCIENCE
+      - SYSTEMS
+      - AI
+      - FUNDING
+      - COACHING
+    bulletpoints:
+      - >-
+        Co-founder of Resilience Reserve with Chris Anderson ( head of TED).
+        Founder of Listen.com (Exit to Rhapsody/RealNetworks). Founding
+        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
+        and Kareo/Tebra.
+    content: >
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Peter Yared
     image: /images/download.jpg
     department:
