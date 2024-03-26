@@ -327,9 +327,10 @@ team:
       - LEADERSHIP
       - COACHING
     bulletpoints:
-      - 3x Exited Founder
-      - Founder of Minerva Health Ventures
-      - 'CEO, DTES of Happiest Minds'
+      - >-
+        3x Exited Founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
+        Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
+        Former Monk.
     content: >
       Leo is currently the co-founder of 6 companies gifting well-being to the
       world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
