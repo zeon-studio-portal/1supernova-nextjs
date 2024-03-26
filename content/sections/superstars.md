@@ -130,7 +130,9 @@ team:
       - IMPACT
       - WEB3
     bulletpoints:
-      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) now expert D2C investor/advisor in companies trying to change the world. He has been twice named on the Midas List of top 100 VCs."
+      - Partner at Mayfield Fund
+      - Partner at Norwest Venture Partners
+      - Midas List of top 100 VCs
     content: >
       Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
       invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
@@ -160,9 +162,12 @@ team:
       - SOCIAL
       - SCIENCE
     bulletpoints:
-      - 6x Exited Founder
-      - Founder & CEO at Colossal Biosciences (Unicorn)
-      - Co-founder at Form Bio
+      - >-
+        Ben Lamm is 6x exited founder. He is the CEO & Founder of Colossal
+        Biosciences (unicorn), Hypergiant Industries (Acquired by Trive
+        Capital), Conversable (Aquired by LivePerson NASDAQ: LPSN), Team Choas
+        (Acquired by Zynga), Chaotic Moon (Acquired by Accenture), Simply
+        Interactive (Acquired by Agile)
     content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Andrew Trader
     image: /images/AT.jpeg
@@ -180,10 +185,10 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        5-time founder with 3 exits: Zynga ($8B market cap), Madison Reed
-        (raised 120M), Coremetrics (acquired by IBM for $377M), and Tribe
-        (Acquired by Cisco).  Coached 30 CEO’s and helped them raise $500M+ in
-        follow-on capital.
+        AT is a 5-time founder with 3 exits: Zynga ($8B market cap), Madison
+        Reed (raised 120M), Coremetrics (acquired by IBM for $377M), and Tribe
+        (Acquired by Cisco).  Coached 30 CEO’s over the past 10 years he has
+        helped companies raise over $500M in follow-on capital.
     content: >
       A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
       an entrepreneur, he co-founded 5 companies with $13b in exits including
@@ -421,7 +426,7 @@ team:
       - Founder at Richmond Global
       - 'Co-founder at Endeavor '
       - Co-founder at EMLA Association
-    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\" - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
+    content: "Peter Keller is the Founder of Richmond Global. A non-comprehensive list of his investments follows (current unicorns are lowercase; UNICORNS at Kellner's exit are capitalized): 7Park Data (exit to Vista Equity Partners), AdChina (exit to Alibaba), americanas.com.br (the largest e-commerce platform in Latin America), athleta (exit to The Gap), AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand Technologies, Haystack TV, Improvado, Internet Securities (exit to Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens, Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India), Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra, Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is the Co-founder of Endeavor where he led North America, starting in Miami, and then served over two decades on the boards of Endeavor Global, Chile, Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading global community of, by, and for high-impact entrepreneurs.  \"\_Sustainable economies are dependent on high-impact entrepreneurship. What Endeavor does better than any other organization is to create entire cultures of entrepreneurship that spread within and between countries.\"  - Reid Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member\n"
   - name: Joel French
     image: /images/download-3.jpg
     department:
@@ -591,7 +596,7 @@ team:
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Alex Simpson
-    image: /images/Alex Simpson 2.jpeg
+    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
     department:
       - SALES
       - SCALE
@@ -627,44 +632,6 @@ team:
       Point-of-Sale designed to work across verticals and organization of all
       sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
       of the Entrepreneurs Organization (EO).
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
-    department:
-      - SALES
-      - LEADERSHIP
-      - COACHING
-      - GTM
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - Managing Director at AI2 Incubator
-      - CEO & Founder of Loftium (Exit to Flyhomes)
-      - CEO & Founder of GymPact (Top 5 fitness app)
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
-    department:
-      - FUNDING
-      - PRODUCT
-      - TECHNOLOGY
-    bulletpoints:
-      - 2x Exited Founder
-      - General Partner at Rabbit VC
-      - CEO & Founder TNC (Exited to Google)
-    content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -694,41 +661,36 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Krishan Arora
-    image: /images/download-14.jpg
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
     department:
-      - SYSTEMS
-      - MARKETING
-      - COACHING
-      - SALES
-      - GTM
-      - SCALE
       - FUNDING
+      - PRODUCT
+      - TECHNOLOGY
     bulletpoints:
-      - LP at Flight Ventures
-      - Search Fund Principal at Novastone Capital
-      - CEO & Founder at Arora Project (Exit to Republic)
+      - 2x Exited Founder
+      - General Partner at Rabbit VC
+      - CEO & Founder TNC (Exited to Google)
     content: >
-      Krishan Arora is an LP at Flight Ventures the largest syndicate on
-      AngelList. He is also a Search Fund Principal in Novastone Capital
-      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
-      acquiring and scaling profitable SMEs around the world. To date, NCA has
-      deployed over $220M in capital and has acquired several global businesses.
-      Over the next few years, NCA is set to deploy another $320M+ to acquire
-      several additional profitable SMEs.
-
-
-      Krishan is the Founder & CEO of The Arora Project (Exited to
-      Republic.com), a venture capital media agency that has raised & invested
-      over $125,000,000+ for high-growth ventures around the world.
-
-
-      Krishan graduated from Harvard with a concentration in Economics and has
-      since gained over a decade of experience in product launches, venture
-      fundraising, and growth marketing. Krishan’s core expertise is in scaling
-      up innovative ventures across industries by creating and converting global
-      online communities. Krishan is also an avid writer for Forbes.com writing
-      on entrepreneurship, digital media, and venture fundraising.
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC.
+  - name: J Patrick Bewley
+    image: /images/download-8.jpg
+    department:
+      - SCIENCE
+      - TECHNOLOGY
+      - AI
+      - SYSTEMS
+      - SCALE
+      - LEADERSHIP
+      - MARKETING
+    bulletpoints:
+      - CEO & Founder at Evo
+      - Head of Data & Innovation at Cox Enterprises
+      - Head of Consulting at Acxiom (Exited)
+    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Juha Mikkola
     image: /images/download-9.jpg
     department:
@@ -840,21 +802,6 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
-  - name: J Patrick Bewley
-    image: /images/download-8.jpg
-    department:
-      - SCIENCE
-      - TECHNOLOGY
-      - AI
-      - SYSTEMS
-      - SCALE
-      - LEADERSHIP
-      - MARKETING
-    bulletpoints:
-      - CEO & Founder at Evo
-      - Head of Data & Innovation at Cox Enterprises
-      - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Andrew Sturner
     image: /images/download-11.jpg
     department:
@@ -930,6 +877,29 @@ team:
       - Founder at Local Leaders Collective
       - CEO & Co-founder at LiveNinja (Exited)
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
+    department:
+      - SALES
+      - LEADERSHIP
+      - COACHING
+      - GTM
+      - FUNDING
+      - TECHNOLOGY
+    bulletpoints:
+      - Managing Director at AI2 Incubator
+      - CEO & Founder of Loftium (Exit to Flyhomes)
+      - CEO & Founder of GymPact (Top 5 fitness app)
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
     department:
@@ -1012,18 +982,6 @@ team:
       speaks and publishes on emerging digital business trends (web 3,
       collaboration, DAOs, AI, stakeholder participation models). He is based in
       Santa Monica, California.
-  - name: 'Revant Gupta '
-    image: /images/7S9A2603-r.jpg
-    department:
-      - GTM
-      - OPS
-      - STRATEGY
-      - FUNDRAISING
-    bulletpoints:
-      - Founder of Wind Sprint Capital
-      - Chief of Staff at MRGN
-      - Head of Finance HDHome ($270M Home Depot Startup)
-    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
@@ -1036,6 +994,53 @@ team:
       - Co-founder at Syntropy
       - 'Co-founder of Lumeter (Exited) '
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
+  - name: 'Revant Gupta '
+    image: /images/7S9A2603-r.jpg
+    department:
+      - GTM
+      - OPS
+      - STRATEGY
+      - FUNDRAISING
+    bulletpoints:
+      - Founder of Wind Sprint Capital
+      - Chief of Staff at MRGN
+      - Head of Finance HDHome ($270M Home Depot Startup)
+    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
+  - name: Krishan Arora
+    image: /images/download-14.jpg
+    department:
+      - SYSTEMS
+      - MARKETING
+      - COACHING
+      - SALES
+      - GTM
+      - SCALE
+      - FUNDING
+    bulletpoints:
+      - LP at Flight Ventures
+      - Search Fund Principal at Novastone Capital
+      - CEO & Founder at Arora Project (Exit to Republic)
+    content: >
+      Krishan Arora is an LP at Flight Ventures the largest syndicate on
+      AngelList. He is also a Search Fund Principal in Novastone Capital
+      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
+      acquiring and scaling profitable SMEs around the world. To date, NCA has
+      deployed over $220M in capital and has acquired several global businesses.
+      Over the next few years, NCA is set to deploy another $320M+ to acquire
+      several additional profitable SMEs. 
+
+
+      Krishan is the Founder & CEO of The Arora Project (Exited to
+      Republic.com), a venture capital media agency that has raised & invested
+      over $125,000,000+ for high-growth ventures around the world. 
+
+
+      Krishan graduated from Harvard with a concentration in Economics and has
+      since gained over a decade of experience in product launches, venture
+      fundraising, and growth marketing. Krishan’s core expertise is in scaling
+      up innovative ventures across industries by creating and converting global
+      online communities. Krishan is also an avid writer for Forbes.com writing
+      on entrepreneurship, digital media, and venture fundraising. 
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
