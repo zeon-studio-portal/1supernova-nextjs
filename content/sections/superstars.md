@@ -158,7 +158,7 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        5-time founder with 3x exits: Zynga (IPO: $8B market cap), Madison Reed
+        5x founder with 3x exits: Zynga (IPO: $8B market cap), Madison Reed
         (raised $120M), Coremetrics (Exit to IBM for $377M) and Tribe (Exit to
         Cisco).  Coached 30 CEO’s and helped them raise $500M+ in follow-on
         capital.
