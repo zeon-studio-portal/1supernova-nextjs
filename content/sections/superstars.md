@@ -1009,6 +1009,27 @@ team:
       - LP at Flight Ventures
       - Search Fund Principal at Novastone Capital
       - CEO & Founder at Arora Project (Exit to Republic)
+    content: >
+      Krishan Arora is an LP at Flight Ventures the largest syndicate on
+      AngelList. He is also a Search Fund Principal in Novastone Capital
+      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
+      acquiring and scaling profitable SMEs around the world. To date, NCA has
+      deployed over $220M in capital and has acquired several global businesses.
+      Over the next few years, NCA is set to deploy another $320M+ to acquire
+      several additional profitable SMEs. 
+
+
+      Krishan is the Founder & CEO of The Arora Project (Exited to
+      Republic.com), a venture capital media agency that has raised & invested
+      over $125,000,000+ for high-growth ventures around the world. 
+
+
+      Krishan graduated from Harvard with a concentration in Economics and has
+      since gained over a decade of experience in product launches, venture
+      fundraising, and growth marketing. Krishan’s core expertise is in scaling
+      up innovative ventures across industries by creating and converting global
+      online communities. Krishan is also an avid writer for Forbes.com writing
+      on entrepreneurship, digital media, and venture fundraising. 
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
