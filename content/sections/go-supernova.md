@@ -9,7 +9,7 @@ quote: We are a conscious cooperative of founders invested in each other’s suc
 features:
   - icon: /images/go-supernova/01.svg
     content: >-
-      **Our vision**  exited founders team up with companies changing the world
+      **Our vision**  Universal all-star teams back companies changing the world
       to achieve their missions, faster. 
   - icon: /images/go-supernova/03.svg
     content: >-
