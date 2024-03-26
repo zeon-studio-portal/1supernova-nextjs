@@ -273,8 +273,8 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        Senior Advisor (M&A) at Mastercard. CTO / Co-Founder at SessionM (Exit
-        to Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
+        Senior Advisor (M&A) at Mastercard. Founder & CTO at SessionM (Exit to
+        Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
         Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cactivate, Cake, &
         Esprezzo.
     content: >
