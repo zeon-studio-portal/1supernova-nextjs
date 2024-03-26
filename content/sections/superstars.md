@@ -254,9 +254,9 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        9 exits as CPO/COO in 11 VC-backed tech startups. COO at LaunchCapital.
-        CIO at Switchfly (Exit to Golub Capital). COO at Zozi (Exit to Peek).
-        CPO at Ning (Exit to Glam Media). CPO at Crackle (Exit to Grouper).
+        9 exits as CPO/COO in 11 VC-backed tech startups; CIO at Switchfly (Exit
+        to Golub Capital), COO at Zozi (Exit to Peek), CPO at Ning (Exit to Glam
+        Media), CPO at Crackle (Exit to Grouper). COO at LaunchCapital. 
     content: >
       Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
       startup. For 25 years in San Francisco, he has held operational and
