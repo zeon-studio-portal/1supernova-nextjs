@@ -235,6 +235,39 @@ team:
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
+  - name: Leo Rastogi
+    image: /images/download-1.jpg
+    department:
+      - AI
+      - SCIENCE
+      - SYSTEMS
+      - OPS
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - COACHING
+    bulletpoints:
+      - 3x Exited Founder
+      - Founder of Minerva Health Ventures
+      - 'CEO, DTES of Happiest Minds'
+    content: >
+      Leo is currently the co-founder of 6 companies gifting well-being to the
+      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
+      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
+      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
+      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
+      Business School with a PhD in Leadership. Leo also studied psychological
+      and neurobiological basis of Mindfulness and Meditation at Oxford
+      University and Kings College. He also briefly lived as Buddhist Monk - a
+      bookend to his multiple monastic sabbatical. Over two decades, Leo
+      travelled to 70+ countries, immersed himself in monastic experiences, led
+      retreats in the birthplaces of great civilizations and studied with
+      enlightened masters – an experience he cherishes most in his life. Much of
+      which he has synthesize in his two critically acclaimed books : Many Path,
+      Many Truths : A Journey through world religions that have shaped the 20th
+      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
+      is a rare blend of thought leader, author, successful entrepreneur,
+      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Rob Reid
     image: /images/vb-dqdcz_400x400.jpg
     department:
@@ -304,39 +337,6 @@ team:
       - Founder & CEO at Nueevo Technologies
       - 'Founder & CEO at Louisa (Exited) '
     content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
-  - name: Leo Rastogi
-    image: /images/download-1.jpg
-    department:
-      - AI
-      - SCIENCE
-      - SYSTEMS
-      - OPS
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
-      - COACHING
-    bulletpoints:
-      - 3x Exited Founder
-      - Founder of Minerva Health Ventures
-      - 'CEO, DTES of Happiest Minds'
-    content: >
-      Leo is currently the co-founder of 6 companies gifting well-being to the
-      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
-      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
-      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
-      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
-      Business School with a PhD in Leadership. Leo also studied psychological
-      and neurobiological basis of Mindfulness and Meditation at Oxford
-      University and Kings College. He also briefly lived as Buddhist Monk - a
-      bookend to his multiple monastic sabbatical. Over two decades, Leo
-      travelled to 70+ countries, immersed himself in monastic experiences, led
-      retreats in the birthplaces of great civilizations and studied with
-      enlightened masters – an experience he cherishes most in his life. Much of
-      which he has synthesize in his two critically acclaimed books : Many Path,
-      Many Truths : A Journey through world religions that have shaped the 20th
-      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
-      is a rare blend of thought leader, author, successful entrepreneur,
-      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Jonathan Shambroom
     image: /images/1627622186259.jpg
     department:
