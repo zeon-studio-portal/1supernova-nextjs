@@ -111,7 +111,6 @@ team:
         CEO & Founder at TN.com and bootrapped to $250MM ARR and merged (Exit to
         Serta Simmons Bedding). Member of EO and YPO. Board member at Penn State
         University's School of Business.
-      - EO and YPO
     content: >
       JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
       Simmons on August, 2018. His bootstrapped startup achieved $250 million in
