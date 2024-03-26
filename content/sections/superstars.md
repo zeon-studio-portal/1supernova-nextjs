@@ -130,9 +130,7 @@ team:
       - IMPACT
       - WEB3
     bulletpoints:
-      - Partner at Mayfield Fund
-      - Partner at Norwest Venture Partners
-      - Midas List of top 100 VCs
+      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led investments in MOAT (Exit to Oracle), Basis (Exit to Intel), Fitmob (Exit to Classpass), and Pillow (Exit to by Expedia). Tim is named 2x on Midas List of top 100 VCs."
     content: >
       Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
       invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
