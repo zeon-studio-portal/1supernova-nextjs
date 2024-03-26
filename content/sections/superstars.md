@@ -652,6 +652,21 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
+    department:
+      - FUNDING
+      - PRODUCT
+      - TECHNOLOGY
+    bulletpoints:
+      - 2x Exited Founder
+      - General Partner at Rabbit VC
+      - CEO & Founder TNC (Exited to Google)
+    content: >
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -681,21 +696,6 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
-    department:
-      - FUNDING
-      - PRODUCT
-      - TECHNOLOGY
-    bulletpoints:
-      - 2x Exited Founder
-      - General Partner at Rabbit VC
-      - CEO & Founder TNC (Exited to Google)
-    content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC.
   - name: J Patrick Bewley
     image: /images/download-8.jpg
     department:
