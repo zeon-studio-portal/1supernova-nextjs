@@ -97,6 +97,51 @@ team:
       venture funding from top-tier institutions. Daniel is an active member of
       EO and YPO where he hosts private monthly fireside chats with top-tier
       venture capitalists and unicorn founders.
+  - name: Ben Lamm
+    image: /images/BenLamm-r.jpg
+    department:
+      - TECH
+      - AI
+      - SCALE
+      - FUNDING
+      - COACHING
+      - CULTURE
+      - SOCIAL
+      - SCIENCE
+    bulletpoints:
+      - >-
+        6x exited founder. CEO & Founder of Colossal Biosciences (Unicorn),
+        Hypergiant Industries (Exit to Trive Capital), Conversable (Exit to
+        LivePerson), Team Choas (Exit to Zynga), Chaotic Moon (Exit to
+        Accenture), Simply Interactive (Exit to Agile).
+    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
+  - name: Tim Chang
+    image: /images/TimChang-r.jpg
+    department:
+      - COACHING
+      - AI
+      - FUNDING
+      - IMPACT
+      - WEB3
+    bulletpoints:
+      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led investments in MOAT (Exit to Oracle), Basis (Exit to Intel), Fitmob (Exit to Classpass), and Pillow (Exit to by Expedia). Tim is named 2x on Midas List of top 100 VCs."
+    content: >
+      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
+      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
+      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
+      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
+      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
+      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
+      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
+      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
+      He was also actively involved with the boards of Placeware (acquired by
+      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
+      by private equity syndicate). Tim received his MBA from the Stanford
+      Graduate School of Business, where he graduated in the top 10% of his
+      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
+      Electrical Engineering from the University of Michigan, where he was a
+      Departmental Scholar and received a full PhD fellowship.
   - name: JT Marino
     image: /images/jt-1-5ece9936.jpg
     department:
@@ -126,51 +171,6 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: Tim Chang
-    image: /images/TimChang-r.jpg
-    department:
-      - COACHING
-      - AI
-      - FUNDING
-      - IMPACT
-      - WEB3
-    bulletpoints:
-      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led investments in MOAT (Exit to Oracle), Basis (Exit to Intel), Fitmob (Exit to Classpass), and Pillow (Exit to by Expedia). Tim is named 2x on Midas List of top 100 VCs."
-    content: >
-      Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
-      invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
-      Health/Wellness. He has been twice named on the Midas List of top 100 VCs.
-      Tim led Mayfield's investments in MOAT (acquired by Oracle), Basis
-      (acquired by Intel), Fitmob (acquired by Classpass), Tonal Fitness, Grove
-      Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
-      Expedia). Tim was previously a Partner at Norwest Venture Partners, where
-      he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
-      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
-      He was also actively involved with the boards of Placeware (acquired by
-      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
-      by private equity syndicate). Tim received his MBA from the Stanford
-      Graduate School of Business, where he graduated in the top 10% of his
-      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
-      Electrical Engineering from the University of Michigan, where he was a
-      Departmental Scholar and received a full PhD fellowship.
-  - name: Ben Lamm
-    image: /images/BenLamm-r.jpg
-    department:
-      - TECH
-      - AI
-      - SCALE
-      - FUNDING
-      - COACHING
-      - CULTURE
-      - SOCIAL
-      - SCIENCE
-    bulletpoints:
-      - >-
-        6x exited founder. CEO & Founder of Colossal Biosciences (Unicorn),
-        Hypergiant Industries (Exit to Trive Capital), Conversable (Exit to
-        LivePerson), Team Choas (Exit to Zynga), Chaotic Moon (Exit to
-        Accenture), Simply Interactive (Exit to Agile).
-    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Andrew Trader
     image: /images/AT.jpeg
     department:
