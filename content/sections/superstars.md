@@ -363,7 +363,10 @@ team:
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & MP at Nfluence Partners
+      - >-
+        Founder & MP at Nfluence Partners, 225+ transactions in growth capital
+        and M&A for emerging companies (spun out of TMT group at Headwaters MB).
+        CEO & Founder of Luna Communication (Exited).
       - Managing Director at Headwaters
       - Founder & CEO at Luna (Exited)
     content: >
