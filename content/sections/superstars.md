@@ -793,8 +793,6 @@ team:
         Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
         unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
         Rallyteam (Exit to Workday). 
-      - Founder at Saturna Consulting Group
-      - Co-founder Rallytream (Exit to Workday)
     content: >
       Dan Ellis is an investor and advisor at InRoad Ventures where he directs
       investments for the family office. He has invested in 40+ startups with 4
