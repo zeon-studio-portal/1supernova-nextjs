@@ -515,7 +515,6 @@ team:
       - >-
         Founder at Richmond Global (now on it's 14th fund). Co-founder of
         Endeavor, the leading global community for high-impact entrepreneurs. 
-      - Co-founder at EMLA Association
     content: >
       Peter Keller is the Founder of Richmond Global. A non-comprehensive list
       of his investments follows (current unicorns are lowercase; UNICORNS at
