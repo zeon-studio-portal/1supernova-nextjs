@@ -943,6 +943,7 @@ team:
   - name: Yifan Zhang
     image: /images/Yifan.jpeg
     department:
+      - PRODUCT
       - SALES
       - LEADERSHIP
       - COACHING
