@@ -640,7 +640,7 @@ team:
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
   - name: Alex Simpson
-    image: /images/1_fMAwM092r2L2HSkiYnvtkQ.jpg
+    image: /images/63dbf5e990290f83a9c2d580_img-hero.png
     department:
       - SALES
       - SCALE
