@@ -974,9 +974,12 @@ team:
       - CULTURE
       - IMPACT
     bulletpoints:
-      - Co-founder Mindshift Recovery
-      - Chief Medical Officer at Sharecare
-      - CEO/Founder at Mindsciences (Exit to Sharecare)
+      - >-
+        Co-founder Mindshift Recovery. New York Times best-selling Author and
+        Thought Leader in "science of self-mastery". Chief Medical Officer at
+        Sharecare. CEO/Founder at Mindsciences (Exit to Sharecare)
+      - ''
+      - ''
     content: >
       Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
       thought leader in the field of habit change and the “science of
