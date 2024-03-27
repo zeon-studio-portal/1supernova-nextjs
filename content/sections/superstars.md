@@ -954,8 +954,6 @@ team:
         Managing Director at AI2 Incubator, born from the Allen Institute for AI
         (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
         mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
-      - CEO & Founder of Loftium (Exit to Flyhomes)
-      - CEO & Founder of GymPact (Top 5 fitness app)
     content: >
       Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
       Institute for AI (AI2). Previously 2x founder and CEO of Loftium
