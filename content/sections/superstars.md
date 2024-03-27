@@ -624,9 +624,9 @@ team:
       - GTM
     bulletpoints:
       - >-
-        President at Glo. CEO & Co-founder of Carenote/Forevernote (Exit to
-        Evite). Head of Ops at Flipagrap; led integration of Musical.ly into
-        ByteDance (Exit to Tiktok). Senior leadership positions at Edmund,
+        President at Glo, top yoga & wellness platform. CEO & Co-founder of
+        Carenote/Forevernote (Exit to Evite). Head of Ops at Flipagrap;
+        Musical.ly into ByteDance (Exit to Tiktok). Senior leadership at Edmund,
         eHarmony and MTV Networks. 
     content: >
       Hogan Lee is the President & COO of Glo, whose mission is to connect
