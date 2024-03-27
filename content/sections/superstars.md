@@ -51,7 +51,7 @@ team:
       - >-
         3x exited founder, 1 unicorn (Exit to Oracle); INBOX Marketing (Exit to
         Responsys/IPO). EIR at 500 Global (#1 in VC Deal Counts & Exits).
-        Co-founder at 1heart.com. Consulted 20% of Fortune 500 brands. Elite
+        Co-founder at 1heart.com. Consultant to 20% of Fortune 500 brands. Elite
         advisor, growth catalyst and superconnector. 
     content: >
       Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
