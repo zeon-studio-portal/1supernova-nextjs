@@ -597,7 +597,7 @@ team:
       - SALES
       - LEADERSHIP
       - SYSTEMS
-      - EXITED FOUNDER
+      - SCALE
     bulletpoints:
       - >-
         CEO & Founder at Leaders Create Leaders, business growth consultancy for
