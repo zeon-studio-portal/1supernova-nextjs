@@ -1054,6 +1054,7 @@ team:
   - name: Grant Hunter
     image: /images/Grant.jpeg
     department:
+      - SCALE
       - COACHING
       - SALES
       - SYSTEMS
