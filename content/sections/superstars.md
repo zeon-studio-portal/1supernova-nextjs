@@ -434,9 +434,12 @@ team:
       - SCALE
       - LEADERSHIP
     bulletpoints:
-      - 6x Exited Founder
-      - CEO & Founder at InCountry
-      - CTO at CBS Interactive
+      - >-
+        6x Exited Founder. CEO & Founder at InCountry.  Peter founded six
+        enterprise software companies that were acquired by Sun, Oracle, Citrix,
+        VMware, Sprinklr and Prograph.
+      - ''
+      - ''
     content: >
       Peter Yared is the Founder & CEO at InCountry, a global provider of Data
       Residency-as-a-Service for SaaS and internal apps. Peter is also the
