@@ -696,11 +696,11 @@ team:
     image: /images/Chris.jpeg
     department:
       - SALES
-      - TALENT
+      - COACHING
       - OPS
       - FUNDING
-      - WEB3
-      - EXITED FOUNDER
+      - SCALE
+      - PRODUCT
     bulletpoints:
       - >-
         Founder & Managing Partner of C4+, investment and advisory focused on
@@ -708,8 +708,6 @@ team:
         Co-founder of Ephere Football led by Agustín Rodrígues. Co-founder of
         Limitless Studios, female-led VC-backed media company supporting
         children around the world.
-      - ''
-      - Co-founder of Limitless Studios
     content: >
       Chris Chaney is the Founder & Managing Partner of C4+, his personal
       investment and advisory firm partnering with likable entrepreneurs across
