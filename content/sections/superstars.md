@@ -800,7 +800,7 @@ team:
       Grin). Dan is the co-founder at Rallyteam, a venture backed talent
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley.
+      based in Silicon Valley. 
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department:
