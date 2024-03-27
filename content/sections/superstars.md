@@ -254,9 +254,10 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        9 exits as CPO/COO in 11 VC-backed tech startups; CIO at Switchfly (Exit
-        to Golub Capital), COO at Zozi (Exit to Peek), CPO at Ning (Exit to Glam
-        Media), CPO at Crackle (Exit to Grouper). COO at LaunchCapital. 
+        11x Founder/CPO/COO with 9 exits; Switchfly (Exit to Golub Capital),Zozi
+        (Exit to Peek), Ning (Exit to Glam Media), Crackle (Exit to Grouper),
+        Jumpstart Technologies (Tagged.com), Evite.com (Ticketmaster). at
+        LaunchCapital. 
     content: >
       Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
       startup. For 25 years in San Francisco, he has held operational and
@@ -299,8 +300,7 @@ team:
       - >-
         Senior Advisor (M&A) at Mastercard. Founder & CTO at SessionM (Exit to
         Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
-        Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cactivate, Cake, &
-        Esprezzo.
+        Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cake, & Esprezzo.
     content: >
       Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
       at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
