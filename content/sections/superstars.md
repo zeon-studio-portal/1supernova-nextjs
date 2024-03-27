@@ -571,9 +571,10 @@ team:
       - SCALE
       - 'SALES '
     bulletpoints:
-      - Founder of Ferrazzi Greenlight
-      - CMO at Starwood & Deloitte
-      - 'Worlds’ #1 Executive Team Coach'
+      - >-
+        Founder & Chairman at Ferrazzi Greenlight. #1 executive team coach.
+        Former CMO at Starwood & Deloitte Consulting. #1 Best Selling Author.
+        Member of Transformation 50.
     content: >
       Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
       executive teams co-elevate with radical adaptable team agility to meet
