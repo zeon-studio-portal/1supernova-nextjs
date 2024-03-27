@@ -592,6 +592,7 @@ team:
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
+      - MARKETING
       - GTM
       - COACHING
       - SALES
