@@ -86,9 +86,10 @@ team:
       - SALES
     bulletpoints:
       - >-
-        2x exited founder. CEO & Co-founder of Key, the market leader in
-        attainable homeownership with 8-figures of venture funding from top-tier
-        institutions. Led growth at Airbnb. Member of EO and YPO.
+        2x exited founder. CEO & Co-founder of Key, the market leader with
+        8-figures of venture funding from top-tier institutions. Led growth at
+        Airbnb. Founder & CEO of Guiides (Exit to Leavetown). Member of EO and
+        YPO.
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
       first two venture-backed companies and joined Airbnb full-time where he
