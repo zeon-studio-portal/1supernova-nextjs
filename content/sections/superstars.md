@@ -1120,8 +1120,8 @@ team:
       - AI
       - GROWTH
       - MARKETING
-      - IMPACT
-      - EXITED FOUNDER
+      - FUNDRAISING
+      - SALES
     bulletpoints:
       - >-
         CEO/Founder at Complex Chaos, an applied collaborative AI company backed
