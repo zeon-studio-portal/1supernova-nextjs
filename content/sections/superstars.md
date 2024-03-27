@@ -601,9 +601,8 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - >-
-        CEO & Founder of Leaders Create Leaders, a business growth consultancy.
-        CEO & Founder of Elite Daily (exit to Daily Mail); scaled and sold in
-        3-years for $50MM. 
+        CEO & Founder at Leaders Create Leaders. CEO & Founder of Elite Daily
+        (exit to Daily Mail); scaled and sold in 3-years for $50MM. 
       - Co-founder of Elite Daily (Exited)
       - Founder of Fownders
     content: >
