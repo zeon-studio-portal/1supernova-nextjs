@@ -626,7 +626,11 @@ team:
       - TECHNOLOGY
       - GTM
     bulletpoints:
-      - President at Glo
+      - >-
+        President at Glo. CEO & Co-founder of Carenote/Forevernote (Exit to
+        Evite). Head of Ops at Flipagrap; led integration of Musical.ly into
+        ByteDance (Exit to Tiktok). Senior leadership positions at Edmund,
+        eHarmony and MTV Networks. 
       - CEO a Carenote (Exited to Evite)
       - 'Head of Ops at Flipagram (Exit to TikTok) '
     content: >
