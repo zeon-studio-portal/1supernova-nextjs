@@ -823,8 +823,8 @@ team:
     bulletpoints:
       - >-
         2x exited founder. CEO & Founder of PTO Genius, an AI-powered HR
-        platform. CEO & Co-founder of Gravisor (Exit to Betterment). Co-founder
-        of Smartshopper (Exited). 
+        platform. CEO & Co-founder of Gravisor (Exit to Betterment). CPO &
+        Co-founder of Smartshopper (Exited). 
     content: >
       Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
       PTO Genius, an AI-powered platform to track, manage, and optimize time
