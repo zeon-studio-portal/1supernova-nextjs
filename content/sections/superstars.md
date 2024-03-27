@@ -682,7 +682,11 @@ team:
       - PRODUCT
       - TECHNOLOGY
     bulletpoints:
-      - 2x Exited Founder
+      - >-
+        2x exited founder. CEO & Founder at TNC (Exit to Google). Global
+        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. He is
+        invested in 50+ seed stage companies and has his own fund called Rabbit
+        VC.
       - General Partner at Rabbit VC
       - CEO & Founder TNC (Exited to Google)
     content: >
