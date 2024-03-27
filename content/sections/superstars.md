@@ -975,8 +975,8 @@ team:
       - IMPACT
     bulletpoints:
       - >-
-        Co-founder Mindshift Recovery. New York Times best-selling Author and
-        Thought Leader in "science of self-mastery". Chief Medical Officer at
+        Co-founder Mindshift Recovery. New York Times best-selling author. TED
+        speaker on "science of self-mastery". Chief Medical Officer at
         Sharecare. CEO/Founder at Mindsciences (Exit to Sharecare)
       - ''
       - ''
