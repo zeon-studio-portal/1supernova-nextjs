@@ -702,8 +702,13 @@ team:
       - WEB3
       - EXITED FOUNDER
     bulletpoints:
-      - Founder & Managing Partner of C4+
-      - Founder at Infinite Esports (Exited)
+      - >-
+        Founder & Managing Partner of C4+, investment and advisory focused on
+        sports, esports and gaming. Founder at Infinite Esports (Exited).
+        Co-founder of Ephere Football led by Agustín Rodrígues. Co-founder of
+        Limitless Studios, female-led VC-backed media company supporting
+        children around the world.
+      - ''
       - Co-founder of Limitless Studios
     content: >
       Chris Chaney is the Founder & Managing Partner of C4+, his personal
