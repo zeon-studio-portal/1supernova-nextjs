@@ -392,9 +392,9 @@ team:
       - COACHING
       - TECHNOLOGY
     bulletpoints:
-      - Founder at Carport
-      - CPO at Soraa (Exit to Ecosense)
-      - Founding CPO at Beats by Dre (Exit to Apple)
+      - >-
+        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
+        Beats by Dre (Exit to Apple for $3.2 Billion).
     content: >
       TJ Grewel is the Founder of Carport. He was the CPO and founding team of
       Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
