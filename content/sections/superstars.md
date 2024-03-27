@@ -837,7 +837,7 @@ team:
     image: /images/download-13.jpg
     department:
       - OPS
-      - CULTURE
+      - TECHNOLOGY
       - STRATEGY
       - LEADERSHIP
       - SCIENCE
