@@ -335,7 +335,7 @@ team:
       - >-
         3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
         Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
-        Former Monk.
+        Executive Board Member of EO.Former Monk.
     content: >
       Leo is currently the co-founder of 6 companies gifting well-being to the
       world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
