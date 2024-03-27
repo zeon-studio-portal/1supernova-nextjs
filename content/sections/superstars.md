@@ -364,9 +364,9 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - >-
-        Founder & MP at Nfluence Partners, conscious investment banking with
-        225+ M&A transactions (spun out of TMT group at Headwaters MB). CEO &
-        Founder of Luna Communication (Exited).
+        Founder & MP at Nfluence Partners, SF-based conscious investment banking
+        with 225+ M&A transactions (spun out of TMT group at Headwaters MB). CEO
+        & Founder of Luna Communication (Exited).
       - Managing Director at Headwaters
       - Founder & CEO at Luna (Exited)
     content: >
