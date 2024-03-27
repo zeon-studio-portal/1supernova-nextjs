@@ -822,7 +822,7 @@ team:
       - TECHNOLOGY
     bulletpoints:
       - >-
-        2x Exited Founder. CEO & Founder of PTO Genius, an AI-powered HR
+        2x exited founder. CEO & Founder of PTO Genius, an AI-powered HR
         platform. Co-founder of Gravisor (Exit to Betterment). Co-founder of
         Smartshopper (Exited). 
     content: >
