@@ -654,8 +654,6 @@ team:
         4x exited founder. Co-founder of Openstock (LiquidLP). Co-founder of
         Kandua (exited), Bizpay (Exited) Plutas (Exited), LiveGlass (Exited).
         Member of EO.
-      - ''
-      - ''
     content: >
       Alex leads LiquidLP (previously known as Openstock), which focuses on
       enabling Limited Partners and General Partners with lending solutions. As
