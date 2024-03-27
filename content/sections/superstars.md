@@ -1093,7 +1093,6 @@ team:
         LP at Flight Ventures, the largest syndicate on AngelList. Search Fund
         Principal at Novastone Capital (deployed $220M+ in capital). CEO &
         Founder at Arora Project, raised $125M+ for startups(Exit to Republic).
-      - ''
     content: >
       Krishan Arora is an LP at Flight Ventures the largest syndicate on
       AngelList. He is also a Search Fund Principal in Novastone Capital
