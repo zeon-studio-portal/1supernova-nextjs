@@ -649,9 +649,10 @@ team:
       - GTM
     bulletpoints:
       - >-
-        4x exited founder. Co-founder of Openstock (LiquidLP). Co-founder of
-        Kandua (exited), Bizpay (Exited) Plutas (Exited), LiveGlass (Exited).
-        Member of EO.
+        4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised over
+        $200M in funding for fintech ventures. Member of EO.
     content: >
       Alex leads LiquidLP (previously known as Openstock), which focuses on
       enabling Limited Partners and General Partners with lending solutions. As
