@@ -871,9 +871,10 @@ team:
       - SCALING
       - EXITED FOUNDER
     bulletpoints:
-      - Founder at Entourage Effect Capital
-      - Co-founder at Boatsetter (Series B)
-      - Founder at Interactive Services (Exited)
+      - >-
+        Founder at Entourage Effect Capital & Orange Island VC. Co-founder &
+        Chairman at Boatsetter (Series B). Founder at Interactive Services
+        (Exited). Endeavor entreprenuer. YPO Member.
     content: >
       Andrew Sturner has been navigating the high seas of entrepreneurship for
       the more than three decades. Andy is an impact investor and has been
