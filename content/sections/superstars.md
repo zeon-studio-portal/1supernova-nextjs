@@ -643,6 +643,7 @@ team:
   - name: Alex Simpson
     image: /images/63dbf5e990290f83a9c2d580_img-hero.png
     department:
+      - COACHING
       - SALES
       - SCALE
       - FUNDING
