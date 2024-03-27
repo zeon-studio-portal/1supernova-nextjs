@@ -175,7 +175,7 @@ team:
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
   - name: JT Marino
-    image: /images/jt-1-5ece9936.jpg
+    image: /images/0.jpg
     department:
       - SCALE
       - COACHING
