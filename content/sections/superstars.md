@@ -778,8 +778,6 @@ team:
         2x exited founder. Co-founder & COO at 1heart.com. Founder & CEO of
         Tintup, bootrapped to 1000+ customers in 172 countries (Exited). Founder
         at WAI WEAR (Exited). 
-      - Founder & CEO Tintup (Exited)
-      - Founder at WAI Wear (Exited)
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
   - name: Dan Ellis
     image: /images/Dan.jpeg
