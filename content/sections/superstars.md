@@ -255,7 +255,7 @@ team:
       - COACHING
     bulletpoints:
       - >-
-        11x Founder/CPO/COO with 9 exits; Switchfly (Exit to Golub Capital),Zozi
+        11x CEO/CPO/COO with 9 exits; Switchfly (Exit to Golub Capital),Zozi
         (Exit to Peek), Ning (Exit to Glam Media), Crackle (Exit to Grouper),
         Jumpstart Technologies (Tagged.com), Evite.com (Ticketmaster). at
         LaunchCapital. 
