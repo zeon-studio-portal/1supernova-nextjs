@@ -842,7 +842,10 @@ team:
       - LEADERSHIP
       - SCIENCE
     bulletpoints:
-      - Founder of Xenex Healthcare Services
+      - >-
+        Founder & CSO of Xenex Healthcare Services. Chief Epidemiologist at
+        Forefront Healthcare. Fellow at Royal Society of Medicine. CTO at Xenex
+        Technologies.
       - Fellow at IDSA & Royal Society of Medicine
       - Scientist at MD Anderson Cancer Center
     content: >
