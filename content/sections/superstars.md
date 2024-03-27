@@ -537,8 +537,9 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - >-
-        Founder & CEO of Ink, a smart real estate transaction solution.
-        Co-founder and COO of Code Pilot (Exit to AngelList). 
+        Founder & CEO of Ink. Co-founder and COO of Code Pilot (Exit to
+        AngelList). Advisor to Tellus Investment Partners, a select group of
+        family offices and agribusiness professionals.
       - Advisor to Tellus Investment Partners
       - Co-founder of Code Pilot (Exit to AngelList)
     content: >
