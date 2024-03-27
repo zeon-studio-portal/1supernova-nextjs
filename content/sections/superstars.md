@@ -768,6 +768,31 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
+    department:
+      - PRODUCT
+      - SALES
+      - LEADERSHIP
+      - COACHING
+      - GTM
+      - FUNDING
+      - TECHNOLOGY
+    bulletpoints:
+      - >-
+        Managing Director at AI2 Incubator, born from the Allen Institute for AI
+        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
+        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: Tim Sae Koo
     image: /images/102929.png
     department:
@@ -943,31 +968,6 @@ team:
         Founder at Local Leaders Collective backed by the Knight Foundation. CEO
         & Co-founder of LiveNinja (Exited). 
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
-    department:
-      - PRODUCT
-      - SALES
-      - LEADERSHIP
-      - COACHING
-      - GTM
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        Managing Director at AI2 Incubator, born from the Allen Institute for AI
-        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
-        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
     department:
@@ -1068,19 +1068,6 @@ team:
         Microfranchise Solutions (Exited). Founder of Lumeter Networks (Exited).
         Certified Purpose Guide. 
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
-  - name: 'Revant Gupta '
-    image: /images/7S9A2603-r.jpg
-    department:
-      - GTM
-      - OPS
-      - STRATEGY
-      - FUNDRAISING
-    bulletpoints:
-      - >-
-        Founder of Wind Sprint Capital. Chief of Staff at MRGN. Head of Finance
-        at HD Home ($270M Home Depot Startup). Finance expert specializing in
-        scaling startups to $250M+ ARR. 
-    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Krishan Arora
     image: /images/download-14.jpg
     department:
@@ -1117,6 +1104,19 @@ team:
       up innovative ventures across industries by creating and converting global
       online communities. Krishan is also an avid writer for Forbes.com writing
       on entrepreneurship, digital media, and venture fundraising.
+  - name: 'Revant Gupta '
+    image: /images/7S9A2603-r.jpg
+    department:
+      - GTM
+      - OPS
+      - STRATEGY
+      - FUNDRAISING
+    bulletpoints:
+      - >-
+        Founder of Wind Sprint Capital. Chief of Staff at MRGN. Head of Finance
+        at HD Home ($270M Home Depot Startup). Finance expert specializing in
+        scaling startups to $250M+ ARR. 
+    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
