@@ -797,7 +797,7 @@ team:
       Dan Ellis is an investor and advisor at InRoad Ventures where he directs
       investments for the family office. He has invested in 40+ startups with 4
       Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
-      Grin). Dan is the co-founder at Rallyteam, a venture backed talent
+      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
       based in Silicon Valley. 
