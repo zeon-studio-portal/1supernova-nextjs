@@ -1059,8 +1059,11 @@ team:
       - SYSTEMS
       - OPS
     bulletpoints:
-      - 2x Exited Founder
-      - Co-founder at Syntropy
+      - >-
+        2x exited founder. CEO & Founder at Syntropy.  CEO & Founder of
+        Microfranchise Solutions (Exited). Founder of Lumeter Networks (Exited).
+        Certified Purpose Guide. 
+      - ''
       - 'Co-founder of Lumeter (Exited) '
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
   - name: 'Revant Gupta '
