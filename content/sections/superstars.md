@@ -631,8 +631,6 @@ team:
         Evite). Head of Ops at Flipagrap; led integration of Musical.ly into
         ByteDance (Exit to Tiktok). Senior leadership positions at Edmund,
         eHarmony and MTV Networks. 
-      - CEO a Carenote (Exited to Evite)
-      - 'Head of Ops at Flipagram (Exit to TikTok) '
     content: >
       Hogan Lee is the President & COO of Glo, whose mission is to connect
       people through self-care. Hogan was the Co-Founder & Chief Experience
