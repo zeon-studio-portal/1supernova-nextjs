@@ -467,9 +467,12 @@ team:
       - FUNDING
       - STRATEGY
     bulletpoints:
-      - 'Chairman of the Board at Seattles Children''s '
-      - 'EVP at RCM (Nasdaq: RCM)'
-      - CEO of SCI Solutions (Exit to RCM)
+      - >-
+        Chairman of the Board at Seattles Children's. EVP at RCM (Nasdaq: RCM).
+        CEO of SCI Solutions (Exit to RCM), SaaS to 2,500 hospitals, 14,000
+        physician practices, and millions of end-user patients.
+      - ''
+      - ''
     content: >
       Joel French is the Chairman of the Board of Trustee's at Seattle Childrens
       with 10,000+ of the best nurses, physicians, other licensed clinicians,
