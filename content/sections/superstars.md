@@ -807,9 +807,10 @@ team:
       - PRODUCT
       - TECH
     bulletpoints:
-      - 2x Exited Founder
-      - Founder at Hardline (Exited)
-      - Head of Product at Shape (Exited)
+      - >-
+        2x exited founder. Founder at Hardline (Exited). Head of Product at
+        Shape (Exited). Founder of Yodal (Exited to Open English). Member of
+        South Park Commons. 
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Ulises Orozco
     image: /images/1585673787933.jpeg
