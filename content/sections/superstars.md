@@ -789,7 +789,10 @@ team:
       - FUNDRAISING
       - SYSTEMS
     bulletpoints:
-      - Investor & Advisor at InRoad Ventures
+      - >-
+        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
+        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
+        Rallyteam (Exit to Workday). 
       - Founder at Saturna Consulting Group
       - Co-founder Rallytream (Exit to Workday)
     content: >
