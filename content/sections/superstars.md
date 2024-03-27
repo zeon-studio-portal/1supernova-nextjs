@@ -213,10 +213,9 @@ team:
       - SALES
     bulletpoints:
       - >-
-        Exited Founder (Founder & CEO at Jive). CMO of Songtradr (Series E), the
-        world's largest B2B Music Licensing Marketplace.  Founding member of
-        Legacy 8, an early-stage VC fund. Top 40 Under 40: Top Female
-        Entrepreneurs.
+        CEO & Founder at Jive (Exited). CMO of Songtradr (Series E), the world's
+        largest B2B Music Licensing Marketplace.  Founding member of Legacy 8,
+        an early-stage VC fund. Top 40 Under 40: Top Female Entrepreneurs.
     content: >
       Lindsay is a founding member of Legacy 8, an early stage venture capital
       fund that focuses on the intersection of science and consciousness.
