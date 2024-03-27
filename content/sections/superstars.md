@@ -600,8 +600,9 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - >-
-        CEO & Founder at Leaders Create Leaders. CEO & Founder of Elite Daily
-        (exit to Daily Mail); scaled and sold in 3-years for $50MM. 
+        CEO & Founder at Leaders Create Leaders, business growth consultancy for
+        business owners. CEO & Founder of Elite Daily (exit to Daily Mail);
+        scaled and sold in 3-years for $50MM. Social influencer. 
     content: >
       Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
       growth consultancy. Gerard was the co-founder of Elite Daily (exit to
