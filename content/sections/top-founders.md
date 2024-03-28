@@ -37,7 +37,7 @@ lists:
       width: 130
       file: /images/top-founders/ignacio-handal-brand.png
   - name: Paul Graf
-    image: /images/top-founders/paul.jpg
+    image: /images/paul-graf.jpg
     designation: CEO & Founder
     description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB "
     brand_logo:
