@@ -102,9 +102,9 @@ team:
       and has a Series A Enterprise Fund in partnership with Gaingels ($800mm
       deployed). Daniel sold his first two venture-backed companies at 25 years
       old and then ran most of Canada and Eastern USA for Airbnb. He then left
-      to start Key which has raised 8-figures of venture funding. 
+      to start Key which has raised 8-figures of venture funding.
   - name: Ben Lamm
-    image: /images/BenLamm-r.jpg
+    image: /images/BenLamm.jpg
     department:
       - TECH
       - AI
@@ -656,7 +656,7 @@ team:
       Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley. 
+      based in Silicon Valley.
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
