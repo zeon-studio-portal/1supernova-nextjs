@@ -88,8 +88,8 @@ team:
       - >-
         2x exited founder. CEO & Co-founder of Key (8-figures of venture funding
         with top-tier institutions). Head of growth at Airbnb top destinations.
-        Founder & CEO of Guiides & ShareSheid (Both Exited to Leavetown). Member
-        of EO and YPO.
+        Founder & CEO of Guiides & ShareSheid (2 Exits to Leavetown). Founded EO
+        and YPO Angels (now Entrepreneurs Capital).
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. He sold his
       first two venture-backed companies and joined Airbnb full-time where he
