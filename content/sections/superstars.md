@@ -6,7 +6,6 @@ quote: >-
   We orbit around your needs as bespoke advisory boards, mentors, and ceo
   coaches
 group_list:
-  - {}
   - name: AI
     icon: /images/superstars/icons/ai.svg
   - name: Coaching
@@ -36,27 +35,6 @@ group_list:
   - name: Technology
     icon: /images/superstars/icons/technology.svg
 team:
-  - name: Emily Dong
-    image: /images/X4Hj7NSk_400x400.jpg
-    department:
-      - GTM
-      - MARKETING
-      - FUNDRAISING
-      - TECHNOLOGY
-      - PRODUCT
-    bulletpoints:
-      - >-
-        CEO & Founder of Snout, modern solutions for veterinary practices backed
-        byPear VC, Bread and Butter Ventures, Tribe Capital, & Sterling Road.
-        Founder & CEO of Pawprint, #1 pet health app (Exit to Metamorphosis
-        Partners); 500 Startups and Y-Combinator Fellowship.
-    content: >
-      Emily Dong is the CEO & Founder of Snout where our mission is to ensure no
-      one ever has to make a health decision based on the cash in their bank
-      account. Previously, she was the CEO & Founder of Pawprint (Exited), #1
-      pet health app (brit.co/pawprint-app-healthy-pets/) as a Y-Combinator
-      fellow. She spends her spare time in the ballet studio and hanging out
-      with her dog, Bowser.
   - name: Barry Stamos
     image: /images/BarryStamos-r.jpg
     department:
@@ -969,6 +947,27 @@ team:
       involved in multiple international research and intervention projects. He
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
+  - name: Emily Dong
+    image: /images/X4Hj7NSk_400x400.jpg
+    department:
+      - GTM
+      - MARKETING
+      - FUNDRAISING
+      - TECHNOLOGY
+      - PRODUCT
+    bulletpoints:
+      - >-
+        CEO & Founder of Snout, modern solutions for veterinary practices backed
+        byPear VC, Bread and Butter Ventures, Tribe Capital, & Sterling Road.
+        Founder & CEO of Pawprint, #1 pet health app (Exit to Metamorphosis
+        Partners); 500 Startups and Y-Combinator Fellowship.
+    content: >
+      Emily Dong is the CEO & Founder of Snout where our mission is to ensure no
+      one ever has to make a health decision based on the cash in their bank
+      account. Previously, she was the CEO & Founder of Pawprint (Exited), #1
+      pet health app (brit.co/pawprint-app-healthy-pets/) as a Y-Combinator
+      fellow. She spends her spare time in the ballet studio and hanging out
+      with her dog, Bowser.
   - name: Andrew Sturner
     image: /images/download-11.jpg
     department:
