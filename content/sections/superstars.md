@@ -577,7 +577,7 @@ team:
       - >-
         Founder & MP at Nfluence Partners, conscious investment banking with
         225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
-        Co-founder of Luna Communication (Exited). Stanford Graduate.
+        Co-founder of Luna Communication (Exited). Stanford Alum..
     content: >
       Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
       was originally founded in 2011 as the Technology, Media & Telecom (TMT)
