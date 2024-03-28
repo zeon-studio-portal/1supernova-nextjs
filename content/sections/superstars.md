@@ -215,9 +215,9 @@ team:
     bulletpoints:
       - >-
         CEO & Founder at Jive (Exited). CMO of Songtradr (Series E), largest B2B
-        music licensing marketplace.  Founding member of Legacy 8, an
-        early-stage VC fund. 100 Most Powerful Women by The Financial Post.
-        Ambassador to UN for Women's Entrepreneurship.
+        music licensing marketplace.  Founding member of Legacy 8 VC fund. Named
+        100 Most Powerful Women by The Financial Post. Ambassador to UN for
+        Entrepreneurship.
     content: >
       Lindsay is a founding member of Legacy 8, an early stage venture capital
       fund that focuses on the intersection of science and consciousness.
