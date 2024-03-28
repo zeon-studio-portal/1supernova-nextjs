@@ -16,7 +16,7 @@ lists:
       width: 130
       file: /images/top-founders/kathryn-brand.svg
   - name: Roberto Salcedo
-    image: /images/top-founders/roberto-salcedo.png
+    image: /images/Roberto-Salcedo (1).jpg
     designation: CEO & Founder
     description: "Smart micro financing for everyone \U0001F4B5"
     brand_logo:
