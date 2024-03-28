@@ -91,13 +91,18 @@ team:
         Founder & CEO of Guiides & ShareSheid (2 Exits to Leavetown). Founded EO
         and YPO Angels (now Entrepreneurs Capital).
     content: >
-      Daniel is a serial entrepreneur and passionate changemaker. He sold his
-      first two venture-backed companies and joined Airbnb full-time where he
-      led growth in top tier markets. Daniel left Airbnb in 2019 to start Key
-      which is the market leader in attainable homeownership with 8-figures of
-      venture funding from top-tier institutions. Daniel is an active member of
-      EO and YPO where he hosts private monthly fireside chats with top-tier
-      venture capitalists and unicorn founders.
+      Daniel is a serial entrepreneur and passionate changemaker. Daniel is an
+      active member of EO and YPO where he hosts private monthly fireside chats
+      with top-tier venture capitalists and unicorn founders. Daniel started EO
+      and YPO Angels (now Entrepreneurs Capital) one of the most powerful
+      venture networks of proven entrepreneurs. Everyone in the network is a
+      member of either EO (the world's largest founder network) or YPO (if the
+      members made up a country it would be the third largest GDP in the world).
+      Daniel is also a Partner with a $100mm fund, Side Door Ventures, as well
+      and has a Series A Enterprise Fund in partnership with Gaingels ($800mm
+      deployed). Daniel sold his first two venture-backed companies at 25 years
+      old and then ran most of Canada and Eastern USA for Airbnb. He then left
+      to start Key which has raised 8-figures of venture funding. 
   - name: Ben Lamm
     image: /images/BenLamm-r.jpg
     department:
