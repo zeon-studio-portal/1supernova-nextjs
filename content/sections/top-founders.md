@@ -30,7 +30,7 @@ lists:
       width: 130
       file: /images/top-founders/ben-brand.svg
   - name: Ignacio Handal
-    image: /images/top-founders/ignacio-handal.png
+    image: /images/ignacio-handal.jpg
     designation: CEO & Founder
     description: "Augmented intelligence for mental healthcare \U0001F9E0"
     brand_logo:
