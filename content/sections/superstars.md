@@ -706,11 +706,10 @@ team:
       - PRODUCT
     bulletpoints:
       - >-
-        Founder & Managing Partner of C4+, investment and advisory focused on
-        sports, esports and gaming. Founder at Infinite Esports (Exited).
-        Co-founder of Ephere Football led by Agustín Rodrígues. Co-founder of
-        Limitless Studios, female-led VC-backed media company supporting
-        children around the world.
+        Founder & Managing Partner of C4+ focused on sports, esports and gaming.
+        Founder at Infinite Esports (Exited). Co-founder of Ephere Football led
+        by Agustín Rodrígues. Co-founder of Limitless Studios, female-led
+        VC-backed media company supporting children around the world.
     content: >
       Chris Chaney is the Founder & Managing Partner of C4+, his personal
       investment and advisory firm partnering with likable entrepreneurs across
@@ -727,24 +726,28 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: J Patrick Bewley
-    image: /images/download-8.jpg
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
     department:
-      - SCIENCE
-      - TECHNOLOGY
       - AI
-      - SYSTEMS
-      - SCALE
       - LEADERSHIP
-      - MARKETING
+      - PRODUCT
+      - TECHNOLOGY
+      - FUNDRAISING
+      - SYSTEMS
     bulletpoints:
       - >-
-        CEO & Founder at Evo, a leading AI platform. Head of Data & Innovation
-        at Cox Enterprises ($21 Billion total revenues). Global Leader of
-        Consulting at Acxiom (AMS Exit for $2.3B IGP).
-      - Head of Data & Innovation at Cox Enterprises
-      - Head of Consulting at Acxiom (Exited)
-    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
+        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
+        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
+        Rallyteam (Exit to Workday). 
+    content: >
+      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
+      investments for the family office. He has invested in 40+ startups with 4
+      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
+      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
+      management platform (exited to Workday). He is a Canadian Serial
+      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
+      based in Silicon Valley. 
   - name: Juha Mikkola
     image: /images/download-9.jpg
     department:
@@ -807,28 +810,6 @@ team:
         Tintup, bootrapped to 1000+ customers in 172 countries (Exited). Founder
         at WAI WEAR (Exited). 
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
-    department:
-      - AI
-      - LEADERSHIP
-      - PRODUCT
-      - TECHNOLOGY
-      - FUNDRAISING
-      - SYSTEMS
-    bulletpoints:
-      - >-
-        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
-        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
-        Rallyteam (Exit to Workday). 
-    content: >
-      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
-      investments for the family office. He has invested in 40+ startups with 4
-      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
-      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
-      management platform (exited to Workday). He is a Canadian Serial
-      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley. 
   - name: Seth Forsgren
     image: /images/Seth.jpeg
     department:
@@ -1068,6 +1049,24 @@ team:
         Microfranchise Solutions (Exited). Founder of Lumeter Networks (Exited).
         Certified Purpose Guide. 
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), AmazonBest-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
+  - name: J Patrick Bewley
+    image: /images/download-8.jpg
+    department:
+      - SCIENCE
+      - TECHNOLOGY
+      - AI
+      - SYSTEMS
+      - SCALE
+      - LEADERSHIP
+      - MARKETING
+    bulletpoints:
+      - >-
+        CEO & Founder at Evo, a leading AI platform. Head of Data & Innovation
+        at Cox Enterprises ($21 Billion total revenues). Global Leader of
+        Consulting at Acxiom (AMS Exit for $2.3B IGP).
+      - Head of Data & Innovation at Cox Enterprises
+      - Head of Consulting at Acxiom (Exited)
+    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Krishan Arora
     image: /images/download-14.jpg
     department:
