@@ -601,53 +601,6 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
-  - name: Gerard Adams
-    image: /images/download-6.jpg
-    department:
-      - MARKETING
-      - GTM
-      - COACHING
-      - SALES
-      - LEADERSHIP
-      - SYSTEMS
-      - SCALE
-    bulletpoints:
-      - >-
-        CEO & Founder at Leaders Create Leaders. CEO & Founder of Elite Daily
-        (exit to Daily Mail); scaled and sold in 3-years for $50MM. Social
-        influencer & Millenial Mentor. 
-    content: >
-      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
-      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
-      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
-      investor, philanthropist, and trusted advisor consulting with conscious
-      founders who are looking to leave a legacy through their work. He
-      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
-      established teams scaling past 7 figures, and partnering with CEOs who
-      want help exiting their current companies so they can start a more
-      purpose-driven enterprise.
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
-    department:
-      - AI
-      - LEADERSHIP
-      - PRODUCT
-      - TECHNOLOGY
-      - FUNDRAISING
-      - SYSTEMS
-    bulletpoints:
-      - >-
-        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
-        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
-        Rallyteam (Exit to Workday). 
-    content: >
-      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
-      investments for the family office. He has invested in 40+ startups with 4
-      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
-      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
-      management platform (exited to Workday). He is a Canadian Serial
-      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley. 
   - name: Krishan Arora
     image: /images/download-14.jpg
     department:
@@ -684,6 +637,53 @@ team:
       up innovative ventures across industries by creating and converting global
       online communities. Krishan is also an avid writer for Forbes.com writing
       on entrepreneurship, digital media, and venture fundraising.
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
+    department:
+      - AI
+      - LEADERSHIP
+      - PRODUCT
+      - TECHNOLOGY
+      - FUNDRAISING
+      - SYSTEMS
+    bulletpoints:
+      - >-
+        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
+        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
+        Rallyteam (Exit to Workday). 
+    content: >
+      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
+      investments for the family office. He has invested in 40+ startups with 4
+      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
+      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
+      management platform (exited to Workday). He is a Canadian Serial
+      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
+      based in Silicon Valley. 
+  - name: Gerard Adams
+    image: /images/download-6.jpg
+    department:
+      - MARKETING
+      - GTM
+      - COACHING
+      - SALES
+      - LEADERSHIP
+      - SYSTEMS
+      - SCALE
+    bulletpoints:
+      - >-
+        CEO & Founder at Leaders Create Leaders. CEO & Founder of Elite Daily
+        (exit to Daily Mail); scaled and sold in 3-years for $50MM. Social
+        influencer & Millenial Mentor. 
+    content: >
+      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
+      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
+      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
+      investor, philanthropist, and trusted advisor consulting with conscious
+      founders who are looking to leave a legacy through their work. He
+      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
+      established teams scaling past 7 figures, and partnering with CEOs who
+      want help exiting their current companies so they can start a more
+      purpose-driven enterprise.
   - name: Rob Reid
     image: /images/vb-dqdcz_400x400.jpg
     department:
