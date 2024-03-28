@@ -23,7 +23,7 @@ lists:
       width: 130
       file: /images/top-founders/roberto-salcedo-brand.webp
   - name: Ben Lamm
-    image: /images/top-founders/ben.jpg
+    image: /images/BenLamm-r.jpg
     designation: CEO & Founder
     description: "World’s first de-extinction company \U0001F984"
     brand_logo:
