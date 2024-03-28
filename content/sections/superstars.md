@@ -1014,7 +1014,7 @@ team:
       - >-
         Partner at Paper Latern. Head of Marketing at Thrive Market ($400MM
         ARR). Co-founder of INBOX Marketing (Exit to Responsys/IPO/Oracle for
-        $1.6 Billion). Advised 50+ high-growth stratups and Fortune 500
+        $1.6 Billion). Advised 50+ high-growth startups and Fortune 500
         companies. 
     content: >
       Juston Brommel is the founder of Paper Lantern, a strategic advisory and
