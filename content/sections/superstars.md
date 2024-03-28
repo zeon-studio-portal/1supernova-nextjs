@@ -380,6 +380,20 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department:
+      - SCALE
+      - PRODUCT
+      - LEADERSHIP
+      - FUNDING
+      - TECHNOLOGY
+    bulletpoints:
+      - >-
+        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
+        BrainStation). Endeavor entrepreneur. Former executive with National
+        Hockey League.
+    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Keith Ferrazzi
     image: /images/58193.jpg
     department:
@@ -407,20 +421,6 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
-    department:
-      - SCALE
-      - PRODUCT
-      - LEADERSHIP
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
-        BrainStation). Endeavor entrepreneur. Former executive with National
-        Hockey League.
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: Chris Carson
     image: /images/1685460170918.jpeg
     department:
@@ -488,39 +488,60 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
-  - name: Joel French
-    image: /images/download-3.jpg
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
     department:
-      - Scale
-      - HR
-      - M&A
-      - GTM
-      - SALES
-      - COACH
       - FUNDING
-      - STRATEGY
+      - PRODUCT
+      - TECHNOLOGY
     bulletpoints:
       - >-
-        Chairman of the Board at Seattles Children's. EVP at RCM (Nasdaq: RCM).
-        CEO of SCI Solutions (Exit to RCM), SaaS to 2,500 hospitals, 14,000
-        physician practices, and millions of patients.
+        2x exited founder. CEO & Founder at TNC (Exit to Google). Global
+        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. Invested
+        in 50+ startups and has his own fund called Rabbit VC.
     content: >
-      Joel French is the Chairman of the Board of Trustee's at Seattle Childrens
-      with 10,000+ of the best nurses, physicians, other licensed clinicians,
-      researchers, employees, and dedicated volunteers work daily across our
-      campuses, clinics, research facilities, and region to care for kids in
-      need. When Scheduling.com, Inc. (dba SCI Solutions) was acquired by R1 RCM
-      (Nasdaq: RCM) in April 2020, post-acquisition, French served as Executive
-      Vice President of R1, responsible for its patient experience technology
-      lines of business, including SCI Solutions, Tonic Health, and DatStat.
-      After leading the acquisition of SCI Solutions, sponsored by The Wicks
-      Group, French served as CEO of SCI Solutions and as an investor in and
-      board member of its parent company, Clearsight Group Holdings, LLC. SCI
-      built and operated a multi-sided SaaS marketplace designed to improve
-      patient access experiences based on subscription agreements with 2,500
-      hospitals, 14,000 physician practices, millions of end-user patients, and
-      automation with 2,000 health plans. In addition to its organic growth, SCI
-      integrated acquired capabilities from three technology companies.
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC.
+  - name: Alex Simpson
+    image: /images/63dbf5e990290f83a9c2d580_img-hero.png
+    department:
+      - COACHING
+      - SALES
+      - SCALE
+      - FUNDING
+      - GTM
+    bulletpoints:
+      - >-
+        4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised
+        $200M+ for fintech ventures. Member of EO.
+    content: >
+      Alex leads LiquidLP (previously known as Openstock), which focuses on
+      enabling Limited Partners and General Partners with lending solutions. As
+      an executive and builder in Fintech, Alex leverages his 12+ years of
+      experience and expertise in the fintech ecosystem to co-found, connect,
+      and architect businesses and people from the inside out. With a proven
+      track record, he has successfully generated seven-figure revenue streams,
+      secured over $200 million in funding for fintech ventures, and implemented
+      transformative growth and turnaround strategies for global corporations.In
+      addition to this, Alex serves as an advisor and investor in various
+      fintech companies. He is the co-founder of Kandua (exited) which helps
+      small service businesses grow. He is the co-founder of Kundau (Exited),
+      South Africa’s #1 online marketplace for home services. Alex is the
+      Venture Partner of Launchpad Capital, joined forces with Castle Creek
+      Capital in establishing a venture capital fund to catalyze change in
+      financial services through partnerships between fintech companies and 34
+      community bank Limited Partners. Alex was a Partner at Truenorth. He also
+      is a Co-founder (exited) of BizPay, a fintech platform enabling more
+      business for the industry by offering key suppliers immediate payments and
+      customized pay later solutions for their customers. Alex was the
+      co-founder of SOLDI POS (exited), an enterprise-grade integrated
+      Point-of-Sale designed to work across verticals and organization of all
+      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
+      of the Entrepreneurs Organization (EO).
   - name: Leo Rastogi
     image: /images/download-1.jpg
     department:
@@ -580,60 +601,6 @@ team:
       Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
-    department:
-      - FUNDING
-      - PRODUCT
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder at TNC (Exit to Google). Global
-        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. Invested
-        in 50+ startups and has his own fund called Rabbit VC.
-    content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC.
-  - name: Alex Simpson
-    image: /images/63dbf5e990290f83a9c2d580_img-hero.png
-    department:
-      - COACHING
-      - SALES
-      - SCALE
-      - FUNDING
-      - GTM
-    bulletpoints:
-      - >-
-        4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
-        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
-        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised
-        $200M+ for fintech ventures. Member of EO.
-    content: >
-      Alex leads LiquidLP (previously known as Openstock), which focuses on
-      enabling Limited Partners and General Partners with lending solutions. As
-      an executive and builder in Fintech, Alex leverages his 12+ years of
-      experience and expertise in the fintech ecosystem to co-found, connect,
-      and architect businesses and people from the inside out. With a proven
-      track record, he has successfully generated seven-figure revenue streams,
-      secured over $200 million in funding for fintech ventures, and implemented
-      transformative growth and turnaround strategies for global corporations.In
-      addition to this, Alex serves as an advisor and investor in various
-      fintech companies. He is the co-founder of Kandua (exited) which helps
-      small service businesses grow. He is the co-founder of Kundau (Exited),
-      South Africa’s #1 online marketplace for home services. Alex is the
-      Venture Partner of Launchpad Capital, joined forces with Castle Creek
-      Capital in establishing a venture capital fund to catalyze change in
-      financial services through partnerships between fintech companies and 34
-      community bank Limited Partners. Alex was a Partner at Truenorth. He also
-      is a Co-founder (exited) of BizPay, a fintech platform enabling more
-      business for the industry by offering key suppliers immediate payments and
-      customized pay later solutions for their customers. Alex was the
-      co-founder of SOLDI POS (exited), an enterprise-grade integrated
-      Point-of-Sale designed to work across verticals and organization of all
-      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
-      of the Entrepreneurs Organization (EO).
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
@@ -660,6 +627,64 @@ team:
       established teams scaling past 7 figures, and partnering with CEOs who
       want help exiting their current companies so they can start a more
       purpose-driven enterprise.
+  - name: Dan Ellis
+    image: /images/Dan.jpeg
+    department:
+      - AI
+      - LEADERSHIP
+      - PRODUCT
+      - TECHNOLOGY
+      - FUNDRAISING
+      - SYSTEMS
+    bulletpoints:
+      - >-
+        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
+        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
+        Rallyteam (Exit to Workday). 
+    content: >
+      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
+      investments for the family office. He has invested in 40+ startups with 4
+      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
+      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
+      management platform (exited to Workday). He is a Canadian Serial
+      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
+      based in Silicon Valley. 
+  - name: Krishan Arora
+    image: /images/download-14.jpg
+    department:
+      - SYSTEMS
+      - MARKETING
+      - COACHING
+      - SALES
+      - GTM
+      - SCALE
+      - FUNDING
+    bulletpoints:
+      - >-
+        LP at Flight Ventures, the largest syndicate on AngelList. Search Fund
+        Principal at Novastone Capital (deployed $220M+ in capital). CEO &
+        Founder at Arora Project, raised $125M+ for startups(Exit to Republic).
+    content: >
+      Krishan Arora is an LP at Flight Ventures the largest syndicate on
+      AngelList. He is also a Search Fund Principal in Novastone Capital
+      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
+      acquiring and scaling profitable SMEs around the world. To date, NCA has
+      deployed over $220M in capital and has acquired several global businesses.
+      Over the next few years, NCA is set to deploy another $320M+ to acquire
+      several additional profitable SMEs.
+
+
+      Krishan is the Founder & CEO of The Arora Project (Exited to
+      Republic.com), a venture capital media agency that has raised & invested
+      over $125,000,000+ for high-growth ventures around the world.
+
+
+      Krishan graduated from Harvard with a concentration in Economics and has
+      since gained over a decade of experience in product launches, venture
+      fundraising, and growth marketing. Krishan’s core expertise is in scaling
+      up innovative ventures across industries by creating and converting global
+      online communities. Krishan is also an avid writer for Forbes.com writing
+      on entrepreneurship, digital media, and venture fundraising.
   - name: Rob Reid
     image: /images/vb-dqdcz_400x400.jpg
     department:
@@ -681,6 +706,39 @@ team:
       where he served as Executive Chairman until they exited to RealNetworks
       (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
       bestselling science fiction author, and science podcaster.
+  - name: Joel French
+    image: /images/download-3.jpg
+    department:
+      - Scale
+      - HR
+      - M&A
+      - GTM
+      - SALES
+      - COACH
+      - FUNDING
+      - STRATEGY
+    bulletpoints:
+      - >-
+        Chairman of the Board at Seattles Children's. EVP at RCM (Nasdaq: RCM).
+        CEO of SCI Solutions (Exit to RCM), SaaS to 2,500 hospitals, 14,000
+        physician practices, and millions of patients.
+    content: >
+      Joel French is the Chairman of the Board of Trustee's at Seattle Childrens
+      with 10,000+ of the best nurses, physicians, other licensed clinicians,
+      researchers, employees, and dedicated volunteers work daily across our
+      campuses, clinics, research facilities, and region to care for kids in
+      need. When Scheduling.com, Inc. (dba SCI Solutions) was acquired by R1 RCM
+      (Nasdaq: RCM) in April 2020, post-acquisition, French served as Executive
+      Vice President of R1, responsible for its patient experience technology
+      lines of business, including SCI Solutions, Tonic Health, and DatStat.
+      After leading the acquisition of SCI Solutions, sponsored by The Wicks
+      Group, French served as CEO of SCI Solutions and as an investor in and
+      board member of its parent company, Clearsight Group Holdings, LLC. SCI
+      built and operated a multi-sided SaaS marketplace designed to improve
+      patient access experiences based on subscription agreements with 2,500
+      hospitals, 14,000 physician practices, millions of end-user patients, and
+      automation with 2,000 health plans. In addition to its organic growth, SCI
+      integrated acquired capabilities from three technology companies.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
@@ -738,28 +796,51 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: Dan Ellis
-    image: /images/Dan.jpeg
+  - name: 'Jud Brewer '
+    image: /images/Jud.jpeg
     department:
-      - AI
-      - LEADERSHIP
+      - STRATEGY
       - PRODUCT
-      - TECHNOLOGY
-      - FUNDRAISING
-      - SYSTEMS
+      - SCIENCE
+      - CULTURE
+      - IMPACT
     bulletpoints:
       - >-
-        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
-        unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
-        Rallyteam (Exit to Workday). 
+        Co-founder Mindshift Recovery. Chief Medical Officer at Sharecare.
+        CEO/Founder at Mindsciences (Merged with Sharecare). Director of
+        Research and Innovation & Professor at Brown University. NYT
+        best-selling author. TED talk (14M+ views). PhD. 
     content: >
-      Dan Ellis is an investor and advisor at InRoad Ventures where he directs
-      investments for the family office. He has invested in 40+ startups with 4
-      Unicorns in the portfolio (Calm.com / Grove Collective / BillionToOne /
-      Grin). Dan is the co-founder at Rallyteam, a venture-backed talent
-      management platform (exited to Workday). He is a Canadian Serial
-      Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
-      based in Silicon Valley. 
+      Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
+      thought leader in the field of habit change and the “science of
+      self-mastery”, having combined over 25 years of experience with
+      mindfulness training with his scientific research therein. He is the
+      Director of Research and Innovation at the Mindfulness Center and
+      professor in Behavioral and Social Sciences and Psychiatry at the Schools
+      of Public Health & Medicine at Brown University. A psychiatrist and
+      internationally known expert in mindfulness training for addictions,
+      Brewer has developed and tested novel mindfulness programs for habit
+      change, including both in-person and app-based treatments for smoking,
+      emotional eating, and anxiety. Dr. Brewer founded MindSciences (which
+      merged with Sharecare Inc. in 2020) to move his discoveries of clinical
+      evidence behind mindfulness for anxiety, eating, smoking and other
+      behavior change into the hands of consumers. He co-founded Mindshift
+      Recovery, a non-profit creating evidence-based tools to help build
+      recovery capital for those struggling with addiction. He has studied the
+      underlying neural mechanisms of mindfulness using standard and real-time
+      fMRI and EEG neurofeedback. He has trained US Olympic athletes and
+      coaches, foreign government ministers, and his work has been featured on
+      60 Minutes, TED (4th most viewed talk of 2016, with 19+ Million views),
+      the New York Times, Time magazine (top 100 new health discoveries of
+      2013), Forbes, BBC, NPR, Al Jazeera (documentary about his research),
+      Businessweek and others. His work has been funded by the National
+      Institutes of Health, American Heart Association, among others. He is the
+      author of The Craving Mind: from cigarettes to smartphones to love, why we
+      get hooked and how we can break bad habits (New Haven: Yale University
+      Press, 2017), the New York Times best-seller, Unwinding Anxiety: New
+      Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind
+      (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
+      We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
@@ -852,42 +933,6 @@ team:
       Smartshopper, the first pay-as-you-go extended warranty for electronics
       and appliances (Exited). His zone of genius are product, ops and
       technology.
-  - name: Krishan Arora
-    image: /images/download-14.jpg
-    department:
-      - SYSTEMS
-      - MARKETING
-      - COACHING
-      - SALES
-      - GTM
-      - SCALE
-      - FUNDING
-    bulletpoints:
-      - >-
-        LP at Flight Ventures, the largest syndicate on AngelList. Search Fund
-        Principal at Novastone Capital (deployed $220M+ in capital). CEO &
-        Founder at Arora Project, raised $125M+ for startups(Exit to Republic).
-    content: >
-      Krishan Arora is an LP at Flight Ventures the largest syndicate on
-      AngelList. He is also a Search Fund Principal in Novastone Capital
-      Advisors (NCA), a Switzerland-based Private Equity Fund specializes in
-      acquiring and scaling profitable SMEs around the world. To date, NCA has
-      deployed over $220M in capital and has acquired several global businesses.
-      Over the next few years, NCA is set to deploy another $320M+ to acquire
-      several additional profitable SMEs.
-
-
-      Krishan is the Founder & CEO of The Arora Project (Exited to
-      Republic.com), a venture capital media agency that has raised & invested
-      over $125,000,000+ for high-growth ventures around the world.
-
-
-      Krishan graduated from Harvard with a concentration in Economics and has
-      since gained over a decade of experience in product launches, venture
-      fundraising, and growth marketing. Krishan’s core expertise is in scaling
-      up innovative ventures across industries by creating and converting global
-      online communities. Krishan is also an avid writer for Forbes.com writing
-      on entrepreneurship, digital media, and venture fundraising.
   - name: Tuck Stibich
     image: /images/download-13.jpg
     department:
@@ -981,51 +1026,6 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
-  - name: 'Jud Brewer '
-    image: /images/Jud.jpeg
-    department:
-      - STRATEGY
-      - PRODUCT
-      - SCIENCE
-      - CULTURE
-      - IMPACT
-    bulletpoints:
-      - >-
-        Co-founder Mindshift Recovery. Chief Medical Officer at Sharecare.
-        CEO/Founder at Mindsciences (Merged with Sharecare). Director of
-        Research and Innovation & Professor at Brown University. NYT
-        best-selling author. TED talk (14M+ views). PhD. 
-    content: >
-      Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
-      thought leader in the field of habit change and the “science of
-      self-mastery”, having combined over 25 years of experience with
-      mindfulness training with his scientific research therein. He is the
-      Director of Research and Innovation at the Mindfulness Center and
-      professor in Behavioral and Social Sciences and Psychiatry at the Schools
-      of Public Health & Medicine at Brown University. A psychiatrist and
-      internationally known expert in mindfulness training for addictions,
-      Brewer has developed and tested novel mindfulness programs for habit
-      change, including both in-person and app-based treatments for smoking,
-      emotional eating, and anxiety. Dr. Brewer founded MindSciences (which
-      merged with Sharecare Inc. in 2020) to move his discoveries of clinical
-      evidence behind mindfulness for anxiety, eating, smoking and other
-      behavior change into the hands of consumers. He co-founded Mindshift
-      Recovery, a non-profit creating evidence-based tools to help build
-      recovery capital for those struggling with addiction. He has studied the
-      underlying neural mechanisms of mindfulness using standard and real-time
-      fMRI and EEG neurofeedback. He has trained US Olympic athletes and
-      coaches, foreign government ministers, and his work has been featured on
-      60 Minutes, TED (4th most viewed talk of 2016, with 19+ Million views),
-      the New York Times, Time magazine (top 100 new health discoveries of
-      2013), Forbes, BBC, NPR, Al Jazeera (documentary about his research),
-      Businessweek and others. His work has been funded by the National
-      Institutes of Health, American Heart Association, among others. He is the
-      author of The Craving Mind: from cigarettes to smartphones to love, why we
-      get hooked and how we can break bad habits (New Haven: Yale University
-      Press, 2017), the New York Times best-seller, Unwinding Anxiety: New
-      Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind
-      (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
-      We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Juston Brommel
     image: /images/JB.jpeg
     department:
