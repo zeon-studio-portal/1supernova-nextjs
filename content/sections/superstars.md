@@ -981,20 +981,6 @@ team:
       Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
-  - name: Will Weinraub
-    image: /images/43a397da-ba74-4fed-b09f-01db32eb3668.jpg
-    department:
-      - GROWTH
-      - SALES
-      - WEB3
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - >-
-        CEO & co-founder at OnChain Studios ($23M Series A led by a16z). Founder
-        at Local Leaders Collective backed by the Knight Foundation. CEO &
-        Founder of LiveNinja (Exited). 
-    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
     department:
@@ -1096,6 +1082,20 @@ team:
         Author of "From Money to Meaning - Building Purposeful Business for a
         Life of Contribution".
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact.  He is a Grant is pioneer in micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), Amazon Best-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
+  - name: Will Weinraub
+    image: /images/43a397da-ba74-4fed-b09f-01db32eb3668.jpg
+    department:
+      - GROWTH
+      - SALES
+      - WEB3
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - >-
+        CEO & co-founder at OnChain Studios ($23M Series A led by a16z). Founder
+        at Local Leaders Collective backed by the Knight Foundation. CEO &
+        Founder of LiveNinja (Exited). 
+    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
   - name: J Patrick Bewley
     image: /images/download-8.jpg
     department:
@@ -1112,19 +1112,6 @@ team:
         at Cox Enterprises ($21 Billion total revenues). Global Leader of
         Consulting at Acxiom (AMS Exit for $2.3B IGP).
     content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
-  - name: 'Revant Gupta '
-    image: /images/7S9A2603-r.jpg
-    department:
-      - GTM
-      - OPS
-      - STRATEGY
-      - FUNDRAISING
-    bulletpoints:
-      - >-
-        Founder of Wind Sprint Capital. Chief of Staff at MRGN. Head of Finance
-        at HD Home ($270M Home Depot Startup). Finance expert specializing in
-        scaling startups to $250M+ ARR. 
-    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
     image: /images/Tomy.jpeg
     department:
@@ -1139,5 +1126,18 @@ team:
         by Village Global (Chaired by Reid Hoffman). CEO & Founder at Oneness
         Ventures. CEO & Founder at Findasense (Exited)
     content: "Tomy is the CEO & founder of Complex Chaos, an applied collaborative AI company backed by Village Global (chaired by Reid Hoffman and visionaries like Bill Gates, Jeff Bezos, Mark Zuckerberg, Anne Wojcicki, Eric Smidt, and many others). Tomy is also the CEO & Founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA), a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
+  - name: 'Revant Gupta '
+    image: /images/7S9A2603-r.jpg
+    department:
+      - GTM
+      - OPS
+      - STRATEGY
+      - FUNDRAISING
+    bulletpoints:
+      - >-
+        Founder of Wind Sprint Capital. Chief of Staff at MRGN. Head of Finance
+        at HD Home ($270M Home Depot Startup). Finance expert specializing in
+        scaling startups to $250M+ ARR. 
+    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
 ---
 
