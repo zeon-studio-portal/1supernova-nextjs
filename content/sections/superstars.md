@@ -461,40 +461,33 @@ team:
       consumer electronics industry. Skilled in Go-to-market Strategy,
       Manufacturing Operations, Corporate Development, Mergers & Acquisitions
       (M\&A), and Product Ideation, Product Management, Product Marketing.
-  - name: Leo Rastogi
-    image: /images/download-1.jpg
+  - name: Gary Moon
+    image: /images/1516070710044.jpg
     department:
-      - AI
-      - SCIENCE
-      - SYSTEMS
-      - OPS
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
-      - COACHING
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
     bulletpoints:
       - >-
-        3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
-        Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
-        Executive Board of EO. YPO Member. Former Monk. PhD.
+        Founder & MP at Nfluence Partners, conscious investment banking with
+        225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
+        Co-founder of Luna Communication (Exited). Stanford Alum..
     content: >
-      Leo is currently the co-founder of 6 companies gifting well-being to the
-      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
-      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
-      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
-      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
-      Business School with a PhD in Leadership. Leo also studied psychological
-      and neurobiological basis of Mindfulness and Meditation at Oxford
-      University and Kings College. He also briefly lived as Buddhist Monk - a
-      bookend to his multiple monastic sabbatical. Over two decades, Leo
-      travelled to 70+ countries, immersed himself in monastic experiences, led
-      retreats in the birthplaces of great civilizations and studied with
-      enlightened masters – an experience he cherishes most in his life. Much of
-      which he has synthesize in his two critically acclaimed books : Many Path,
-      Many Truths : A Journey through world religions that have shaped the 20th
-      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
-      is a rare blend of thought leader, author, successful entrepreneur,
-      philosopher, mindfulness mentor, monk and spiritual scientist.
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partners focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University.
   - name: Joel French
     image: /images/download-3.jpg
     department:
@@ -549,33 +542,40 @@ team:
       where he served as Executive Chairman until they exited to RealNetworks
       (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
       bestselling science fiction author, and science podcaster.
-  - name: Gary Moon
-    image: /images/1516070710044.jpg
+  - name: Leo Rastogi
+    image: /images/download-1.jpg
     department:
-      - M&A
-      - STRATEGY
-      - FUNDING
-      - EXITED FOUNDER
+      - AI
+      - SCIENCE
+      - SYSTEMS
+      - OPS
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - COACHING
     bulletpoints:
       - >-
-        Founder & MP at Nfluence Partners, conscious investment banking with
-        225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
-        Co-founder of Luna Communication (Exited). Stanford Alum..
+        3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
+        Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
+        Executive Board of EO. YPO Member. Former Monk. PhD.
     content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partners focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University.
+      Leo is currently the co-founder of 6 companies gifting well-being to the
+      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
+      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
+      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
+      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
+      Business School with a PhD in Leadership. Leo also studied psychological
+      and neurobiological basis of Mindfulness and Meditation at Oxford
+      University and Kings College. He also briefly lived as Buddhist Monk - a
+      bookend to his multiple monastic sabbatical. Over two decades, Leo
+      travelled to 70+ countries, immersed himself in monastic experiences, led
+      retreats in the birthplaces of great civilizations and studied with
+      enlightened masters – an experience he cherishes most in his life. Much of
+      which he has synthesize in his two critically acclaimed books : Many Path,
+      Many Truths : A Journey through world religions that have shaped the 20th
+      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
+      is a rare blend of thought leader, author, successful entrepreneur,
+      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Chang Kim
     image: /images/Chang-Kim-pic.jpg
     department:
@@ -585,9 +585,8 @@ team:
     bulletpoints:
       - >-
         2x exited founder. CEO & Founder at TNC (Exit to Google). Global
-        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. He is
-        invested in 50+ seed stage companies and has his own fund called Rabbit
-        VC.
+        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. Invested
+        in 50+ startups and has his own fund called Rabbit VC.
     content: >
       Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
       Google. He is the former Global Strategy Officer of Kakao Entertainment
