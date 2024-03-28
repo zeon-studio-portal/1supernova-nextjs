@@ -270,22 +270,30 @@ team:
       family office, managing internal operations, overseeing a portfolio of
       150+ companies, leading his own investments, and serving on boards.
       Jonathan also co-founded his own investment firm with two other GPs.
-  - name: Chris Carson
-    image: /images/1685460170918.jpeg
+  - name: TJ Grewal
+    image: /images/TJ.jpeg
     department:
-      - STAFFING
-      - AI
-      - FUNDING
-      - SCIENCE
-      - TECH
+      - OPERATIONS
+      - GTM
       - PRODUCT
+      - SCALE
       - COACHING
+      - TECHNOLOGY
     bulletpoints:
       - >-
-        CEO & Founder at Hayden AI (Series B). CEO & Founder of Nueevo (formally
-        Caruma Technologies) and Louisa (Exited). Fleet Antiterrorism Security
-        Team Company (FAST), a top US special ops team.
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
+        Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
+        Ernst & Young.
+    content: >
+      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
+      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
+      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
+      developed his problem-solving skills. TJ has a star-studded background in
+      product, operations, strategy and business development. He is an
+      experienced Senior leader with a demonstrated history of working in the
+      consumer electronics industry. Skilled in Go-to-market Strategy,
+      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
+      (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Scott Weller
     image: /images/DjoesoLi_400x400.jpg
     department:
@@ -370,30 +378,6 @@ team:
         BrainStation). Endeavor entrepreneur. Former executive with National
         Hockey League.
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
-  - name: TJ Grewal
-    image: /images/TJ.jpeg
-    department:
-      - OPERATIONS
-      - GTM
-      - PRODUCT
-      - SCALE
-      - COACHING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
-        Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
-        Ernst & Young.
-    content: >
-      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
-      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
-      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
-      developed his problem-solving skills. TJ has a star-studded background in
-      product, operations, strategy and business development. He is an
-      experienced Senior leader with a demonstrated history of working in the
-      consumer electronics industry. Skilled in Go-to-market Strategy,
-      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
-      (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Peter Kellner
     image: /images/images-1.jpg
     department:
@@ -431,6 +415,22 @@ team:
       does better than any other organization is to create entire cultures of
       entrepreneurship that spread within and between countries."  - Reid
       Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
+  - name: Chris Carson
+    image: /images/1685460170918.jpeg
+    department:
+      - STAFFING
+      - AI
+      - FUNDING
+      - SCIENCE
+      - TECH
+      - PRODUCT
+      - COACHING
+    bulletpoints:
+      - >-
+        CEO & Founder at Hayden AI (Series B). CEO & Founder of Nueevo (formally
+        Caruma Technologies) and Louisa (Exited). Fleet Antiterrorism Security
+        Team Company (FAST), a top US special ops team.
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Peter Yared
     image: /images/download.jpg
     department:
