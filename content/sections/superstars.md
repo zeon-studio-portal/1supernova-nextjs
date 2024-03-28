@@ -1003,7 +1003,7 @@ team:
         Co-founder Mindshift Recovery. Chief Medical Officer at Sharecare.
         CEO/Founder at Mindsciences (Merged with Sharecare). Director of
         Research and Innovation & Professor at Brown University. NYT
-        best-selling author. TED speaker. 
+        best-selling author. TED talk (14M+ views). PhD. 
     content: >
       Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
       thought leader in the field of habit change and the “science of
