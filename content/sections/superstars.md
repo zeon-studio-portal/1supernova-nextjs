@@ -207,16 +207,17 @@ team:
   - name: 'Lindsay Nahmiache '
     image: /images/lindsay.jpeg
     department:
+      - COACHING
       - LEADERSHIP
       - MARKETING
       - GTM
       - SALES
     bulletpoints:
       - >-
-        CEO & Founder at Jive (Exited). CMO of Songtradr (Series E), the world's
-        largest B2B Music Licensing Marketplace.  Founding member of Legacy 8,
-        an early-stage VC fund. Top 40 Under 40, PROFIT: Top Female
-        Entrepreneurs, and ambassador to UN for Women's Entrepreneurship.
+        CEO & Founder at Jive (Exited). CMO of Songtradr (Series E), largest B2B
+        music licensing marketplace.  Founding member of Legacy 8, an
+        early-stage VC fund. Top 40 Under 40, PROFIT: Top Female Entrepreneurs,
+        and ambassador to UN for Women's Entrepreneurship.
     content: >
       Lindsay is a founding member of Legacy 8, an early stage venture capital
       fund that focuses on the intersection of science and consciousness.
