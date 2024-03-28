@@ -627,7 +627,7 @@ team:
     bulletpoints:
       - >-
         President at Glo, yoga & wellness platform. CEO & Co-founder of
-        Carenote/Forevernote (Exit to Evite). Head of Ops at Flipagrap;
+        Carenote/ Forevernote (Exit to Evite). Head of Ops at Flipagrap;
         Musical.ly into ByteDance (Exit to Tiktok). Senior leadership at Edmund,
         eHarmony and MTV Networks. 
     content: >
