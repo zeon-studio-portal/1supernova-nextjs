@@ -355,33 +355,20 @@ team:
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
-  - name: Gary Moon
-    image: /images/1516070710044.jpg
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
     department:
-      - M&A
-      - STRATEGY
+      - SCALE
+      - PRODUCT
+      - LEADERSHIP
       - FUNDING
-      - EXITED FOUNDER
+      - TECHNOLOGY
     bulletpoints:
       - >-
-        Founder & MP at Nfluence Partners, conscious investment banking with
-        225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
-        Co-founder of Luna Communication (Exited). Stanford Graduate.
-    content: >
-      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
-      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
-      group at Headwaters MB. Gary and his partners built Headwaters into a top
-      5 technology-focused boutique Investment Bank ranked by closed
-      transactions. Over the past 12+ years, Gary and the Nfluence team have
-      completed over 225 transactions. Prior to embarking on his advisory career
-      and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partners focusing on US and
-      European cross border from Barcelona and San Francisco, Gary was the
-      founder and CEO of Luna Communications, a North American focused wireless
-      systems integration firm. Luna Communications was sold to a publicly
-      traded competitor, where Gary became the CTO and Managing Director of
-      Client Services. Gary earned his undergraduate degree and advanced studies
-      from Stanford University.
+        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
+        BrainStation). Endeavor entrepreneur. Former executive with National
+        Hockey League.
+    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
   - name: TJ Grewal
     image: /images/TJ.jpeg
     department:
@@ -472,20 +459,33 @@ team:
       regularly speaks and writes about technology trends and their impact on
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
+  - name: Keith Ferrazzi
+    image: /images/58193.jpg
     department:
-      - SCALE
-      - PRODUCT
       - LEADERSHIP
-      - FUNDING
-      - TECHNOLOGY
+      - COACHING
+      - SCALE
+      - 'SALES '
     bulletpoints:
       - >-
-        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
-        BrainStation). Endeavor entrepreneur. Former executive with National
-        Hockey League.
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+        World #1 executive team coach. Founder & Chairman at Ferrazzi
+        Greenlight.  Former CMO at Starwood & Deloitte Consulting. 3x Best
+        Selling Author. Harvard MBA.
+    content: >
+      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
+      executive teams co-elevate with radical adaptable team agility to meet
+      major business challenges and opportunities. Keith is the former CMO of
+      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
+      a New York Times #1 Best Selling Author specializing in thought leadership
+      regarding the new world of work. His books include: Who's Got Your Back,
+      Leading Without Authority, and Never Eat Alone. Keith is a regular
+      contributor to publications like Harvard Business Review, The Wall Street
+      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
+      the largest stages in the world and has been recognized by Toastmasters
+      International with the Golden Gavel award for being a top global speaker
+      (2018). Keith is a member of Transformation 50 — World 50's peer community
+      for senior-most executives driving large-scale organization
+      transformations.
   - name: Joel French
     image: /images/download-3.jpg
     department:
@@ -563,33 +563,33 @@ team:
       Tellus Investment Partners, a select group of family offices and
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
-  - name: Keith Ferrazzi
-    image: /images/58193.jpg
+  - name: Gary Moon
+    image: /images/1516070710044.jpg
     department:
-      - LEADERSHIP
-      - COACHING
-      - SCALE
-      - 'SALES '
+      - M&A
+      - STRATEGY
+      - FUNDING
+      - EXITED FOUNDER
     bulletpoints:
       - >-
-        World #1 executive team coach. Founder & Chairman at Ferrazzi
-        Greenlight.  Former CMO at Starwood & Deloitte Consulting. 3x Best
-        Selling Author. Harvard MBA.
+        Founder & MP at Nfluence Partners, conscious investment banking with
+        225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
+        Co-founder of Luna Communication (Exited). Stanford Graduate.
     content: >
-      Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
-      executive teams co-elevate with radical adaptable team agility to meet
-      major business challenges and opportunities. Keith is the former CMO of
-      Starwood Hotels Group and served as the CMO of Deloitte Consulting. He is
-      a New York Times #1 Best Selling Author specializing in thought leadership
-      regarding the new world of work. His books include: Who's Got Your Back,
-      Leading Without Authority, and Never Eat Alone. Keith is a regular
-      contributor to publications like Harvard Business Review, The Wall Street
-      Journal, Fortune Magazine, and Forbes. He is a keynote speaker on some of
-      the largest stages in the world and has been recognized by Toastmasters
-      International with the Golden Gavel award for being a top global speaker
-      (2018). Keith is a member of Transformation 50 — World 50's peer community
-      for senior-most executives driving large-scale organization
-      transformations.
+      Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
+      was originally founded in 2011 as the Technology, Media & Telecom (TMT)
+      group at Headwaters MB. Gary and his partners built Headwaters into a top
+      5 technology-focused boutique Investment Bank ranked by closed
+      transactions. Over the past 12+ years, Gary and the Nfluence team have
+      completed over 225 transactions. Prior to embarking on his advisory career
+      and stops at Viant Capital where he led the firms Communications
+      Technology practice and Ridgecrest Capital Partners focusing on US and
+      European cross border from Barcelona and San Francisco, Gary was the
+      founder and CEO of Luna Communications, a North American focused wireless
+      systems integration firm. Luna Communications was sold to a publicly
+      traded competitor, where Gary became the CTO and Managing Director of
+      Client Services. Gary earned his undergraduate degree and advanced studies
+      from Stanford University.
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
