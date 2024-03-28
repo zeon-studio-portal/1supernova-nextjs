@@ -363,9 +363,9 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - >-
-        Founder & MP at Nfluence Partners, SF-based conscious investment banking
-        with 225+ M&A transactions (spun out of TMT group at Headwaters MB). CEO
-        & Founder of Luna Communication (Exited).
+        Founder & MP at Nfluence Partners, conscious investment banking with
+        225+ M&A transactions (spun out of TMT group at Headwaters MB). CEO &
+        Founder of Luna Communication (Exited).
     content: >
       Gary Moon is the Founder & Managing Partner of Nfluence Partners. Nfluence
       was originally founded in 2011 as the Technology, Media & Telecom (TMT)
@@ -405,27 +405,43 @@ team:
       consumer electronics industry. Skilled in Go-to-market Strategy,
       Manufacturing Operations, Corporate Development, Mergers & Acquisitions
       (M\&A), and Product Ideation, Product Management, Product Marketing.
-  - name: Rob Reid
-    image: /images/vb-dqdcz_400x400.jpg
+  - name: Peter Kellner
+    image: /images/images-1.jpg
     department:
+      - 'FUNDING '
       - SCIENCE
-      - SYSTEMS
-      - AI
-      - FUNDING
+      - TECHNOLOGY
+      - GTM
+      - M&A
       - COACHING
     bulletpoints:
       - >-
-        Co-founder of Resilience Reserve with Chris Anderson (head of TED).
-        Founder of Listen.com (Exit to Rhapsody; RealNetworks). Founding
-        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
-        and Kareo/Tebra.
+        Founder at Richmond Global (now on it's 14th fund). Co-founder of
+        Endeavor, the leading global community for high-impact entrepreneurs. 
     content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
+      Peter Keller is the Founder of Richmond Global. A non-comprehensive list
+      of his investments follows (current unicorns are lowercase; UNICORNS at
+      Kellner's exit are capitalized): 7Park Data (exit to Vista Equity
+      Partners), AdChina (exit to Alibaba), americanas.com.br (the largest
+      e-commerce platform in Latin America), athleta (exit to The Gap),
+      AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS
+      (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand
+      Technologies, Haystack TV, Improvado, Internet Securities (exit to
+      Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp
+      (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to
+      Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens,
+      Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India),
+      Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra,
+      Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit
+      to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is
+      the Co-founder of Endeavor where he led North America, starting in Miami,
+      and then served over two decades on the boards of Endeavor Global, Chile,
+      Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading
+      global community of, by, and for high-impact entrepreneurs.  "Sustainable
+      economies are dependent on high-impact entrepreneurship. What Endeavor
+      does better than any other organization is to create entire cultures of
+      entrepreneurship that spread within and between countries."  - Reid
+      Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
   - name: Peter Yared
     image: /images/download.jpg
     department:
@@ -502,43 +518,27 @@ team:
       hospitals, 14,000 physician practices, millions of end-user patients, and
       automation with 2,000 health plans. In addition to its organic growth, SCI
       integrated acquired capabilities from three technology companies.
-  - name: Peter Kellner
-    image: /images/images-1.jpg
+  - name: Rob Reid
+    image: /images/vb-dqdcz_400x400.jpg
     department:
-      - 'FUNDING '
       - SCIENCE
-      - TECHNOLOGY
-      - GTM
-      - M&A
+      - SYSTEMS
+      - AI
+      - FUNDING
       - COACHING
     bulletpoints:
       - >-
-        Founder at Richmond Global (now on it's 14th fund). Co-founder of
-        Endeavor, the leading global community for high-impact entrepreneurs. 
+        Co-founder of Resilience Reserve with Chris Anderson (head of TED).
+        Founder of Listen.com (Exit to Rhapsody; RealNetworks). Founding
+        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
+        and Kareo/Tebra.
     content: >
-      Peter Keller is the Founder of Richmond Global. A non-comprehensive list
-      of his investments follows (current unicorns are lowercase; UNICORNS at
-      Kellner's exit are capitalized): 7Park Data (exit to Vista Equity
-      Partners), AdChina (exit to Alibaba), americanas.com.br (the largest
-      e-commerce platform in Latin America), athleta (exit to The Gap),
-      AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS
-      (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand
-      Technologies, Haystack TV, Improvado, Internet Securities (exit to
-      Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp
-      (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to
-      Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens,
-      Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India),
-      Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra,
-      Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit
-      to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is
-      the Co-founder of Endeavor where he led North America, starting in Miami,
-      and then served over two decades on the boards of Endeavor Global, Chile,
-      Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading
-      global community of, by, and for high-impact entrepreneurs.  "Sustainable
-      economies are dependent on high-impact entrepreneurship. What Endeavor
-      does better than any other organization is to create entire cultures of
-      entrepreneurship that spread within and between countries."  - Reid
-      Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Caleb Jones
     image: /images/Caleb.jpeg
     department:
