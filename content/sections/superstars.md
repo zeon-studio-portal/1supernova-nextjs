@@ -87,7 +87,7 @@ team:
     bulletpoints:
       - >-
         2x exited founder. CEO & Founder of Key. Founder of Entrepreneurs
-        Capital (formerly EO and YPO Angels). Parter in Side Door Ventures
+        Capital (formerly EO and YPO Angels). Partner at Side Door Ventures
         ($100M Fund); Series A partnership with Gaingels ($800M deployed).
         Founder & CEO of Guiides & ShareSheid (2 Exits to Leavetown). Led Growth
         at Airbnb.
