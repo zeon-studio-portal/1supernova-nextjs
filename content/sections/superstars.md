@@ -258,8 +258,8 @@ team:
       - >-
         Serial entrepreneur with 9 exits; Switchfly (Exit to Golub Capital),Zozi
         (Exit to Peek), Ning (Exit to Glam Media), Crackle (Exit to Grouper),
-        Jumpstart (Exit to Tagged.com), Evite.com (Exit to Ticketmaster). GP at
-        LaunchCapital. 
+        Jumpstart (Exit to Tagged.com), Evite.com (Exit to Ticketmaster).
+        Venture Partner & COO at LaunchCapital. 
     content: >
       Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
       startup. For 25 years in San Francisco, he has held operational and
