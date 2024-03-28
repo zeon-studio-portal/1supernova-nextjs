@@ -773,7 +773,7 @@ team:
       - PRODUCT
     bulletpoints:
       - >-
-        Founder & Managing Partner of C4+ focused on sports, esports and gaming.
+        Founder & Managing Partner of C4+ for sports, esports and gaming.
         Founder at Infinite Esports (Exited). Co-founder of Ephere Football led
         by Agustín Rodrígues. Co-founder of Limitless Studios, female-led
         VC-backed media company.
