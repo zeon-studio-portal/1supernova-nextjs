@@ -580,7 +580,7 @@ team:
     image: /images/Yifan.jpeg
     department:
       - PRODUCT
-      - SALES
+      - AI
       - LEADERSHIP
       - COACHING
       - GTM
