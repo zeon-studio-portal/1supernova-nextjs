@@ -374,7 +374,7 @@ team:
       transactions. Over the past 12+ years, Gary and the Nfluence team have
       completed over 225 transactions. Prior to embarking on his advisory career
       and stops at Viant Capital where he led the firms Communications
-      Technology practice and Ridgecrest Capital Partner focusing on US and
+      Technology practice and Ridgecrest Capital Partners focusing on US and
       European cross border from Barcelona and San Francisco, Gary was the
       founder and CEO of Luna Communications, a North American focused wireless
       systems integration firm. Luna Communications was sold to a publicly
