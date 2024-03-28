@@ -44,7 +44,7 @@ lists:
       width: 100
       file: /images/hym.png
   - name: 'Juan Luis Betancourt '
-    image: /images/top-founders/juan-luis.jpg
+    image: /images/Juan.jpg
     designation: CEO & Founder
     description: "AI for smarter collaboration everywhere you work \U0001F680"
     brand_logo:
