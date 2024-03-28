@@ -39,6 +39,9 @@ team:
   - name: Emily Dong
     image: /images/X4Hj7NSk_400x400.jpg
     department:
+      - GTM
+      - MARKETING
+      - FUNDRAISING
       - TECHNOLOGY
       - PRODUCT
     bulletpoints:
