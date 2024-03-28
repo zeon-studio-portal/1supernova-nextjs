@@ -570,6 +570,23 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
+  - name: Chang Kim
+    image: /images/Chang-Kim-pic.jpg
+    department:
+      - FUNDING
+      - PRODUCT
+      - TECHNOLOGY
+    bulletpoints:
+      - >-
+        2x exited founder. CEO & Founder at TNC (Exit to Google). Global
+        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. He is
+        invested in 50+ seed stage companies and has his own fund called Rabbit
+        VC.
+    content: >
+      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
+      Google. He is the former Global Strategy Officer of Kakao Entertainment
+      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
+      and has his own fund called Rabbit VC.
   - name: Alex Simpson
     image: /images/63dbf5e990290f83a9c2d580_img-hero.png
     department:
@@ -608,29 +625,31 @@ team:
       Point-of-Sale designed to work across verticals and organization of all
       sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
       of the Entrepreneurs Organization (EO).
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
     department:
-      - OPS
-      - AI
-      - TECH
-      - GROWTH
+      - PRODUCT
+      - SALES
+      - LEADERSHIP
+      - COACHING
+      - GTM
       - FUNDING
-      - EXITED FOUNDER
+      - TECHNOLOGY
     bulletpoints:
       - >-
-        Founder & CEO of Ink. Co-founder and COO of Code Pilot (Exit to
-        AngelList). Advisor to Tellus Investment Partners, a select group of
-        family offices and agribusiness professionals.
+        Managing Director at AI2 Incubator, born from the Allen Institute for AI
+        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
+        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
     content: >
-      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
-      solution. Caleb was the co-founder and COO of Code Pilot (exited to
-      AngeList), an online platform that provides production-grade development
-      environments with coding analytics to train, test, and assess software
-      developers skills and behavioral adaptability. He is also an advisor to
-      Tellus Investment Partners, a select group of family offices and
-      agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. He is based in Austin, Texas.
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
@@ -683,23 +702,6 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
-    department:
-      - FUNDING
-      - PRODUCT
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder at TNC (Exit to Google). Global
-        Strategy Officer of Kakao Entertainment and CEO of Tapas Media. He is
-        invested in 50+ seed stage companies and has his own fund called Rabbit
-        VC.
-    content: >
-      Chang Kim is a 2x exited Founder. Chang sold his first company, TNC to
-      Google. He is the former Global Strategy Officer of Kakao Entertainment
-      and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
-      and has his own fund called Rabbit VC.
   - name: 'Chris Chaney  '
     image: /images/Chris.jpeg
     department:
@@ -753,6 +755,29 @@ team:
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
       based in Silicon Valley. 
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
+    department:
+      - OPS
+      - AI
+      - TECH
+      - GROWTH
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - >-
+        Founder & CEO of Ink. Co-founder and COO of Code Pilot (Exit to
+        AngelList). Advisor to Tellus Investment Partners, a select group of
+        family offices and agribusiness professionals.
+    content: >
+      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
+      solution. Caleb was the co-founder and COO of Code Pilot (exited to
+      AngeList), an online platform that provides production-grade development
+      environments with coding analytics to train, test, and assess software
+      developers skills and behavioral adaptability. He is also an advisor to
+      Tellus Investment Partners, a select group of family offices and
+      agribusiness professionals leveraging their resources to create
+      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Juha Mikkola
     image: /images/download-9.jpg
     department:
@@ -776,31 +801,6 @@ team:
       Commerce/Marketing graduate of the Rotman School of Management in Toronto
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
-    department:
-      - PRODUCT
-      - SALES
-      - LEADERSHIP
-      - COACHING
-      - GTM
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        Managing Director at AI2 Incubator, born from the Allen Institute for AI
-        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
-        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
   - name: Tim Sae Koo
     image: /images/102929.png
     department:
