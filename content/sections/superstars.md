@@ -434,8 +434,8 @@ team:
     bulletpoints:
       - >-
         CEO & Founder at Hayden AI (Series B). CEO & Founder of Louisa (Exited).
-        Top US Special Ops Team at Fleet Antiterrorism Security Team Company
-        (FAST). PhD.
+        Served in Top US Special Ops at The Fleet Antiterrorism Security Team
+        Company (FAST). PhD.
     content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: TJ Grewal
     image: /images/TJ.jpeg
