@@ -345,94 +345,6 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Leo Rastogi
-    image: /images/download-1.jpg
-    department:
-      - AI
-      - SCIENCE
-      - SYSTEMS
-      - OPS
-      - TECH
-      - PRODUCT
-      - LEADERSHIP
-      - COACHING
-    bulletpoints:
-      - >-
-        3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
-        Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
-        Executive Board of EO. YPO Member. Former Monk. PhD.
-    content: >
-      Leo is currently the co-founder of 6 companies gifting well-being to the
-      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
-      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
-      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
-      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
-      Business School with a PhD in Leadership. Leo also studied psychological
-      and neurobiological basis of Mindfulness and Meditation at Oxford
-      University and Kings College. He also briefly lived as Buddhist Monk - a
-      bookend to his multiple monastic sabbatical. Over two decades, Leo
-      travelled to 70+ countries, immersed himself in monastic experiences, led
-      retreats in the birthplaces of great civilizations and studied with
-      enlightened masters – an experience he cherishes most in his life. Much of
-      which he has synthesize in his two critically acclaimed books : Many Path,
-      Many Truths : A Journey through world religions that have shaped the 20th
-      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
-      is a rare blend of thought leader, author, successful entrepreneur,
-      philosopher, mindfulness mentor, monk and spiritual scientist.
-  - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
-    department:
-      - SCALE
-      - PRODUCT
-      - LEADERSHIP
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
-        BrainStation). Endeavor entrepreneur. Former executive with National
-        Hockey League.
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
-  - name: TJ Grewal
-    image: /images/TJ.jpeg
-    department:
-      - OPERATIONS
-      - GTM
-      - PRODUCT
-      - SCALE
-      - COACHING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
-        Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
-        Ernst & Young.
-    content: >
-      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
-      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
-      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
-      developed his problem-solving skills. TJ has a star-studded background in
-      product, operations, strategy and business development. He is an
-      experienced Senior leader with a demonstrated history of working in the
-      consumer electronics industry. Skilled in Go-to-market Strategy,
-      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
-      (M\&A), and Product Ideation, Product Management, Product Marketing.
-  - name: Chris Carson
-    image: /images/1685460170918.jpeg
-    department:
-      - STAFFING
-      - AI
-      - FUNDING
-      - SCIENCE
-      - TECH
-      - PRODUCT
-      - COACHING
-    bulletpoints:
-      - >-
-        CEO & Founder at Hayden AI (Series B). CEO & Founder of Louisa (Exited).
-        Fleet Antiterrorism Security Team Company (FAST), a top US special ops
-        team. PhD.
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
   - name: Peter Yared
     image: /images/download.jpg
     department:
@@ -489,6 +401,94 @@ team:
       (2018). Keith is a member of Transformation 50 — World 50's peer community
       for senior-most executives driving large-scale organization
       transformations.
+  - name: Johanna Mikkola
+    image: /images/Johanna.jpeg
+    department:
+      - SCALE
+      - PRODUCT
+      - LEADERSHIP
+      - FUNDING
+      - TECHNOLOGY
+    bulletpoints:
+      - >-
+        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
+        BrainStation). Endeavor entrepreneur. Former executive with National
+        Hockey League.
+    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+  - name: Chris Carson
+    image: /images/1685460170918.jpeg
+    department:
+      - STAFFING
+      - AI
+      - FUNDING
+      - SCIENCE
+      - TECH
+      - PRODUCT
+      - COACHING
+    bulletpoints:
+      - >-
+        CEO & Founder at Hayden AI (Series B). CEO & Founder of Louisa (Exited).
+        Fleet Antiterrorism Security Team Company (FAST), a top US special ops
+        team. PhD.
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+  - name: TJ Grewal
+    image: /images/TJ.jpeg
+    department:
+      - OPERATIONS
+      - GTM
+      - PRODUCT
+      - SCALE
+      - COACHING
+      - TECHNOLOGY
+    bulletpoints:
+      - >-
+        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
+        Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
+        Ernst & Young.
+    content: >
+      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
+      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
+      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
+      developed his problem-solving skills. TJ has a star-studded background in
+      product, operations, strategy and business development. He is an
+      experienced Senior leader with a demonstrated history of working in the
+      consumer electronics industry. Skilled in Go-to-market Strategy,
+      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
+      (M\&A), and Product Ideation, Product Management, Product Marketing.
+  - name: Leo Rastogi
+    image: /images/download-1.jpg
+    department:
+      - AI
+      - SCIENCE
+      - SYSTEMS
+      - OPS
+      - TECH
+      - PRODUCT
+      - LEADERSHIP
+      - COACHING
+    bulletpoints:
+      - >-
+        3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
+        Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
+        Executive Board of EO. YPO Member. Former Monk. PhD.
+    content: >
+      Leo is currently the co-founder of 6 companies gifting well-being to the
+      world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
+      Ayam.world (well-being at work), Soul Spring (medical clinics worldwide),
+      CMI (esoteric/mystery school), and Wegamed (CE/FDA approved bio-resonance
+      diagnostic and therapeutic technology). Leo is an alumnus of Harvard
+      Business School with a PhD in Leadership. Leo also studied psychological
+      and neurobiological basis of Mindfulness and Meditation at Oxford
+      University and Kings College. He also briefly lived as Buddhist Monk - a
+      bookend to his multiple monastic sabbatical. Over two decades, Leo
+      travelled to 70+ countries, immersed himself in monastic experiences, led
+      retreats in the birthplaces of great civilizations and studied with
+      enlightened masters – an experience he cherishes most in his life. Much of
+      which he has synthesize in his two critically acclaimed books : Many Path,
+      Many Truths : A Journey through world religions that have shaped the 20th
+      century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
+      is a rare blend of thought leader, author, successful entrepreneur,
+      philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Joel French
     image: /images/download-3.jpg
     department:
@@ -543,29 +543,6 @@ team:
       where he served as Executive Chairman until they exited to RealNetworks
       (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
       bestselling science fiction author, and science podcaster.
-  - name: Caleb Jones
-    image: /images/Caleb.jpeg
-    department:
-      - OPS
-      - AI
-      - TECH
-      - GROWTH
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - >-
-        Founder & CEO of Ink. Co-founder and COO of Code Pilot (Exit to
-        AngelList). Advisor to Tellus Investment Partners, a select group of
-        family offices and agribusiness professionals.
-    content: >
-      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
-      solution. Caleb was the co-founder and COO of Code Pilot (exited to
-      AngeList), an online platform that provides production-grade development
-      environments with coding analytics to train, test, and assess software
-      developers skills and behavioral adaptability. He is also an advisor to
-      Tellus Investment Partners, a select group of family offices and
-      agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Gary Moon
     image: /images/1516070710044.jpg
     department:
@@ -593,6 +570,67 @@ team:
       traded competitor, where Gary became the CTO and Managing Director of
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
+  - name: Alex Simpson
+    image: /images/63dbf5e990290f83a9c2d580_img-hero.png
+    department:
+      - COACHING
+      - SALES
+      - SCALE
+      - FUNDING
+      - GTM
+    bulletpoints:
+      - >-
+        4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
+        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
+        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised over
+        $200M in funding for fintech ventures. Member of EO.
+    content: >
+      Alex leads LiquidLP (previously known as Openstock), which focuses on
+      enabling Limited Partners and General Partners with lending solutions. As
+      an executive and builder in Fintech, Alex leverages his 12+ years of
+      experience and expertise in the fintech ecosystem to co-found, connect,
+      and architect businesses and people from the inside out. With a proven
+      track record, he has successfully generated seven-figure revenue streams,
+      secured over $200 million in funding for fintech ventures, and implemented
+      transformative growth and turnaround strategies for global corporations.In
+      addition to this, Alex serves as an advisor and investor in various
+      fintech companies. He is the co-founder of Kandua (exited) which helps
+      small service businesses grow. He is the co-founder of Kundau (Exited),
+      South Africa’s #1 online marketplace for home services. Alex is the
+      Venture Partner of Launchpad Capital, joined forces with Castle Creek
+      Capital in establishing a venture capital fund to catalyze change in
+      financial services through partnerships between fintech companies and 34
+      community bank Limited Partners. Alex was a Partner at Truenorth. He also
+      is a Co-founder (exited) of BizPay, a fintech platform enabling more
+      business for the industry by offering key suppliers immediate payments and
+      customized pay later solutions for their customers. Alex was the
+      co-founder of SOLDI POS (exited), an enterprise-grade integrated
+      Point-of-Sale designed to work across verticals and organization of all
+      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
+      of the Entrepreneurs Organization (EO).
+  - name: Caleb Jones
+    image: /images/Caleb.jpeg
+    department:
+      - OPS
+      - AI
+      - TECH
+      - GROWTH
+      - FUNDING
+      - EXITED FOUNDER
+    bulletpoints:
+      - >-
+        Founder & CEO of Ink. Co-founder and COO of Code Pilot (Exit to
+        AngelList). Advisor to Tellus Investment Partners, a select group of
+        family offices and agribusiness professionals.
+    content: >
+      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
+      solution. Caleb was the co-founder and COO of Code Pilot (exited to
+      AngeList), an online platform that provides production-grade development
+      environments with coding analytics to train, test, and assess software
+      developers skills and behavioral adaptability. He is also an advisor to
+      Tellus Investment Partners, a select group of family offices and
+      agribusiness professionals leveraging their resources to create
+      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
@@ -645,44 +683,6 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: Alex Simpson
-    image: /images/63dbf5e990290f83a9c2d580_img-hero.png
-    department:
-      - COACHING
-      - SALES
-      - SCALE
-      - FUNDING
-      - GTM
-    bulletpoints:
-      - >-
-        4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
-        Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
-        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised over
-        $200M in funding for fintech ventures. Member of EO.
-    content: >
-      Alex leads LiquidLP (previously known as Openstock), which focuses on
-      enabling Limited Partners and General Partners with lending solutions. As
-      an executive and builder in Fintech, Alex leverages his 12+ years of
-      experience and expertise in the fintech ecosystem to co-found, connect,
-      and architect businesses and people from the inside out. With a proven
-      track record, he has successfully generated seven-figure revenue streams,
-      secured over $200 million in funding for fintech ventures, and implemented
-      transformative growth and turnaround strategies for global corporations.In
-      addition to this, Alex serves as an advisor and investor in various
-      fintech companies. He is the co-founder of Kandua (exited) which helps
-      small service businesses grow. He is the co-founder of Kundau (Exited),
-      South Africa’s #1 online marketplace for home services. Alex is the
-      Venture Partner of Launchpad Capital, joined forces with Castle Creek
-      Capital in establishing a venture capital fund to catalyze change in
-      financial services through partnerships between fintech companies and 34
-      community bank Limited Partners. Alex was a Partner at Truenorth. He also
-      is a Co-founder (exited) of BizPay, a fintech platform enabling more
-      business for the industry by offering key suppliers immediate payments and
-      customized pay later solutions for their customers. Alex was the
-      co-founder of SOLDI POS (exited), an enterprise-grade integrated
-      Point-of-Sale designed to work across verticals and organization of all
-      sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
-      of the Entrepreneurs Organization (EO).
   - name: Chang Kim
     image: /images/Chang-Kim-pic.jpg
     department:
