@@ -240,7 +240,7 @@ team:
       International University of London, UK, an Entrepreneurial Strategy
       certificate from Harvard Business School and is an insatiable travel
       junkie.
-  - name: Jonathan Shambroom
+  - name: Jon Shambroom
     image: /images/1627622186259.jpg
     department:
       - SCALE
