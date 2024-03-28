@@ -270,30 +270,46 @@ team:
       family office, managing internal operations, overseeing a portfolio of
       150+ companies, leading his own investments, and serving on boards.
       Jonathan also co-founded his own investment firm with two other GPs.
-  - name: TJ Grewal
-    image: /images/TJ.jpeg
+  - name: Peter Kellner
+    image: /images/images-1.jpg
     department:
-      - OPERATIONS
-      - GTM
-      - PRODUCT
-      - SCALE
-      - COACHING
+      - 'FUNDING '
+      - SCIENCE
       - TECHNOLOGY
+      - GTM
+      - M&A
+      - COACHING
     bulletpoints:
       - >-
-        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
-        Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
-        Ernst & Young.
+        Founder at Richmond Global (now on it's 14th fund). Co-founder of
+        Endeavor, a non-profit organization and the leading global community for
+        high-impact entrepreneurs operating in 42 markets globally, connecting
+        over 2,400 Endeavor Entrepreneurs from 1,500 companies, and
+        entrepreneurial ecosystems worldwide. Harvard MBA.
     content: >
-      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
-      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
-      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
-      developed his problem-solving skills. TJ has a star-studded background in
-      product, operations, strategy and business development. He is an
-      experienced Senior leader with a demonstrated history of working in the
-      consumer electronics industry. Skilled in Go-to-market Strategy,
-      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
-      (M\&A), and Product Ideation, Product Management, Product Marketing.
+      Peter Keller is the Founder of Richmond Global. A non-comprehensive list
+      of his investments follows (current unicorns are lowercase; UNICORNS at
+      Kellner's exit are capitalized): 7Park Data (exit to Vista Equity
+      Partners), AdChina (exit to Alibaba), americanas.com.br (the largest
+      e-commerce platform in Latin America), athleta (exit to The Gap),
+      AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS
+      (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand
+      Technologies, Haystack TV, Improvado, Internet Securities (exit to
+      Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp
+      (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to
+      Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens,
+      Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India),
+      Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra,
+      Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit
+      to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is
+      the Co-founder of Endeavor where he led North America, starting in Miami,
+      and then served over two decades on the boards of Endeavor Global, Chile,
+      Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading
+      global community of, by, and for high-impact entrepreneurs.  "Sustainable
+      economies are dependent on high-impact entrepreneurship. What Endeavor
+      does better than any other organization is to create entire cultures of
+      entrepreneurship that spread within and between countries."  - Reid
+      Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
   - name: Scott Weller
     image: /images/DjoesoLi_400x400.jpg
     department:
@@ -345,7 +361,7 @@ team:
       - >-
         3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
         Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
-        Executive Board of EO. YPO Member. Former Monk.
+        Executive Board of EO. YPO Member. Former Monk. PhD.
     content: >
       Leo is currently the co-founder of 6 companies gifting well-being to the
       world: Minerva Health Ventures, Anahata Group (means “Golden Heart”),
@@ -378,46 +394,30 @@ team:
         BrainStation). Endeavor entrepreneur. Former executive with National
         Hockey League.
     content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
-  - name: Peter Kellner
-    image: /images/images-1.jpg
+  - name: TJ Grewal
+    image: /images/TJ.jpeg
     department:
-      - 'FUNDING '
-      - SCIENCE
-      - TECHNOLOGY
+      - OPERATIONS
       - GTM
-      - M&A
+      - PRODUCT
+      - SCALE
       - COACHING
+      - TECHNOLOGY
     bulletpoints:
       - >-
-        Founder at Richmond Global (now on it's 14th fund). Co-founder of
-        Endeavor, a non-profit organization and the leading global community for
-        high-impact entrepreneurs operating in 42 markets globally, connecting
-        over 2,400 Endeavor Entrepreneurs from 1,500 companies, and
-        entrepreneurial ecosystems worldwide. Harvard MBA.
+        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
+        Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
+        Ernst & Young.
     content: >
-      Peter Keller is the Founder of Richmond Global. A non-comprehensive list
-      of his investments follows (current unicorns are lowercase; UNICORNS at
-      Kellner's exit are capitalized): 7Park Data (exit to Vista Equity
-      Partners), AdChina (exit to Alibaba), americanas.com.br (the largest
-      e-commerce platform in Latin America), athleta (exit to The Gap),
-      AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS
-      (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand
-      Technologies, Haystack TV, Improvado, Internet Securities (exit to
-      Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp
-      (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to
-      Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens,
-      Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India),
-      Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra,
-      Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit
-      to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is
-      the Co-founder of Endeavor where he led North America, starting in Miami,
-      and then served over two decades on the boards of Endeavor Global, Chile,
-      Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading
-      global community of, by, and for high-impact entrepreneurs.  "Sustainable
-      economies are dependent on high-impact entrepreneurship. What Endeavor
-      does better than any other organization is to create entire cultures of
-      entrepreneurship that spread within and between countries."  - Reid
-      Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
+      TJ Grewel is the Founder of Carport. He was the CPO and founding team of
+      Beats by Dre (Exit to Apple for $3.2B). He was the CPO of Soraa (Exit to
+      Ecosense Lighting). He was an Engagement Manager for McKinsey where he
+      developed his problem-solving skills. TJ has a star-studded background in
+      product, operations, strategy and business development. He is an
+      experienced Senior leader with a demonstrated history of working in the
+      consumer electronics industry. Skilled in Go-to-market Strategy,
+      Manufacturing Operations, Corporate Development, Mergers & Acquisitions
+      (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Chris Carson
     image: /images/1685460170918.jpeg
     department:
