@@ -991,9 +991,9 @@ team:
       - EXITED FOUNDER
     bulletpoints:
       - >-
-        CEO & co-founder at OnChain Studios ($23M Series A led by a16z crypto).
-        Founder at Local Leaders Collective backed by the Knight Foundation. CEO
-        & Co-founder of LiveNinja (Exited). 
+        CEO & co-founder at OnChain Studios ($23M Series A led by a16z). Founder
+        at Local Leaders Collective backed by the Knight Foundation. CEO &
+        Co-founder of LiveNinja (Exited). 
     content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
   - name: 'Jud Brewer '
     image: /images/Jud.jpeg
