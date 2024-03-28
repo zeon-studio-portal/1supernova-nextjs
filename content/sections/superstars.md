@@ -86,11 +86,10 @@ team:
       - SALES
     bulletpoints:
       - >-
-        2x exited founder. CEO & Co-founder of Key. Daniel started EO and YPO
-        Angels (now Entrepreneurs Capital). Parter in Side Door Ventures in
-        partnership with Gaingels ($800M+ deployed). Founder & CEO of Guiides &
-        ShareSheid (2 Exits to Leavetown). Ran Canada and Eastern USA for
-        Airbnb.
+        2x exited founder. CEO & Founder of Key. Founder of EO and YPO Angels
+        (now Entrepreneurs Capital). Parter in Side Door Ventures in partnership
+        with Gaingels ($800M+ deployed). Founder & CEO of Guiides & ShareSheid
+        (2 Exits to Leavetown). Ran Canada and Eastern USA for Airbnb.
     content: >
       Daniel is a serial entrepreneur and passionate changemaker. Daniel is an
       active member of EO and YPO where he hosts private monthly fireside chats
