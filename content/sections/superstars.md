@@ -392,8 +392,8 @@ team:
         Founder at Richmond Global (now on it's 14th fund). Co-founder of
         Endeavor, a non-profit organization and the leading global community for
         high-impact entrepreneurs operating in 42 markets globally, connecting
-        over 2,400 Endeavor Entrepreneurs from 1,500 companies (16 unicorns),
-        and entrepreneurial ecosystems worldwide.
+        over 2,400 Endeavor Entrepreneurs from 1,500 companies, and
+        entrepreneurial ecosystems worldwide. Harvard MBA.
     content: >
       Peter Keller is the Founder of Richmond Global. A non-comprehensive list
       of his investments follows (current unicorns are lowercase; UNICORNS at
