@@ -404,7 +404,7 @@ team:
     bulletpoints:
       - >-
         World's #1 executive team coach. Founder & Chairman at Ferrazzi
-        Greenlight. Former CMO at Starwood & Deloitte Consulting. 3x Best
+        Greenlight. Former CMO at Starwood & Deloitte Consulting. 3x NYT Best
         Selling Author. Harvard MBA. Superconnector.
     content: >
       Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
