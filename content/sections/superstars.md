@@ -521,27 +521,6 @@ team:
       hospitals, 14,000 physician practices, millions of end-user patients, and
       automation with 2,000 health plans. In addition to its organic growth, SCI
       integrated acquired capabilities from three technology companies.
-  - name: Rob Reid
-    image: /images/vb-dqdcz_400x400.jpg
-    department:
-      - SCIENCE
-      - SYSTEMS
-      - AI
-      - FUNDING
-      - COACHING
-    bulletpoints:
-      - >-
-        Co-founder of Resilience Reserve with Chris Anderson (head of TED).
-        Founder of Listen.com (Exit to Rhapsody; RealNetworks). Founding
-        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
-        and Kareo/Tebra.
-    content: >
-      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
-      head of TED. He is also the founder of Listen.com, which created the
-      Rhapsody music service (later replicated by Spotify, Apple and others)
-      where he served as Executive Chairman until they exited to RealNetworks
-      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
-      bestselling science fiction author, and science podcaster.
   - name: Leo Rastogi
     image: /images/download-1.jpg
     department:
@@ -576,6 +555,31 @@ team:
       century Humanity and Ayam: Discover your Beautiful Self. Dr. Leo Rastogi
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
+  - name: Yifan Zhang
+    image: /images/Yifan.jpeg
+    department:
+      - PRODUCT
+      - SALES
+      - LEADERSHIP
+      - COACHING
+      - GTM
+      - FUNDING
+      - TECHNOLOGY
+    bulletpoints:
+      - >-
+        Managing Director at AI2 Incubator, born from the Allen Institute for AI
+        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
+        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
+    content: >
+      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
+      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
+      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
+      mobile fitness app). Both companies have been featured in The New York
+      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
+      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
+      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
+      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
+      University alum.
   - name: Chang Kim
     image: /images/Chang-Kim-pic.jpg
     department:
@@ -604,8 +608,8 @@ team:
       - >-
         4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
         Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
-        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised over
-        $200M in funding for fintech ventures. Member of EO.
+        LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised
+        $200M+ for fintech ventures. Member of EO.
     content: >
       Alex leads LiquidLP (previously known as Openstock), which focuses on
       enabling Limited Partners and General Partners with lending solutions. As
@@ -630,31 +634,6 @@ team:
       Point-of-Sale designed to work across verticals and organization of all
       sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
       of the Entrepreneurs Organization (EO).
-  - name: Yifan Zhang
-    image: /images/Yifan.jpeg
-    department:
-      - PRODUCT
-      - SALES
-      - LEADERSHIP
-      - COACHING
-      - GTM
-      - FUNDING
-      - TECHNOLOGY
-    bulletpoints:
-      - >-
-        Managing Director at AI2 Incubator, born from the Allen Institute for AI
-        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
-        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
-    content: >
-      Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
-      Institute for AI (AI2). Previously 2x founder and CEO of Loftium
-      (affordable home ownership, acquired by Flyhomes) and GymPact (top 5
-      mobile fitness app). Both companies have been featured in The New York
-      Times, and I was named in Entrepreneur's “50 Most Daring Entrepreneurs”
-      and Forbes "30 under 30". She also serves on Seattle Mayors Bruce
-      Harrell’s One Seattle Civic Partnership on Former Mayor Jenny Durkan’s
-      Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
-      University alum.
   - name: Gerard Adams
     image: /images/download-6.jpg
     department:
@@ -681,6 +660,27 @@ team:
       established teams scaling past 7 figures, and partnering with CEOs who
       want help exiting their current companies so they can start a more
       purpose-driven enterprise.
+  - name: Rob Reid
+    image: /images/vb-dqdcz_400x400.jpg
+    department:
+      - SCIENCE
+      - SYSTEMS
+      - AI
+      - FUNDING
+      - COACHING
+    bulletpoints:
+      - >-
+        Co-founder of Resilience Reserve with Chris Anderson (head of TED).
+        Founder of Listen.com (Exit to Rhapsody; RealNetworks). Founding
+        investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
+        and Kareo/Tebra.
+    content: >
+      Rob Reid is the co-founder of Resilience Reserve with Chris Anderson, the
+      head of TED. He is also the founder of Listen.com, which created the
+      Rhapsody music service (later replicated by Spotify, Apple and others)
+      where he served as Executive Chairman until they exited to RealNetworks
+      (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
+      bestselling science fiction author, and science podcaster.
   - name: Hogan Lee
     image: /images/HOGAN.jpeg
     department:
