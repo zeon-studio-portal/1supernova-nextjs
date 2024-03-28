@@ -855,8 +855,7 @@ team:
       - >-
         Founder & CSO of Xenex Healthcare Services. Chief Epidemiologist at
         Forefront Healthcare. Fellow at IDSA & Royal Society of Medicine.
-        Appeared on CNN, the Doctors, NPR, VOA and numerous other media
-        outlets. 
+        Appeared on CNN, the Doctors, NPR, VOA and many media outlets. 
     content: >
       Dr. Stibich is a founder and Chief Scientific Officer for Xenex Healthcare
       Services, a company that uses a patented pulsed xenon disinfection system
