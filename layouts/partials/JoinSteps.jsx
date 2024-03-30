@@ -1,29 +1,29 @@
 import { markdownify } from '@lib/utils/textConverter';
 
-const TopFounders = ({ advisory_team }) => {
-  const colors = advisory_team.frontmatter.list_colors;
+const JoinSteps = ({ join_steps }) => {
+  const colors = join_steps.frontmatter.list_colors;
 
   return (
-    advisory_team.frontmatter.enable === true && (
-      <section className="bg-dark-quaternary py-24">
+    join_steps.frontmatter.enable === true && (
+      <section id="join-steps" className="bg-dark-quaternary py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
             {markdownify(
-              advisory_team.frontmatter.title,
+              join_steps.frontmatter.title,
               'h2',
               'font-medium mb-4'
             )}
           </div>
           <div data-aos="fade-up-sm">
             {markdownify(
-              advisory_team.frontmatter.subtitle,
+              join_steps.frontmatter.subtitle,
               'p',
               'text-light-secondary md:text-xl'
             )}
           </div>
 
           <div className="mt-10 grid gap-x-6 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5">
-            {advisory_team.frontmatter.lists.map((item, index) => (
+            {join_steps.frontmatter.lists.map((item, index) => (
               <div
                 key={index}
                 className="mt-10 flex flex-col sm:mt-6"
@@ -47,4 +47,4 @@ const TopFounders = ({ advisory_team }) => {
   );
 };
 
-export default TopFounders;
+export default JoinSteps;
