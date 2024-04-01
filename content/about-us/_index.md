@@ -106,7 +106,7 @@ leadership_team:
       image: /images/Kyle-r.jpg
       designation: Supporter
     - name: Heather Harwood
-      image: /images/HeatherHarwood-r.jpg
+      image: /images/HeatherHarwood.jpg
       designation: Artist
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
