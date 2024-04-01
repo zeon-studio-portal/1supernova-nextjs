@@ -420,7 +420,7 @@ team:
       for senior-most executives driving large-scale organization
       transformations.
   - name: Chris Carson
-    image: /images/1685460170918.jpeg
+    image: /images/Chris-Carson.jpg
     department:
       - STAFFING
       - AI
