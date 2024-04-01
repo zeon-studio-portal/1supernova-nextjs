@@ -97,7 +97,7 @@ leadership_team:
       image: /images/DanielDubois.jpg
       designation: Reflector
     - name: John Thomas Marino
-      image: /images/leadership-team/JT-Marino.jpg
+      image: /images/JohnThomas.jpg
       designation: Projector
     - name: Tim Chang
       image: /images/Tim_Chang.jpg
