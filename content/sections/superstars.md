@@ -66,7 +66,7 @@ team:
       $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
       Fortune 500. Barry is a keynote speaker for work/life transformation.
   - name: 'Chris Staley '
-    image: /images/ChristopherStaley-R.jpg
+    image: /images/ChristopherStaley.jpg
     department:
       - OPS
       - FUNDING
