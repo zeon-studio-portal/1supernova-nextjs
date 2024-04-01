@@ -91,7 +91,7 @@ leadership_team:
       image: /images/Barry_Stamos.jpg
       designation: Manifestor
     - name: Christopher Staley
-      image: /images/ChristopherStaley-R.jpg
+      image: /images/Christopher_Staley.jpg
       designation: Generator
     - name: Daniel Dubois
       image: /images/DanielDubois-R.jpg
