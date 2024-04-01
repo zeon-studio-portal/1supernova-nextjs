@@ -379,7 +379,7 @@ team:
       society, and has written for the Wall Street Journal, BusinessWeek,
       TechCrunch and VentureBeat.
   - name: Johanna Mikkola
-    image: /images/Johanna.jpeg
+    image: /images/Johanna_Mikola.jpg
     department:
       - SCALE
       - PRODUCT
