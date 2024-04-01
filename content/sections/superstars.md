@@ -704,7 +704,7 @@ team:
       (pre-IPO). He is a long-time tech entrepreneur, investor, New York Times
       bestselling science fiction author, and science podcaster.
   - name: Joel French
-    image: /images/download-3.jpg
+    image: /images/JoelFrench.jpg
     department:
       - Scale
       - HR
