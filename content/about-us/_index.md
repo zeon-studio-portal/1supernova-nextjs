@@ -100,7 +100,7 @@ leadership_team:
       image: /images/leadership-team/JT-Marino.jpg
       designation: Projector
     - name: Tim Chang
-      image: /images/TimChang-r.jpg
+      image: /images/Tim_Chang.jpg
       designation: Guide
     - name: Kyle McFadden
       image: /images/Kyle-r.jpg
