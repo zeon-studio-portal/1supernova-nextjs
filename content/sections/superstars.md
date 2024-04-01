@@ -149,7 +149,7 @@ team:
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
   - name: Andrew Trader
-    image: /images/AT.jpeg
+    image: /images/Andrew-Trader.jpg
     department:
       - SYSTEMS
       - GTM
