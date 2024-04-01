@@ -94,7 +94,7 @@ leadership_team:
       image: /images/Christopher_Staley.jpg
       designation: Generator
     - name: Daniel Dubois
-      image: /images/DanielDubois-R.jpg
+      image: /images/DanielDubois.jpg
       designation: Reflector
     - name: John Thomas Marino
       image: /images/leadership-team/JT-Marino.jpg
