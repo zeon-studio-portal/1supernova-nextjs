@@ -314,7 +314,7 @@ team:
       entrepreneurship that spread within and between countries."  - Reid
       Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
   - name: Scott Weller
-    image: /images/DjoesoLi_400x400.jpg
+    image: /images/Scott-Weller.jpg
     department:
       - LEADERSHIP
       - SCALE
