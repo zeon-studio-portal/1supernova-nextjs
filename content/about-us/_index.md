@@ -88,7 +88,7 @@ leadership_team:
   subtitle: We shine brighter together
   lists:
     - name: Barry Stamos
-      image: /images/BarryStamos-r.jpg
+      image: /images/Barry_Stamos.jpg
       designation: Manifestor
     - name: Christopher Staley
       image: /images/ChristopherStaley-R.jpg
