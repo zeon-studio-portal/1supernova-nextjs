@@ -486,7 +486,7 @@ team:
       Client Services. Gary earned his undergraduate degree and advanced studies
       from Stanford University.
   - name: Chang Kim
-    image: /images/Chang-Kim-pic.jpg
+    image: /images/ChangKim.jpg
     department:
       - FUNDING
       - PRODUCT
