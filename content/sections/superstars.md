@@ -502,7 +502,7 @@ team:
       and CEO of Tapas Media. He is invested in 50+ companies at the Seed stage
       and has his own fund called Rabbit VC.
   - name: Alex Simpson
-    image: /images/63dbf5e990290f83a9c2d580_img-hero.png
+    image: /images/AlexSimpson.jpg
     department:
       - COACHING
       - SALES
