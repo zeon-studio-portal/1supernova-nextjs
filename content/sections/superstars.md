@@ -762,7 +762,7 @@ team:
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
   - name: 'Chris Chaney  '
-    image: /images/Chris.jpeg
+    image: /images/Chris.jpg
     department:
       - SALES
       - COACHING
