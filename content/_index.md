@@ -62,7 +62,7 @@ advisory_game:
   title: We are not like other advisors
   subtitle: >-
     With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
-    advisory-as-a-service™ for early and growth-stage startups
+    advisory-as-a-service™ for scaling startups and high growth companies 
   quote: Supernova is changing the advisory game
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
