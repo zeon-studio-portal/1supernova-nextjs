@@ -736,7 +736,7 @@ team:
       automation with 2,000 health plans. In addition to its organic growth, SCI
       integrated acquired capabilities from three technology companies.
   - name: Hogan Lee
-    image: /images/HOGAN.jpeg
+    image: /images/HoganLee.jpg
     department:
       - AI
       - FUNDING
