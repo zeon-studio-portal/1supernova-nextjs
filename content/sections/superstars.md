@@ -884,7 +884,7 @@ team:
       with proven skills in sales, leadership, innovation, proactive problem
       solving and communication.
   - name: Tim Sae Koo
-    image: /images/102929.png
+    image: /images/TimKoo.jpg
     department:
       - COACHING
       - OPS
