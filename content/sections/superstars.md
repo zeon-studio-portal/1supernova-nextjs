@@ -919,7 +919,7 @@ team:
       and appliances (Exited). His zone of genius are product, ops and
       technology.
   - name: Tuck Stibich
-    image: /images/download-13.jpg
+    image: /images/Tuck.jpg
     department:
       - OPS
       - TECHNOLOGY
