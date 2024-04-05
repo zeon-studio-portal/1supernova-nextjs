@@ -540,7 +540,7 @@ team:
       sizes. Alex was also the co-founder of LiveGlass  (Exited). He is a member
       of the Entrepreneurs Organization (EO).
   - name: Leo Rastogi
-    image: /images/download-1.jpg
+    image: /images/LeoRastogi.jpg
     department:
       - AI
       - SCIENCE
