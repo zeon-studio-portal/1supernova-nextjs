@@ -245,7 +245,7 @@ team:
       certificate from Harvard Business School and is an insatiable travel
       junkie.
   - name: Jon Shambroom
-    image: /images/1627622186259.jpg
+    image: /images/JShambroom.jpg
     department:
       - SCALE
       - M&A
