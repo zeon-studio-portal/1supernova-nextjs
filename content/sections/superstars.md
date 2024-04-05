@@ -275,7 +275,7 @@ team:
       150+ companies, leading his own investments, and serving on boards.
       Jonathan also co-founded his own investment firm with two other GPs.
   - name: Peter Kellner
-    image: /images/images-1.jpg
+    image: /images/PeterKellner.jpg
     department:
       - 'FUNDING '
       - SCIENCE
