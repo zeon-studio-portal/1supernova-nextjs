@@ -459,7 +459,7 @@ team:
       Manufacturing Operations, Corporate Development, Mergers & Acquisitions
       (M\&A), and Product Ideation, Product Management, Product Marketing.
   - name: Gary Moon
-    image: /images/1516070710044.jpg
+    image: /images/GaryMoon.jpg
     department:
       - M&A
       - STRATEGY
