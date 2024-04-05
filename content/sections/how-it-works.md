@@ -45,7 +45,7 @@ process:
       vesting schedules.
     button:
       enable: true
-      label: "Read Our Testimonials \U0001F680"
+      label: "See Testimonials \U0001F680"
       link: 'https://1supernova.com/#reviews'
 ---
 
