@@ -14,14 +14,14 @@ process:
       twelve startups chosen yearly to join Supernova's portfolio. 
     button:
       enable: true
-      label: Apply to Supernova 🚀
+      label: "Apply to Supernova \U0001F680"
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Assemble \U0001FAF6"
     content: |
       We match you with top advisors who support your immediate needs.
     button:
       enable: true
-      label: Match Up With Exited Founders 🚀
+      label: "Get Matched With Exited Founders \U0001F680"
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
@@ -29,7 +29,7 @@ process:
       best-in-class advisory teams.
     button:
       enable: true
-      label: Watch Best Practices Webinar 🚀
+      label: "Watch Best Practices Webinar \U0001F680"
       link: 'https://www.youtube.com/watch?v=h59yC0eokks'
   - name: "04 - Achieve \U0001F3AF"
     content: >
@@ -37,7 +37,7 @@ process:
       needs of your company evolve.
     button:
       enable: true
-      label: Read FAQs 🚀
+      label: "Read FAQs \U0001F680"
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
@@ -45,7 +45,7 @@ process:
       vesting schedules.
     button:
       enable: true
-      label: Read Our Testimonials 🚀
+      label: "Read Our Testimonials \U0001F680"
       link: 'https://1supernova.com/#reviews'
 ---
 
