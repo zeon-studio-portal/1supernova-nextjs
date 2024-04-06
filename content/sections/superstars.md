@@ -838,7 +838,7 @@ team:
       (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
       We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
   - name: Caleb Jones
-    image: /images/Caleb.jpeg
+    image: /images/Jones.jpg
     department:
       - OPS
       - AI
