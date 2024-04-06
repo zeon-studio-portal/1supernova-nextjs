@@ -39,7 +39,7 @@ lists:
     brand_logo:
       width: 130
       height: 24
-      file: /images/top-founders/ignacio-handal-brand.png
+      file: /images/Clinicom-Logo.png
   - name: Paul Graf
     image: /images/paul-graf.jpg
     designation: CEO & Founder
