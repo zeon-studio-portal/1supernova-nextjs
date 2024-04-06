@@ -861,7 +861,7 @@ team:
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
   - name: Juha Mikkola
-    image: /images/download-9.jpg
+    image: /images/JuhaMikkola.jpg
     department:
       - COACHING
       - PRODUCT
