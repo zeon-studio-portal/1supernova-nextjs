@@ -793,7 +793,7 @@ team:
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
   - name: 'Jud Brewer '
-    image: /images/Jud.jpeg
+    image: /images/JudBrewer.jpg
     department:
       - STRATEGY
       - PRODUCT
