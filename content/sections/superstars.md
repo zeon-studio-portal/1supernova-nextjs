@@ -657,7 +657,7 @@ team:
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
       based in Silicon Valley.
   - name: Gerard Adams
-    image: /images/download-6.jpg
+    image: /images/GerardAdams.jpg
     department:
       - MARKETING
       - GTM
