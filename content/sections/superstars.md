@@ -574,7 +574,7 @@ team:
       is a rare blend of thought leader, author, successful entrepreneur,
       philosopher, mindfulness mentor, monk and spiritual scientist.
   - name: Yifan Zhang
-    image: /images/Yifan.jpeg
+    image: /images/YifanZhang.jpg
     department:
       - PRODUCT
       - AI
