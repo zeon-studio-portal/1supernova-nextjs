@@ -1129,7 +1129,7 @@ team:
         scaling startups to $250M+ ARR. 
     content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
-    image: /images/Tomy.jpeg
+    image: /images/TomyLorsch.jpg
     department:
       - AI
       - GROWTH
