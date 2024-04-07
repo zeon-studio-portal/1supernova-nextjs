@@ -1015,7 +1015,7 @@ team:
         South Park Commons. 
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Juston Brommel
-    image: /images/JB.jpeg
+    image: /images/JustonBrommel.jpg
     department:
       - COACHING
       - MARKETING
