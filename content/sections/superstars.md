@@ -635,7 +635,7 @@ team:
       online communities. Krishan is also an avid writer for Forbes.com writing
       on entrepreneurship, digital media, and venture fundraising.
   - name: Dan Ellis
-    image: /images/Dan.jpeg
+    image: /images/DanEllis.jpg
     department:
       - AI
       - LEADERSHIP
