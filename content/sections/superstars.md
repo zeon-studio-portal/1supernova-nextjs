@@ -898,7 +898,7 @@ team:
         WAI WEAR (Exited). Spiritual Coach. 
     content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
   - name: Ulises Orozco
-    image: /images/1585673787933.jpeg
+    image: /images/UlisesOrozco.jpg
     department:
       - TECHNOLOGY
       - AI
