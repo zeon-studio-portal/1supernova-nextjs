@@ -1004,7 +1004,7 @@ team:
       Entourage Effect Capital to invest in this generational wealth creation
       event.
   - name: Seth Forsgren
-    image: /images/Seth.jpeg
+    image: /images/SethForsgren.jpg
     department:
       - PRODUCT
       - TECH
