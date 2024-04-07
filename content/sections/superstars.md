@@ -1101,7 +1101,7 @@ team:
       others. Michel is a Magna Cum Laude graduate of The George Washington
       University School of Business. He is based in Miami, Florida.
   - name: Grant Hunter
-    image: /images/Grant.jpeg
+    image: /images/GrantHunter.jpg
     department:
       - SCALE
       - COACHING
