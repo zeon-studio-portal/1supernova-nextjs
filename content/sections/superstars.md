@@ -1056,7 +1056,7 @@ team:
       collaboration, DAOs, AI, stakeholder participation models). He is based in
       Santa Monica, California.
   - name: J Patrick Bewley
-    image: /images/download-8.jpg
+    image: /images/JBewley.jpg
     department:
       - SCIENCE
       - TECHNOLOGY
