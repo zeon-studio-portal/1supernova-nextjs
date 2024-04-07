@@ -947,7 +947,7 @@ team:
       is an inventor on over 160 granted patents and a principal investigator on
       an NIH grant.
   - name: Emily Dong
-    image: /images/X4Hj7NSk_400x400.jpg
+    image: /images/EmilyDong.jpg
     department:
       - GTM
       - MARKETING
