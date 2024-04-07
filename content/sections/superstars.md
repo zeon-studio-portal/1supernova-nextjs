@@ -968,7 +968,7 @@ team:
       fellow. She spends her spare time in the ballet studio and hanging out
       with her dog, Bowser.
   - name: Andrew Sturner
-    image: /images/download-11.jpg
+    image: /images/Sturner.jpg
     department:
       - LEGAL/IP
       - FUNDING
