@@ -599,7 +599,7 @@ team:
       Innovation Advisory Council. Techstars alum, mentor and EIR. Harvard
       University alum.
   - name: Krishan Arora
-    image: /images/download-14.jpg
+    image: /images/KrishanArora.jpg
     department:
       - SYSTEMS
       - MARKETING
