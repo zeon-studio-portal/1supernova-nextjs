@@ -349,7 +349,7 @@ team:
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
   - name: Peter Yared
-    image: /images/PeteYared.jpg
+    image: /images/PeterYared.jpg
     department:
       - TECHNOLOGY
       - PRODUCT
