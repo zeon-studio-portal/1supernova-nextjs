@@ -967,6 +967,17 @@ team:
       pet health app (brit.co/pawprint-app-healthy-pets/) as a Y-Combinator
       fellow. She spends her spare time in the ballet studio and hanging out
       with her dog, Bowser.
+  - name: Seth Forsgren
+    image: /images/SethForsgren.jpg
+    department:
+      - PRODUCT
+      - TECH
+    bulletpoints:
+      - >-
+        2x exited founder. Founder at Hardline (Exited). Founder of Yodal
+        (Exited to Open English). Head of Product at Shape (Exited). Member of
+        South Park Commons. 
+    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Andrew Sturner
     image: /images/Sturner.jpg
     department:
@@ -1003,17 +1014,6 @@ team:
       investing in the space and ultimately co-founded his 6th startup –
       Entourage Effect Capital to invest in this generational wealth creation
       event.
-  - name: Seth Forsgren
-    image: /images/SethForsgren.jpg
-    department:
-      - PRODUCT
-      - TECH
-    bulletpoints:
-      - >-
-        2x exited founder. Founder at Hardline (Exited). Founder of Yodal
-        (Exited to Open English). Head of Product at Shape (Exited). Member of
-        South Park Commons. 
-    content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
   - name: Juston Brommel
     image: /images/JustonBrommel.jpg
     department:
