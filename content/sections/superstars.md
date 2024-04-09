@@ -682,7 +682,7 @@ team:
       want help exiting their current companies so they can start a more
       purpose-driven enterprise.
   - name: Rob Reid
-    image: /images/Rob_Reid.jpg
+    image: /images/RobReid 2.jpg
     department:
       - SCIENCE
       - SYSTEMS
