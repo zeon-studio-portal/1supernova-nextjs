@@ -176,7 +176,7 @@ const Advisory = ({ superstars }) => {
                         width={100}
                         height={100}
                       />
-                      <div className="hidden flex-wrap bg-black gap-2 justify-center py-4 mx-2 px-1 rounded-md text-center">
+                      <div className="mx-2 hidden flex-wrap justify-center gap-2 rounded-md bg-black px-1 py-4 text-center">
                         {item.department &&
                           item.department.map((d, i) => (
                             <div
