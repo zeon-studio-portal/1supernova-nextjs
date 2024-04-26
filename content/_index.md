@@ -21,7 +21,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We back top startups
+  title: We mentor top startups
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
