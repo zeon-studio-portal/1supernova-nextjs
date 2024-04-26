@@ -17,9 +17,7 @@ items:
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
     company: Neuromore
-    quote: >-
-      Supernova got hands-on to 3x sales! It's not always what you know, it's
-      who you know. 
+    quote: 'Supernova got hands-on to 3x company sales! '
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
