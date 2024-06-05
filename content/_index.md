@@ -27,7 +27,7 @@ founders:
     - /images/founders/y-combinator.svg
     - /images/founders/Entrepreneurs_Organization.png
     - /images/Endeavor_logo_white-sm.png
-    - /images/hampton_transparent.png
+    - /images/hampton-logo-white.png
     - /images/founders/vistage.svg
 advisory:
   enable: true
