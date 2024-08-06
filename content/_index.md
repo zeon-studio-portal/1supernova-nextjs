@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Scale Up With Exited Founders
+  title: Scale With Exited Founders
   subtitle: "Scaling your startup is hard! But, it doesn't have to be. Insert: Successfully excited founders. \U0001F680"
   background_youtube_video_id: Mq61xLTDdGI
   quote:
