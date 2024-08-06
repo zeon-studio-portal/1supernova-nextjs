@@ -1,9 +1,7 @@
 ---
 banner:
   title: Build With Exited Founders
-  subtitle: >-
-    Stack Your Advisory Board With Successfully Exited Founders For Stellar
-    Results
+  subtitle: Scale Your Company With Successfully Exited Founders
   background_youtube_video_id: Mq61xLTDdGI
   quote:
     title: 'Without my advisors, I wouldn’t have'
