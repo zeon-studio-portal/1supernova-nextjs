@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Scale With Exited Founders
+  title: Scale Up With Exited Founders
   subtitle: "Don't Hire More Advisors/Coaches/Consultants! Turnkey One All-Star Team of Successfully Exited Founders \U0001F680"
   background_youtube_video_id: Mq61xLTDdGI
   quote:
