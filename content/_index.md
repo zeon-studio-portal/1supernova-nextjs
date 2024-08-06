@@ -1,7 +1,7 @@
 ---
 banner:
   title: Build With Exited Founders
-  subtitle: Scale Your Company With Successfully Exited Founders
+  subtitle: "You Don't Need Another Advisor/Coach/Consultant! Scale Up With An All-Star Team of Successfully Exited Founders \U0001F680"
   background_youtube_video_id: Mq61xLTDdGI
   quote:
     title: 'Without my advisors, I wouldn’t have'
