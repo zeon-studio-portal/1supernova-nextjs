@@ -32,10 +32,12 @@ founders:
 advisory:
   enable: true
   title: Advisory as a Service™
-  subtitle: 'Get backed by the #1 exited founder community'
+  subtitle: >-
+    Supernova is an exclusive tier-one advisory firm gaming scale-ups success
+    and impact ✨
   quote: >-
     Exited founders team up and share time, wisdom, resources and networks to
-    help companies *achieve their mission, faster*
+    help companies achieve their missions, faster
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
