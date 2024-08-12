@@ -2,8 +2,8 @@
 banner:
   title: Scale With Exited Founders
   subtitle: >-
-    Supernova is an exclusive tier-one advisory firm, scaling companies' success
-    and global impact.✨
+    Scaling your startup is hard, but it doesn't have to be. Team up with
+    successfully exited founders who guide your success.⭐ 
   background_youtube_video_id: Mq61xLTDdGI
   quote:
     title: 'Without my advisors, I wouldn’t have'
