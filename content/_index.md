@@ -33,8 +33,8 @@ advisory:
   enable: true
   title: Advisory as a Service™
   subtitle: >-
-    Supernova is an exclusive tier-one advisory firm. We supersize success and
-    impact for scale-ups.✨
+    Supernova is an exclusive tier-one advisory firm for scale-ups. Let us
+    supersize your success and impact.✨
   quote: >-
     Exited founders team up and share time, wisdom, resources and networks to
     help companies achieve their missions, faster
