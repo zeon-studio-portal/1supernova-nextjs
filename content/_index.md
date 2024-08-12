@@ -56,9 +56,9 @@ advisory:
     - title: NPS Score
       number: 92
       suffix: ''
-    - title: Collective Impact
+    - title: Exit Value
       number: null
-      suffix: ∞
+      suffix: $10 Billion
 advisory_game:
   enable: true
   title: We are not like other advisors
