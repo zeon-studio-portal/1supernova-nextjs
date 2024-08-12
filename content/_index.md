@@ -33,11 +33,11 @@ advisory:
   enable: true
   title: Advisory as a Service™
   subtitle: >-
-    Scaling your startup is hard, but it doesn't have to be. Team up with
-    successfully exited founders who guide your success. ⭐
+    Supernova is an exclusive tier-one advisory firm, scaling companies' success
+    and global impact.✨
   quote: >-
     Exited founders team up and share time, wisdom, resources and networks to
-    help companies achieve their missions, faster
+    help companies achieve their missions, faster.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
