@@ -1,7 +1,7 @@
 ---
 banner:
   title: Scale With Exited Founders
-  subtitle: "Scaling your startup is hard! But, it doesn't have to be.   Let our successfully exited founders fuel your dreams. \U0001F680"
+  subtitle: "Scaling your startup is hard, but it doesn't have to be.   Let our successfully exited founders fuel your dreams. \U0001F680"
   background_youtube_video_id: Mq61xLTDdGI
   quote:
     title: 'Without my advisors, I wouldn’t have'
