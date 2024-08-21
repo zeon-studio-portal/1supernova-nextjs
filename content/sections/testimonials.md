@@ -20,8 +20,8 @@ items:
     designation: CEO & Founder
     company: Neuromore (Seed+)
     quote: >-
-      Most advisors suck! All talk, no action. Supernova proved me wrong by
-      getting hands-on to 3x company sales! 
+      Advisors suck! All talk, no action. Supernova proved me wrong by getting
+      hands-on to 3x company sales! 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named on Midas List) '
