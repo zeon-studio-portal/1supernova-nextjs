@@ -33,7 +33,9 @@ items:
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
     company: Jive
-    quote: 'Investors'' advice is good. Supernova''s is gold (all-star advisory team). '
+    quote: >-
+      Investors' advice is good. Supernova's is golden (all-star advisory
+      team). 
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: CEO & Founder of Key (2x Exited Founder)
