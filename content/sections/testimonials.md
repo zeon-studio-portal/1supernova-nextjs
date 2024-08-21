@@ -48,8 +48,8 @@ items:
     designation: Managing Partner (Exited Founder)
     company: Nfluence Partners
     quote: >-
-      Supernova is a trusted partner to my investment bank serving conscious
-      companies with growth capital and M&A.
+      Supernova is a trusted partner to my investment bank (growth capital and
+      M&A).
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
