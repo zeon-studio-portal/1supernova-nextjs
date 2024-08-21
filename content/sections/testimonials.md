@@ -8,8 +8,8 @@ items:
     designation: CEO & Founder
     company: Parkqulility
     quote: >-
-      Stack your team with exited founders! As a 2nd time founder, Supernova is
-      a no-brainer. 
+      As a 2x founder, Supernova is a no-brainer. Stack your team with exited
+      founders! 
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
