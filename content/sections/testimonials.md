@@ -7,9 +7,7 @@ items:
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
     company: Parkqulility
-    quote: >-
-      As a 2x founder, Supernova is a no-brainer. Stack your team with exited
-      founders! 
+    quote: 'Supernova is a no-brainer. Stack your team with exited founders! '
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
@@ -24,7 +22,7 @@ items:
       getting hands-on to 3x company sales! 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
-    designation: CEO & Founder
+    designation: 'CEO & Founder '
     company: Jive
     quote: >-
       While some investors can be decent advisors, Supernova runs all-star
