@@ -7,7 +7,7 @@ items:
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
     company: Tuft & Needle. YPO Forum Member
-    quote: My advisors helped us bootstrap TN.com to $250MM ARR and merge (big exit).
+    quote: My advisors helped us bootstrap to $250MM ARR and merge (big exit).
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
