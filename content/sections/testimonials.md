@@ -3,6 +3,13 @@ enable: true
 title: What they are saying
 subtitle: The WOW factor is real when exited founders share their superpowers.
 items:
+  - name: Patrick Hilsbos
+    image: /images/testimonials/patrick-hilsbos.jpg
+    designation: CEO & Founder
+    company: Neuromore (Seed+)
+    quote: >-
+      Advisors suck! All talk, no action. Supernova proved me wrong - got
+      hands-on to 3x company sales! 
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
@@ -15,13 +22,6 @@ items:
     quote: >-
       Supernova scales startups into unicorns. They advised me and I advise
       others through them.
-  - name: Patrick Hilsbos
-    image: /images/testimonials/patrick-hilsbos.jpg
-    designation: CEO & Founder
-    company: Neuromore (Seed+)
-    quote: >-
-      Advisors suck! All talk, no action. Supernova proved me wrong - got
-      hands-on to 3x company sales! 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named on Midas List) '
@@ -48,15 +48,15 @@ items:
     designation: CEO & Founder
     company: Parkqulility (Seed)
     quote: 'Supernova is a no-brainer. Stack your advisory team w/ exited founders! '
-  - name: Chanddeep Madaan
-    image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO & Founder
-    company: Aya Mastercard
-    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
     quote: Exited founders joining forces is Supernova's special sauce.
+  - name: Chanddeep Madaan
+    image: /images/testimonials/chanddeep-madaan.jpg
+    designation: CEO & Founder
+    company: Aya Mastercard
+    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
 ---
 
