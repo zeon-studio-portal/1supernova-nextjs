@@ -46,7 +46,7 @@ items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
-    company: Parkqulility
+    company: Parkqulility (Seed)
     quote: 'Supernova is a no-brainer. Stack your advisory team with exited founders! '
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
