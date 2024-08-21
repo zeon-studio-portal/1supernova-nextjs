@@ -26,7 +26,7 @@ items:
     company: Jive
     quote: >-
       Investors try to advise. But, Supernova runs all-star advisory teams with
-      OKRs (full accountability). 
+      OKRs (real accountability). 
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exited Founder)
