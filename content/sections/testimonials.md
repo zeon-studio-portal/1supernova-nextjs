@@ -27,8 +27,8 @@ items:
     designation: 'Founding Partner (2x named Midas List) '
     company: 'Mayfield VC ($3B under management) '
     quote: >-
-      As a retired tier-one VC, Supernova is how I transfer my wisdom to
-      companies building a better world.
+      As a prior tier-one VC, Supernova is how I transfer my wisdom to companies
+      building a better world.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
