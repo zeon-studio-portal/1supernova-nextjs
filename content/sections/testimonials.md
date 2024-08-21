@@ -37,7 +37,7 @@ items:
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: Founder of Key (2x Exited Founder)
-    company: 'Started EO & YPO Angels & Partner at Side Door Ventures ($100M Fund) '
+    company: 'Founder of EO & YPO Angels & Partner at Side Door Ventures ($100M Fund) '
     quote: >-
       I recommend Supernova to any team I back as an investor because I know
       they're game-changers. 
