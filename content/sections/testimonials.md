@@ -52,9 +52,11 @@ items:
       advisory team).
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
-    designation: CEO
-    company: nfluence Partners
-    quote: Exited founders joining forces with startups is Supernova's special sauce.
+    designation: Managing Partner (Exited Founder)
+    company: Nfluence Partners
+    quote: >-
+      My investment banking firm helps with growth capital and M&A. Supernova is
+      a special partner to us.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
