@@ -19,7 +19,9 @@ items:
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
     company: Neuromore
-    quote: 'Most advisors suck! All talk. Supernova got hands-on to 3x company sales! '
+    quote: >-
+      My advisors sucked! They made promises but didn't deliver. So, I signed
+      with Supernova who got hands-on to 3x company sales in 120-days! 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
