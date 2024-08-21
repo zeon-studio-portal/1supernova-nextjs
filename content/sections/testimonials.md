@@ -7,7 +7,7 @@ items:
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
     company: Parkqulility
-    quote: 'Supernova is a no-brainer. Stack your team with exited founders! '
+    quote: 'Supernova is a no-brainer. Stack your advisory team with exited founders! '
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
