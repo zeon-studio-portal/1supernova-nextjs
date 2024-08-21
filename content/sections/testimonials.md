@@ -11,10 +11,10 @@ items:
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
-    company: 'Colossal Biosciences '
+    company: Colossal Biosciences (150M Series B)
     quote: >-
       Supernova has a successful record of scaling companies to unicorn status.
-      They advised me and I'm happy to advise now through Supernova.
+      They advised me and I'm happy to advise others via Supernova.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
