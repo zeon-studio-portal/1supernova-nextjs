@@ -36,7 +36,7 @@ items:
       now an advisor to Supernova's portfolio.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
-    designation: 'Founding Partner (2x named on Midas List; Top 100 VC''s in the World) '
+    designation: 'Founding Partner (2x named on Midas List) '
     company: 'Mayfield VC ($3B under management) '
     quote: >-
       As a retired tier-one VC, Supernova is how I gift my wisdom to companies
