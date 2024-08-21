@@ -54,7 +54,9 @@ items:
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
     company: Parkqulility (Seed)
-    quote: 'No-brainer. Stack your advisory team with exited founders! '
+    quote: >-
+      As a second-time founder, Supernova is a no-brainer. Stack your advisory
+      team with exited founders! 
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
