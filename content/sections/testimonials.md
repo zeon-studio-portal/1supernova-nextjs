@@ -35,7 +35,7 @@ items:
     company: Jive
     quote: >-
       My investors give helpful advice. But, Supernova runs all-star advisory
-      teams with full accountability. 
+      teams who earn equity based on merit. 
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: CEO & Founder of Key (2x Exited Founder)
