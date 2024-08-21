@@ -32,8 +32,8 @@ items:
     designation: 'CEO & Founder '
     company: Jive
     quote: >-
-      Investors' advice is good, but ad-hoc. Supernova's is golden (accountable
-      all-star advisory team).
+      Investors' advice is good. Supernova's is golden (accountable all-star
+      advisory team).
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
