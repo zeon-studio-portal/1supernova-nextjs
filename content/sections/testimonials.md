@@ -25,8 +25,8 @@ items:
     designation: 'CEO & Founder '
     company: Jive
     quote: >-
-      While some investors can be decent advisors, Supernova runs all-star
-      advisory teams! 
+      Investors try to advise. But, Supernova runs all-star advisory teams with
+      OKRs (full accountability). 
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exited Founder)
