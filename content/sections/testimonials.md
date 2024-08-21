@@ -13,8 +13,8 @@ items:
     designation: CEO & Co-founder (6x Exits)
     company: Colossal Biosciences (Series B)
     quote: >-
-      Supernova scales companies to unicorn status. They advised me and I advise
-      founders through them.
+      Supernova scales companies into unicorns. They advised me and I advise
+      through them.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
@@ -39,7 +39,7 @@ items:
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: CEO & Founder of Key (2x Exited Founder)
-    company: 'Started EO & YPO Angels. Partner at Side Door Ventures ($100M Fund) '
+    company: 'Started EO & YPO Angels & Partner at Side Door Ventures ($100M Fund) '
     quote: >-
       I recommend Supernova to any team I back as an investor because I know
       they're game-changers. 
