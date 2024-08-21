@@ -31,7 +31,9 @@ items:
     image: /images/testimonials/ben-lamm.jpg
     designation: 'CEO & Co-founder '
     company: 'Colossal Biosciences '
-    quote: 'When exited founders team up, results grow exponentially.'
+    quote: >-
+      Supernova is a founding advisor to our company, Colossal (now a unicorn).
+      But, I’m also equally happy to be an advisor through Supernova.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: Partner
