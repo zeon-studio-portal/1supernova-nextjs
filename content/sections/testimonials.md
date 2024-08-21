@@ -45,10 +45,10 @@ items:
       as a tier-one VC helping to build companies that exit.
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
-    designation: CEO & Founder
+    designation: CEO & Founder (2x Exited Founder)
     company: >-
-      2x Exited Founder. Started EO & YPO Angels (Now Entrepreneurs Capital).
-      Partner at Side Door Ventures ($100M Fund) 
+      Started EO & YPO Angels (Now Entrepreneurs Capital). Partner at Side Door
+      Ventures ($100M Fund) 
     quote: >-
       I always try to get Supernova on board with any team I back as an investor
       because I know they're game-changers. 
