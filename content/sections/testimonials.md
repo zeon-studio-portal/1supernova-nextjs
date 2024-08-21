@@ -43,11 +43,15 @@ items:
     quote: >-
       Supernova is how I support conscious entrepreneurship and gift my wisdom
       as a tier-one VC helping to build companies that exit.
-  - name: Daniel Gartenberg PHD
-    image: /images/testimonials/daniel-gartenberg.jpg
+  - name: Daniel Dubois
+    image: /images/Daniel.jpeg
     designation: CEO & Founder
-    company: SleepSpace
-    quote: Supernova fills the gaps on our team and is a flywheel for Founders.
+    company: >-
+      2x Exited Founder. Started EO & YPO Angels (Now Entrepreneurs Capital).
+      Partner at Side Door Ventures ($100M Fund) 
+    quote: >-
+      I always try to get Supernova on board with any team I back as an investor
+      because I know they're game-changers. 
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
