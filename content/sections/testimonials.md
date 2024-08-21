@@ -60,7 +60,7 @@ items:
     designation: Managing Partner (Exited Founder)
     company: Nfluence Partners
     quote: >-
-      Supernova is partner to my investment bank serving conscious companies
-      with growth capital and M&A.
+      Supernova is a trusted partner to my investment bank serving conscious
+      companies with growth capital and M&A.
 ---
 
