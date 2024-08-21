@@ -27,6 +27,13 @@ items:
     quote: >-
       Supernova scales startups into unicorns. They advised me and I advise
       others through them.
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
+    designation: 'CEO & Founder '
+    company: Jive
+    quote: >-
+      Investors' advice is good, but ad-hoc. Supernova's is golden (accountable
+      all-star advisory team).
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
@@ -48,13 +55,6 @@ items:
     quote: >-
       Advisors suck! All talk, no action. Supernova proved me wrong - got
       hands-on to 3x company sales! 
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
-    designation: 'CEO & Founder '
-    company: Jive
-    quote: >-
-      Investors' advice is good, but ad-hoc. Supernova's is golden (accountable
-      all-star advisory team).
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: Managing Partner (Exited Founder)
