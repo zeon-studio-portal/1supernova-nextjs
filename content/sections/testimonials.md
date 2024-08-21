@@ -8,13 +8,6 @@ items:
     designation: CEO & Founder
     company: Parkqulility (Seed)
     quote: 'No-brainer. Stack your advisory team with exited founders! '
-  - name: Patrick Hilsbos
-    image: /images/testimonials/patrick-hilsbos.jpg
-    designation: CEO & Founder
-    company: Neuromore (Seed+)
-    quote: >-
-      Advisors suck! All talk, no action. Supernova proved me wrong - got
-      hands-on to 3x company sales! 
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
@@ -41,6 +34,13 @@ items:
     quote: >-
       I recommend Supernova to any team I back as an investor because I know
       they're game-changers. 
+  - name: Patrick Hilsbos
+    image: /images/testimonials/patrick-hilsbos.jpg
+    designation: CEO & Founder
+    company: Neuromore (Seed+)
+    quote: >-
+      Advisors suck! All talk, no action. Supernova proved me wrong - got
+      hands-on to 3x company sales! 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
