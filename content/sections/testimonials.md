@@ -11,8 +11,8 @@ items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
-    company: TN.com
-    quote: My advisors helped us bootstrap to $250MM ARR and merge (big exit).
+    company: Marino.  Tuft & Needle. YPO Forum Member
+    quote: My advisors helped us bootstrap TN.com to $250MM ARR and merge (big exit).
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
