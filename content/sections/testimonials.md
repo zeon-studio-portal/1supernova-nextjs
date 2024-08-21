@@ -48,8 +48,8 @@ items:
     designation: 'CEO & Founder '
     company: Jive
     quote: >-
-      Investors' advice is good. Supernova's is golden (accountable all-star
-      advisory team).
+      Investors' advice is good, but ad-hoc. Supernova's is golden (accountable
+      all-star advisory team).
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: Managing Partner (Exited Founder)
