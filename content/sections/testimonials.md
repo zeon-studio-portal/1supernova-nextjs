@@ -31,11 +31,11 @@ items:
       are actively led, managed, and held accountable by Supernova.
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
-    designation: 'CEO & Co-founder '
+    designation: CEO & Co-founder (6x Exited Founder)
     company: 'Colossal Biosciences '
     quote: >-
       Supernova is a founding advisor to our company, Colossal (now a unicorn).
-      But, I’m also equally happy to be an advisor through Supernova.
+      I’m also equally happy to be an advisor through Supernova.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x Midas List) '
