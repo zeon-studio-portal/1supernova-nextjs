@@ -3,6 +3,11 @@ enable: true
 title: What they are saying
 subtitle: The WOW factor is real when exited founders share their superpowers.
 items:
+  - name: Abhishek Anand
+    image: /images/testimonials/abhishek-anand.jpg
+    designation: CEO & Founder
+    company: Parkqulility (Seed)
+    quote: 'No-brainer. Stack your advisory team with exited founders! '
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
@@ -29,13 +34,6 @@ items:
     quote: >-
       As a prior tier-one VC, Supernova is how I transfer my wisdom to companies
       building a better world.
-  - name: Lindsay Nahmiache
-    image: /images/1560835066759.jpeg
-    designation: 'CEO & Founder '
-    company: Jive
-    quote: >-
-      Investors' advice is good. Supernova's is golden (all-star advisory
-      team). 
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: CEO & Founder of Key (2x Exited Founder)
@@ -43,11 +41,13 @@ items:
     quote: >-
       I recommend Supernova to any team I back as an investor because I know
       they're game-changers. 
-  - name: Abhishek Anand
-    image: /images/testimonials/abhishek-anand.jpg
-    designation: CEO & Founder
-    company: Parkqulility (Seed)
-    quote: 'No-brainer. Stack your advisory team with exited founders! '
+  - name: Lindsay Nahmiache
+    image: /images/1560835066759.jpeg
+    designation: 'CEO & Founder '
+    company: Jive
+    quote: >-
+      Investors' advice is good. Supernova's is golden (all-star advisory
+      team). 
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
