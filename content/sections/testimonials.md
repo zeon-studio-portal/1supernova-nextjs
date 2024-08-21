@@ -40,7 +40,10 @@ items:
     image: /images/1660074023770.jpeg
     designation: Partner
     company: Mayfield VC
-    quote: Supernova is how I support conscious entrepreneurship.
+    quote: >-
+      Supernova is how I support conscious entrepreneurship and lessons learned
+      over a 22-year career as a tier-one VC helping to build companies that
+      exit.
   - name: Daniel Gartenberg PHD
     image: /images/testimonials/daniel-gartenberg.jpg
     designation: CEO & Founder
