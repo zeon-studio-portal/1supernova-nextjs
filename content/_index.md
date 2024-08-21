@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Advisory as a Service™
+  title: 'Introducing Advisory as a Service™ '
   subtitle: >-
     Supernova is an exclusive tier-one advisory firm, scaling companies' success
     and global impact.✨
