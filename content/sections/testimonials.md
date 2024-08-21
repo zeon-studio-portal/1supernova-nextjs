@@ -29,11 +29,11 @@ items:
       OKRs (real accountability). 
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
-    designation: CEO & Co-founder (6x Exited Founder)
+    designation: CEO & Co-founder (6x Exits)
     company: 'Colossal Biosciences '
     quote: >-
-      Supernova is a founding advisor to our company, Colossal (now a unicorn).
-      I’m also equally happy to be an advisor through Supernova.
+      Supernova is a founding advisor to our company, Colossal (unicorn). I’m
+      now an advisor to Supernova's portfolio.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named on Midas List; Top 100 VC''s in the World) '
