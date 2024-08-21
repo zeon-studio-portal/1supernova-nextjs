@@ -41,8 +41,8 @@ items:
     designation: 'Founding Partner (2x Midas List) '
     company: 'Mayfield VC '
     quote: >-
-      Supernova is how I support conscious entrepreneurship and gift my wisdom
-      as a tier-one VC helping to build companies that exit.
+      As a retired tier-one VC, Supernova is how I gift my wisdom to companies
+      building a better world.
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: CEO & Founder (2x Exited Founder)
