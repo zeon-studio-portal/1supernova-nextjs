@@ -52,9 +52,11 @@ items:
       with exited founders! 
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO & Founder
-    company: Aya Mastercard
-    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
+    designation: 'CEO & Founder '
+    company: Aya Mastercard (Seed+)
+    quote: >-
+      I'm impressed! Supernova delivers what elite VC's and accelerators
+      advertise. 
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
