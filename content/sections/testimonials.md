@@ -41,8 +41,8 @@ items:
     designation: CEO & Founder of Key (2x Exited Founder)
     company: 'Started EO & YPO Angels. Partner at Side Door Ventures ($100M Fund) '
     quote: >-
-      I always try to get Supernova on board with any team I back as an investor
-      because I know they're game-changers. 
+      I recommend Supernova to any team I back as an investor because I know
+      they're game-changers. 
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
