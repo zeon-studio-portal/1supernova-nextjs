@@ -38,7 +38,7 @@ items:
       But, I’m also equally happy to be an advisor through Supernova.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
-    designation: Partner
+    designation: Founding Partner
     company: Mayfield VC
     quote: >-
       Supernova is how I support conscious entrepreneurship and gift my wisdom
