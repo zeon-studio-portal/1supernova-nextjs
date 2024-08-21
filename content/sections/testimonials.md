@@ -20,8 +20,9 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: >-
-      My advisors sucked! They made promises but didn't deliver. So, I signed
-      with Supernova who got hands-on to 3x company sales in 120-days! 
+      My advisors suck! All talk and no action. So, I was reluctant to sign with
+      Supernova. Then they proved me wrong by getting hands-on to 3x company
+      sales! Highly recommended. 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
