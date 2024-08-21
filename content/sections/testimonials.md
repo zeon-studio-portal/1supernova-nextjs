@@ -55,8 +55,8 @@ items:
     designation: 'CEO & Founder '
     company: Aya Mastercard (Seed+)
     quote: >-
-      I'm impressed! Supernova delivers what elite VC's and accelerators
-      advertise. 
+      I've received a ton of value. Supernova delivers what elite VC's and
+      accelerators advertise. 
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
