@@ -47,7 +47,7 @@ items:
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
     company: Parkqulility (Seed)
-    quote: 'No-brainer. Stack your advisory team w/ exited founders! '
+    quote: 'No-brainer. Stack your advisory team with exited founders! '
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
