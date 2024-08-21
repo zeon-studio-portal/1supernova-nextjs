@@ -24,7 +24,7 @@ items:
       others through them.
   - name: Tim Chang
     image: /images/1660074023770.jpeg
-    designation: 'Founding Partner (2x named on Midas List) '
+    designation: 'Founding Partner (2x named Midas List) '
     company: 'Mayfield VC ($3B under management) '
     quote: >-
       As a retired tier-one VC, Supernova is how I transfer my wisdom to
