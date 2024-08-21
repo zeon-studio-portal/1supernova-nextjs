@@ -47,7 +47,7 @@ items:
     company: Jive
     quote: >-
       Investors' advice is good. Supernova's is golden (accountable all-star
-      advisory team). 
+      advisory team).
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
