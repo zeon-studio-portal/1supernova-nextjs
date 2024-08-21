@@ -26,7 +26,9 @@ items:
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
     company: Jive
-    quote: Supernova is the ultimate support system for startups.
+    quote: >-
+      While investors can add value as advisors, it's just different when they
+      are actively led, managed and held accountable by Supernova.
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: 'CEO & Co-founder '
