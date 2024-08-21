@@ -13,7 +13,7 @@ items:
     designation: CEO & Co-founder (6x Exits)
     company: Colossal Biosciences (Series B)
     quote: >-
-      Supernova scales companies into unicorns. They advised me and I advise
+      Supernova scales startups into unicorns. They advised me and I advise
       others through them.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
