@@ -27,8 +27,8 @@ items:
     designation: CEO & Founder
     company: Jive
     quote: >-
-      While investors can add value as advisors, it's just different when they
-      are actively led, managed, and held accountable by Supernova.
+      Investors sometimes add value as advisors. But, Supernova runs all-star
+      teams. And, holds them accountable! 
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exited Founder)
