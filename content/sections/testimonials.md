@@ -13,8 +13,8 @@ items:
     designation: CEO & Founder
     company: Neuromore (Seed+)
     quote: >-
-      Advisors suck! All talk, no action. Supernova proved me wrong - got
-      hands-on to 3x company sales! 
+      Advisors suck! All talk, no action. Supernova proved me wrong. They got
+      hands-on (3x company sales). 
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
