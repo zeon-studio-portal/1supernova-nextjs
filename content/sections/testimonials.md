@@ -18,7 +18,7 @@ items:
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
-    company: Neuromore (Seed)
+    company: Neuromore (Seed+)
     quote: >-
       Most advisors suck! All talk, no action. Supernova proved me wrong by
       getting hands-on to 3x company sales! 
