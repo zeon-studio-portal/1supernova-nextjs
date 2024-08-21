@@ -13,8 +13,8 @@ items:
     designation: CEO & Co-founder (6x Exits)
     company: 'Colossal Biosciences '
     quote: >-
-      Supernova is a founding advisor to our company, Colossal (unicorn). I’m
-      now an advisor to Supernova's portfolio.
+      Supernova has a successful record of scaling companies to unicorn status.
+      They advised me and I'm happy to advise now through Supernova.
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
