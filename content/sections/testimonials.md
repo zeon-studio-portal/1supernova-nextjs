@@ -20,9 +20,8 @@ items:
     designation: CEO & Founder
     company: Neuromore
     quote: >-
-      My advisors suck! All talk and no action. So, I was reluctant to sign with
-      Supernova. Then they proved me wrong by getting hands-on to 3x company
-      sales! Highly recommended. 
+      Most advisors suck! All talk, no action. Supernova proved me wrong by
+      getting hands-on to 3x company sales! 
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
