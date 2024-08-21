@@ -6,7 +6,7 @@ items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
-    company: Marino.  Tuft & Needle. YPO Forum Member
+    company: Tuft & Needle. YPO Forum Member
     quote: My advisors helped us bootstrap TN.com to $250MM ARR and merge (big exit).
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
