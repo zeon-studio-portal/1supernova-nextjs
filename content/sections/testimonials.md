@@ -52,7 +52,7 @@ items:
     image: /images/testimonials/gary-moon.jpg
     designation: CEO
     company: nfluence Partners
-    quote: Exited founders joining forces is Supernova's special sauce.
+    quote: Exited founders joining forces with startups is Supernova's special sauce.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
