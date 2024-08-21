@@ -41,11 +41,6 @@ items:
     quote: >-
       I recommend Supernova to any team I back as an investor because I know
       they're game-changers. 
-  - name: Chanddeep Madaan
-    image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO & Founder
-    company: Aya Mastercard
-    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
@@ -58,5 +53,10 @@ items:
     designation: CEO
     company: nfluence Partners
     quote: Exited founders joining forces is Supernova's special sauce.
+  - name: Chanddeep Madaan
+    image: /images/testimonials/chanddeep-madaan.jpg
+    designation: CEO & Founder
+    company: Aya Mastercard
+    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
 ---
 
