@@ -19,7 +19,7 @@ items:
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
     company: Neuromore
-    quote: 'Supernova got hands-on to 3x company sales! '
+    quote: 'Most advisors suck! All talk. Supernova got hands-on to 3x company sales! '
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: CEO & Founder
