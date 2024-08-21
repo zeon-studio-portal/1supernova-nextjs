@@ -8,6 +8,11 @@ items:
     designation: CEO & Founder
     company: Parkqulility (Seed)
     quote: 'No-brainer. Stack your advisory team with exited founders! '
+  - name: Chanddeep Madaan
+    image: /images/testimonials/chanddeep-madaan.jpg
+    designation: CEO & Founder
+    company: Aya Mastercard
+    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
@@ -57,10 +62,5 @@ items:
     quote: >-
       My investment banking firm helps with growth capital and M&A. Supernova is
       a special partner to us.
-  - name: Chanddeep Madaan
-    image: /images/testimonials/chanddeep-madaan.jpg
-    designation: CEO & Founder
-    company: Aya Mastercard
-    quote: 'Supernova delivers what elite VC''s and accelerators advertise. '
 ---
 
