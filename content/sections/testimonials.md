@@ -3,16 +3,23 @@ enable: true
 title: What they are saying
 subtitle: The WOW factor is real when exited founders share their superpowers.
 items:
-  - name: JT Marino
-    image: /images/testimonials/jt-marnio.jpg
-    designation: CEO & Co-founder
-    company: Tuft & Needle. YPO Forum Member
-    quote: My advisors helped us bootstrap to $250MM ARR and merge (big exit).
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
     company: Parkqulility (Seed)
     quote: 'No-brainer. Stack your advisory team with exited founders! '
+  - name: Patrick Hilsbos
+    image: /images/testimonials/patrick-hilsbos.jpg
+    designation: CEO & Founder
+    company: Neuromore (Seed+)
+    quote: >-
+      Advisors suck! All talk, no action. Supernova proved me wrong - got
+      hands-on to 3x company sales! 
+  - name: JT Marino
+    image: /images/testimonials/jt-marnio.jpg
+    designation: CEO & Co-founder
+    company: Tuft & Needle. YPO Forum Member
+    quote: My advisors helped us bootstrap to $250MM ARR and merge (big exit).
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
@@ -34,13 +41,6 @@ items:
     quote: >-
       I recommend Supernova to any team I back as an investor because I know
       they're game-changers. 
-  - name: Patrick Hilsbos
-    image: /images/testimonials/patrick-hilsbos.jpg
-    designation: CEO & Founder
-    company: Neuromore (Seed+)
-    quote: >-
-      Advisors suck! All talk, no action. Supernova proved me wrong - got
-      hands-on to 3x company sales! 
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: CEO & Founder
