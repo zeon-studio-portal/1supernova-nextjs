@@ -3,6 +3,13 @@ enable: true
 title: What they are saying
 subtitle: 'The WOW factor is real when exited founders share their superpowers. '
 items:
+  - name: Kathryn Fantauzzi
+    image: /images/k-fantauzzi.jpg
+    designation: CEO & Founder
+    company: Apollo Nuero
+    quote: >-
+      Scaling a company is hard AF. Nothing comes close to the value of having
+      successful exited entrepreneurs at my side. 
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
