@@ -8,8 +8,8 @@ items:
     designation: CEO & Founder
     company: Apollo Nuero
     quote: >-
-      Scaling a company is hard AF. Nothing comes close to the value of having
-      successful exited entrepreneurs at my side. 
+      Scaling a company is hard AF. Having successful exited entrepreneurs at my
+      side has been a blessing!
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
