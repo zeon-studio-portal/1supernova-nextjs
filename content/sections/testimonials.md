@@ -29,7 +29,7 @@ items:
     designation: 'Founding Partner (2x named Midas List) '
     company: 'Mayfield VC ($3B under management) '
     quote: >-
-      As a prior tier-one VC, Supernova is how I now transfer my wisdom to
+      As a former tier-one VC, Supernova is now how I transfer my wisdom to
       builders of a better world.
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
