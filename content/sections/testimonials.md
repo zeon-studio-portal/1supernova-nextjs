@@ -64,8 +64,8 @@ items:
     designation: CEO & Founder
     company: Apollo Nuero (Series A)
     quote: >-
-      Scaling a company is hard AF. Having Supernova at my side is a real
-      support system! 
+      Scaling a company is hard AF. Having Supernova by my side has been a
+      blessing personally and professionally! 
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: 'CEO & Founder '
