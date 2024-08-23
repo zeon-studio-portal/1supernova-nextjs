@@ -79,6 +79,6 @@ items:
     company: Neuromore (Seed+)
     quote: >-
       Advisors suck! All talk, no action. Supernova proved me wrong - got
-      hands-on (3x sales)!
+      hands-on to 3x company sales!
 ---
 
