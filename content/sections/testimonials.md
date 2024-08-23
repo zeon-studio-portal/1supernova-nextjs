@@ -3,6 +3,13 @@ enable: true
 title: What they are saying
 subtitle: 'The WOW factor is real when exited founders share their superpowers. '
 items:
+  - name: Jonathan Shambroom
+    image: /images/JShambroom.jpg
+    designation: Startup Veteran (9 of 11 Exits)
+    company: Healthy Young Minds
+    quote: >-
+      I loved the company I advised through Supernova so much that I joined them
+      full-time as COO. 
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
