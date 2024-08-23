@@ -50,8 +50,8 @@ items:
     designation: 'Startup Veteran (C-Level: 9 of 11 Exits)'
     company: Healthy Young Minds
     quote: >-
-      I love the startup I advised through Supernova so much that I just went
-      all-in as COO.
+      I love the startup I advised through Supernova so much that I joined them
+      as COO.
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
