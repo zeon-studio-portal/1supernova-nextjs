@@ -62,7 +62,7 @@ items:
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
     designation: CEO & Founder
-    company: Apollo Nuero (Series A)
+    company: Apollo Nuero ($30M Series A)
     quote: >-
       Scaling a company is hard AF. I sleep better at night knowing Supernova
       has my back! 
