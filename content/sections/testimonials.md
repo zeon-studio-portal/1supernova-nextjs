@@ -3,13 +3,6 @@ enable: true
 title: What they are saying
 subtitle: 'The WOW factor is real when exited founders share their superpowers. '
 items:
-  - name: Kathryn Fantauzzi
-    image: /images/k-fantauzzi.jpg
-    designation: CEO & Founder
-    company: Apollo Nuero
-    quote: >-
-      Scaling a company is hard AF. Having successful exited entrepreneurs at my
-      side has been a blessing!
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
@@ -59,6 +52,13 @@ items:
     quote: >-
       As a 2nd-time founder, Supernova is a no-brainer. Stack your advisory team
       with exited founders! 
+  - name: Kathryn Fantauzzi
+    image: /images/k-fantauzzi.jpg
+    designation: CEO & Founder
+    company: Apollo Nuero (Series A)
+    quote: >-
+      Scaling a company is hard AF. Having Supernova at my side has been a
+      blessing!
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: 'CEO & Founder '
