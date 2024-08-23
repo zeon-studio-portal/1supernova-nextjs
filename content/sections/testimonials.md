@@ -78,7 +78,7 @@ items:
     designation: CEO & Founder
     company: Neuromore (Seed+)
     quote: >-
-      Most advisors suck! All talk, no action. Supernova proved me wrong - got
-      hands-on to 3x company sales!
+      Advisors suck! All talk, no action. Supernova proved me wrong - got
+      hands-on (3x sales)!
 ---
 
