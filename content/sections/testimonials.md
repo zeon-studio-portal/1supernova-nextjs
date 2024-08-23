@@ -22,8 +22,8 @@ items:
     designation: 'CEO & Founder '
     company: Jive
     quote: >-
-      92% of VC's claim they are "value-add" investors. Only 31% of founders
-      agree. Supernova fills the gap. 
+      VC's claim they are "value-add" investors. Few founders agree. Supernova
+      fills this gap! 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
