@@ -9,7 +9,7 @@ items:
     company: Tuft & Needle. YPO Forum Member
     quote: >-
       My advisors helped us bootstrap to $250MM ARR and merge (big exit). Wisdom
-      > gold.
+      is more valuable than gold.
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
