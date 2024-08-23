@@ -51,7 +51,7 @@ items:
     company: Healthy Young Minds
     quote: >-
       I loved the startup I advised through Supernova so much that I went all-in
-      as their COO.
+      as COO.
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
