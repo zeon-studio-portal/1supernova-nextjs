@@ -13,7 +13,7 @@ items:
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
-    company: Colossal Biosciences (Series B)
+    company: Colossal Biosciences ($150M Series B)
     quote: >-
       Supernova scales startups into unicorns. They advise me and I advise
       others via them.
