@@ -30,7 +30,7 @@ items:
     company: 'Mayfield VC ($3B under management) '
     quote: >-
       As a prior tier-one VC, Supernova is how I now transfer my wisdom to
-      companies building a better world.
+      builders of a better world.
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: Founder of Key (2x Exited Founder)
