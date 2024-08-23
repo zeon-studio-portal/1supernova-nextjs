@@ -22,8 +22,8 @@ items:
     designation: 'CEO & Founder '
     company: Jive
     quote: >-
-      Investors' advice is ad-hoc. Supernova's is always-on from an all-star
-      advisory team.
+      92% of VC's claim they are "value-add" investors. Only 31% of founders
+      agree. Supernova fills the gap. 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
