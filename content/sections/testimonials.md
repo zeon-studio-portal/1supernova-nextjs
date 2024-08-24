@@ -23,7 +23,7 @@ items:
     company: Jive
     quote: >-
       VC's claim they are "value-add" investors. Few founders agree. Supernova
-      fills this gap! 
+      fills the gaps! 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
