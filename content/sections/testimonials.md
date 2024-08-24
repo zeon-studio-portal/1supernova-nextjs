@@ -64,8 +64,8 @@ items:
     designation: CEO & Founder
     company: Apollo Nuero ($30M Series A)
     quote: >-
-      Scaling a company is hard AF. I sleep better at night thanks to
-      Supernova! 
+      Scaling a company is hard AF. I sleep better at night thanks to Supernova
+      having my back! 
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: 'CEO & Founder '
