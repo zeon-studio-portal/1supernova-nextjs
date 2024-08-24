@@ -47,11 +47,11 @@ items:
       capital and M&A).
   - name: Jonathan Shambroom
     image: /images/JShambroom.jpg
-    designation: 'Startup Veteran (C-Level: 9 of 11 Exits)'
+    designation: COO
     company: Healthy Young Minds
     quote: >-
-      I love the startup I advised through Supernova so much that I joined them
-      as COO.
+      I loved the startup I advised so much that I joined them as COO. I'm a
+      startup Veteran (9 of 11 Exits).
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
