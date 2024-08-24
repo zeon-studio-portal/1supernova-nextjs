@@ -20,7 +20,7 @@ items:
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
-    company: Jive
+    company: 'Jive (Exited) '
     quote: >-
       VC's claim they are "value-add" investors. Few founders agree. Supernova
       fills the gaps! 
