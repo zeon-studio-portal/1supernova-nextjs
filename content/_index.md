@@ -34,7 +34,7 @@ advisory:
   title: Introducing All-Star Advisory Boards✨
   subtitle: " Supernova is an exclusive tier-one advisory board solution, accelerating the success of Scaleups. \U0001F4C8"
   quote: >-
-    Advisory-as-a-Service™ : Your bespoke team of exited founders transfers
+    Advisory-as-a-Service™ : Your turnkey team of exited founders transfers
     their collective wisdom, experience, resources and networks to correct the
     risk of failure. 
   services_image: /images/advisory/services.svg
