@@ -32,11 +32,10 @@ founders:
 advisory:
   enable: true
   title: Introducing All-Star Advisory Boards✨
-  subtitle: " Supernova is an exclusive tier-one advisory team solution, accelerating companies success and impact. \U0001F4C8"
+  subtitle: " Supernova is an exclusive tier-one advisory team with successful track record scaling companies to unicorns.\U0001F4C8"
   quote: >-
-    Your turnkey team of exited founders delivers unmatched collective wisdom,
-    experience, resources, and networks to reduce risk of failure and optimize
-    speed-to-value. We call it Advisory-as-a-Service™.  
+    Your turnkey team of exited founders shares collective wisdom, experience,
+    resources, and networks to reduce risk of failure and spark speed-to-value.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
