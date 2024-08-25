@@ -35,8 +35,7 @@ advisory:
   subtitle: " Supernova is an exclusive tier-one advisory solution to accelerate success and impact for Scaleups. \U0001F4C8"
   quote: >-
     Advisory-as-a-Service™ includes a managed team of exited founders who
-    transfer tailored wisdom, experience, resources and networks for
-    speed-to-value.
+    transfer wisdom, experience, resources and networks for speed-to-value.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
