@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Welcome to All-Star Advisory Boards✨
+  title: Introducing All-Star Advisory Boards✨
   subtitle: " Supernova is an exclusive tier-one advisory firm, problem solving to accelerate companies' success and impact.\U0001F4C8."
   quote: >-
     Your dedicated team of 5 exited founders transfers their collective genius,
