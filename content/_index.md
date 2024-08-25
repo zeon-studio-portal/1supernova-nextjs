@@ -36,9 +36,8 @@ advisory:
     Supernova is an exclusive tier-one advisory firm, accelerating companies'
     success and impact.✨
   quote: >-
-    Turnkey all-star advisory boards made up of exited founders who share their
-    time, wisdom, resources and networks to help companies achieve their
-    missions, faster.
+    Stack your advisory board with exited founders sharing their time, wisdom,
+    resources and networks. We help companies achieve their missions, faster.✨
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
