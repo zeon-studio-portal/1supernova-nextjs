@@ -31,10 +31,10 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Upgrade to All-Star Advisory Boards✨
+  title: Upgrade Now to All-Star Advisory Boards✨
   subtitle: >-
-    Your dedicated team of 5 exited founders integrating solutions, experience,
-    wisdom, talent, resources and networks to scale shared success. 
+    Your dedicated team of exited founders integrates timely solutions,
+    experience, wisdom, talent, resources and networks.
   quote: " Supernova is an exclusive tier-one advisory firm, leveraging battle-tested problem solving to accelerate companies' success and impact.\U0001F4C8"
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
