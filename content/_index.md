@@ -37,7 +37,7 @@ advisory:
     success and impact.✨
   quote: >-
     Ready to upgrade to an All-Star Advisory Board? ✨ Experience the difference
-    when exited founders combine their talent, wisdom, experience, resources and
+    when exited founders share their talent, wisdom, experience, resources and
     networks.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
