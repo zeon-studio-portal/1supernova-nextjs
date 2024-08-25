@@ -36,7 +36,7 @@ advisory:
   quote: >-
     Advisory-as-a-Service™ : We manage your team of exited founders who transfer
     their collective wisdom, experience, resources and networks to correct the
-    risk of failure.
+    risk of failure. 
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
