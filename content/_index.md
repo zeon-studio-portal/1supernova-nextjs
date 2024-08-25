@@ -36,7 +36,7 @@ advisory:
   quote: >-
     Advisory-as-a-Service™ : Your turnkey team of exited founders transfers
     their collective wisdom, experience, resources, and networks to mitigate the
-    risk of failure and accelerate the speed-to-value.
+    risk of failure and spark speed-to-value.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
