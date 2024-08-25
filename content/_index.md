@@ -21,7 +21,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: We mentor top startups
+  title: "We \U0001F90D Backing Scaleups"
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
