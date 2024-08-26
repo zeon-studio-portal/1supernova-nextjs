@@ -40,7 +40,7 @@ lists:
       Supernova more than you realize! Typically, Founder/CEOs invest five a
       month, and see a significant return on the relationships. We bring proven
       methods, collaborative technology and expert resources to maximize shared
-      efficiencies as your advisory team.
+      efficiencies as your dedicated advisory team.
   - question: What's wrong with the traditional advisor model?
     answer: >-
       Most founders and startups struggle to recruit, engage, manage and
