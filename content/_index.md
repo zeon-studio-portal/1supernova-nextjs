@@ -35,8 +35,8 @@ advisory:
   subtitle: ' Supernova is an exclusive tier-one advisory team with a successful track record scaling companies to unicorns.'
   quote: >-
     Your turnkey team of exited founders share their collective wisdom,
-    experience, resources, and networks to reduce risk of failure and ignite
-    speed-to-value.
+    experience, resources, and networks to reduce risk of failure and realize
+    desired outcomes.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
