@@ -55,9 +55,9 @@ advisory:
     - title: NPS Score
       number: 92
       suffix: ''
-    - title: Exit Value
+    - title: Exit Value ($ Billion)
       number: 10
-      suffix: Billion
+      suffix: +
 advisory_game:
   enable: true
   title: We are not like other advisors
