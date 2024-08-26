@@ -56,8 +56,8 @@ advisory:
       number: 92
       suffix: ''
     - title: Exit Value
-      number: null
-      suffix: $10 Billion
+      number: 10
+      suffix: Billion
 advisory_game:
   enable: true
   title: We are not like other advisors
