@@ -33,10 +33,13 @@ lists:
       traditional vesting schedules. 
   - question: What if I don’t have time for my advisors?
     answer: >-
-      If you are too busy for us, then you likely need Supernova more than you
-      realize! Typically, Founder/CEOs invest five to ten hours a month, and see
-      a significant return on the relationship. We bring proven methods,
-      collaborative technology and expert resources to maximize shared
+      Supernova is a managed service - aka we manage your exited founder team
+      for you! Typically, we match each advisor to a member of your C-level
+      management team. For example, an exited founder gifted in marketing
+      advises your CMO. If you are too busy for us, then you likely need
+      Supernova more than you realize! Typically, Founder/CEOs invest five a
+      month, and see a significant return on the relationships. We bring proven
+      methods, collaborative technology and expert resources to maximize shared
       efficiencies as your advisory team.
   - question: What's wrong with the traditional advisor model?
     answer: >-
