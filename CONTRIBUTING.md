@@ -46,23 +46,27 @@ docker run -p 3000:3000 nextplate
 
 ### Contributing Your Changes
 
-**Working on the `staging` Branch:**
+**Working on the `main` Branch:**
 
 - If you haven't already cloned the 1supernova website repository, clone it.
 - Fetch Latest Changes (if applicable).
-- Make your changes directly on your local `staging` branch.
+- Make your changes directly on your local `main` branch.
 - Commit your changes frequently with clear and descriptive messages.
 - Reference relevant issues in your commit messages if applicable
 
 **Testing:**
 
-- Thoroughly test your changes before pushing them to the remote `staging` branch.
+- Thoroughly test your changes before pushing them to the remote `main` branch.
 
-**Pushing Your `staging` Branch:**
+**Pushing Your `main` Branch:**
 
-- Once you're confident in your changes push your local `staging` branch directly to the remote `staging` branch.
+- Once you're confident in your changes push your local `main` branch directly to the remote `main` branch.
+
+### Information
+
+- Staging Branch Hosted on onrender using sumon.themefisher@gmail.com
+- Used [Tina](https://tina.io/) CMS
 
 ### Maintainers
 
-- [Somrat Sorkar](https://github.com/tfsomrat)
 - [Muhammad Sumon](https://github.com/tfsumon)

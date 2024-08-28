@@ -10,19 +10,19 @@ quote:
 process:
   - name: "01 - Apply \U0001F469‍\U0001F4BB"
     content: >
-      [Apply now](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) to be one of
+      [Apply now](https://i9evkjegsiq.typeform.com/to/KCJDm5Jy) to be one of
       twelve startups chosen yearly to join Supernova's portfolio. 
     button:
       enable: true
       label: "Apply to Supernova \U0001F680"
-      link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
+      link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy'
   - name: "02 - Assemble \U0001FAF6"
     content: |
       We match you with top advisors who support your immediate needs.
     button:
       enable: true
       label: "Get Matched With Exited Founders \U0001F680"
-      link: 'https://1supernova.com/#superstars'
+      link: '/#superstars'
   - name: 03 - Activate ✨
     content: >
       We apply proven methods, systems and collaborative technology for
@@ -38,7 +38,7 @@ process:
     button:
       enable: true
       label: "Read FAQs \U0001F680"
-      link: 'https://1supernova.com/#faqs'
+      link: '/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
       We score advisors on performance to award equity on merit vs. traditional
@@ -46,6 +46,6 @@ process:
     button:
       enable: true
       label: "See Testimonials \U0001F680"
-      link: 'https://1supernova.com/#reviews'
+      link: '/#reviews'
 ---
 

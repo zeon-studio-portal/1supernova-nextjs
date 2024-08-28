@@ -17,7 +17,7 @@ const HowItWorks = ({ how_it_works }) => {
       } else {
         setIndexTab(indexTab + 1);
       }
-    }, 4000);
+    }, 10000000);
     return () => clearInterval(interval);
   }, [indexTab, tabLength]);
 
@@ -66,7 +66,12 @@ const HowItWorks = ({ how_it_works }) => {
                           {item.button.enable && (
                             <a
                               className="btn btn-light mt-4 text-sm md:text-base"
-                              href={item.button.link}>
+                              href={item.button.link}
+                              target={
+                                item.button.link.startsWith('http')
+                                  ? '_blank'
+                                  : '_self'
+                              }>
                               {item.button.label}
                             </a>
                           )}
@@ -101,7 +106,7 @@ const HowItWorks = ({ how_it_works }) => {
                   <div
                     key={index}
                     className={`absolute transition-all duration-500 ${
-                      indexTab === index + 1 ? '' : 'opacity-0'
+                      indexTab === index + 1 ? 'z-10' : 'opacity-0'
                     }`}>
                     {markdownify(
                       item.content,
@@ -111,7 +116,12 @@ const HowItWorks = ({ how_it_works }) => {
                     {item.button.enable && (
                       <a
                         className="btn btn-light mt-8"
-                        href={item.button.link}>
+                        href={item.button.link}
+                        target={
+                          item.button.link.startsWith('http')
+                            ? '_blank'
+                            : '_self'
+                        }>
                         {item.button.label}
                       </a>
                     )}
