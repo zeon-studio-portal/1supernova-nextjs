@@ -15,7 +15,11 @@ const Advisory = ({ advisory }) => {
             {markdownify(advisory.title, 'h2', 'font-medium mb-4')}
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
-            {markdownify(advisory.subtitle, 'p', 'text-light-secondary md:text-xl')}
+            {markdownify(
+              advisory.subtitle,
+              'p',
+              'text-light-secondary md:text-xl'
+            )}
           </div>
 
           <div className="mt-20 md:flex md:space-x-6 lg:space-x-10">
@@ -81,7 +85,7 @@ const Advisory = ({ advisory }) => {
                   height={156}
                 />
                 <span className="inline-block py-4 font-secondary">
-                  Founder
+                  Are you a Scaleup? <br/> <a className='text-secondary-600 underline' href="https://i9evkjegsiq.typeform.com/to/KCJDm5Jy">Apply</a> for Supernova
                 </span>
               </div>
             </div>
