@@ -27,11 +27,11 @@ const Banner = ({ banner, founders }) => {
           </div>
 
           <div
-            className="video-wrapper"
             data-aos="fade-up"
-            data-aos-delay="100">
-            <button className="video-wrapper-btn" onClick={() => setOpen(true)}>
-              <span className="video-wrapper-btn-icon">
+            data-aos-delay="100"
+            className="video-wrapper">
+            <button className="video-play-btn" onClick={() => setOpen(true)}>
+              <span className="video-play-btn-icon">
                 <svg
                   width="26"
                   height="26"
