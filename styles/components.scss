@@ -349,3 +349,24 @@
     }
   }
 }
+
+// Text Reveal Animation
+.text {
+  --bgColorOne: rgb(255, 255, 255);
+  --bgColorTwo: rgb(240, 235, 235);
+
+  &-blue {
+    --bgColorTwo: rgb(116 209 255 / 43%);
+  }
+  > p > div {
+    background: linear-gradient(
+      to right,
+      var(--bgColorOne) 50%,
+      var(--bgColorTwo) 50%
+    );
+    background-size: 200% 100%;
+    background-position-x: 100%;
+    color: transparent;
+    background-clip: text;
+  }
+}

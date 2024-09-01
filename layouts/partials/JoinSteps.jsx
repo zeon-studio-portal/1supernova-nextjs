@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 
 const JoinSteps = ({ join_steps }) => {
@@ -8,11 +9,11 @@ const JoinSteps = ({ join_steps }) => {
       <section id="join-steps" className="bg-dark-quaternary py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            {markdownify(
-              join_steps.frontmatter.title,
-              'h2',
-              'font-medium mb-4'
-            )}
+            <AnimatedText
+              tag="h2"
+              className="mb-4 font-medium"
+              content={join_steps.frontmatter.title}
+            />
           </div>
           <div data-aos="fade-up-sm">
             {markdownify(

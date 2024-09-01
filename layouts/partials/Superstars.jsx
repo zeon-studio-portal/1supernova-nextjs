@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import ImageFallback from '@components/ImageFallback';
 import useWindow from '@hooks/useWindow';
 import { markdownify, slugify } from '@lib/utils/textConverter';
@@ -73,11 +74,11 @@ const Advisory = ({ superstars }) => {
         <div className="container">
           <div className="text-center">
             <div data-aos="fade-up-sm">
-              {markdownify(
-                superstars.frontmatter.title,
-                'h2',
-                'font-medium mb-4'
-              )}
+              <AnimatedText
+                tag="h2"
+                className="mb-4 font-medium"
+                content={superstars.frontmatter.title}
+              />
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(

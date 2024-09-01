@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
@@ -32,11 +33,11 @@ const HowItWorks = ({ how_it_works }) => {
             <div className="py-24 md:col-6">
               <div className="md:pr-10">
                 <div data-aos="fade-up-sm">
-                  {markdownify(
-                    how_it_works.frontmatter.title,
-                    'h2',
-                    'font-medium text-center md:text-left'
-                  )}
+                  <AnimatedText
+                    tag="h2"
+                    className="text-blue text-center font-medium md:text-left"
+                    content={how_it_works.frontmatter.title}
+                  />
                 </div>
 
                 <div

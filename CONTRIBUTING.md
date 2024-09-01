@@ -64,7 +64,7 @@ docker run -p 3000:3000 nextplate
 
 ### Information
 
-- Staging Branch Hosted on onrender using sumon.themefisher@gmail.com
+- Staging Branch Hosted on vercel using sumon.themefisher@gmail.com
 - Used [Tina](https://tina.io/) CMS
 
 ### Maintainers

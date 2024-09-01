@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import { Autoplay, Pagination } from 'swiper';
@@ -12,11 +13,11 @@ const Testimonials = ({ testimonials }) => {
         <div className="mx-auto max-w-[1660px] px-4">
           <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">
-              {markdownify(
-                testimonials.frontmatter.title,
-                'h2',
-                'font-medium mb-4'
-              )}
+              <AnimatedText
+                tag="h2"
+                className="mb-4 font-medium"
+                content={testimonials.frontmatter.title}
+              />
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(

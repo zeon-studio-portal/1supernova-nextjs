@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import config from '@config/config.json';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
@@ -12,7 +13,7 @@ const Advisory = ({ advisory }) => {
       <section className="bg-dark-secondary py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            {markdownify(advisory.title, 'h2', 'font-medium mb-4')}
+            <AnimatedText tag="h2" className="font-medium mb-4" content={advisory.title} />
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(
@@ -85,7 +86,13 @@ const Advisory = ({ advisory }) => {
                   height={156}
                 />
                 <span className="inline-block py-4 font-secondary">
-                  Are you a Scaleup? <br/> <a className='text-secondary-600 underline' href="https://i9evkjegsiq.typeform.com/to/KCJDm5Jy">Apply</a> for Supernova
+                  Are you a Scaleup? <br />{' '}
+                  <a
+                    className="text-secondary-600 underline"
+                    href="https://i9evkjegsiq.typeform.com/to/KCJDm5Jy">
+                    Apply
+                  </a>{' '}
+                  for Supernova
                 </span>
               </div>
             </div>

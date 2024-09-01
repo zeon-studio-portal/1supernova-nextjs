@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 
@@ -9,11 +10,11 @@ const TopFounders = ({ top_founders }) => {
       <section id="portfolio" className="bg-dark-secondary py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            {markdownify(
-              top_founders.frontmatter.title,
-              'h2',
-              'font-medium mb-4'
-            )}
+            <AnimatedText
+              tag="h2"
+              className="font-medium mb-4"
+              content={top_founders.frontmatter.title}
+            />
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(
