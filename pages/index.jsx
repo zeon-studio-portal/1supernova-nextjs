@@ -10,11 +10,13 @@ import JoinCommunity from '@partials/JoinCommunity';
 import JoinSteps from '@partials/JoinSteps';
 import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
+import Mission from '@partials/Mission';
 import TopFounders from '@partials/TopFounders';
 
 const Home = ({
   homepage,
   testimonials_page,
+  mission,
   superstars_page,
   top_founders_page,
   how_it_works_page,
@@ -24,10 +26,11 @@ const Home = ({
   faq_page,
 }) => {
   const { banner, founders, advisory, advisory_game } = homepage.frontmatter;
-
+  
   return (
     <Base>
       <Banner banner={banner} founders={founders} />
+      <Mission mission={mission} />
       <Advisory advisory={advisory} />
       <Testimonials testimonials={testimonials_page} />
       <AdvisoryGame advisory_game={advisory_game} />
@@ -48,6 +51,7 @@ export default Home;
 export const getStaticProps = async () => {
   const homepage = await getListPage('content/_index.md');
   const testimonials = await getListPage('content/sections/testimonials.md');
+  const mission = await getListPage('content/sections/mission.md');
   const superstars = await getListPage('content/sections/superstars.md');
   const top_founders = await getListPage('content/sections/top-founders.md');
   const how_it_works = await getListPage('content/sections/how-it-works.md');
@@ -62,6 +66,7 @@ export const getStaticProps = async () => {
     props: {
       homepage: homepage,
       testimonials_page: testimonials,
+      mission: mission,
       superstars_page: superstars,
       top_founders_page: top_founders,
       how_it_works_page: how_it_works,
