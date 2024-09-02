@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
@@ -16,11 +17,11 @@ const GoSupernova = ({ go_supernova }) => {
         <div className="container">
           <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">
-              {markdownify(
-                go_supernova.frontmatter.title,
-                'h2',
-                'font-medium mb-4'
-              )}
+            <AnimatedText
+              tag="h2"
+              className="font-medium mb-4"
+              content={go_supernova.frontmatter.title}
+            />
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(

@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 
@@ -7,11 +8,11 @@ const TopFounders = ({ join_community }) => {
       <section className="py-8">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            {markdownify(
-              join_community.frontmatter.title,
-              'h2',
-              'font-medium mb-4'
-            )}
+            <AnimatedText
+              tag="h2"
+              className="mb-4 font-medium"
+              content={join_community.frontmatter.title}
+            />
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(

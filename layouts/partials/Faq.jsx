@@ -1,4 +1,5 @@
 import Accordion from '@components/Accordion';
+import AnimatedText from '@components/AnimatedText';
 import config from '@config/config';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
@@ -14,11 +15,11 @@ const Faq = ({ faq }) => {
             <div className="text-center md:col-5 md:text-left">
               <div className="sticky top-28">
                 <div data-aos="fade-up-sm">
-                  {markdownify(
-                    faq.frontmatter.title,
-                    'h2',
-                    'text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]'
-                  )}
+                  <AnimatedText
+                    tag="h2"
+                    className="text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]"
+                    content={faq.frontmatter.title}
+                  />
                 </div>
                 <div data-aos="fade-up-sm" data-aos-delay="100">
                   {markdownify(

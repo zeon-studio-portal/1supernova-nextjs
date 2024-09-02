@@ -30,22 +30,26 @@ const Home = ({
   join_community_page,
   faq_page,
 }) => {
+  // Text Reveal Animation
   useEffect(() => {
     gsap.config({ trialWarn: false });
-    console.clear();
     gsap.registerPlugin(ScrollTrigger, SplitText);
     const split = new SplitText('.text > p', { type: 'lines' });
 
     split.lines.forEach((target) => {
+      // If the text is multiline, then animate each line sequentially.
+      const isMultiline = target.parentElement.children.length > 1;
+
+      // Apply different ScrollTrigger settings based on the number of lines
       gsap.to(target, {
         backgroundPositionX: 0,
         ease: 'none',
         scrollTrigger: {
           trigger: target,
-          markers: true,
+          markers: false,
           scrub: 1,
-          start: 'top bottom',
-          end: 'bottom center',
+          start: isMultiline ? 'top center' : 'top 80%',
+          end: isMultiline ? 'bottom center' : 'bottom 30%',
         },
       });
     });

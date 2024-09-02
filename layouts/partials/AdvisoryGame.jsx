@@ -1,3 +1,4 @@
+import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 

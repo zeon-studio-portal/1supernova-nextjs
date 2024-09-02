@@ -353,11 +353,12 @@
 // Text Reveal Animation
 .text {
   --bgColorOne: rgb(255, 255, 255);
-  --bgColorTwo: rgb(240, 235, 235);
+  --bgColorTwo: rgb(57, 57, 57);
 
   &-blue {
     --bgColorTwo: rgb(116 209 255 / 43%);
   }
+
   > p > div {
     background: linear-gradient(
       to right,

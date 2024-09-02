@@ -3,8 +3,6 @@ import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 
 const TopFounders = ({ top_founders }) => {
-  const colors = top_founders.frontmatter.list_colors;
-
   return (
     top_founders.frontmatter.enable === true && (
       <section id="portfolio" className="bg-dark-secondary py-24">
