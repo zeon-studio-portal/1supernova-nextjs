@@ -150,10 +150,11 @@ const Advisory = ({ superstars }) => {
                         <div className="relative mb-5">
                           <h3 className="h6 pe-10">{item.name}</h3>
                           <div className="absolute -right-5 -top-2 inline-block rounded-s-md bg-dark-secondary p-2.5">
-                            <img
+                            <Image
                               src="/images/favicon.png"
                               alt="1supernova"
                               width={20}
+                              height={20}
                             />
                           </div>
                         </div>

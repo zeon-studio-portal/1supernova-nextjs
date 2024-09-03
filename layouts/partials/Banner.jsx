@@ -7,6 +7,7 @@ import { Autoplay } from 'swiper';
 import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import Founders from './Founders';
+import VideoBG from './VideoBG';
 
 const Banner = ({ banner, founders }) => {
   const [isOpen, setOpen] = useState(false);
@@ -114,9 +115,13 @@ const Banner = ({ banner, founders }) => {
         </div>
       </div>
       <div className="video-background">
-        <iframe
+        <VideoBG
+          background_youtube_video_id={banner.background_youtube_video_id}
+        />
+        {/* <iframe
+          loading="lazy"
           title="background video"
-          src={`https://www.youtube.com/embed/${banner.background_youtube_video_id}?playlist=${banner.background_youtube_video_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34`}></iframe>
+          src={`https://www.youtube.com/embed/${banner.background_youtube_video_id}?playlist=${banner.background_youtube_video_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34`}></iframe> */}
       </div>
     </section>
   );

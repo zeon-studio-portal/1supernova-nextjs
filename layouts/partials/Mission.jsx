@@ -39,8 +39,17 @@ const Mission = ({ mission }) => {
             <div className="lg:col-6 lg:ps-10">
               <div className="flex flex-col gap-y-10">
                 {images.map((image, index) => (
-                  <div key={index} data-aos="fade-up-sm" data-aos-delay={(index - 0.5) * 100}>
-                    <img src={image} alt={'pvc'} />
+                  <div
+                    key={index}
+                    data-aos="fade-up-sm"
+                    data-aos-delay={(index - 0.5) * 100}>
+                    <Image
+                      className="object-cover object-top w-full"
+                      width={514}
+                      height={288}
+                      src={image}
+                      alt={'pvc'}
+                    />
                   </div>
                 ))}
                 {testimonial && (
@@ -56,10 +65,12 @@ const Mission = ({ mission }) => {
                     )}
                     <div className="mt-4 flex items-center gap-4">
                       {testimonial.customer.avatar && (
-                        <img
+                        <Image
                           className="h-14 w-14 rounded-full"
                           src={testimonial.customer.avatar}
-                          alt=""
+                          width={56}
+                          height={56}
+                          alt={testimonial.customer.name}
                         />
                       )}
                       <div>
