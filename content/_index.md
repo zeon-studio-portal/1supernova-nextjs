@@ -21,7 +21,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: "All-Star Advisory Boards For Scaleups \U0001F90D "
+  title: "We \U0001F90D Scaleups "
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
