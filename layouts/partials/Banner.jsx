@@ -30,7 +30,10 @@ const Banner = ({ banner, founders }) => {
             data-aos="fade-up"
             data-aos-delay="100"
             className="video-wrapper">
-            <button className="video-play-btn" onClick={() => setOpen(true)}>
+            <button
+              className="video-play-btn"
+              onClick={() => setOpen(true)}
+              aria-label="Play Video">
               <span className="video-play-btn-icon">
                 <svg
                   width="26"
@@ -112,6 +115,7 @@ const Banner = ({ banner, founders }) => {
       </div>
       <div className="video-background">
         <iframe
+          title="background video"
           src={`https://www.youtube.com/embed/${banner.background_youtube_video_id}?playlist=${banner.background_youtube_video_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34`}></iframe>
       </div>
     </section>

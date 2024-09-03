@@ -6,7 +6,7 @@ info: >-
   Don’t fit into any of these categories, but still want to work together?
   Contact us <a
   href="https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
-  target="_blank">here</a>.
+  target="_blank">here <span class="sr-only">to contact with us</a>.
 lists:
   - title: Founder
     icon: /images/community/01.svg
