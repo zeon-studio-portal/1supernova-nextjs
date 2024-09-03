@@ -50,8 +50,8 @@ items:
     designation: COO
     company: Healthy Young Minds
     quote: >-
-      I loved the startup I advised so much that I joined them as COO. I'm a
-      startup Veteran (9 of 11 Exits). 
+      I love the startup I advise so much that I joined them as COO. I'm a
+      startup veteran (9 of 11 Exits). 
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
