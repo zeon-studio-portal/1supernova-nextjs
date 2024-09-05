@@ -8,6 +8,7 @@ import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import Founders from './Founders';
 import VideoBG from './VideoBG';
+import AnimatedText from '@components/AnimatedText';
 
 const Banner = ({ banner, founders }) => {
   const [isOpen, setOpen] = useState(false);
@@ -17,7 +18,11 @@ const Banner = ({ banner, founders }) => {
       <div className="relative z-30 flex flex-col justify-around sm:min-h-[600px]">
         <div className="container relative z-50 text-center">
           <div data-aos="fade-up">
-            {markdownify(banner.title, 'h1', 'text-6xl/none font-medium mb-8')}
+            <AnimatedText
+              tag="h1"
+              className="mb-8 text-6xl/none text-reveal-alternate font-medium w-fit mx-auto"
+              content={banner.title}
+            />
           </div>
           <div data-aos="fade-up" data-aos-delay="50">
             {markdownify(
@@ -118,10 +123,6 @@ const Banner = ({ banner, founders }) => {
         <VideoBG
           background_youtube_video_id={banner.background_youtube_video_id}
         />
-        {/* <iframe
-          loading="lazy"
-          title="background video"
-          src={`https://www.youtube.com/embed/${banner.background_youtube_video_id}?playlist=${banner.background_youtube_video_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&controls=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34`}></iframe> */}
       </div>
     </section>
   );

@@ -354,6 +354,11 @@
 .text {
   --bgColorOne: rgb(255, 255, 255);
   --bgColorTwo: rgb(57, 57, 57);
+  
+  &-reveal-alternate {
+    --bgColorOne: rgb(57, 57, 57);
+    --bgColorTwo: rgb(255, 255, 255);
+  }
 
   &-blue {
     --bgColorTwo: rgb(116 209 255 / 43%);
@@ -367,7 +372,8 @@
     );
     background-size: 200% 100%;
     background-position-x: 100%;
-    color: transparent;
     background-clip: text;
+
+    @apply lg:text-transparent; 
   }
 }

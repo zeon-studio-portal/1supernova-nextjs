@@ -60,14 +60,6 @@ const Advisory = ({ superstars }) => {
 
   const membersToRender = mobile ? loadedItems.items : filteredMember;
 
-  const items = superstars.frontmatter.group_list;
-  const ww = [];
-  items.filter((item) => {
-    if (filteredMember[0]?.department.includes(item.name)) {
-      ww.push(item);
-    }
-  });
-
   return (
     superstars.frontmatter.enable === true && (
       <section id="superstars" className="py-24">

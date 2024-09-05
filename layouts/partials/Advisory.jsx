@@ -10,10 +10,10 @@ const Advisory = ({ advisory }) => {
 
   return (
     advisory.enable === true && (
-      <section className="bg-dark-secondary py-24">
+      <section className="py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            <AnimatedText tag="h2" className="font-medium mb-4" content={advisory.title} />
+            <AnimatedText tag="h2" className="font-medium mb-4 w-fit mx-auto" content={advisory.title} />
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(

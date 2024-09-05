@@ -1,7 +1,7 @@
 ---
 enable: true
 images:
-  - '/images/pvc.jpg' # main image
+  - '/images/pvc.png' # main image
   - '/images/comparison.png' # comparison image
 
 testimonial:

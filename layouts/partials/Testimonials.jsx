@@ -9,7 +9,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 const Testimonials = ({ testimonials }) => {
   return (
     testimonials.frontmatter.enable === true && (
-      <section id="reviews" className="testimonials py-24">
+      <section id="reviews" className="testimonials bg-dark-secondary py-24">
         <div className="mx-auto max-w-[1660px] px-4">
           <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">

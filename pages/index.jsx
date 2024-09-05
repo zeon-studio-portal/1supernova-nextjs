@@ -12,11 +12,7 @@ import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
 import Mission from '@partials/Mission';
 import TopFounders from '@partials/TopFounders';
-import React, { useEffect } from 'react';
-import SplitText from '/plugins/js/splittext.min.js';
-import gsap from '/plugins/js/gsap.min.js';
-import ScrollTrigger from '/plugins/js/scrolltrigger.min.js';
-import { marked } from 'marked';
+import React from 'react';
 
 const Home = ({
   homepage,
@@ -30,45 +26,15 @@ const Home = ({
   join_community_page,
   faq_page,
 }) => {
-  // Text Reveal Animation
-  useEffect(() => {
-    gsap.config({ trialWarn: false });
-    gsap.registerPlugin(ScrollTrigger, SplitText);
-    const split = new SplitText('.text > p', { type: 'lines' });
-
-    split.lines.forEach((target) => {
-      // If the text is multiline, then animate each line sequentially.
-      const isMultiline = target.parentElement.children.length > 1;
-
-      // Apply different ScrollTrigger settings based on the number of lines
-      gsap.to(target, {
-        backgroundPositionX: 0,
-        ease: 'none',
-        scrollTrigger: {
-          trigger: target,
-          markers: false,
-          scrub: 1,
-          start: isMultiline ? 'top center' : 'top 80%',
-          end: isMultiline ? 'bottom center' : 'bottom 30%',
-        },
-      });
-    });
-
-    // Optional cleanup if necessary
-    return () => {
-      ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
-      split.revert(); // Reverts SplitText to its original state
-    };
-  }, []);
 
   const { banner, founders, advisory, advisory_game } = homepage.frontmatter;
 
   return (
     <Base>
       <Banner banner={banner} founders={founders} />
-      <Mission mission={mission} />
       <Advisory advisory={advisory} />
       <Testimonials testimonials={testimonials_page} />
+      <Mission mission={mission} />
       <AdvisoryGame advisory_game={advisory_game} />
       <Superstars superstars={superstars_page} />
       <JoinSteps join_steps={join_steps_page} />
