@@ -4,7 +4,7 @@ main_image: /images/pvc.png
 comparison_image: /images/comparison.png
 testimonial:
   content: |
-    "We help world-changing companies achieve their missions, faster."
+    "We help companies achieve their missions, faster."
   customer_avatar: /images/ChristopherStaley.jpg
   customer_name: Christopher Staley
   customer_profession: CO-FOUNDER OF SUPERNOVA
