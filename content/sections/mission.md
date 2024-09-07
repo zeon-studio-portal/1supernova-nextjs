@@ -1,7 +1,7 @@
 ---
 enable: true
-main_image: /images/public/images/EO Logo 2024.png
-comparison_image: /images/public/images/0.jpg
+main_image: /images/public/images/pvc.png
+comparison_image: /images/public/images/comparison.png
 testimonial:
   content: >
     "Supernova backs startups and scaleups on their hero's journey until they
