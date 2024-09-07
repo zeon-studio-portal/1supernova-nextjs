@@ -14,7 +14,7 @@ headings:
     description: >-
       97% of VC's claim they are 'value added' investors. Only 31% of Founders
       agree. Even startups backed by elite VC's want more output from their
-      existing advisors.
+      existing advisors and mentors.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
       We accelerate the realization of the founder's vision from the only
