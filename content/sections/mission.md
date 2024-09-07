@@ -13,7 +13,7 @@ headings:
     description: >-
       97% of VC's claim they are 'value added' investors. Only 31% of Founders
       agree. Even startups backed by elite VC's want more output from their
-      existing board, advisors and mentors.
+      existing advisors and mentors.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
       Supernova is a growth-stage accelerator improving the success rates of
