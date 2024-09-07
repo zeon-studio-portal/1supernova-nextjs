@@ -17,7 +17,7 @@ headings:
       existing board, advisors and mentors.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
-      We accelerate the realization of your vision from the only perspective
-      that truly understands the journey, as exited founders ourselves.
+      Supernova is a growth-stage accelerator improving the success rates of
+      Scaleups that go the distance.
 ---
 
