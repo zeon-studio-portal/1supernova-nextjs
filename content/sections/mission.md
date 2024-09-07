@@ -12,9 +12,9 @@ testimonial:
 headings:
   - title: '**QUESTION**: WHO HAS YOUR BACK AFTER DEMO DAY?'
     description: >-
-      There are now 2,800 incubators and accelerators. But, who has founder's
-      back after demo day? Even startups backed by elite VC's want more output
-      from their existing advisory teams.
+      97% of VC's claim they are 'value added' investors. Only 31% of Founders
+      agree. Even startups backed by elite VC's want more output from their
+      existing advisors.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
       Our missions is to accelerate the realization of the founder's vision from
