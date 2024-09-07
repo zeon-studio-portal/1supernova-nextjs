@@ -4,8 +4,8 @@ main_image: /images/pvc.png
 comparison_image: /images/comparison.png
 testimonial:
   content: >
-    "Supernova backs startups and scaleups on their hero's journey until they
-    achieve market maturity."
+    "Supernova is a growth-stage accelerator de-risking the journey to the next
+    major milestones."
   customer_avatar: /images/ChristopherStaley.jpg
   customer_name: Christopher Staley
   customer_profession: CO-FOUNDER OF SUPERNOVA
