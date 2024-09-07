@@ -17,6 +17,7 @@ headings:
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
       Supernova is a growth-stage accelerator improving success rates of
-      Scaleups that go the distance.
+      Scaleups that go the distance. We are 150+ exited founders with a
+      collective $10B in exit value.
 ---
 
