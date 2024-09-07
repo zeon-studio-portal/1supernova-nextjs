@@ -70,9 +70,7 @@ items:
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: 'CEO & Founder '
     company: Aya Mastercard (Seed+)
-    quote: >-
-      I've received a ton of value. Supernova delivers what elite VC's and
-      accelerators advertise. 
+    quote: 'I''ve received a ton of value. Supernova delivers what others advertise. '
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
