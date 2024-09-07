@@ -13,6 +13,7 @@ import pages from './collections/pages';
 import superstars from './collections/superstars';
 import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
+import mission from './collections/mission';
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
@@ -45,6 +46,7 @@ export default defineConfig({
       joinCommunity,
       superstars,
       testimonials,
+      mission,
       topFounders,
       config,
       menu,

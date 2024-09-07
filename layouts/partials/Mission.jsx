@@ -6,7 +6,8 @@ import 'swiper/css/pagination';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 const Mission = ({ mission }) => {
-  const { enable, list, images, testimonial } = mission.frontmatter;
+  const { enable, main_image, comparison_image, headings, testimonial } =
+    mission.frontmatter;
 
   return (
     enable === true && (
@@ -15,7 +16,7 @@ const Mission = ({ mission }) => {
           <div className="row gy-5 items-center">
             <div className="lg:col-6">
               <div className="flex flex-col gap-y-8 lg:gap-y-16 lg:pe-10">
-                {list.map((item, index) => (
+                {headings.map((item, index) => (
                   <div key={index}>
                     <div data-aos="fade-up-sm">
                       {markdownify(
@@ -38,20 +39,28 @@ const Mission = ({ mission }) => {
             </div>
             <div className="lg:col-6 lg:ps-10">
               <div className="flex flex-col gap-y-10">
-                {images.map((image, index) => (
-                  <div
-                    key={index}
-                    data-aos="fade-up-sm"
-                    data-aos-delay={(index - 0.5) * 100}>
+                {
+                  <div data-aos="fade-up-sm" data-aos-delay={100}>
                     <Image
-                      className="object-cover object-top w-full"
+                      className="w-full object-cover object-top"
                       width={514}
                       height={288}
-                      src={image}
+                      src={main_image}
                       alt={'pvc'}
                     />
                   </div>
-                ))}
+                }
+                {
+                  <div data-aos="fade-up-sm" data-aos-delay={150}>
+                    <Image
+                      className="w-full object-cover object-top"
+                      width={514}
+                      height={288}
+                      src={comparison_image}
+                      alt={'pvc'}
+                    />
+                  </div>
+                }
                 {testimonial && (
                   <div className="" data-aos="fade-up-sm" data-aos-delay={300}>
                     {testimonial.content && (
@@ -64,29 +73,29 @@ const Mission = ({ mission }) => {
                       </div>
                     )}
                     <div className="mt-4 flex items-center gap-4">
-                      {testimonial.customer.avatar && (
+                      {testimonial.customer_avatar && (
                         <Image
                           className="h-14 w-14 rounded-full"
-                          src={testimonial.customer.avatar}
+                          src={testimonial.customer_avatar}
                           width={56}
                           height={56}
-                          alt={testimonial.customer.name}
+                          alt={testimonial.customer_name}
                         />
                       )}
                       <div>
-                        {testimonial.customer.name && (
+                        {testimonial.customer_name && (
                           <div className="text-lg text-slate-50/70">
                             {markdownify(
-                              testimonial.customer.name,
+                              testimonial.customer_name,
                               'p',
                               'text-lg text-slate-50/70'
                             )}
                           </div>
                         )}
-                        {testimonial.customer.profession && (
+                        {testimonial.customer_profession && (
                           <div className="uppercase">
                             {markdownify(
-                              testimonial.customer.profession,
+                              testimonial.customer_profession,
                               'p',
                               'uppercase text-xs opacity-60'
                             )}
