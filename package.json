@@ -16,6 +16,7 @@
   "dependencies": {
     "@tinacms/cli": "^1.5.44",
     "aos": "^2.3.4",
+    "fs": "^0.0.1-security",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
     "gsap": "^3.12.5",

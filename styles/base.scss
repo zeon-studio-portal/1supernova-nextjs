@@ -21,6 +21,10 @@ h6 {
   strong {
     @apply font-bold;
   }
+
+  br {
+    @apply max-md:hidden;
+  }
 }
 
 h1,
