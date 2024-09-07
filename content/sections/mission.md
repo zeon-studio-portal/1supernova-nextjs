@@ -5,7 +5,7 @@ comparison_image: /images/comparison.png
 testimonial:
   content: >
     "Supernova is a growth-stage accelerator improving the success rates of
-    scaleups that achieve their mission."
+    scaleups that go the distance."
   customer_avatar: /images/ChristopherStaley.jpg
   customer_name: Christopher Staley
   customer_profession: CO-FOUNDER OF SUPERNOVA
