@@ -3,7 +3,7 @@ banner:
   title: Scale With Exited Founders
   subtitle: >-
     Scaling your startup is hard, but it doesn't have to be. Team up with
-    successfully exited founders who guide your success.⭐ 
+    successfully exited founders who guide your success. ⭐ 
   background_youtube_video_id: Mq61xLTDdGI
   quote:
     title: 'Without my advisors, I wouldn’t have'
@@ -21,7 +21,7 @@ banner:
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
-  title: "All-Star Advisory Boards For Scaleups \U0001F90D "
+  title: "We \U0001F90D Scaleups "
   brands:
     - /images/founders/ypo.svg
     - /images/founders/y-combinator.svg
@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Introducing All-Star Advisory Boards ✨
+  title: Turnkey All-Star Advisory Boards✨
   subtitle: ' Supernova is an exclusive tier-one advisory team with a successful track record scaling companies to unicorns.'
   quote: >-
     Your turnkey team of exited founders share their collective wisdom,

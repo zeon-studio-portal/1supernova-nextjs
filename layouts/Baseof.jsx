@@ -91,6 +91,8 @@ const Base = ({
           content={`${base_url || ''}${image ? image : meta_image}`}
         />
         <meta name="twitter:card" content="summary_large_image" />
+
+         <meta name="google-site-verification" content="gcnp8yBk4N_k4H1qWBV2h5NPgd-al3cdjy-8YyOasnU" />
       </Head>
 
       <AnnouncementBar content={announcement} />
