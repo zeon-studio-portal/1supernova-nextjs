@@ -22,8 +22,8 @@ items:
     designation: 'CEO & Founder '
     company: 'Jive (Exited) '
     quote: >-
-      VC's claim they are "value-add" investors. Few founders agree. Supernova
-      fills the gaps! 
+      Supernova is a quantum leap in advisory services for growth-stage
+      companies. 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
