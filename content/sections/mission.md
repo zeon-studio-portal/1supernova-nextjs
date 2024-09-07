@@ -17,8 +17,8 @@ headings:
       existing advisors.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
-      Our missions is to accelerate the realization of the founder's vision from
-      the only perspective that truly understands the journey, as exited
-      founders ourselves.
+      We accelerate the realization of the founder's vision from the only
+      perspective that truly understands the journey, as exited founders
+      ourselves.
 ---
 
