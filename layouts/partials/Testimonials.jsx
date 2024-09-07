@@ -30,14 +30,14 @@ const Testimonials = ({ testimonials }) => {
 
           <div className="testimonials-slider-wrapper group relative" data-aos>
             <Image
-              className="absolute -left-20 top-[28%] -z-20 hidden -translate-y-1/2 translate-x-[-40%] transition-all duration-700 md:block xl:translate-x-[-50%] xl:opacity-0 group-[.aos-animate]:xl:translate-x-[15%] group-[.aos-animate]:xl:opacity-100"
+              className="absolute pointer-events-none -left-20 top-[28%] z-0 hidden -translate-y-1/2 translate-x-[-40%] transition-all duration-700 md:block xl:translate-x-[-50%] xl:opacity-0 group-[.aos-animate]:xl:translate-x-[15%] group-[.aos-animate]:xl:opacity-100"
               src="/images/testimonials/layer-1.svg"
               alt="layer-1"
               width={411}
               height={414}
             />
             <Image
-              className="absolute -left-[10px] top-[calc(28%_+_64px)] z-30 hidden -translate-y-1/2 translate-x-[-40%] transition-all duration-700 md:block xl:translate-x-[-50%] xl:opacity-0 group-[.aos-animate]:xl:translate-x-[15%] group-[.aos-animate]:xl:opacity-100"
+              className="absolute pointer-events-none -left-[10px] top-[calc(28%_+_64px)] z-30 hidden -translate-y-1/2 translate-x-[-40%] transition-all duration-700 md:block xl:translate-x-[-50%] xl:opacity-0 group-[.aos-animate]:xl:translate-x-[15%] group-[.aos-animate]:xl:opacity-100"
               src="/images/testimonials/layer-2.svg"
               alt="layer-2"
               width={398}
