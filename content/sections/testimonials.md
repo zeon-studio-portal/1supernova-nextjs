@@ -15,8 +15,8 @@ items:
     designation: CEO & Co-founder (6x Exits)
     company: Colossal Biosciences ($150M Series B)
     quote: >-
-      Supernova scales startups into unicorns. They advise me and I advise
-      others via them.
+      Supernova scales startups into unicorns. They advise me and I help others
+      via them.
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
