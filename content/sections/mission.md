@@ -17,8 +17,8 @@ headings:
       existing advisors and mentors.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
-      Only Supernova accelerates the realization of the founder's vision from
-      the only perspective that truly understands the journey, as exited
-      founders ourselves.
+      We accelerate the realization of the founder's vision from the only
+      perspective that truly understands the journey, as exited founders
+      ourselves.
 ---
 
