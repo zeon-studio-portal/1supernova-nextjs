@@ -42,11 +42,12 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We score our all-star teams on performance and award equity on merit vs.
-      traditional vesting schedules.
+      We have a proven track of scaling companies to unicorn status and awarding
+      equity to our exited founder teams based on merit vs. traditional vesting
+      schedules.
     button:
       enable: true
-      label: "See Testimonials \U0001F680"
+      label: "See Reviews \U0001F680"
       link: 'https://1supernova.com/#reviews'
 ---
 
