@@ -42,8 +42,8 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We award equity and cash incentives to our exited founder teams based on
-      merit and impact.
+      We award equity and cash incentives to our exited founders based on
+      individual performance and team impact vs guaranteed vesting schedules.
     button:
       enable: true
       label: "See Reviews \U0001F680"
