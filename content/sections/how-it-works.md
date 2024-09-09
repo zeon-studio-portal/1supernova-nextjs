@@ -42,8 +42,8 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We have a successful track of scaling companies to unicorn status and
-      award equity and cash incentives to our team based on merit.
+      We award equity and cash incentives to our exited founder teams based on
+      merit and impact.
     button:
       enable: true
       label: "See Reviews \U0001F680"
