@@ -35,7 +35,7 @@ process:
   - name: "04 - Achieve \U0001F3AF"
     content: >
       We are all-in on achieving your company's next major milestone with a
-      shared upside in desired outcomes.
+      shared upside in successful outcomes.
     button:
       enable: true
       label: "Read FAQs \U0001F680"
