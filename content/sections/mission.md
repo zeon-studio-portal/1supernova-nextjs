@@ -14,7 +14,7 @@ headings:
       97% of VC's claim they are 'value added' investors. Only 31% of Founders
       agree. Even startups backed by elite VC's want more output from their
       existing advisors and stakeholders.
-  - title: 'ANSWER: **SUPERNOVA**'
+  - title: '**ANSWER:**SUPERNOVA'
     description: >
       Supernova is a growth stage accelerator run by 150+ exited founders to
       significantly improve success rates of Scaleups ($5MM to $100MM+) that go
