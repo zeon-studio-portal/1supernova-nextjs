@@ -10,8 +10,8 @@ list_colors:
 lists:
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
-    designation: CEO & Founder (Series A+)
-    description: "Calm your mind to stress less and sleep more, effortlessly \U0001F9D8\U0001F3FB‍♀️"
+    designation: 'CEO & Founder '
+    description: "First vibration therapy system clinically proven to reduce stress \U0001F9D8\U0001F3FB‍♀️.  (Series A+)"
     brand_logo:
       width: 130
       height: 29
