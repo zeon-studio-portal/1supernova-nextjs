@@ -19,7 +19,7 @@ lists:
   - name: Roberto Salcedo
     image: /images/Roberto-Salcedo.jpg
     designation: 'CEO & Founder '
-    description: "Smart micro financing for everyone \U0001F4B5"
+    description: "Smart micro financing for everyone \U0001F4B5. Backed by Y-Combinator & 500 Global (grew to $110MM+)"
     brand_logo:
       width: 130
       height: 33
