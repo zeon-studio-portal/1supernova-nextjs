@@ -41,7 +41,7 @@ items:
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: Managing Partner (Exited Founder)
-    company: Nfluence Partners
+    company: 'Nfluence Partners '
     quote: >-
       Supernova is a trusted partner to my firm (investment bank for growth
       capital and M&A).
