@@ -16,7 +16,7 @@ headings:
       existing advisors and stakeholders.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
-      Supernova improves success rates of Scaleups ($5MM to $100MM+) that go the
-      distance.
+      Supernova significantly improves success rates of Scaleups ($5MM to
+      $100MM+) that go the distance.
 ---
 
