@@ -35,7 +35,7 @@ advisory:
   subtitle: ' Supernova is a tier-one growth stage accelerator with a successful track record scaling companies to unicorns.'
   quote: >-
     Your turnkey team of exited founders transfer their collective wisdom,
-    experience, resources, and networks to reduce risk of failure and spark
+    experience, resources, and networks to reduce risk of failure and ignite
     speed-to-value.
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
