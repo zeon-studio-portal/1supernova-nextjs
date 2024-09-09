@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Our Portfolio
+title: Case Studies
 subtitle: We back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
