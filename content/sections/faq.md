@@ -5,7 +5,7 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
-  - question: Why do I need a growth stage accelerator?
+  - question: Why a growth stage accelerator?
     answer: >-
       If you are leading a growth stage company ($5MM to $100MM+ ARR), then you
       already know it doesn't get easier the bigger you get (<50% of Series A
