@@ -27,7 +27,7 @@ process:
   - name: 03 - Accelerate ✨
     content: >
       We accelerate speed-to-value by applying top talent, methods, systems and
-      technology to derisk and game Scaleup success.
+      technology and help derisk the journey for rising stars.
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
