@@ -68,8 +68,10 @@ lists:
       1 VC partner of Supernova asked 100 founders in their portfolio, “How can
       we help?” Right behind sales growth, talent and funding, founders are
       begging for advisor and mentor support! Even top founders with elite VC
-      backing want more output from their advisory boards, and Supernova is able
-      to serve as a VC partner that produces higher satisfaction for all.
+      backing want more output from them. Did you know?  70% of billion-dollar
+      companies had repeat founders of at least one previously successful
+      company (Super Founders). We provide a superior advantage for companies
+      scaling their success and impact. 
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars (super founders) to combine their life force energy and shine brighter together. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity.\U0001F31F"
 ---
