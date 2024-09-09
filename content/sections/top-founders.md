@@ -11,7 +11,7 @@ lists:
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
     designation: 'CEO & Founder '
-    description: "First vibration therapy system clinically proven to reduce stress and improve sleep \U0001F9D8\U0001F3FB‍♀️.  (Series A+)"
+    description: "First vibration therapy system clinically proven to reduce stress and improve sleep \U0001F9D8\U0001F3FB‍♀️.  ($30MM+ Series A)"
     brand_logo:
       width: 130
       height: 29
