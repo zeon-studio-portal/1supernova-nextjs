@@ -19,13 +19,15 @@ lists:
       to accelerate the realization of the founder's vision from the only
       perspective that truly understands the journey, as exited founders
       ourselves. 
-  - question: Is my company a fit for Supernova?
+  - question: Is Supernova accepting applications?
     answer: >-
-      To best serve the companies we work with and ensure impact, we limit our
-      annual portfolio growth to 12 high-growth startups (most often in Series
-      A-C funding). Supernova advisors specialize primarily in AI, Health Tech,
-      Fintech, SaaS, eCommerce, Impact and Web3. We are especially committed to
-      supporting mission-driven companies solving modern-day problems.
+      Yes, Supernova is accepting applications. However, we are super selective
+      and exclusive. To best serve the companies we work with and ensure impact,
+      we limit our annual portfolio growth to 12 high-growth startups (most
+      often in Series A-C funding). Supernova advisors specialize primarily in
+      AI, Health Tech, Fintech, SaaS, eCommerce, Impact and Web3. We are
+      especially committed to supporting mission-driven companies solving
+      modern-day problems.
   - question: How much does Supernova invest in my company?
     answer: >-
       Supernova writes a small check to have 'skin in the game'. More
