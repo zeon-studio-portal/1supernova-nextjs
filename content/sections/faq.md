@@ -16,7 +16,7 @@ lists:
       complicated, but it doesn’t have to be. Our mission at Supernova is to
       accelerate the realization of the founder's vision from the only
       perspective that truly understands the journey, as exited founders
-      ourselves.
+      ourselves. 
   - question: Is my company a fit for Supernova?
     answer: >-
       To best serve the companies we work with and ensure impact, we limit our
