@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "Supernova Online Community Events \U0001F310"
-subtitle: Watch this video (replay) to discover three world-changing companies
+title: "Supernova Community Events \U0001F310"
+subtitle: Watch this video (replay) to hear from three portfolio companies
 video_url: 'https://youtu.be/G2SqSljZBy4?si=SE85NX7Mo_rw7JaP'
 quote: We are a conscious cooperative of founders invested in each other’s success
 features:
