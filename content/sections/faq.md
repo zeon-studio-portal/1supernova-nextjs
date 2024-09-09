@@ -28,13 +28,16 @@ lists:
       advisors specialize primarily in AI, Health Tech, Fintech, SaaS,
       eCommerce, Impact and Web3. We are especially committed to supporting
       mission-driven companies solving modern-day problems.
-  - question: How much does Supernova invest in my company?
+  - question: How much does Supernova invest?
     answer: >-
-      Supernova writes a small check to have 'skin in the game'. More
-      importantly, we invest our 'time'. We believe wisdom is more precious than
-      gold. Every portfolio company receives 5 successfully exited founders
-      and/or Super founders (previous exit of $50MM+) as a managed service who
-      team up with you to accelerate your key company milestones. 
+      Supernova writes a check to have 'skin in the game'. More importantly, we
+      invest our time. We believe wisdom is more precious than gold. Every
+      portfolio company receives a dream team of 5 successfully exited founders
+      and/or Super founders (previous exit of $50MM+) to help accelerate key
+      company milestones. We are not like VC's, as we are a true growth stage
+      accelerator. What Y-Combinator is to early-stage startups, we are to
+      Scaleups (who have different needs - e.g. growth capital, ramp up teams,
+      new markets, M&A, exits). 
   - question: What if I don’t have time for my advisors?
     answer: >-
       Supernova is a managed service - aka we manage your exited founder team
