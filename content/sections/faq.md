@@ -24,14 +24,13 @@ lists:
       A-C funding). Supernova advisors specialize primarily in AI, Health Tech,
       Fintech, SaaS, eCommerce, Impact and Web3. We are especially committed to
       supporting mission-driven companies solving modern-day problems.
-  - question: Who would my advisors be?
+  - question: How much does Supernova invest in my company?
     answer: >-
-      You’ll be matched with five exited founders who have relevant expertise
-      with your company's near term priorities. As your needs evolve, so does
-      your advisory team. We rotate talent in and out based on your dynamic
-      needs. You are always in control and score advisors based on the
-      achievement of measurable milestones to award equity based on merit vs.
-      traditional vesting schedules. 
+      Supernova writes a small check to have 'skin in the game'. More
+      importantly, we invest our 'time'. We believe wisdom is more precious than
+      gold. Every portfolio company receives 5 successfully exited founders
+      and/or Super founders (previous exit of $50MM+) as a managed service who
+      team up with you to accelerate your key company milestones. 
   - question: What if I don’t have time for my advisors?
     answer: >-
       Supernova is a managed service - aka we manage your exited founder team
