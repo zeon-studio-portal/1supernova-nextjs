@@ -5,14 +5,14 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
-  - question: Why do startups need advisors?
+  - question: Why do Scaleups need Supernova?
     answer: >-
-      The right advisory relationships can help game startup success. Advisors
-      fill specific needs, be it guidance, expertise, connections, mentorship,
-      coaching and even hands-on support. They supply shortcuts, and cheat codes
-      and help solve problems that can make or break businesses. The founders’
-      journey is complicated, but it doesn’t have to be. Our mission at
-      Supernova is to accelerate the realization of the founder's vision from
+      The right relationships can game company success. Successfully exited
+      founders fill specific needs, be it guidance, expertise, connections,
+      mentorship, coaching and even hands-on support. They supply shortcuts, and
+      cheat codes and help solve problems that can make or break businesses. The
+      founders’ journey is complicated, but it doesn’t have to be. Our mission
+      at Supernova is to accelerate the realization of the founder's vision from
       the only perspective that truly understands the journey, as exited
       founders ourselves.
   - question: Is my company a fit for Supernova?
