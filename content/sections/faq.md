@@ -36,7 +36,7 @@ lists:
       exit of $50MM+) who team up to help accelerate key company milestones. We
       are the top-rated 'advisory-as-a-service' (90%+ NPS) with a proven record
       of scaling startups to unicorn status. We go way beyond the value-adds of
-      traditional VC's with office hours, webinars and partner discounts. 
+      traditional VCs with office hours, webinars, and partner discounts. 
   - question: What if I don’t have time for Supernova?
     answer: >-
       Our north star at Supernova is optimizing TIME. Your time, your leadership
