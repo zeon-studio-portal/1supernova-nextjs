@@ -30,14 +30,17 @@ lists:
       mission-driven companies solving modern-day problems.
   - question: How much does Supernova invest?
     answer: >-
-      Supernova writes a check to have 'skin in the game'. More importantly, we
-      invest our time. We believe wisdom is more precious than gold. Every
-      portfolio company receives a dream team of 5 successfully exited founders
-      and/or Super founders (previous exit of $50MM+) to help accelerate key
-      company milestones. We are not like VC's, as we are a true growth stage
-      accelerator. What Y-Combinator is to early-stage startups, we are to
-      Scaleups (who have different needs - e.g. growth capital, ramp up teams,
-      new markets, M&A, exits). 
+      Supernova writes small checks to have 'skin in the game'. More importantly
+      and valuable, we invest our time. We believe wisdom is more precious than
+      gold. Every portfolio company receives 5 successfully exited founders
+      and/or Super founders (previous exit of $50MM+) who team up to help
+      accelerate key company milestones. We are a true 'growth stage
+      accelerator'. What Y-Combinator is to early-stage startups, we are to
+      Scaleups (who have unique needs - e.g. growth capital, ramp-up teams, win
+      new markets, M&A). We go deeper than VC's and go way behind added-value
+      perks like office hours, speaker presentations, and partner discounts. We
+      are the top-rated 'advisory-as-a-service' (90%+ NPS) with a proven record
+      of scaling startups to unicorn status. 
   - question: What if I don’t have time for my advisors?
     answer: >-
       Supernova is a managed service - aka we manage your exited founder team
