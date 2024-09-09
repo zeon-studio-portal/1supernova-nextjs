@@ -7,7 +7,7 @@ subtitle: >-
 lists:
   - question: Why a growth stage accelerator?
     answer: >-
-      If you are leading a growth stage company ($5MM to $100MM+ ARR), then you
+      If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get easier the bigger you get (<50% of Series A
       companies make it to Series B and 0.01% ever achieve unicorn status).
       Supernova is a team of $150+ successfully exited founders who fill
