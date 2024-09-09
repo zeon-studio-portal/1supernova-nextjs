@@ -42,8 +42,8 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We share upside and score teams on performance to award equity on merit
-      vs. traditional vesting schedules.
+      We score our all-star teams on performance and award equity on merit vs.
+      traditional vesting schedules.
     button:
       enable: true
       label: "See Testimonials \U0001F680"
