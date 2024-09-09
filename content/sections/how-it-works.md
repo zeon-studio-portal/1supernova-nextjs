@@ -42,7 +42,7 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We have a proven track of scaling companies to unicorn status and awarding
+      We have a proven track of scaling companies to unicorn status and award
       equity to our exited founder teams based on merit vs. traditional vesting
       schedules.
     button:
