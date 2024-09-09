@@ -53,18 +53,16 @@ lists:
       efficiencies as your dedicated advisory team.
   - question: Why are exited founders motivated to back my company?
     answer: >-
-      Supernova advisors have achieved success in their careers in some part
-      thanks to the help they received along the way. In realizing that success,
-      they are moved to pay forward the support and guidance they once received
-      as a founder and see the personal value in giving back to others that are
-      in the position they once were. By working with Supernova, they are
-      catalyzing more growth than what they could accomplish on their own.
-      Supernova is curating opportunities to work with top startups for the
-      exited founder, and making it easier for them to manage the day-to-day
-      administration and incentive elements of advising. Similar to a doctor
-      working in a practice versus doing it on their own, there are benefits to
-      working with Supernova that helps them excel as a best-in-class advisory
-      teams.
+      Supernova is like a YPO membership, but one where exited founders team up
+      together to game a startups success. Most of our exited founders have
+      achieved success in their careers in some part thanks to the mentorship
+      and advice they received along the way. In realizing that success, they
+      are moved to pay forward the support. By working with Supernova, they are
+      catalyzing more growth than what they could accomplish on their own as
+      teaching is deeper learning. Supernova is curating opportunities to work
+      with top companies for the exited founder, and making it hassle-free and
+      turnkey to plug-n-play to share their zones of genius and superpowers
+      without day-to-day administration and back office responsbilities. 
   - question: How does Supernova work with VCs?
     answer: >-
       Supernova helps VC’s go beyond office hours and webinars by providing
