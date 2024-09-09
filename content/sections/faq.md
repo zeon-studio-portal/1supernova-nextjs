@@ -53,11 +53,11 @@ lists:
   - question: Why are exited founders motivated to back my company?
     answer: >-
       Supernova is similar to a YPO membership, but one where exited founders
-      get to play the game of scaling businesses together with shared upside.
-      Most of our exited founders have achieved success in their careers in some
-      part thanks to the mentorship and advice they received along the way. In
-      realizing that success, they are moved to pay forward the support. By
-      working with Supernova, they are catalyzing more growth than what they
+      get to play the game of scaling businesses together and with shared
+      upside. Most of our exited founders have achieved success in their careers
+      in some part thanks to the mentorship and advice they received along the
+      way. In realizing that success, they are moved to pay forward the support.
+      By working with Supernova, they are catalyzing more growth than what they
       could accomplish on their own as teaching is deeper learning. Supernova is
       curating opportunities to work with top companies for the exited founder,
       and making it hassle-free and turnkey to plug-n-play to source top deal
