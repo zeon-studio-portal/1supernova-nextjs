@@ -18,8 +18,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Assemble \U0001FAF6"
     content: >
-      We match you with 5 successfully exited founders who team up to help you
-      achieve key milestones.
+      We install an all-star team of 5 successfully exited founders to
+      accelerate key milestones.
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
