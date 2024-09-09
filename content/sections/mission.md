@@ -12,9 +12,9 @@ headings:
   - title: '**QUESTION**: WHO HAS YOUR BACK AFTER DEMO DAY?'
     description: >-
       Scaleups succeed or fail based on hitting timely milestones. Far too few
-      achieve desired outcomes including capital rounds (Series A-C), a sizeable
-      exit, IPO and/or achieving unicorn status. Meanwhile, 97% of VCs claim
-      they are 'value added' investors. Only 31% of Founders agree. Even
+      achieve desired outcomes including bridging capital rounds (Series A to C)
+      for a sizeable exit, IPO and/or unicorn status. Meanwhile, 97% of VCs
+      claim they are 'value added' investors. Only 31% of Founders agree. Even
       startups backed by elite VCs want more output from their advisors and
       stakeholders.
   - title: '**ANSWER:** SUPERNOVA'
