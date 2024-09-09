@@ -8,13 +8,15 @@ lists:
   - question: Why do I need a growth stage accelerator?
     answer: >-
       If you are leading a growth stage company ($5MM to $100MM+ ARR), then you
-      already know the right relationships will make or break success. Supernova
-      is a team of $150+ exited founders who fill specific needs, be it
-      guidance, expertise, connections, mentorship, coaching and even hands-on
-      interim role support. They supply shortcuts, and cheat codes and help
-      solve problems that can make or break businesses. The founders’ journey is
-      complicated, but it doesn’t have to be. Our mission at Supernova is to
-      accelerate the realization of the founder's vision from the only
+      already know it doesn't get easier the bigger you get (<50% of Series A
+      companies make it to Series B and 0.01% ever achieve unicorn status).
+      Supernova is a team of $150+ successfully exited founders who fill
+      specific needs, be it guidance, expertise, connections, mentorship,
+      coaching and hands-on interim roles or tiger teams. They supply shortcuts,
+      and cheat codes and help solve problems to help you get unstuck and
+      accelerate speed-to-value. The founders’ journey to go the distance can be
+      crazy complicated, but it doesn’t have to be. Our mission at Supernova is
+      to accelerate the realization of the founder's vision from the only
       perspective that truly understands the journey, as exited founders
       ourselves. 
   - question: Is my company a fit for Supernova?
