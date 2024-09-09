@@ -15,7 +15,7 @@ headings:
       make it from Series A to Series B. Only 0.01% achieve unicorn status.
       Meanwhile, 97% of VCs claim they are 'value added' investors. Only 31% of
       Founders agree. Even startups backed by elite VCs want more output from
-      their investors and stakeholders.
+      their investors, advisors and stakeholders.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova is a growth stage accelerator run by 150+ exited founders to
