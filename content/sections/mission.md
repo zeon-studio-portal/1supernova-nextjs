@@ -16,8 +16,9 @@ headings:
       existing advisors and stakeholders.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >
-      Supernova significantly improves success rates of Scaleups ($5MM to
-      $100MM+) that go the distance. “70% of billion-dollar companies had repeat
-      founders of at least one previously successful company.” - Super Founders
+      Supernova is a growth stage accelerator run by 150+ exited founders to
+      significantly improve success rates of Scaleups ($5MM to $100MM+) that go
+      the distance. “70% of billion-dollar companies had repeat founders of at
+      least one previously successful company.” - Super Founders
 ---
 
