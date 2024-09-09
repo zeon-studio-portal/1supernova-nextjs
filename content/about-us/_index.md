@@ -64,9 +64,10 @@ why_supernova_exists:
 
     For decades, traditional advising for most founders and their companies has
     been essentially non-existent, or so informal and ad-hoc that it leaves
-    something to be desired. Accelerators are mostly early-stage and Scaleups
-    needs are super different. Boards can be helpful at a high-level, but rarely
-    get hands-on to solve problems and implement solutions.
+    something to be desired. Accelerators are mostly all focused on early-stage
+    companies and Scaleups needs are super different. Boards can be helpful at a
+    high-level, but rarely get hands-on to solve problems and implement
+    solutions.
   content_right: >
     **The perfect advisor does not exist**, but a dynamic team that adapts to
     your current company challenges, and knows what you are going through
