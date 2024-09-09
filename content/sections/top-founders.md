@@ -1,9 +1,7 @@
 ---
 enable: true
 title: Case Studies
-subtitle: >-
-  Learn more about how we are backing world-changing companies to drive a better
-  future forward.
+subtitle: We proudly back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
