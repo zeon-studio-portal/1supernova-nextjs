@@ -27,7 +27,7 @@ process:
   - name: 03 - Accelerate ✨
     content: >
       We accelerate speed-to-value by applying top talent, methods, systems and
-      technology and derisk the journey for rising stars.
+      technology to derisk the growth stage journey.
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
