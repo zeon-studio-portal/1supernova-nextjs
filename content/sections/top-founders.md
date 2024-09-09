@@ -10,7 +10,7 @@ list_colors:
 lists:
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
-    designation: CEO & Founder
+    designation: CEO & Founder (Series A+)
     description: "Calm your mind to stress less and sleep more, effortlessly \U0001F9D8\U0001F3FB‍♀️"
     brand_logo:
       width: 130
