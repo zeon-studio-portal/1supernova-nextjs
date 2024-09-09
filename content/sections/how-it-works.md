@@ -26,8 +26,8 @@ process:
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Accelerate ✨
     content: >
-      We apply top talent, methods, systems and technology resulting in
-      speed-to-value for Scaleups.
+      We accelerate speed-to-value by applying top talent, methods, systems and
+      technology to derisk and game Scaleup success.
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
