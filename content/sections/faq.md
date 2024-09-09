@@ -35,8 +35,8 @@ lists:
       a check and 5 successfully exited founders and/or Super founders (previous
       exit of $50MM+) who team up to help accelerate key company milestones. We
       are the top-rated 'advisory-as-a-service' (90%+ NPS) with a proven record
-      of scaling startups to unicorn status. We go way beyond the value-adds of
-      traditional VCs with office hours, webinars, and partner discounts. 
+      of scaling startups to unicorn status. We go way beyond the traditional
+      value-adds of office hours, webinars, and partner discounts. 
   - question: What if I don’t have time for Supernova?
     answer: >-
       Our north star at Supernova is optimizing TIME. Your time, your leadership
