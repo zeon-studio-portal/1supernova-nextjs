@@ -53,16 +53,17 @@ lists:
       efficiencies as your dedicated advisory team.
   - question: Why are exited founders motivated to back my company?
     answer: >-
-      Supernova is like a YPO membership, but one where exited founders team up
-      together to game a startups success. Most of our exited founders have
-      achieved success in their careers in some part thanks to the mentorship
-      and advice they received along the way. In realizing that success, they
-      are moved to pay forward the support. By working with Supernova, they are
-      catalyzing more growth than what they could accomplish on their own as
-      teaching is deeper learning. Supernova is curating opportunities to work
-      with top companies for the exited founder, and making it hassle-free and
-      turnkey to plug-n-play to share their zones of genius and superpowers
-      without day-to-day administration and back office responsbilities. 
+      Supernova is similar to a YPO membership, but one where exited founders
+      get to play the game of scaling businesses together with shared upside.
+      Most of our exited founders have achieved success in their careers in some
+      part thanks to the mentorship and advice they received along the way. In
+      realizing that success, they are moved to pay forward the support. By
+      working with Supernova, they are catalyzing more growth than what they
+      could accomplish on their own as teaching is deeper learning. Supernova is
+      curating opportunities to work with top companies for the exited founder,
+      and making it hassle-free and turnkey to plug-n-play to share their zones
+      of genius and superpowers without day-to-day administration and back
+      office responsibilities. 
   - question: How does Supernova work with VCs?
     answer: >-
       Supernova helps VC’s go beyond office hours and webinars by providing
