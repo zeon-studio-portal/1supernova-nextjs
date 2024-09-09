@@ -41,10 +41,10 @@ lists:
       perks like office hours, speaker presentations, and partner discounts. We
       are the top-rated 'advisory-as-a-service' (90%+ NPS) with a proven record
       of scaling startups to unicorn status. 
-  - question: What if I don’t have time for my advisors?
+  - question: What if I don’t have time for Supernova?
     answer: >-
-      Supernova is a managed service - aka we manage your exited founder team
-      for you! Typically, we match each advisor to a member of your C-level
+      Supernova is a managed service - aka we manage your bespoke exited founder
+      team for you! Typically, we match each advisor to a member of your C-level
       management team. For example, an exited founder gifted in marketing
       advises your CMO. If you are too busy for us, then you likely need
       Supernova more than you realize! Typically, Founder/CEOs invest five a
