@@ -55,18 +55,18 @@ why_supernova_exists:
   content_left: >
     **The founders’ journey is innately challenging;** it’s why so few have the
     endurance to make it all the way through. Seeking and building a team of
-    advisors to strengthen the founder’s decision-making and strategy is a
-    powerful way to increase the probability of success. Unfortunately, finding
-    actual experienced startup advisors who can care for you and the mission is
-    difficult. And if you do find them, how do you ensure that they are properly
-    utilized and incentivized? <br/><br/>
+    mentors to strengthen decision-making is a powerful way to increase the
+    probability of success. Unfortunately, finding actual experienced startup
+    advisors who can care for you and the mission is difficult. And if you do
+    find them, how do you ensure that they are properly utilized and
+    incentivized? <br/><br/>
 
 
     For decades, traditional advising for most founders and their companies has
-    been essentially non-existent, or so informal that it leaves something to be
-    desired. Boards are often serving this role, but with incentives and
-    responsibilities that don’t allow for the openness and transparency needed
-    to overcome many challenges we face.
+    been essentially non-existent, or so informal and ad-hoc that it leaves
+    something to be desired. Accelerators are mostly early-stage and Scaleups
+    needs are super different. Boards can be helpful at a high-level, but rarely
+    get hands-on to solve problems and implement solutions.
   content_right: >
     **The perfect advisor does not exist**, but a dynamic team that adapts to
     your current company challenges, and knows what you are going through
