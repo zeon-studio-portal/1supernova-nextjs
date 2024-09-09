@@ -13,7 +13,7 @@ headings:
     description: >-
       Scaleups succeed or fail based on hitting timely milestones. Many get
       stuck bridging capital rounds (Series A to C) or burn out before achieving
-      a sizeable exit, IPO, or market leaderhip. Meanwhile, 97% of VCs claim
+      a sizeable exit, IPO, or market leadership. Meanwhile, 97% of VCs claim
       they are 'value added' investors. Only 31% of Founders agree. Even those
       backed by elite VCs want more output from their investors, advisors, and
       leadership teams.
