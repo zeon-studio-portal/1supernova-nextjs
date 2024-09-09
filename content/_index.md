@@ -31,8 +31,8 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Turnkey All-Star Advisory Boards✨
-  subtitle: ' Supernova is an exclusive tier-one advisory team with a successful track record scaling companies to unicorns.'
+  title: Growth Stage Accelerator for Scaleups ✨
+  subtitle: ' Supernova is an exclusive tier-one growth stage accelerator with a successful track record scaling companies to unicorns.'
   quote: >-
     Your turnkey team of exited founders share their collective wisdom,
     experience, resources, and networks to reduce risk of failure and spark
