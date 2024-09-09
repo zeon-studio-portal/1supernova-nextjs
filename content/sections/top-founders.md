@@ -35,7 +35,7 @@ lists:
   - name: Paul Graf
     image: /images/paul-graf.jpg
     designation: CEO & Founder
-    description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB "
+    description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB (Series A)"
     brand_logo:
       width: 100
       height: 71
