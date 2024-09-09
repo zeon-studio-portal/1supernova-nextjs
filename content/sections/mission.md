@@ -11,12 +11,12 @@ testimonial:
 headings:
   - title: '**QUESTION**: WHO HAS YOUR BACK AFTER DEMO DAY?'
     description: >-
-      Scaleups succeed or fail based on hitting timely milestones. Far too many
-      get stuck bridging capital rounds (Series A to C) and growing to their
-      potential for a sizeable exit, IPO, unicorn status, or market leader.
-      Meanwhile, 97% of VCs claim they are 'value added' investors. Only 31% of
-      Founders agree. Even those backed by elite VCs want more output from their
-      key stakeholders.
+      Scaleups succeed or fail based on hitting timely milestones. Many get
+      stuck bridging capital rounds (Series A to C) and realize their full
+      potential for a sizeable exit, IPO, unicorn status, or become a market
+      leader. Meanwhile, 97% of VCs claim they are 'value added' investors. Only
+      31% of Founders agree. Even those backed by elite VCs want more output
+      from investors and advisors.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova is a growth stage accelerator run by 150+ exited founders to
