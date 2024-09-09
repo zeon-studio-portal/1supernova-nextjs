@@ -18,7 +18,6 @@ headings:
     description: >
       Supernova significantly improves success rates of Scaleups ($5MM to
       $100MM+) that go the distance. “70% of billion-dollar companies had repeat
-      founders of at least one previously successful company.” - Ali Tamaseb,
-      Author of Super Founders
+      founders of at least one previously successful company.” - Super Founders
 ---
 
