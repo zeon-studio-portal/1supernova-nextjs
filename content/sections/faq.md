@@ -21,8 +21,8 @@ lists:
       annual portfolio growth to 12 high-growth startups (most often in Series
       A-C funding). Supernova advisors specialize primarily in AI, Health Tech,
       Fintech, SaaS, eCommerce, Impact and Web3. We are especially committed to
-      supporting ventures that take an innovative approach to solving modern-day
-      problems.
+      supporting ventures that are mission-driven and committed to be
+      world-changing by solving modern-day problems.
   - question: Who would my advisors be?
     answer: >-
       You’ll be matched with five exited founders who have relevant expertise
