@@ -64,7 +64,7 @@ advisory_game:
   subtitle: >-
     With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
     accelerator for Scaleups.
-  quote: We Back Growth Stage Companies ($5MM to 100MM+ ARR)
+  quote: We Back Growth Stage Companies ($5MM to 100MM+)
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
