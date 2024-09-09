@@ -16,7 +16,7 @@ headings:
       existing advisors and stakeholders.
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
-      Supernova is a growth-stage accelerator improving success rates of
-      Scaleups ($5MM to $100MM+) that go the distance.
+      Supernova improves success rates of Scaleups ($5MM to $100MM+) that go the
+      distance.
 ---
 
