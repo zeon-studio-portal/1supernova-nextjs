@@ -12,10 +12,10 @@ headings:
   - title: '**QUESTION**: WHO HAS YOUR BACK AFTER DEMO DAY?'
     description: >-
       Scaleups succeed or fail based on hitting timely milestones. Many get
-      stuck bridging capital rounds (Series A to C) or collapse before a
-      sizeable exit, IPO, or succeeding as a market leader. Meanwhile, 97% of
-      VCs claim they are 'value added' investors. Only 31% of Founders agree.
-      Even companies backed by elite VCs want more output from their key
+      stuck bridging capital rounds (Series A to C) or burn out before a
+      sizeable exit, IPO, or becoming a market leader. Meanwhile, 97% of VCs
+      claim they are 'value added' investors. Only 31% of Founders agree. Even
+      companies backed by elite VCs want more output from their key
       stakeholders.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
