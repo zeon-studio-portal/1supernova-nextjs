@@ -48,8 +48,8 @@ items:
     designation: CEO & Founder
     company: Parkqulility (Seed)
     quote: >-
-      As a 2nd-time founder, Supernova is a no-brainer. Stack your team with
-      exited founders! 
+      As a 2x founder, Supernova is a no-brainer. Stack your team with exited
+      founders! 
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
