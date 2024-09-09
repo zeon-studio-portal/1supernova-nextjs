@@ -17,6 +17,6 @@ headings:
   - title: 'ANSWER: **SUPERNOVA**'
     description: >-
       Supernova is a growth-stage accelerator improving success rates of
-      Scaleups that go the distance.
+      Scaleups ($5MM to $100MM+) that go the distance.
 ---
 
