@@ -43,8 +43,7 @@ process:
   - name: "05 - Award \U0001F3C6"
     content: >
       We have a proven track of scaling companies to unicorn status and award
-      equity to our exited founder teams on merit based on participation,
-      engagement and impact.
+      equity to our team based on merit.
     button:
       enable: true
       label: "See Reviews \U0001F680"
