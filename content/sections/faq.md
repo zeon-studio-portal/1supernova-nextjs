@@ -10,13 +10,13 @@ lists:
       If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get (<50% of Series
       A companies make it to Series B and 0.01% ever achieve unicorn status).
-      Supernova is a team of $150+ successfully exited founders who fill
-      specific needs, be it guidance, expertise, connections, mentorship,
-      coaching and hands-on interim roles or tiger teams. They supply shortcuts,
-      and cheat codes and help solve problems to help you get unstuck and
-      accelerate speed-to-value. The founders’ journey to go the distance can be
-      crazy complicated, but it doesn’t have to be. Our mission at Supernova is
-      to accelerate the realization of the founder's vision from the only
+      Supernova is a team of 150+ successfully exited founders who fill specific
+      needs, be it guidance, expertise, connections, mentorship, coaching and
+      hands-on interim roles or tiger teams. They supply shortcuts, and cheat
+      codes and help solve problems to help you get unstuck and accelerate
+      speed-to-value. The founders’ journey to go the distance can be crazy
+      complicated, but it doesn’t have to be. Our mission at Supernova is to
+      accelerate the realization of the founder's vision from the only
       perspective that truly understands the journey, as exited founders
       ourselves. 
   - question: Is Supernova accepting applications?
