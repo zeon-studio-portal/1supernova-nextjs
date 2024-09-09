@@ -32,14 +32,6 @@ lists:
       width: 130
       height: 45
       file: /images/top-founders/ben-brand.svg
-  - name: Ignacio Handal
-    image: /images/ignacio-handal.jpg
-    designation: CEO & Founder
-    description: "Augmented intelligence for mental healthcare \U0001F9E0"
-    brand_logo:
-      width: 130
-      height: 24
-      file: /images/Clinicom-Logo.png
   - name: Paul Graf
     image: /images/paul-graf.jpg
     designation: CEO & Founder
@@ -48,13 +40,5 @@ lists:
       width: 100
       height: 71
       file: /images/hym.png
-  - name: 'Juan Luis Betancourt '
-    image: /images/Juan.jpg
-    designation: CEO & Founder
-    description: "AI for smarter collaboration everywhere you work \U0001F680"
-    brand_logo:
-      width: 150
-      height: 30
-      file: /images/humantelligence-logo-white.svg
 ---
 
