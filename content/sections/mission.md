@@ -15,8 +15,10 @@ headings:
       agree. Even startups backed by elite VC's want more output from their
       existing advisors and stakeholders.
   - title: 'ANSWER: **SUPERNOVA**'
-    description: >-
+    description: >
       Supernova significantly improves success rates of Scaleups ($5MM to
-      $100MM+) that go the distance.
+      $100MM+) that go the distance. “70% of billion-dollar companies had repeat
+      founders of at least one previously successful company.” - Ali Tamaseb,
+      Author of Super Founders
 ---
 
