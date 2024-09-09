@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Meet the Superstars ✨
+title: Meet the All-Star Team ✨
 subtitle: Over 150+ exited founders ready to serve your company as all-star teams.
 quote: >-
   We orbit around your needs as bespoke advisory boards, mentors, and ceo
