@@ -62,8 +62,8 @@ lists:
       could accomplish on their own as teaching is deeper learning. Supernova is
       curating opportunities to work with top companies for the exited founder,
       and making it hassle-free and turnkey to plug-n-play to source top deal
-      flow, share their zones of genius and superpowers, all without day-to-day
-      administration and back office responsibilities. 
+      flow, share their zones of genius and superpowers, on one platform free
+      from administration and back office responsibilities. 
   - question: How does Supernova work with VCs?
     answer: >-
       Supernova helps VC’s go beyond office hours and webinars by providing
