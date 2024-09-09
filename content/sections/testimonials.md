@@ -21,9 +21,7 @@ items:
     image: /images/1560835066759.jpeg
     designation: 'CEO & Founder '
     company: 'Jive (Exited) '
-    quote: >-
-      Supernova is a quantum leap in advisory services for growth-stage
-      companies. 
+    quote: 'Supernova is a quantum leap in guiding successful growth-stage companies. '
   - name: Tim Chang
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
