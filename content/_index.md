@@ -63,8 +63,8 @@ advisory_game:
   title: We are not like other accelerators
   subtitle: >-
     With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
-    advisory-as-a-service™ for growth stage companies.
-  quote: Supernova Grows Scaleups ($5MM to 100MM+ ARR)
+    advisory-as-a-service™ for Scaleups.
+  quote: Supernova Backs Growth Stage Companies ($5MM to 100MM+ ARR)
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
 ---
