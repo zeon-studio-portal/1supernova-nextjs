@@ -51,33 +51,6 @@ lists:
       month, and see a significant return on the relationships. We bring proven
       methods, collaborative technology and expert resources to maximize shared
       efficiencies as your dedicated advisory team.
-  - question: What's wrong with the traditional advisor model?
-    answer: >-
-      Most founders and startups struggle to recruit, engage, manage and
-      incentivize their advisory boards. All too often they settle or allow
-      their advisors to sit idle on the sidelines with little accountability.
-      This despite giving away 5%+ company equity to their advisors over the
-      lifetime of the business. Supernova is a new turnkey solution for
-      curating, managing, incentivizing and holding your advisory board
-      accountable.
-  - question: What makes Supernova so different?
-    answer: >-
-      We are the first and only resource able to curate highly successfully
-      exited entrepreneurs and adapt that all-star team to serve the evolving
-      priorities and challenges of your company.  Whose advice do you trust
-      most? A board member? Consultant? Banker? VC? SME? Our mission is to
-      accelerate the realization of the founder's vision from the only
-      perspective that truly understands the journey, as founders ourselves. 
-  - question: How much does Supernova charge?
-    answer: >-
-      Supernova’s advisory service model is charged as a monthly, at-will
-      subscription along with an equity allocation. We are held accountable to
-      delivering measurable value by supporting critical decision making and
-      initiatives that generate incremental gains in sales, partnerships,
-      hiring, funding, and/or company valuation. For example, an early stage,
-      Series A startup may invest 1% equity annually, plus a $10K monthly
-      subscription. We pride ourselves in delivering significant ongoing return
-      on relationships. 
   - question: Why are exited founders motivated to advise through Supernova?
     answer: >-
       Supernova advisors have achieved success in their careers in some part
