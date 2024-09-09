@@ -15,8 +15,8 @@ headings:
       achieve desired outcomes including bridging capital rounds (Series A to C)
       for a sizeable exit, IPO and/or unicorn status. Meanwhile, 97% of VCs
       claim they are 'value added' investors. Only 31% of Founders agree. Even
-      startups backed by elite VCs want more output from their advisors and
-      stakeholders.
+      startups backed by elite VCs want more output from their investors and
+      advisory teams.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova is a growth stage accelerator run by 150+ exited founders to
