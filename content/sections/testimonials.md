@@ -57,8 +57,8 @@ items:
     designation: CEO & Founder
     company: Parkqulility (Seed)
     quote: >-
-      As a 2nd-time founder, Supernova is a no-brainer. Stack your advisory team
-      with exited founders! 
+      As a 2nd-time founder, Supernova is a no-brainer. Stack your team with
+      exited founders! 
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
     designation: CEO & Founder
