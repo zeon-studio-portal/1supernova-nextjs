@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Our Portfolio
-subtitle: We back evolutionary entrepreneurs that drive a better future forward.
+subtitle: We back evolutionary entrepreneurs driving a better future forward.
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
