@@ -51,7 +51,7 @@ lists:
       month, and see a significant return on the relationships. We bring proven
       methods, collaborative technology and expert resources to maximize shared
       efficiencies as your dedicated advisory team.
-  - question: Why are exited founders motivated to advise through Supernova?
+  - question: Why are exited founders motivated to back my company?
     answer: >-
       Supernova advisors have achieved success in their careers in some part
       thanks to the help they received along the way. In realizing that success,
