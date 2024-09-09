@@ -34,8 +34,8 @@ process:
       link: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
   - name: "04 - Achieve \U0001F3AF"
     content: >
-      We hold everyone accountable and rotate talent in and out as the needs of
-      your company evolve in real-time.
+      We are all-in on achieving your company's next major milestone and hold
+      everyone accountable with quarterly reviews.
     button:
       enable: true
       label: "Read FAQs \U0001F680"
