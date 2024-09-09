@@ -46,7 +46,7 @@ items:
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
-    company: Parkqulility (Seed)
+    company: Parkqulility
     quote: >-
       As a 2x founder, Supernova is a no-brainer. Stack your team with exited
       founders! 
