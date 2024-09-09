@@ -39,14 +39,15 @@ lists:
       traditional VC's with office hours, webinars and partner discounts. 
   - question: What if I don’t have time for Supernova?
     answer: >-
-      Supernova is a managed service - aka we manage your bespoke exited founder
-      team for you! Typically, we match each advisor to a member of your C-level
-      management team. For example, an exited founder gifted in marketing
-      advises your CMO. If you are too busy for us, then you likely need
-      Supernova more than you realize! Typically, Founder/CEOs invest five a
-      month, and see a significant return on the relationships. We bring proven
-      methods, collaborative technology and expert resources to maximize shared
-      efficiencies as your dedicated advisory team.
+      Our north star at Supernova is optimizing for TIME. Your time, your teams
+      time and especially our time as successfully exited founders. That's why
+      manage your exited founder team for you! Typically, we match each advisor
+      to a member of your C-level management team. For example, a successfully
+      exited founder gifted in marketing advises your CMO. If you are too busy
+      for us, then you likely need Supernova more than you realize! Typically,
+      Founder/CEOs invest five to ten hours a month, and see a significant
+      return on the relationships. We bring proven methods, collaborative
+      technology and expert resources to maximize shared efficiencies.
   - question: Why are exited founders motivated to back my company?
     answer: >-
       Supernova is similar to a YPO membership, but one where exited founders
