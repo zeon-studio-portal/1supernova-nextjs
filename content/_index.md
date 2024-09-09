@@ -34,7 +34,7 @@ advisory:
   title: Growth Stage Accelerator for Scaleups ✨
   subtitle: ' Supernova is a tier-one growth stage accelerator with a successful track record scaling companies to unicorns.'
   quote: >-
-    Your turnkey team of exited founders share their collective wisdom,
+    Your turnkey team of exited founders transfer their collective wisdom,
     experience, resources, and networks to reduce risk of failure and spark
     speed-to-value.
   services_image: /images/advisory/services.svg
