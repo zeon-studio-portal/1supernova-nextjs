@@ -24,10 +24,10 @@ process:
       enable: true
       label: "Exited Founders Back You \U0001F680"
       link: 'https://1supernova.com/#superstars'
-  - name: 03 - Accelerator ✨
+  - name: 03 - Accelerate ✨
     content: >
-      We apply proven talent, methods, systems and collaborative technology
-      resulting in speed-to-value for Scaleups.
+      We apply top talent, methods, systems and technology resulting in
+      speed-to-value for Scaleups.
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
