@@ -18,11 +18,11 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Assemble \U0001FAF6"
     content: >
-      We match you with top advisors who support your immediate needs. You don't
-      just have one advisor, you have a superstar team.
+      We match you with 5 successfully exited founders who serve as your
+      all-star team.
     button:
       enable: true
-      label: "Get Matched With Exited Founders \U0001F680"
+      label: "Exited Founders Back You \U0001F680"
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Activate ✨
     content: >
