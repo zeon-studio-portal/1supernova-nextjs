@@ -47,7 +47,9 @@ lists:
       for us, then you likely need Supernova more than you realize! Typically,
       Founder/CEOs invest five to ten hours a month, and see a significant
       return on the relationships. We bring proven methods, collaborative
-      technology and expert resources to maximize shared efficiencies.
+      technology and expert resources to maximize shared efficiencies. It's been
+      said that we help make "million dollar decisions", so consider how much
+      time, money and resources we can save you!
   - question: Why are exited founders motivated to back my company?
     answer: >-
       Supernova is similar to a YPO membership, but one where exited founders
