@@ -43,7 +43,7 @@ process:
   - name: "05 - Award \U0001F3C6"
     content: >
       We award equity and cash incentives to our exited founders based on
-      performance vs time-based vesting schedules.
+      performance vs time-based vesting.
     button:
       enable: true
       label: "See Reviews \U0001F680"
