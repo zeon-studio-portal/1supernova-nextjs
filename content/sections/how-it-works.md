@@ -18,8 +18,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Assemble \U0001FAF6"
     content: >
-      We back you with a dream team of 5 successfully exited founders
-      transferring their wisdom, experience, resources, and networks.
+      We back you with a team of successfully exited founders who transfer their
+      wisdom, experience, resources, and networks.
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
