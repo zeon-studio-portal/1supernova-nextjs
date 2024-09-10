@@ -2,8 +2,8 @@
 enable: true
 title: Success is the right relationships
 subtitle: >-
-  Best-in-class mentorship and advisory optimizes your company's time, money &
-  equity.
+  Best-in-class mentorship and advisory to optimize your time, money, equity and
+  outcomes.
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
