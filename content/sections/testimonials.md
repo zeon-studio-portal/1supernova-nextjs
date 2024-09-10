@@ -63,7 +63,7 @@ items:
     company: 'Nfluence Partners '
     quote: >-
       Supernova is a growth-stage Y-Combinator and YPO group that scales
-      businesses together for shared upside.
+      businesses together with shared upside.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: 'CEO & Founder '
