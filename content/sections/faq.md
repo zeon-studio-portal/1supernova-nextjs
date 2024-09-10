@@ -17,7 +17,7 @@ lists:
       founders on your team is a game-changer. They supply shortcuts, and cheat
       codes and help solve problems to help you get unstuck and accelerate
       speed-to-value. They fill specific needs - guidance, expertise,
-      connections, mentorship, coaching and even can get hands-on serving in
+      connections, mentorship, coaching and can even get hands-on serving in
       interim roles or tiger teams. 70% of unicorns were built by repeat
       founders of at least one previously successful company. That's why
       founders with multiple exits still tag in Supernova despite their past
