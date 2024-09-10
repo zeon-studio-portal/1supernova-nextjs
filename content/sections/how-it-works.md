@@ -43,7 +43,7 @@ process:
   - name: "05 - Award \U0001F3C6"
     content: >
       We award equity and cash incentives to our exited founders based on
-      individual and team impact vs guaranteed vesting schedules.
+      performance vs time-based vesting schedules.
     button:
       enable: true
       label: "See Reviews \U0001F680"
