@@ -62,8 +62,8 @@ items:
     designation: Managing Partner (Exited Founder)
     company: 'Nfluence Partners '
     quote: >-
-      Supernova is a trusted partner to my firm (investment bank for growth
-      capital and M&A).
+      Supernova is a growth-stage Y-Combinator and YPO group that scales
+      businesses together for shared upside.
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: 'CEO & Founder '
