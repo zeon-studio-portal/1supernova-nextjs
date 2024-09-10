@@ -44,17 +44,19 @@ lists:
       webinars, and partner discounts.
   - question: What if I don’t have time for Supernova?
     answer: >-
-      Our north star at Supernova is optimizing TIME. Your time, your leadership
-      team's time, and our time. That's why manage your exited founder team for
-      you! Typically, we do this by matching each advisor to a member of your
-      C-level team. For example, a successfully exited founder gifted in
-      marketing advises your CMO. Typically, Founder/CEOs invest five to ten
-      hours a month, and see a significant return on the relationships. We bring
-      proven methods, collaborative technology and expert resources to maximize
-      shared efficiencies. It's been said that we help make "million dollar
-      decisions", so consider how much time, money and resources we can save or
-      make you. If you are too busy for us, then you likely need Supernova more
-      than you realize! 
+      Our guiding North Star is TIME. Making the most of time, for you, your
+      team, and our exited founders. That's why we invented
+      advisory-as-a-serviceTM to formalize and streamline elite mentorship and
+      advisory services. We begin by matching each exited founder from Supernova
+      to a member of your C-level team. For example, your CMO is supported by a
+      successfully exited founder whose zone of genius addresses your most
+      pressing problems or opportunities. Typically, we request that your
+      leadership invests an average of five to ten hours a month each to level
+      up through our knowledge transfer of wisdom, experience, resources and
+      connections. It's said that in exchange of this time, we help make smarter
+      "million-dollar decisions" that ultimately save time over time. And, often
+      result in a significant return on the relationships. If you are too busy
+      for us, you likely need Supernova more than you realize! 
   - question: Why are exited founders motivated to back my company?
     answer: >-
       Supernova is similar to a YPO membership, but one where exited founders
