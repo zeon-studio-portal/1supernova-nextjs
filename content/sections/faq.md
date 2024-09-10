@@ -56,7 +56,7 @@ lists:
       connections. It's said that we help them make smarter "million-dollar
       decisions" and that saves time over time with significant returns on the
       relationships. If you are too busy for us, you may need Supernova more
-      than you realize! 
+      than you realize! Are you ready to scale in "Conscious Mode"? 
   - question: Why do successfully exited founders join Supernova?
     answer: >-
       Supernova is similar to a YPO membership with intimate groups that
