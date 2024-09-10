@@ -19,9 +19,10 @@ lists:
       speed-to-value. They fill specific needs - guidance, expertise,
       connections, mentorship, coaching and even can get hands-on serving in
       interim roles or tiger teams. 70% of unicorns were built by repeat
-      founders of at least one previously successful company. That's why even
-      founders with multiple exits bring Supernova on board because they know
-      the advantage it brings when scaling companies to successful outcomes. 
+      founders of at least one previously successful company. That's why
+      founders with multiple exits still tag in Supernova despite their past
+      success because they know the advantage it brings when scaling companies
+      successfully. 
   - question: Is Supernova accepting applications?
     answer: >-
       Yes, Supernova is now accepting applications for the 2025 portfolio. To
