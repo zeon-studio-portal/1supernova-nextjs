@@ -41,7 +41,7 @@ lists:
       key company milestones. We are the top-rated 'advisory-as-a-service' (90%+
       NPS) with a proven record of scaling startups to unicorn status. We get
       hands-on and go way beyond the traditional value-adds of office hours,
-      webinars, and partner discounts. 
+      webinars, and partner discounts.
   - question: What if I don’t have time for Supernova?
     answer: >-
       Our north star at Supernova is optimizing TIME. Your time, your leadership
