@@ -59,17 +59,23 @@ lists:
       than you realize! 
   - question: Why are exited founders motivated to back my company?
     answer: >-
-      Supernova is similar to a YPO membership, but one where exited founders
-      get to play the game of scaling businesses together and with shared
-      upside. Most of our exited founders have achieved success in their careers
-      in some part thanks to the mentorship and advice they received along the
-      way. In realizing that success, they are moved to pay forward the support.
-      By working with Supernova, they are catalyzing more growth than what they
-      could accomplish on their own as teaching is deeper learning. Supernova is
-      curating opportunities to work with top companies for the exited founder,
-      and making it hassle-free and turnkey to plug-n-play to source top deal
-      flow, share their zones of genius and superpowers, on one platform free
-      from administration and back office responsibilities. 
+      Supernova is similar to a YPO membership with intimate groups that
+      function as supreme sounding boards. The difference is that with
+      Supernova, successfully exited founders get to play the game of scaling
+      businesses together and sharing upside in successful outcomes. We are a
+      peer-group with 150+ successfully exited founders who all believe we can
+      catalyze more growth than what they could accomplish on our own. Most of
+      our exited founders have achieved success in their careers in some part
+      thanks to the mentorship and advice they received along the way. In
+      realizing that success, they are moved to pay forward the support. By
+      working with Supernova, they unlock the opportunity to invest and get
+      equity in growth-stage companies as an energy exchange by leveraging their
+      battle-tested wisdom, experience, and social capital. Supernova curates
+      opportunities to engage with top companies in a hassle-free way by
+      sourcing top deal flow and serving up invitations to participate as
+      advisors, mentors, investors, or even join in interim or full-time roles
+      or tiger teams. Supernova is turnkey and handles all the administration
+      and back-office support. 
   - question: How does Supernova work with VCs?
     answer: >-
       Supernova helps VC’s go beyond office hours and webinars by providing
