@@ -51,7 +51,7 @@ lists:
       team. For example, your CMO is supported by a successfully exited founder
       whose zone of genius addresses your most pressing problems or
       opportunities. Typically, we request that your leadership invests an
-      average of five to ten hours every month to level up and benefit from our
+      average of five to ten hours monthly to level up and benefit from our
       exited founders' knowledge transfer of wisdom, experience, resources, and
       connections. It's said that we help them make smarter "million-dollar
       decisions" and that saves time over time with significant returns on the
