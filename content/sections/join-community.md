@@ -11,8 +11,8 @@ lists:
   - title: Founder
     icon: /images/community/01.svg
     content: >-
-      **Are you a founder** of a bootstrapped business ($1M+ in revenues) or
-      VC-backed startup?
+      **Are you a founder** of a bootstrapped business or VC-backed Scaleup
+      ($5MM+ ARR)?
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
