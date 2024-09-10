@@ -33,7 +33,7 @@ items:
     company: 'Founder of EO & YPO Angels & Partner at Side Door Ventures ($100M Fund) '
     quote: >-
       I recommend Supernova to my investments because I know they're a force
-      multiplier. 
+      multiplier.
   - name: Jonathan Shambroom
     image: /images/JShambroom.jpg
     designation: COO
