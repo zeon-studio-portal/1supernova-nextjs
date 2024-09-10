@@ -17,7 +17,10 @@ lists:
       codes and help solve problems to help you get unstuck and accelerate
       speed-to-value. They fill specific needs - guidance, expertise,
       connections, mentorship, coaching and even can get hands-on serving in
-      interim roles or tiger teams.
+      interim roles or tiger teams. 70% of unicorns were built by repeat
+      founders of at least one previously successful company. That's why
+      founders with multiple exits bring Supernova on board, because they know
+      the advantage it brings when building companies that go the distance. 
   - question: Is Supernova accepting applications?
     answer: >-
       Yes, Supernova is accepting applications for the 2025 portfolio. To best
