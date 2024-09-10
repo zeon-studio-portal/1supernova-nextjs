@@ -26,8 +26,8 @@ process:
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Accelerate ✨
     content: >-
-      We accelerate speed-to-value by applying an elite cadre of talent,
-      methods, systems, and technology to derisk and game success.
+      We accelerate speed-to-value by installing elite talent, methods, systems,
+      and technology to derisk and game success.
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
