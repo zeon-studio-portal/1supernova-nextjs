@@ -21,8 +21,8 @@ lists:
       interim roles or tiger teams. 70% of unicorns were built by repeat
       founders of at least one previously successful company. That's why
       founders with multiple exits still tag in Supernova despite their past
-      success because they know the advantage it brings when scaling companies
-      successfully. 
+      success because they know the advantage it brings when scaling their
+      companies successfully. 
   - question: Is Supernova accepting applications?
     answer: >-
       Yes, Supernova is now accepting applications for the 2025 portfolio. To
