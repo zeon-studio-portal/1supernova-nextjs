@@ -29,7 +29,7 @@ lists:
       serve the companies we work with and ensure impact, we limit our annual
       portfolio growth to 12 high-growth Scaleups (Series A-C funding or
       bootstrapped to $5MM+ ARR). Supernova advisors specialize primarily in AI,
-      Health Tech, Fintech, SaaS, eCommerce, Impact and Web3. We are especially
+      Health Tech, Fintech, SaaS, eCommerce, Impact, and Web3. We are especially
       committed to supporting mission-driven companies solving modern-day
       problems. We love companies ready to scale in "Conscious Founder Mode". 
   - question: How much does Supernova invest?
