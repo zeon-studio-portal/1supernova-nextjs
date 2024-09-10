@@ -44,19 +44,19 @@ lists:
       webinars, and partner discounts.
   - question: What if I don’t have time for Supernova?
     answer: >-
-      Our guiding North Star is TIME. Making the most of time, for you, your
-      team, and our exited founders. That's why we invented
-      advisory-as-a-serviceTM to formalize and streamline elite mentorship and
-      advisory services. We begin by matching each exited founder from Supernova
-      to a member of your C-level team. For example, your CMO is supported by a
-      successfully exited founder whose zone of genius addresses your most
-      pressing problems or opportunities. Typically, we request that your
-      leadership invests an average of five to ten hours a month each to level
-      up through our knowledge transfer of wisdom, experience, resources and
-      connections. It's said that in exchange of this time, we help make smarter
-      "million-dollar decisions" that ultimately save time over time. And, often
-      result in a significant return on the relationships. If you are too busy
-      for us, you likely need Supernova more than you realize! 
+      Our guiding North Star is TIME. We don't waste time - yours, your team, or
+      our exited founders! In fact, we invented advisory-as-a-serviceTM to
+      formalize and streamline elite mentorship and advisory services. We begin
+      by matching each exited founder from Supernova to a member of your C-level
+      team. For example, your CMO is supported by a successfully exited founder
+      whose zone of genius addresses your most pressing problems or
+      opportunities. Typically, we request that your leadership invests an
+      average of five to ten hours every month to level up and benefit from our
+      exited founders' knowledge transfer of wisdom, experience, resources, and
+      connections. It's said that we help them make smarter "million-dollar
+      decisions" and that saves time over time with significant returns on the
+      relationships. If you are too busy for us, you may need Supernova more
+      than you realize! 
   - question: Why are exited founders motivated to back my company?
     answer: >-
       Supernova is similar to a YPO membership, but one where exited founders
