@@ -8,7 +8,8 @@ lists:
   - question: What is a growth stage accelerator?
     answer: >-
       If you are leading a growth stage company ($5MM to $100MM+), then you
-      already know it doesn't get any easier the bigger you get.  The founders’
+      already know it doesn't get any easier the bigger you get. Scaling teams,
+      entering new markets, bridging financing rounds, M&A, etc. The founders’
       journey to go the distance can be crazy complicated, but it doesn’t have
       to be. Our mission at Supernova is to accelerate the realization of the
       founder's vision from the only perspective that truly understands the
@@ -20,7 +21,7 @@ lists:
       interim roles or tiger teams. 70% of unicorns were built by repeat
       founders of at least one previously successful company. That's why even
       founders with multiple exits bring Supernova on board because they know
-      the advantage it brings when building companies that go the distance. 
+      the advantage it brings when scaling companies to successful outcomes. 
   - question: Is Supernova accepting applications?
     answer: >-
       Yes, Supernova is accepting applications for the 2025 portfolio. To best
