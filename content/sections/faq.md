@@ -63,7 +63,7 @@ lists:
       function as supreme sounding boards. The difference is that with
       Supernova, successfully exited founders get to play the game of scaling
       businesses together and sharing upside in successful outcomes. We are a
-      peer-group with 150+ successfully exited founders who all believe we can
+      peer group with 150+ successfully exited founders who all believe we can
       catalyze more growth than what they could accomplish on our own. Most of
       our exited founders have achieved success in their careers in some part
       thanks to the mentorship and advice they received along the way. In
