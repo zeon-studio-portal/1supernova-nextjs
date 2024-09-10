@@ -19,7 +19,7 @@ headings:
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova is a growth stage accelerator run by 150+ exited founders
-      committed to significantly improving success rates of Scaleups ($5MM to
+      teaming up to significantly improve success rates of Scaleups ($5MM to
       $100MM+) that go the distance.
 ---
 
