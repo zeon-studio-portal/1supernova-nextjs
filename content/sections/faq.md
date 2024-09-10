@@ -27,12 +27,11 @@ lists:
     answer: >-
       Supernova is now accepting applications for the 2025 portfolio. To best
       serve the companies we work with and ensure impact, we limit our annual
-      portfolio growth to 12 high-growth startups in Scaleup mode (Series A-C
-      funding or bootstrapped to $5MM+ ARR). Supernova advisors specialize
-      primarily in AI, Health Tech, Fintech, SaaS, eCommerce, Impact and Web3.
-      We are especially committed to supporting mission-driven companies solving
-      modern-day problems. We love companies ready to scale in "Conscious
-      Founder Mode". 
+      portfolio growth to 12 high-growth Scaleups (Series A-C funding or
+      bootstrapped to $5MM+ ARR). Supernova advisors specialize primarily in AI,
+      Health Tech, Fintech, SaaS, eCommerce, Impact and Web3. We are especially
+      committed to supporting mission-driven companies solving modern-day
+      problems. We love companies ready to scale in "Conscious Founder Mode". 
   - question: How much does Supernova invest?
     answer: >-
       What Y-Combinator is to early-stage startups, Supernova is to Scaleups. 
