@@ -32,8 +32,8 @@ items:
     designation: Founder of Key (2x Exited Founder)
     company: 'Founder of EO & YPO Angels & Partner at Side Door Ventures ($100M Fund) '
     quote: >-
-      I recommend Supernova to any team I invest in because I know they're a
-      force multiplier. 
+      I recommend Supernova to my investments because I know they're a force
+      multiplier. 
   - name: Jonathan Shambroom
     image: /images/JShambroom.jpg
     designation: COO
