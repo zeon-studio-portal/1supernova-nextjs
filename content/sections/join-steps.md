@@ -1,7 +1,9 @@
 ---
 enable: true
 title: Success is the right relationships
-subtitle: 'Best-in-class advisors save startups time, money & equity'
+subtitle: >-
+  Best-in-class mentorship and advisory to optimize your time, money, equity and
+  outcomes.
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'

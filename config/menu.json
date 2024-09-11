@@ -1,28 +1,20 @@
 {
   "main": [
     {
-      "name": "Exited Founders",
-      "url": "/#superstars"
+      "name": "Growth Stage Accelerator",
+      "url": "/#mission.md"
     },
     {
       "name": "How it Works",
       "url": "/#join-steps"
     },
     {
-      "name": "Portfolio",
-      "url": "/#portfolio"
-    },
-    {
-      "name": "Reviews",
-      "url": "/#reviews"
+      "name": "Case Studies",
+      "url": "/#top-founders.md"
     },
     {
       "name": "FAQs",
       "url": "/#faqs"
-    },
-    {
-      "name": "About Us",
-      "url": "/about-us"
     }
   ],
   "footer": [

@@ -1,10 +1,10 @@
 ---
 enable: true
-title: Meet the Superstars ✨
+title: Meet Your Team Of Superstars ✨
 subtitle: Over 150+ exited founders ready to serve your company as all-star teams.
 quote: >-
-  We orbit around your needs as bespoke advisory boards, mentors, and ceo
-  coaches
+  We orbit around your needs as bespoke advisors, mentors, ceo coaches and
+  interim talent
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg

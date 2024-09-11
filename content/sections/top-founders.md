@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Our Portfolio
-subtitle: We back evolutionary entrepreneurs that drive a better future forward.
+title: Case Studies
+subtitle: We proudly back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
@@ -10,8 +10,8 @@ list_colors:
 lists:
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
-    designation: CEO & Founder
-    description: "Calm your mind to stress less and sleep more, effortlessly \U0001F9D8\U0001F3FB‍♀️"
+    designation: 'CEO & Founder '
+    description: "First vibration therapy system clinically proven to lower stress \U0001F9D8\U0001F3FB‍♀️. ($30MM+ Series A)"
     brand_logo:
       width: 130
       height: 29
@@ -19,7 +19,7 @@ lists:
   - name: Roberto Salcedo
     image: /images/Roberto-Salcedo.jpg
     designation: 'CEO & Founder '
-    description: "Smart micro financing for everyone \U0001F4B5"
+    description: "Smart micro financing for everyone \U0001F4B5. (Bootstrapped to $110MM+; Backed by YC)"
     brand_logo:
       width: 130
       height: 33
@@ -27,34 +27,18 @@ lists:
   - name: Ben Lamm
     image: /images/BenLamm.jpg
     designation: CEO & Founder
-    description: "World’s first de-extinction company \U0001F984"
+    description: "World’s first de-extinction company \U0001F984 ($150MM+ Series B)"
     brand_logo:
       width: 130
       height: 45
       file: /images/top-founders/ben-brand.svg
-  - name: Ignacio Handal
-    image: /images/ignacio-handal.jpg
-    designation: CEO & Founder
-    description: "Augmented intelligence for mental healthcare \U0001F9E0"
-    brand_logo:
-      width: 130
-      height: 24
-      file: /images/Clinicom-Logo.png
   - name: Paul Graf
     image: /images/paul-graf.jpg
     designation: CEO & Founder
-    description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB "
+    description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB (Series A)"
     brand_logo:
       width: 100
       height: 71
       file: /images/hym.png
-  - name: 'Juan Luis Betancourt '
-    image: /images/Juan.jpg
-    designation: CEO & Founder
-    description: "AI for smarter collaboration everywhere you work \U0001F680"
-    brand_logo:
-      width: 150
-      height: 30
-      file: /images/humantelligence-logo-white.svg
 ---
 

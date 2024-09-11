@@ -10,43 +10,43 @@ quote:
 process:
   - name: "01 - Apply \U0001F469‍\U0001F4BB"
     content: >
-      [Apply now](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) to be one of
-      twelve startups chosen yearly to join Supernova's portfolio. 
+      [Apply](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) to be one of twelve
+      companies chosen to join our portfolio, yearly. 
     button:
       enable: true
       label: "Apply to Supernova \U0001F680"
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Assemble \U0001FAF6"
     content: >
-      We match you with top advisors who support your immediate needs. You don't
-      just have one advisor, you have a superstar team.
+      We back you with a team of successfully exited founders who transfer their
+      wisdom, experience, resources, and networks.
     button:
       enable: true
-      label: "Get Matched With Exited Founders \U0001F680"
+      label: "Exited Founders Back You \U0001F680"
       link: 'https://1supernova.com/#superstars'
-  - name: 03 - Activate ✨
-    content: >
-      We apply proven methods, systems and collaborative technology for
-      best-in-class advisory teams.
+  - name: 03 - Accelerate ✨
+    content: >-
+      We accelerate speed-to-value by installing elite talent, methods, systems,
+      and technology to derisk and game success.
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
       link: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
   - name: "04 - Achieve \U0001F3AF"
     content: >
-      We hold your advisors accountable and rotate talent in and out as the
-      needs of your company evolve.
+      We are all-in on achieving your company's next major milestone with a
+      shared upside in your outcomes.
     button:
       enable: true
       label: "Read FAQs \U0001F680"
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Award \U0001F3C6"
     content: >
-      We score advisors on performance to award equity on merit vs. traditional
-      vesting schedules.
+      We award equity and cash incentives to our exited founders based on
+      performance vs vesting guarantees.
     button:
       enable: true
-      label: "See Testimonials \U0001F680"
+      label: "See Reviews \U0001F680"
       link: 'https://1supernova.com/#reviews'
 ---
 
