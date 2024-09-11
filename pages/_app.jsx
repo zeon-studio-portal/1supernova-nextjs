@@ -82,7 +82,7 @@ const App = ({ Component, pageProps }) => {
       const isMultiline = target.parentElement.children.length > 1;
       const isBannerText =
         target.parentElement.parentElement.classList.contains(
-          'text-reveal-alternate'
+          'text-banner'
         );
 
       const startValue = isMultiline
@@ -109,6 +109,10 @@ const App = ({ Component, pageProps }) => {
         },
       });
     });
+
+    setTimeout(() => {
+      ScrollTrigger.refresh();
+    }, 1000);
 
     // Select all sections or relevant elements
     const sections = document.querySelectorAll('section'); // Adjust the selector if needed

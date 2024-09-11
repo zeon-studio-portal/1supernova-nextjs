@@ -1,4 +1,3 @@
-import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 
@@ -41,8 +40,8 @@ const AdvisoryGame = ({ advisory_game }) => {
             <Image
               src={advisory_game.nps_score}
               alt="nps score"
-              width={995}
-              height={564}
+              width={1140}
+              height={641}
               className="pointer-events-none hidden select-none sm:block md:-mt-56 lg:-mt-72"
             />
             <Image

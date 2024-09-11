@@ -20,7 +20,7 @@ const Banner = ({ banner, founders }) => {
           <div data-aos="fade-up">
             <AnimatedText
               tag="h1"
-              className="mb-8 text-6xl/none text-reveal-alternate font-medium w-fit mx-auto"
+              className="mb-8 text-6xl/none text-banner font-medium w-fit mx-auto"
               content={banner.title}
             />
           </div>

@@ -38,23 +38,6 @@ const Header = () => {
     window.addEventListener('resize', setHeight);
   }, [toggleNavbar]);
 
-  // smooth scroll to section when click on menu
-  useEffect(() => {
-    const anchors = document.querySelectorAll("a[href*='#']");
-    for (let anchor of anchors) {
-      if (asPath === '/') {
-        anchor.addEventListener('click', function (e) {
-          e.preventDefault();
-          document
-            .querySelector(this.getAttribute('href').replace('/', ''))
-            .scrollIntoView({
-              behavior: 'smooth',
-            });
-        });
-      }
-    }
-  }, [asPath]);
-
   return (
     <header className={`header ${toggleNavbar ? 'navbar-open' : ''}`}>
       <nav className="navbar container items-start px-0 sm:items-center sm:px-4">
