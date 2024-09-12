@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import AnimatedText from '@components/AnimatedText';
 import ImageFallback from '@components/ImageFallback';
 import useWindow from '@hooks/useWindow';
