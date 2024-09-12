@@ -13,6 +13,10 @@
       "url": "/#portfolio"
     },
     {
+      "name": "Team",
+      "url": "/about-us/#team"
+    },
+    {
       "name": "FAQs",
       "url": "/#faqs"
     }

@@ -1,8 +1,8 @@
-import config from "@config/config";
-import Base from "@layouts/Baseof";
-import { getListPage } from "@lib/contentParser";
-import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
+import config from '@config/config';
+import Base from '@layouts/Baseof';
+import { getListPage } from '@lib/contentParser';
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
 
 const aboutUs = ({ about }) => {
   const {
@@ -24,10 +24,14 @@ const aboutUs = ({ about }) => {
           <div className="row">
             <div className="col-12">
               <div data-aos="fade-up-sm">
-                {markdownify(title, "h1", "font-bold mb-4")}
+                {markdownify(title, 'h1', 'font-bold mb-4')}
               </div>
               <div data-aos="fade-up-sm" data-aos-delay="50">
-                {markdownify(description, "p", "text-light-secondary md:text-xl")}
+                {markdownify(
+                  description,
+                  'p',
+                  'text-light-secondary md:text-xl'
+                )}
               </div>
             </div>
           </div>
@@ -38,13 +42,13 @@ const aboutUs = ({ about }) => {
             <div className="row">
               <div className="col-12">
                 <div data-aos="fade-up-sm" data-aos-delay="100">
-                  {markdownify(who_we_are.title, "h2", "font-bold mb-4")}
+                  {markdownify(who_we_are.title, 'h2', 'font-bold mb-4')}
                 </div>
                 <div data-aos="fade-up-sm" data-aos-delay="150">
                   {markdownify(
                     who_we_are.content,
-                    "div",
-                    "text-light-secondary"
+                    'div',
+                    'text-light-secondary'
                   )}
                 </div>
               </div>
@@ -72,13 +76,13 @@ const aboutUs = ({ about }) => {
               <div className="col-12 mb-16">
                 <div className="text-center">
                   <div data-aos="fade-up-sm">
-                    {markdownify(our_values.title, "h2", "font-bold mb-4")}
+                    {markdownify(our_values.title, 'h2', 'font-bold mb-4')}
                   </div>
                   <div data-aos="fade-up-sm" data-aos-delay="100">
                     {markdownify(
                       our_values.subtitle,
-                      "p",
-                      "text-light-secondary md:text-xl"
+                      'p',
+                      'text-light-secondary md:text-xl'
                     )}
                   </div>
                 </div>
@@ -91,12 +95,10 @@ const aboutUs = ({ about }) => {
                       className="flex h-full flex-col items-center rounded-3xl px-6 py-20 text-center"
                       style={{ backgroundColor: colors[index] }}
                       data-aos="fade-up-sm"
-                      data-aos-delay={(index - 0.5) * 100}
-                    >
+                      data-aos-delay={(index - 0.5) * 100}>
                       <div
                         className="mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-white text-4xl"
-                        style={{ color: colors[index] }}
-                      >
+                        style={{ color: colors[index] }}>
                         {index + 1}
                       </div>
                       <p className="mb-3 text-2xl font-semibold leading-snug md:text-3xl">
@@ -121,15 +123,15 @@ const aboutUs = ({ about }) => {
                   <div data-aos="fade-up-sm">
                     {markdownify(
                       why_supernova_exists.title,
-                      "h2",
-                      "font-bold mb-4"
+                      'h2',
+                      'font-bold mb-4'
                     )}
                   </div>
                   <div data-aos="fade-up-sm" data-aos-delay="100">
                     {markdownify(
                       why_supernova_exists.quote,
-                      "p",
-                      "text-secondary-800 font-secondary mt-6 text-3xl -rotate-1"
+                      'p',
+                      'text-secondary-800 font-secondary mt-6 text-3xl -rotate-1'
                     )}
                   </div>
                 </div>
@@ -139,12 +141,11 @@ const aboutUs = ({ about }) => {
                 <div
                   className="mb-10 lg:col-6 lg:mb-0"
                   data-aos="fade-in"
-                  data-aos-delay="150"
-                >
+                  data-aos-delay="150">
                   {markdownify(
                     why_supernova_exists.content_left,
-                    "div",
-                    "pr-0 lg:pr-8 [&_strong]:text-secondary-800 [&_strong]:font-[900]"
+                    'div',
+                    'pr-0 lg:pr-8 [&_strong]:text-secondary-800 [&_strong]:font-[900]'
                   )}
                 </div>
               )}
@@ -152,12 +153,11 @@ const aboutUs = ({ about }) => {
                 <div
                   className="lg:col-6"
                   data-aos="fade-in"
-                  data-aos-delay="250"
-                >
+                  data-aos-delay="250">
                   {markdownify(
                     why_supernova_exists.content_right,
-                    "div",
-                    "pl-0 lg:pl-8 [&_p:nth-child(1)_strong]:text-[#09B1FB] [&_p:nth-child(2)_strong]:text-[#FD8D84] [&_p:nth-child(3)_strong]:text-[#C856C7] [&_p:nth-child(4)_strong]:text-[#09B1FB] [&_p:nth-child(5)_strong]:text-[#FD8D84] [&_p:nth-child(6)_strong]:text-[#C856C7] [&_strong]:font-[900]"
+                    'div',
+                    'pl-0 lg:pl-8 [&_p:nth-child(1)_strong]:text-[#09B1FB] [&_p:nth-child(2)_strong]:text-[#FD8D84] [&_p:nth-child(3)_strong]:text-[#C856C7] [&_p:nth-child(4)_strong]:text-[#09B1FB] [&_p:nth-child(5)_strong]:text-[#FD8D84] [&_p:nth-child(6)_strong]:text-[#C856C7] [&_strong]:font-[900]'
                   )}
                 </div>
               )}
@@ -167,19 +167,19 @@ const aboutUs = ({ about }) => {
       )}
 
       {leadership_team.enable === true && (
-        <section className="py-24">
+        <section className="py-24" id="team">
           <div className="container">
             <div className="row">
               <div className="col-12 mb-16">
                 <div className="text-center">
                   <div data-aos="fade-up-sm">
-                    {markdownify(leadership_team.title, "h2", "font-bold mb-4")}
+                    {markdownify(leadership_team.title, 'h2', 'font-bold mb-4')}
                   </div>
                   <div data-aos="fade-up-sm" data-aos-delay="100">
                     {markdownify(
                       leadership_team.quote,
-                      "p",
-                      "text-secondary-800 font-secondary mt-6 text-3xl -rotate-1"
+                      'p',
+                      'text-secondary-800 font-secondary mt-6 text-3xl -rotate-1'
                     )}
                   </div>
                 </div>
@@ -189,8 +189,7 @@ const aboutUs = ({ about }) => {
                 <div key={index} className="mb-10 sm:col-6 md:col-4 lg:col-3">
                   <div
                     className="rounded-3xl rounded-tl-none bg-dark-quaternary"
-                    data-aos="fade-up-sm"
-                  >
+                    data-aos="fade-up-sm">
                     <Image
                       src={item.image}
                       alt={item.name}
@@ -223,22 +222,20 @@ const aboutUs = ({ about }) => {
                   <div data-aos="fade-up-sm">
                     {markdownify(
                       contact_us.title,
-                      "h2",
-                      "text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]"
+                      'h2',
+                      'text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]'
                     )}
                   </div>
                   <div
                     className="hidden space-x-3 md:flex"
                     data-aos="fade-up-sm"
-                    data-aos-delay="50"
-                  >
+                    data-aos-delay="50">
                     {social_media.map((item, index) => (
                       <a
                         key={index}
                         href={item.link}
                         className="mb-3 flex h-14 w-14 items-center justify-center rounded-2xl bg-dark-quaternary transition-all hover:bg-slate-800"
-                        target="_blank"
-                      >
+                        target="_blank">
                         <Image
                           src={item.icon}
                           alt="supernova"
@@ -256,14 +253,13 @@ const aboutUs = ({ about }) => {
                   <div
                     key={index}
                     className="mb-6 rounded-3xl bg-dark-quaternary p-8"
-                    data-aos="fade-up-sm"
-                  >
+                    data-aos="fade-up-sm">
                     <p className="mb-3 text-2xl">{item.title}</p>
                     <p className="mb-1 font-bold">{item.name}</p>
                     {markdownify(
                       item.email,
-                      "p",
-                      "text-light [&_a]:underline decoration-[#ddd] hover:decoration-primary hover:text-primary transition-all"
+                      'p',
+                      'text-light [&_a]:underline decoration-[#ddd] hover:decoration-primary hover:text-primary transition-all'
                     )}
                   </div>
                 ))}
@@ -275,8 +271,7 @@ const aboutUs = ({ about }) => {
                         key={index}
                         href={item.link}
                         className="mb-3 flex h-14 w-14 items-center justify-center rounded-2xl bg-dark-quaternary transition-all hover:bg-slate-800"
-                        target="_blank"
-                      >
+                        target="_blank">
                         <Image
                           src={item.icon}
                           alt="supernova"
@@ -299,7 +294,7 @@ const aboutUs = ({ about }) => {
 export default aboutUs;
 
 export const getStaticProps = async () => {
-  const about = await getListPage("content/about-us/_index.md");
+  const about = await getListPage('content/about-us/_index.md');
 
   return {
     props: {
