@@ -17,13 +17,13 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
 
   return (
     <Base title={title} description={description}>
-      <section className="section-lg">
+      <section className="section-lg pt-10 md:pt-20">
         <div className="container">
           <div className="row">
             {title && (
               <div className="mx-auto pb-10 lg:col-10">
                 <h1
-                  className="text-center text-h2_sm font-medium md:text-h2"
+                  className="text-center text-h3 font-medium md:text-h2"
                   dangerouslySetInnerHTML={{ __html: title }}
                 />
               </div>
@@ -31,7 +31,7 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
             <div className="col-12">
               <div className="row gy-4">
                 <div className="lg:col-9">
-                  <div className="flex min-h-full overflow-hidden rounded-2xl">
+                  <div className="flex min-h-full overflow-hidden rounded-lg md:rounded-2xl">
                     <Image
                       className="min-h-full w-full object-cover object-left-bottom"
                       width={850}
@@ -65,7 +65,7 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
             </div>
           </div>
         </div>
-        <div className="mt-10 bg-dark-secondary p-7 md:mt-20 md:p-10">
+        <div className="mt-10 bg-dark-secondary  md:mt-20 md:p-10">
           <div className="container py-10 md:py-20">
             {markdownify(caseStudy.content, 'div', 'content')}
           </div>

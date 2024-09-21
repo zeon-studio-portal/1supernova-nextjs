@@ -16,7 +16,7 @@ const CallToAction = ({ cta }) => {
             className="mb-6"
           />
           <h2
-            className="mb-10 inline-block bg-gradient-text bg-clip-text text-center text-h2_sm font-semibold text-transparent md:text-h2"
+            className="mb-10 inline-block bg-gradient-text bg-clip-text text-center text-h4 font-semibold text-transparent md:text-h2"
             dangerouslySetInnerHTML={{ __html: title }}
           />
           {button.enable && (

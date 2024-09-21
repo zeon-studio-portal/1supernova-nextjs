@@ -18,7 +18,7 @@ const Gallery = ({ gallery }) => {
           {topList && (
             <div
               class="inf-slider mb-4"
-              data-inf-slide-width="400px"
+              data-inf-slide-width=""
               data-inf-scroll-speed="50"
               data-inf-direction="normal"
               data-inf-slide-pause-on-hover="true">
@@ -30,7 +30,7 @@ const Gallery = ({ gallery }) => {
                       alt={item.alt}
                       width={404}
                       height={300}
-                      className="h-[300px] w-[404px] rounded-md border border-light-quaternary object-cover"
+                      className=" h-[300px] w-[404px] rounded-md border border-light-quaternary object-cover"
                     />
                   </div>
                 ))}

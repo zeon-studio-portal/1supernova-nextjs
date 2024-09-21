@@ -406,16 +406,16 @@
   @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px];
 
   blockquote {
-    @apply relative rounded-3xl p-9;
+    @apply relative rounded-xl p-5 md:rounded-3xl md:p-9;
     > p:first-child {
-      @apply m-0 mb-8 bg-gradient-text bg-clip-text text-h3_sm  font-semibold leading-tight text-transparent before:hidden lg:text-h3;
+      @apply m-0 mb-8 bg-gradient-text bg-clip-text text-h5  font-semibold leading-tight text-transparent before:hidden lg:text-h3;
     }
     > p:nth-child(3),
     > p:nth-child(4) {
-      @apply absolute bottom-14 left-28 inline-block md:bottom-11;
+      @apply absolute bottom-14 left-24 inline-block text-sm md:bottom-16 md:left-28 md:text-base;
     }
     > p:nth-child(4) {
-      @apply bottom-8 pl-5 before:absolute before:left-0 before:top-1/2 before:size-[6px] before:-translate-y-1/2 before:rounded-full before:bg-secondary-600 before:content-[""] md:bottom-11 md:left-64;
+      @apply bottom-8 pl-4 before:absolute before:left-0 before:top-1/2 before:size-[6px] before:-translate-y-1/2 before:rounded-full before:bg-secondary-600 before:content-[""] md:bottom-9;
     }
     img {
       @apply m-0 h-14 w-14 rounded-full object-cover;
