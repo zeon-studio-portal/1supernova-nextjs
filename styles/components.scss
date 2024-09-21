@@ -358,7 +358,7 @@
 .text {
   --bgColorOne: rgb(255, 255, 255);
   --bgColorTwo: rgb(57, 57, 57);
-  
+
   &-reveal-alternate {
     --bgColorOne: rgb(255, 255, 255);
     --bgColorTwo: rgb(57, 57, 57);
@@ -378,6 +378,45 @@
     background-position-x: 100%;
     background-clip: text;
 
-    @apply lg:text-transparent; 
+    @apply lg:text-transparent;
+  }
+}
+
+// content style
+.content {
+  @apply prose max-w-none;
+  @apply prose-headings:mb-[.3em] prose-headings:mt-[.6em] prose-headings:font-medium prose-headings:text-white;
+  @apply prose-h1:text-h1_sm md:prose-h1:text-h1;
+  @apply prose-h2:text-h2_sm md:prose-h2:text-h2;
+  @apply prose-h3:text-h3_sm md:prose-h3:text-h3;
+  @apply prose-p:text-light-tertiary prose-li:text-light-primary;
+
+  @apply prose-img:max-w-full prose-img:rounded;
+  @apply prose-p:text-light-primary prose-p:text-base;
+  @apply prose-blockquote:rounded-3xl prose-blockquote:border-none prose-blockquote:bg-dark-quaternary prose-blockquote:p-10 prose-blockquote:text-2xl prose-blockquote:not-italic;
+  @apply prose-pre:bg-dark-primary prose-pre:rounded-lg;
+  @apply prose-code:px-1 prose-code:text-primary;
+  @apply prose-strong:text-dark-primary;
+  @apply prose-a:text-light-primary prose-a:underline hover:prose-a:text-primary;
+  @apply prose-li:text-light-primary;
+  @apply prose-table:relative prose-table:overflow-hidden prose-table:rounded-lg prose-table:before:absolute prose-table:before:left-0 prose-table:before:top-0 prose-table:before:h-full prose-table:before:w-full prose-table:before:rounded-[inherit] prose-table:before:border prose-table:before:content-[""];
+  @apply prose-thead:border-light-tertiary prose-thead:bg-dark-primary;
+  @apply prose-th:text-dark-primary prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px];
+  @apply prose-tr:border-light-tertiary;
+  @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px];
+
+  blockquote {
+    >p:first-child {
+      @apply text-3xl/relaxed m-0 before:hidden;
+    }
+    >p:last-child {
+      @apply m-0 after:hidden;
+    }
+    >p:nth-child(2),>p:nth-child(3) {
+      @apply inline;
+    }
+    img {
+      @apply m-0 w-14 h-14 rounded-full object-cover;
+    }
   }
 }

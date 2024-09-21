@@ -7,6 +7,11 @@ industry: "HR & payroll"
 company: "2000+ employees"
 location: "San Francisco"
 
+gallery:
+  enable: ture
+  list:
+    - "/weuh"
+
 ---
 
 ### About Company

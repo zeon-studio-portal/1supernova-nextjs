@@ -1,54 +1,55 @@
-import Base from "@layouts/Baseof";
-import { getSinglePage } from "@lib/contentParser";
+import Base from '@layouts/Baseof';
+import { getSinglePage } from '@lib/contentParser';
+import { markdownify } from '@lib/utils/textConverter';
+import Image from 'next/image';
 
-export default function CaseStudySingle ({ caseStudy }) {
-  const { title, description, clients, industry, company, location } = caseStudy.frontmatter;
-  
+export default function CaseStudySingle({ caseStudy }) {
+  const { title, description, clients, industry, company, location } =
+    caseStudy.frontmatter;
 
   return (
     <Base title={title} description={description}>
       <section className="section-lg">
         <div className="container">
           <div className="row">
-            {
-              title && (
-                <div className="lg:col-10 pb-10 mx-auto">
-                  <h1 className="text-h2_sm md:text-h2 text-center" dangerouslySetInnerHTML={{__html: title}} />
-                </div>
-              )
-            }
+            {title && (
+              <div className="mx-auto pb-10 lg:col-10">
+                <h1
+                  className="text-center text-h2_sm font-medium md:text-h2"
+                  dangerouslySetInnerHTML={{ __html: title }}
+                />
+              </div>
+            )}
             <div className="col-12">
               <div className="row gy-4">
                 <div className="lg:col-9">
-                  <div className="border p-10 rounded-2xl">
-                    <img src="" alt="" />
+                  <div className="flex min-h-full overflow-hidden rounded-2xl">
+                    <Image
+                      className="min-h-full w-full object-cover object-left-bottom"
+                      width={850}
+                      height={450}
+                      src="/images/case-studies/how-supernova-eliminates-thumbnail.jpg"
+                      alt="Customer Image or Video Thumbnail"
+                    />
                   </div>
                 </div>
                 <div className="lg:col-3">
-                  <div className="bg-dark-quaternary p-7 md:p-10 rounded-xl divide-y divide-white/10 space-y-5">
+                  <div className="space-y-5 divide-y divide-white/10 rounded-xl bg-dark-quaternary p-7 md:p-10">
                     <div className="">
-                      <p className="opacity-80 text-base mb-2">Clients</p>
-                      <p className="text-h6">
-                        Head of Growth
-                      </p>
+                      <p className="mb-2 text-base-sm opacity-80">Clients</p>
+                      <p className="text-h6">Meltem Kuran, Head of Growth</p>
                     </div>
                     <div className="pt-4">
-                      <p className="opacity-80 text-base mb-2">Industry</p>
-                      <p className="text-h6">
-                        Head of Growth
-                      </p>
+                      <p className="mb-2 text-base-sm opacity-80">Industry</p>
+                      <p className="text-h6">Head of Growth</p>
                     </div>
                     <div className="pt-4">
-                      <p className="opacity-80 text-base mb-2">Location</p>
-                      <p className="text-h6">
-                        Meltem Kuran
-                      </p>
+                      <p className="mb-2 text-base-sm opacity-80">Location</p>
+                      <p className="text-h6">Meltem Kuran</p>
                     </div>
                     <div className="pt-4">
-                      <p className="opacity-80 mb-2">Company</p>
-                      <p className="text-h6">
-                        Meltem Kuran
-                      </p>
+                      <p className="mb-2 text-base-sm opacity-80">Company</p>
+                      <p className="text-h6">Meltem Kuran</p>
                     </div>
                   </div>
                 </div>
@@ -56,13 +57,18 @@ export default function CaseStudySingle ({ caseStudy }) {
             </div>
           </div>
         </div>
+        <div className="bg-dark-secondary p-7 md:p-10 mt-10 md:mt-20">
+          <div className="container py-10 md:py-20">
+            {markdownify(caseStudy.content, 'div', 'content')}
+          </div>
+        </div>
       </section>
     </Base>
   );
-};
+}
 
 export async function getStaticPaths() {
-  const caseStudies = await getSinglePage("content/customer-story");
+  const caseStudies = await getSinglePage('content/customer-story');
   const paths = caseStudies.map((caseStudy) => ({
     params: { slug: caseStudy.slug },
   }));
@@ -74,7 +80,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const caseStudies = await getSinglePage("content/customer-story");
+  const caseStudies = await getSinglePage('content/customer-story');
   const caseStudy = caseStudies.find((study) => study.slug === params.slug);
 
   return {
