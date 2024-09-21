@@ -392,31 +392,84 @@
   @apply prose-p:text-light-tertiary prose-li:text-light-primary;
 
   @apply prose-img:max-w-full prose-img:rounded;
-  @apply prose-p:text-light-primary prose-p:text-base;
+  @apply prose-p:text-base prose-p:text-light-primary;
   @apply prose-blockquote:rounded-3xl prose-blockquote:border-none prose-blockquote:bg-dark-quaternary prose-blockquote:p-10 prose-blockquote:text-2xl prose-blockquote:not-italic;
-  @apply prose-pre:bg-dark-primary prose-pre:rounded-lg;
+  @apply prose-pre:rounded-lg prose-pre:bg-dark-primary;
   @apply prose-code:px-1 prose-code:text-primary;
   @apply prose-strong:text-dark-primary;
   @apply prose-a:text-light-primary prose-a:underline hover:prose-a:text-primary;
-  @apply prose-li:text-light-primary;
+  @apply prose-li:pl-0 prose-li:text-base prose-li:font-medium prose-li:text-light-primary prose-li:marker:text-xl prose-li:marker:text-primary;
   @apply prose-table:relative prose-table:overflow-hidden prose-table:rounded-lg prose-table:before:absolute prose-table:before:left-0 prose-table:before:top-0 prose-table:before:h-full prose-table:before:w-full prose-table:before:rounded-[inherit] prose-table:before:border prose-table:before:content-[""];
   @apply prose-thead:border-light-tertiary prose-thead:bg-dark-primary;
-  @apply prose-th:text-dark-primary prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px];
+  @apply prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px] prose-th:text-dark-primary;
   @apply prose-tr:border-light-tertiary;
   @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px];
 
   blockquote {
-    >p:first-child {
-      @apply text-3xl/relaxed m-0 before:hidden;
+    @apply relative rounded-3xl p-9;
+    > p:first-child {
+      @apply m-0 mb-8 bg-gradient-text bg-clip-text text-h3_sm  font-semibold leading-tight text-transparent before:hidden lg:text-h3;
     }
-    >p:last-child {
-      @apply m-0 after:hidden;
+    > p:nth-child(3),
+    > p:nth-child(4) {
+      @apply absolute bottom-14 left-28 inline-block md:bottom-11;
     }
-    >p:nth-child(2),>p:nth-child(3) {
-      @apply inline;
+    > p:nth-child(4) {
+      @apply bottom-8 pl-5 before:absolute before:left-0 before:top-1/2 before:size-[6px] before:-translate-y-1/2 before:rounded-full before:bg-secondary-600 before:content-[""] md:bottom-11 md:left-64;
     }
     img {
-      @apply m-0 w-14 h-14 rounded-full object-cover;
+      @apply m-0 h-14 w-14 rounded-full object-cover;
     }
   }
+}
+
+// Swiper
+
+.is-infinite-slider {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.is-infinite-slider .swiper-wrapper {
+  -webkit-transition-timing-function: linear !important;
+  transition-timing-function: linear !important;
+  position: relative;
+}
+
+.is-infinite-slider .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  position: relative;
+}
+
+@keyframes inf-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-100% / 2));
+  }
+}
+
+@keyframes inf-scroll-reverse {
+  0% {
+    transform: translateX(calc(-100% / 2));
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.inf-slider {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.inf-slide-track {
+  display: flex;
+  width: fit-content;
 }

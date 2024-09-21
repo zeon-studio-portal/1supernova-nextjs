@@ -1,11 +1,19 @@
 import Base from '@layouts/Baseof';
-import { getSinglePage } from '@lib/contentParser';
+import { getListPage, getSinglePage } from '@lib/contentParser';
+import { initInfiniteSliders } from '@lib/utils/infSlider';
 import { markdownify } from '@lib/utils/textConverter';
+import CallToAction from '@partials/CallToAction';
+import Gallery from '@partials/Gallery';
 import Image from 'next/image';
+import { useEffect } from 'react';
 
-export default function CaseStudySingle({ caseStudy }) {
+export default function CaseStudySingle({ caseStudy, cta, gallery }) {
   const { title, description, clients, industry, company, location } =
     caseStudy.frontmatter;
+
+  useEffect(() => {
+    initInfiniteSliders();
+  }, []);
 
   return (
     <Base title={title} description={description}>
@@ -57,18 +65,21 @@ export default function CaseStudySingle({ caseStudy }) {
             </div>
           </div>
         </div>
-        <div className="bg-dark-secondary p-7 md:p-10 mt-10 md:mt-20">
+        <div className="mt-10 bg-dark-secondary p-7 md:mt-20 md:p-10">
           <div className="container py-10 md:py-20">
             {markdownify(caseStudy.content, 'div', 'content')}
           </div>
         </div>
       </section>
+      <Gallery gallery={gallery} />
+      <CallToAction cta={cta} />
     </Base>
   );
 }
 
 export async function getStaticPaths() {
   const caseStudies = await getSinglePage('content/customer-story');
+
   const paths = caseStudies.map((caseStudy) => ({
     params: { slug: caseStudy.slug },
   }));
@@ -82,10 +93,14 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
   const caseStudies = await getSinglePage('content/customer-story');
   const caseStudy = caseStudies.find((study) => study.slug === params.slug);
+  const cta = await getListPage('content/sections/call-to-action.md');
+  const gallery = await getListPage('content/sections/gallery.md');
 
   return {
     props: {
       caseStudy,
+      cta,
+      gallery,
     },
   };
 }
