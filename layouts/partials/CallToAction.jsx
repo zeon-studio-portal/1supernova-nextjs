@@ -6,7 +6,7 @@ const CallToAction = ({ cta }) => {
 
   return (
     enable && (
-      <section className="relative overflow-hidden bg-dark-quaternary px-10 py-20">
+      <section className="relative overflow-hidden bg-dark-quaternary px-5 md:px-10 py-10 md:py-20">
         <div className=" relative z-20 flex flex-col items-center">
           <Image
             src="/images/supernovaicon.png"

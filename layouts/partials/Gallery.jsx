@@ -3,7 +3,8 @@ import 'swiper/css';
 import 'swiper/css/autoplay';
 
 const Gallery = ({ gallery }) => {
-  const { enable, title, topList, bottomList } = gallery.frontmatter;
+  const { enable, title, topList, bottomList, galleryImageWidth, animationSpeedForTop, animationSpeedForBottom } =
+    gallery.frontmatter;
   return (
     enable && (
       <section className="section-lg pt-0">
@@ -17,19 +18,34 @@ const Gallery = ({ gallery }) => {
           {/* UPPER CAROUSEL */}
           {topList && (
             <div
-              className="inf-slider mb-4"
-              data-inf-scroll-speed="50"
-              data-inf-direction="normal"
-              data-inf-slide-pause-on-hover="true">
-              <div className="inf-slide-track gap-4">
-                {topList.map((item, index) => (
+              style={{
+                '--slides': topList.length + topList.length,
+                '--speed': animationSpeedForTop,
+                '--slide-width': galleryImageWidth,
+              }}
+              className="inf-slider mb-4 flex items-center">
+              <div className="inf-slide-track reverse">
+                {topList.concat(topList).map((item, index) => (
                   <div className="inf-slide" key={index}>
                     <Image
                       src={item.image}
                       alt={item.alt}
                       width={404}
                       height={300}
-                      className=" h-[300px] w-[404px] rounded-md border border-light-quaternary object-cover"
+                      className=" w-full h-full rounded-md border border-light-quaternary object-cover"
+                    />
+                  </div>
+                ))}
+              </div>
+              <div className="inf-slide-track reverse">
+                {topList.concat(topList).map((item, index) => (
+                  <div className="inf-slide" key={index}>
+                    <Image
+                      src={item.image}
+                      alt={item.alt}
+                      width={404}
+                      height={300}
+                      className=" w-full h-full rounded-md border border-light-quaternary object-cover"
                     />
                   </div>
                 ))}
@@ -39,19 +55,34 @@ const Gallery = ({ gallery }) => {
           {/* LOWER CAROUSEL */}
           {bottomList && (
             <div
-              className="inf-slider"
-              data-inf-scroll-speed="50"
-              data-inf-direction="reverse"
-              data-inf-slide-pause-on-hover="true">
-              <div className="inf-slide-track gap-4">
-                {bottomList.map((item, index) => (
+              style={{
+                '--slides': bottomList.length + bottomList.length,
+                '--speed': animationSpeedForBottom,
+                '--slide-width': galleryImageWidth,
+              }}
+              className="inf-slider flex items-center">
+              <div className="inf-slide-track">
+                {bottomList.concat(bottomList).map((item, index) => (
                   <div className="inf-slide" key={index}>
                     <Image
                       src={item.image}
                       alt={item.alt}
                       width={404}
                       height={300}
-                      className="h-[300px] w-[404px] rounded-md border border-light-quaternary object-cover"
+                      className="w-full h-full rounded-md border border-light-quaternary object-cover"
+                    />
+                  </div>
+                ))}
+              </div>
+              <div className="inf-slide-track">
+                {bottomList.concat(bottomList).map((item, index) => (
+                  <div className="inf-slide" key={index}>
+                    <Image
+                      src={item.image}
+                      alt={item.alt}
+                      width={404}
+                      height={300}
+                      className="h-full w-full rounded-md border border-light-quaternary object-cover"
                     />
                   </div>
                 ))}

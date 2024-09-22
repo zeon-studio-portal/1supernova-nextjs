@@ -1,30 +1,26 @@
 import Base from '@layouts/Baseof';
 import { getListPage, getSinglePage } from '@lib/contentParser';
-import { initInfiniteSliders } from '@lib/utils/infSlider';
 import { markdownify } from '@lib/utils/textConverter';
 import CallToAction from '@partials/CallToAction';
 import Gallery from '@partials/Gallery';
 import Image from 'next/image';
-import { useEffect } from 'react';
 
 export default function CaseStudySingle({ caseStudy, cta, gallery }) {
-  const { title, description, clients, industry, company, location } =
-    caseStudy.frontmatter;
+  const { title, description } = caseStudy.frontmatter;
 
-  useEffect(() => {
-    initInfiniteSliders();
-  }, []);
+  const { clients, industry, company, location } =
+    caseStudy.frontmatter.information;
 
   return (
     <Base title={title} description={description}>
       <section className="section-lg pt-10 md:pt-20">
         <div className="container">
           <div className="row">
-            {title && (
+            {caseStudy.frontmatter.information.title && (
               <div className="mx-auto pb-10 lg:col-10">
                 <h1
                   className="text-center text-h3 font-medium md:text-h2"
-                  dangerouslySetInnerHTML={{ __html: title }}
+                  dangerouslySetInnerHTML={{ __html: caseStudy.frontmatter.information.title }}
                 />
               </div>
             )}
@@ -36,29 +32,49 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
                       className="min-h-full w-full object-cover object-left-bottom"
                       width={850}
                       height={450}
-                      src="/images/case-studies/how-supernova-eliminates-thumbnail.jpg"
-                      alt="Customer Image or Video Thumbnail"
+                      src={caseStudy.frontmatter.information.image}
+                      alt={caseStudy.frontmatter.information.title}
                     />
                   </div>
                 </div>
                 <div className="lg:col-3">
                   <div className="space-y-5 divide-y divide-white/10 rounded-xl bg-dark-quaternary p-7 md:p-10">
-                    <div className="">
-                      <p className="mb-2 text-base-sm opacity-80">Clients</p>
-                      <p className="text-h6">Meltem Kuran, Head of Growth</p>
-                    </div>
-                    <div className="pt-4">
-                      <p className="mb-2 text-base-sm opacity-80">Industry</p>
-                      <p className="text-h6">Head of Growth</p>
-                    </div>
-                    <div className="pt-4">
-                      <p className="mb-2 text-base-sm opacity-80">Location</p>
-                      <p className="text-h6">Meltem Kuran</p>
-                    </div>
-                    <div className="pt-4">
-                      <p className="mb-2 text-base-sm opacity-80">Company</p>
-                      <p className="text-h6">Meltem Kuran</p>
-                    </div>
+                    {clients && (
+                      <div className="">
+                        <p className="mb-2 text-base-sm opacity-80">Clients</p>
+                        <p
+                          className="text-h6"
+                          dangerouslySetInnerHTML={{ __html: clients }}
+                        />
+                      </div>
+                    )}
+                    {industry && (
+                      <div className="pt-4">
+                        <p className="mb-2 text-base-sm opacity-80">Industry</p>
+                        <p
+                          className="text-h6"
+                          dangerouslySetInnerHTML={{ __html: industry }}
+                        />
+                      </div>
+                    )}
+                    {location && (
+                      <div className="pt-4">
+                        <p className="mb-2 text-base-sm opacity-80">Location</p>
+                        <p
+                          className="text-h6"
+                          dangerouslySetInnerHTML={{ __html: location }}
+                        />
+                      </div>
+                    )}
+                    {company && (
+                      <div className="pt-4">
+                        <p className="mb-2 text-base-sm opacity-80">Company</p>
+                        <p
+                          className="text-h6"
+                          dangerouslySetInnerHTML={{ __html: company }}
+                        />
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>

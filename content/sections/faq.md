@@ -22,7 +22,7 @@ lists:
       founders of at least one previously successful company. That's why
       founders with multiple exits still tag in Supernova despite their past
       success because they know the advantage it brings when scaling their
-      companies successfully. 
+      companies successfully.
   - question: Is Supernova accepting applications?
     answer: >-
       Supernova is now accepting applications for the 2025 portfolio. To best
@@ -31,7 +31,7 @@ lists:
       bootstrapped to $5MM+ ARR). Supernova advisors specialize primarily in AI,
       Health Tech, Fintech, SaaS, eCommerce, Impact, and Web3. We are especially
       committed to supporting mission-driven companies solving modern-day
-      problems. 
+      problems.
   - question: How much does Supernova invest?
     answer: >-
       What Y-Combinator is to early-stage startups, Supernova is to Scaleups. 
@@ -41,7 +41,7 @@ lists:
       milestones. As the saying goes, wisdom is more precious than gold and it's
       our commitment to transfer our experience, especially for million-dollar
       decisions. We are the top-rated 'advisory-as-a-service' (90%+ NPS) with a
-      proven record of scaling startups to unicorn status. 
+      proven record of scaling startups to unicorn status.
   - question: What if I don’t have time for Supernova?
     answer: >-
       Our guiding North Star is TIME. We don't waste time - yours, your team, or
@@ -56,7 +56,7 @@ lists:
       connections. It's said that we help them make smarter "million-dollar
       decisions" and that saves time over time with significant returns on the
       relationships. If you are too busy for us, you may need Supernova more
-      than you realize! Are you ready to scale in "Conscious Mode"? 
+      than you realize! Are you ready to scale in "Conscious Mode"?
   - question: Why do successfully exited founders join Supernova?
     answer: >-
       Supernova is similar to a YPO membership with intimate groups that
@@ -75,7 +75,7 @@ lists:
       sourcing top deal flow and serving up invitations to participate as
       advisors, mentors, investors, or even join in interim or full-time roles
       or tiger teams. Supernova is turnkey and handles all the administration
-      and back-office support. 
+      and back-office support.
   - question: How does Supernova work with VCs?
     answer: >-
       Supernova helps VC’s go beyond office hours and webinars by providing
@@ -86,8 +86,7 @@ lists:
       backing want more output from them. Did you know? 70% of billion-dollar
       companies had repeat founders of at least one previously successful
       company. We serve as founder flywheels and help their teams scale success
-      and impact. 
+      and impact.
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars (super founders) to combine their life force energy and shine brighter together. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity.\U0001F31F"
 ---
-
