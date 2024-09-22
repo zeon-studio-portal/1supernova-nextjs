@@ -1,15 +1,24 @@
 const caseStudies = {
   label: 'Case Studies',
-  name: 'customer-story',
   name: 'customer_story',
   path: 'content/customer-story',
   format: 'mdx',
+  ui: {
+    filename: {
+      // if disabled, the editor can not edit the filename
+      readonly: true,
+      // Example of using a custom slugify function
+      slugify: (values) => {
+        return `${values?.title?.toLowerCase().replace(/ /g, '-')}`;
+      },
+    },
+  },
   fields: [
     {
       label: 'Title',
       name: 'title',
       type: 'string',
-      isTitle: true, // Marks this as the title in the editor UI
+      isTitle: true,
       required: true,
     },
     {
@@ -26,7 +35,6 @@ const caseStudies = {
           label: 'Title',
           name: 'title',
           type: 'string',
-          isTitle: true,
           required: true,
         },
         {
@@ -95,6 +103,20 @@ const caseStudies = {
       ],
     },
   ],
+  hooks: {
+    beforeCreate: async ({ document, filename }) => {
+      // Create a slug from the title for the filename
+      const slugifiedFilename = document.title
+        .toLowerCase()
+        .replace(/\s+/g, '-') // Replace spaces with hyphens
+        .replace(/[^a-z0-9\-]/g, ''); // Remove special characters
+
+      // Assign the slugified title as the filename
+      document.filename = `${slugifiedFilename}.mdx`;
+
+      return document;
+    },
+  },
 };
 
 export default caseStudies;
