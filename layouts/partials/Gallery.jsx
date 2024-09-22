@@ -17,14 +17,13 @@ const Gallery = ({ gallery }) => {
           {/* UPPER CAROUSEL */}
           {topList && (
             <div
-              class="inf-slider mb-4"
-              data-inf-slide-width=""
+              className="inf-slider mb-4"
               data-inf-scroll-speed="50"
               data-inf-direction="normal"
               data-inf-slide-pause-on-hover="true">
-              <div class="inf-slide-track gap-4">
+              <div className="inf-slide-track gap-4">
                 {topList.map((item, index) => (
-                  <div class="inf-slide" key={index}>
+                  <div className="inf-slide" key={index}>
                     <Image
                       src={item.image}
                       alt={item.alt}
@@ -40,14 +39,13 @@ const Gallery = ({ gallery }) => {
           {/* LOWER CAROUSEL */}
           {bottomList && (
             <div
-              class="inf-slider"
-              data-inf-slide-width="400px"
+              className="inf-slider"
               data-inf-scroll-speed="50"
               data-inf-direction="reverse"
               data-inf-slide-pause-on-hover="true">
-              <div class="inf-slide-track gap-4">
+              <div className="inf-slide-track gap-4">
                 {bottomList.map((item, index) => (
-                  <div class="inf-slide" key={index}>
+                  <div className="inf-slide" key={index}>
                     <Image
                       src={item.image}
                       alt={item.alt}
