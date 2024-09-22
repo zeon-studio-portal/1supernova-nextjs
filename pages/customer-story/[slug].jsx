@@ -1,11 +1,18 @@
 import Base from '@layouts/Baseof';
 import { getListPage, getSinglePage } from '@lib/contentParser';
-import { markdownify } from '@lib/utils/textConverter';
+import parseMDX from '@lib/utils/mdxParser';
 import CallToAction from '@partials/CallToAction';
 import Gallery from '@partials/Gallery';
+import shortcodes from '@shortcodes/all';
+import { MDXRemote } from 'next-mdx-remote';
 import Image from 'next/image';
 
-export default function CaseStudySingle({ caseStudy, cta, gallery }) {
+export default function CaseStudySingle({
+  caseStudy,
+  mdxContent,
+  cta,
+  gallery,
+}) {
   const { title, description } = caseStudy.frontmatter;
 
   const { clients, industry, company, location } =
@@ -20,16 +27,18 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
               <div className="mx-auto pb-10 lg:col-10">
                 <h1
                   className="text-center text-h3 font-medium md:text-h2"
-                  dangerouslySetInnerHTML={{ __html: caseStudy.frontmatter.information.title }}
+                  dangerouslySetInnerHTML={{
+                    __html: caseStudy.frontmatter.information.title,
+                  }}
                 />
               </div>
             )}
             <div className="col-12">
               <div className="row gy-4">
-                <div className="lg:col-9">
-                  <div className="flex min-h-full overflow-hidden rounded-lg md:rounded-2xl">
+                <div className="md:col-8 lg:col-9">
+                  <div className="relative size-full overflow-hidden rounded-lg md:rounded-2xl">
                     <Image
-                      className="min-h-full w-full object-cover object-left-bottom"
+                      className="size-full object-cover object-left-bottom md:absolute md:inset-0"
                       width={850}
                       height={450}
                       src={caseStudy.frontmatter.information.image}
@@ -37,7 +46,7 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
                     />
                   </div>
                 </div>
-                <div className="lg:col-3">
+                <div className="md:col-4 lg:col-3">
                   <div className="space-y-5 divide-y divide-white/10 rounded-xl bg-dark-quaternary p-7 md:p-10">
                     {clients && (
                       <div className="">
@@ -83,7 +92,9 @@ export default function CaseStudySingle({ caseStudy, cta, gallery }) {
         </div>
         <div className="mt-10 bg-dark-secondary  md:mt-20 md:p-10">
           <div className="container py-10 md:py-20">
-            {markdownify(caseStudy.content, 'div', 'content')}
+            <div className="content">
+              <MDXRemote {...mdxContent} components={shortcodes} />
+            </div>
           </div>
         </div>
       </section>
@@ -108,13 +119,16 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const caseStudies = await getSinglePage('content/customer-story');
-  const caseStudy = caseStudies.find((study) => study.slug === params.slug);
+  const caseStudy = caseStudies.find(
+    (study) => study.slug.toLowerCase() === params.slug.toLowerCase()
+  );
   const cta = await getListPage('content/sections/call-to-action.md');
   const gallery = await getListPage('content/sections/gallery.md');
-
+  const mdxContent = await parseMDX(caseStudy.content);
   return {
     props: {
       caseStudy,
+      mdxContent,
       cta,
       gallery,
     },

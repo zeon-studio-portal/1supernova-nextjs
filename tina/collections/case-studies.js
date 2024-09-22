@@ -64,7 +64,7 @@ const caseStudies = {
       isBody: true,
       templates: [
         {
-          name: 'Testimonial',
+          name: 'BlockQuote',
           label: 'Customer Review',
           fields: [
             {

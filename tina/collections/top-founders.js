@@ -60,6 +60,11 @@ const topFounders = {
           type: 'string',
         },
         {
+          label: 'Case Study Link',
+          name: 'case_study_link',
+          type: 'string',
+        },
+        {
           label: 'Brand Logo',
           name: 'brand_logo',
           type: 'object',

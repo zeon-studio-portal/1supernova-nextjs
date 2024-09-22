@@ -394,7 +394,7 @@
 
   @apply prose-img:max-w-full prose-img:rounded;
   @apply prose-p:text-light-primary;
-  @apply prose-blockquote:rounded-3xl prose-blockquote:border-none prose-blockquote:bg-dark-quaternary prose-blockquote:p-10 prose-blockquote:text-2xl prose-blockquote:not-italic;
+  @apply prose-blockquote:border-none  prose-blockquote:not-italic;
   @apply prose-pre:rounded-lg prose-pre:bg-dark-primary;
   @apply prose-code:px-1 prose-code:text-primary;
   @apply prose-strong:text-dark-primary;
@@ -405,30 +405,13 @@
   @apply prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px] prose-th:text-dark-primary;
   @apply prose-tr:border-light-tertiary;
   @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px];
-
-  blockquote {
-    @apply relative rounded-xl p-5 md:rounded-3xl md:p-9;
-    > p:first-child {
-      @apply m-0 mb-8 bg-gradient-text bg-clip-text text-h5 font-semibold leading-tight text-transparent before:hidden lg:text-h4/snug;
-    }
-    > p:nth-child(3),
-    > p:nth-child(4) {
-      @apply absolute bottom-[40px] left-24 inline-block text-base-sm md:bottom-[56px] md:left-28 md:text-base;
-    }
-    > p:nth-child(4) {
-      @apply bottom-8 text-xs before:-translate-y-1/2 before:rounded-full before:bg-secondary-600 before:content-[""] md:bottom-[42px] md:text-sm;
-    }
-    img {
-      @apply m-0 h-14 w-14 rounded-full object-cover;
-    }
-  }
 }
 
 .inf-slider {
-  @apply overflow-hidden relative w-full;
+  @apply relative w-full overflow-hidden;
   --slide-width: 420px;
   --slide-padding: 10px;
-  
+
   @media screen and (max-width: 768px) {
     --slide-width: 150px !important;
     --slide-padding: 10px;
@@ -445,7 +428,7 @@
     }
 
     .inf-slide {
-      @apply px-[var(--slide-padding)] w-[var(--slide-width)];
+      @apply w-[var(--slide-width)] px-[var(--slide-padding)];
     }
   }
 }
