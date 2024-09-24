@@ -39,7 +39,7 @@ lists:
     image: /images/paul-graf.jpg
     designation: CEO & Founder
     description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB (Series A)"
-    case_study_link: /customer-story/example-case-study
+    case_study_link: /customer-story/reel
     brand_logo:
       width: 100
       height: 71
