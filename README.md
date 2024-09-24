@@ -10,7 +10,7 @@
 ## Development Command
 
 ```
-npm run dev
+npm run dev 
 ```
 
 ## Build Command
