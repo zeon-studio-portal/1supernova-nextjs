@@ -30,7 +30,7 @@ lists:
     image: /images/BenLamm.jpg
     designation: CEO & Founder
     description: "World’s first de-extinction company \U0001F984 ($150MM+ Series B)"
-    case_study_link: /customer-story/deel
+    case_study_link: '#'
     brand_logo:
       width: 130
       height: 45
