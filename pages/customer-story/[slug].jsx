@@ -91,7 +91,7 @@ export default function CaseStudySingle({
           </div>
         </div>
         <div className="mt-10 bg-dark-secondary  md:mt-20 md:p-10">
-          <div className="container py-10 md:py-20">
+          <div className="container py-8">
             <div className="content">
               <MDXRemote {...mdxContent} components={shortcodes} />
             </div>
