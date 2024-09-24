@@ -8,11 +8,10 @@ import GoSupernova from '@partials/GoSupernova';
 import HowItWorks from '@partials/HowItWorks';
 import JoinCommunity from '@partials/JoinCommunity';
 import JoinSteps from '@partials/JoinSteps';
+import Mission from '@partials/Mission';
 import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
-import Mission from '@partials/Mission';
 import TopFounders from '@partials/TopFounders';
-import React from 'react';
 
 const Home = ({
   homepage,
@@ -26,7 +25,6 @@ const Home = ({
   join_community_page,
   faq_page,
 }) => {
-
   const { banner, founders, advisory, advisory_game } = homepage.frontmatter;
 
   return (
@@ -36,9 +34,9 @@ const Home = ({
       <Testimonials testimonials={testimonials_page} />
       <Mission mission={mission} />
       <AdvisoryGame advisory_game={advisory_game} />
+      <JoinSteps join_steps={join_steps_page} />
       <HowItWorks how_it_works={how_it_works_page} />
       <Superstars superstars={superstars_page} />
-      <JoinSteps join_steps={join_steps_page} />
       <TopFounders top_founders={top_founders_page} />
       <GoSupernova go_supernova={go_supernova_page} />
       <JoinCommunity join_community={join_community_page} />

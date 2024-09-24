@@ -39,8 +39,8 @@ items:
     designation: COO
     company: Healthy Young Minds
     quote: >-
-      After advising the CEO of HYM via Supernova, I joined as COO (startup
-      veteran: 9 of 11 Exits). 
+      After advising HYM via Supernova, I joined them as COO (startup veteran: 9
+      of 11 Exits). 
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
@@ -52,9 +52,7 @@ items:
     image: /images/1660074023770.jpeg
     designation: 'Founding Partner (2x named Midas List) '
     company: 'Mayfield VC ($3B under management) '
-    quote: >-
-      As a former tier-one VC, Supernova is now how I transfer my wisdom to
-      builders of a better world.
+    quote: Supernova is now how I transfer my wisdom to builders of a better world.
   - name: Gary Moon
     image: /images/testimonials/gary-moon.jpg
     designation: Managing Partner (Exited Founder)
