@@ -358,7 +358,7 @@
 .text {
   --bgColorOne: rgb(255, 255, 255);
   --bgColorTwo: rgb(57, 57, 57);
-  
+
   &-reveal-alternate {
     --bgColorOne: rgb(255, 255, 255);
     --bgColorTwo: rgb(57, 57, 57);
@@ -378,6 +378,66 @@
     background-position-x: 100%;
     background-clip: text;
 
-    @apply lg:text-transparent; 
+    @apply lg:text-transparent;
+  }
+}
+
+// content style
+.content {
+  @apply prose-p:text-base-sm prose-li:text-base-sm md:prose-p:text-base md:prose-li:text-base;
+  @apply prose max-w-none;
+  @apply prose-headings:mb-[.3em] prose-headings:mt-[1em] prose-headings:font-medium prose-headings:text-white;
+  @apply prose-h1:text-h1_sm/snug md:prose-h1:text-h1/snug;
+  @apply prose-h2:text-h2_sm/snug md:prose-h2:text-h2/snug;
+  @apply prose-h3:text-h3_sm/snug md:prose-h3:text-h3/snug;
+  @apply prose-p:text-light-tertiary prose-li:text-light-primary;
+
+  @apply prose-img:max-w-full prose-img:rounded;
+  @apply prose-p:text-light-primary;
+  @apply prose-blockquote:border-none  prose-blockquote:not-italic;
+  @apply prose-pre:rounded-lg prose-pre:bg-dark-primary;
+  @apply prose-code:px-1 prose-code:text-primary;
+  @apply prose-strong:text-dark-primary;
+  @apply prose-a:text-light-primary prose-a:underline hover:prose-a:text-primary;
+  @apply prose-li:pl-0 prose-li:font-medium prose-li:text-light-primary prose-li:marker:text-xl prose-li:marker:text-primary;
+  @apply prose-table:relative prose-table:overflow-hidden prose-table:rounded-lg prose-table:before:absolute prose-table:before:left-0 prose-table:before:top-0 prose-table:before:h-full prose-table:before:w-full prose-table:before:rounded-[inherit] prose-table:before:border prose-table:before:content-[""];
+  @apply prose-thead:border-light-tertiary prose-thead:bg-dark-primary;
+  @apply prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px] prose-th:text-dark-primary;
+  @apply prose-tr:border-light-tertiary;
+  @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px];
+}
+
+.inf-slider {
+  @apply relative w-full overflow-hidden;
+  --slide-width: 420px;
+  --slide-padding: 10px;
+
+  @media screen and (max-width: 768px) {
+    --slide-width: 150px !important;
+    --slide-padding: 10px;
+  }
+
+  .inf-slide-track {
+    @apply flex;
+    width: calc(var(--slides) * (var(--slide-width)));
+
+    animation: inf-scroll var(--speed) linear infinite;
+
+    &.reverse {
+      animation: inf-scroll var(--speed) linear infinite reverse;
+    }
+
+    .inf-slide {
+      @apply w-[var(--slide-width)] px-[var(--slide-padding)];
+    }
+  }
+}
+
+@keyframes inf-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-1 * var(--slides) * var(--slide-width)));
   }
 }

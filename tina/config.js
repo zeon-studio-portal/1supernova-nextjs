@@ -10,9 +10,12 @@ import index from './collections/index';
 import joinCommunity from './collections/join-community';
 import joinSteps from './collections/join-steps';
 import pages from './collections/pages';
+import caseStudies from './collections/case-studies';
 import superstars from './collections/superstars';
 import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
+import callToAction from './collections/call-to-action';
+import gallery from './collections/gallery';
 import mission from './collections/mission';
 
 export default defineConfig({
@@ -37,9 +40,12 @@ export default defineConfig({
     collections: [
       announcement,
       index,
-      aboutUs,
+      caseStudies,
       pages,
+      aboutUs,
       joinSteps,
+      callToAction,
+      gallery,
       faq,
       goSupernova,
       howItWorks,

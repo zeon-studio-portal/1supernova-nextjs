@@ -10,7 +10,7 @@ const TopFounders = ({ top_founders }) => {
           <div data-aos="fade-up-sm">
             <AnimatedText
               tag="h2"
-              className="font-medium mb-4"
+              className="mb-4 font-medium"
               content={top_founders.frontmatter.title}
             />
           </div>
@@ -29,23 +29,25 @@ const TopFounders = ({ top_founders }) => {
                 className="flex flex-col"
                 data-aos="fade-up-sm"
                 data-aos-delay={(index - 0.5) * 100}>
-                <div className="relative h-full overflow-hidden rounded-b-3xl rounded-t-3xl bg-[#2D2D2D]">
-                  <Image
-                    className="h-auto w-full max-w-full rounded-b-3xl rounded-t-3xl"
-                    src={item.image}
-                    alt={item.name}
-                    width={160}
-                    height={160}
-                  />
-                  <div className="px-2 py-5 sm:px-4">
-                    <p className="mb-2 text-lg font-semibold leading-snug sm:text-xl">
-                      {item.name}
-                    </p>
-                    <span className="block text-[16px] leading-snug">
-                      {item.designation}
-                    </span>
+                <a href={item.case_study_link}>
+                  <div className="relative h-full overflow-hidden rounded-b-3xl rounded-t-3xl bg-[#2D2D2D]">
+                    <Image
+                      className="h-auto w-full max-w-full rounded-b-3xl rounded-t-3xl"
+                      src={item.image}
+                      alt={item.name}
+                      width={160}
+                      height={160}
+                    />
+                    <div className="px-2 py-5 sm:px-4">
+                      <p className="mb-2 text-lg font-semibold leading-snug sm:text-xl">
+                        {item.name}
+                      </p>
+                      <span className="block text-[16px] leading-snug">
+                        {item.designation}
+                      </span>
+                    </div>
                   </div>
-                </div>
+                </a>
                 <div className="relative mx-auto mt-6 flex h-[55px] w-full max-w-[170px] items-center">
                   <Image
                     width={item.brand_logo.width}
