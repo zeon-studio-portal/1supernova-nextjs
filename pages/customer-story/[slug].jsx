@@ -44,7 +44,7 @@ export default function CaseStudySingle({
                         width={1200}
                         height={600}
                         className="size-full min-h-[250px]"
-                        src={`https://www.youtube.com/embed/${youtube_video_id}?playlist=${youtube_video_id}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=1&rel=0&modestbranding=0&playsinline=0&enablejsapi=1&start=0`}></iframe>
+                        src={`https://www.youtube.com/embed/${youtube_video_id}?playlist=${youtube_video_id}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=0`}></iframe>
                     ) : (
                       <Image
                         className="size-full object-cover object-left-bottom md:absolute md:inset-0"

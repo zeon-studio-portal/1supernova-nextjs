@@ -21,7 +21,7 @@ lists:
     image: /images/Roberto-Salcedo.jpg
     designation: 'CEO & Founder '
     description: "Smart micro financing for everyone \U0001F4B5. (Bootstrapped to $110MM+; Backed by YC)"
-    case_study_link: '#'
+    case_study_link: /customer-story/apollo-2
     brand_logo:
       width: 130
       height: 33
