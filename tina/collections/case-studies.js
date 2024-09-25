@@ -109,20 +109,6 @@ const caseStudies = {
       ],
     },
   ],
-  hooks: {
-    beforeCreate: async ({ document, filename }) => {
-      // Create a slug from the title for the filename
-      const slugifiedFilename = document.title
-        .toLowerCase()
-        .replace(/\s+/g, '-') // Replace spaces with hyphens
-        .replace(/[^a-z0-9\-]/g, ''); // Remove special characters
-
-      // Assign the slugified title as the filename
-      document.filename = `${slugifiedFilename}.mdx`;
-
-      return document;
-    },
-  },
 };
 
 export default caseStudies;
