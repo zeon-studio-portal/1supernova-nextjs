@@ -24,7 +24,7 @@ export default defineConfig({
     process.env.NEXT_PUBLIC_TINA_BRANCH || // custom branch env override
     process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF || // Vercel branch env
     process.env.HEAD || // Netlify branch env
-    'dev', // default branch
+    'main', // default branch
   token: process.env.TINA_TOKEN,
   media: {
     tina: {
