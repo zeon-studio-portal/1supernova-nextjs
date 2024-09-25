@@ -38,10 +38,16 @@ const caseStudies = {
           required: true,
         },
         {
-          label: 'Image',
+          label: 'Youtube Video ID',
+          name: 'youtube_video_id',
+          type: 'string',
+          required: false,
+        },
+        {
+          label: 'Or Image',
           name: 'image',
           type: 'image',
-          required: true,
+          required: false,
         },
         {
           label: 'Clients',

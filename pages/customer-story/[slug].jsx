@@ -15,7 +15,7 @@ export default function CaseStudySingle({
 }) {
   const { title, description } = caseStudy.frontmatter;
 
-  const { clients, industry, company, location } =
+  const { clients, industry, company, location, youtube_video_id } =
     caseStudy.frontmatter.information;
 
   return (
@@ -37,13 +37,23 @@ export default function CaseStudySingle({
               <div className="row gy-4">
                 <div className="md:col-8 lg:col-9">
                   <div className="relative size-full overflow-hidden rounded-lg md:rounded-2xl">
-                    <Image
-                      className="size-full object-cover object-left-bottom md:absolute md:inset-0"
-                      width={850}
-                      height={450}
-                      src={caseStudy.frontmatter.information.image}
-                      alt={caseStudy.frontmatter.information.title}
-                    />
+                    {youtube_video_id ? (
+                      <iframe
+                        loading="lazy"
+                        title="background video"
+                        width={1200}
+                        height={600}
+                        className="size-full min-h-[250px]"
+                        src={`https://www.youtube.com/embed/${youtube_video_id}?playlist=${youtube_video_id}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=0&playsinline=0&enablejsapi=1&start=0`}></iframe>
+                    ) : (
+                      <Image
+                        className="size-full object-cover object-left-bottom md:absolute md:inset-0"
+                        width={850}
+                        height={450}
+                        src={caseStudy.frontmatter.information.image || ''}
+                        alt={caseStudy.frontmatter.information.title}
+                      />
+                    )}
                   </div>
                 </div>
                 <div className="md:col-4 lg:col-3">
