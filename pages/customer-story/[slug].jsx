@@ -15,7 +15,7 @@ export default function CaseStudySingle({
 }) {
   const { title, description } = caseStudy.frontmatter;
 
-  const { clients, industry, company, location, youtube_video_id } =
+  const { stage, industry, company, location, youtube_video_id } =
     caseStudy.frontmatter.information;
 
   return (
@@ -58,12 +58,12 @@ export default function CaseStudySingle({
                 </div>
                 <div className="md:col-4 lg:col-3">
                   <div className="space-y-5 divide-y divide-white/10 rounded-xl bg-dark-quaternary p-7 md:p-10">
-                    {clients && (
+                    {stage && (
                       <div className="">
                         <p className="mb-2 text-base-sm opacity-80">Clients</p>
                         <p
                           className="text-h6"
-                          dangerouslySetInnerHTML={{ __html: clients }}
+                          dangerouslySetInnerHTML={{ __html: stage }}
                         />
                       </div>
                     )}

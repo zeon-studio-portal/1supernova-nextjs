@@ -50,8 +50,8 @@ const caseStudies = {
           required: false,
         },
         {
-          label: 'Clients',
-          name: 'clients',
+          label: 'Stage',
+          name: 'stage',
           type: 'string',
         },
         {
