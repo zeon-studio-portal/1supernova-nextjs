@@ -44,8 +44,8 @@ const caseStudies = {
           required: true,
         },
         {
-          label: 'Clients',
-          name: 'clients',
+          label: 'Company',
+          name: 'company',
           type: 'string',
         },
         {
@@ -54,8 +54,8 @@ const caseStudies = {
           type: 'string',
         },
         {
-          label: 'Company',
-          name: 'company',
+          label: 'Company Size',
+          name: 'companySize',
           type: 'string',
         },
         {
