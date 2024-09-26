@@ -63,7 +63,7 @@ const Advisory = ({ superstars }) => {
 
   return (
     superstars.frontmatter.enable === true && (
-      <section id="superstars" className="py-24">
+      <section id="superstars" className="mb-24 pt-24">
         <div className="container">
           <div className="text-center">
             <div data-aos="fade-up-sm">
@@ -89,7 +89,6 @@ const Advisory = ({ superstars }) => {
               )}
             </div>
           </div>
-
           <div
             className="mb-10 overflow-x-auto"
             data-aos="fade-in"

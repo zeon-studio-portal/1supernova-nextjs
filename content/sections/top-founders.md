@@ -21,7 +21,7 @@ lists:
     image: /images/Roberto-Salcedo.jpg
     designation: 'CEO & Founder '
     description: "Smart micro financing for everyone \U0001F4B5. (Bootstrapped to $110MM+; Backed by YC)"
-    case_study_link: '#'
+    case_study_link: ''
     brand_logo:
       width: 130
       height: 33
@@ -30,7 +30,7 @@ lists:
     image: /images/BenLamm.jpg
     designation: CEO & Founder
     description: "World’s first de-extinction company \U0001F984 ($150MM+ Series B)"
-    case_study_link: '#'
+    case_study_link: ''
     brand_logo:
       width: 130
       height: 45
@@ -39,10 +39,9 @@ lists:
     image: /images/paul-graf.jpg
     designation: CEO & Founder
     description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB (Series A)"
-    case_study_link: '#'
+    case_study_link: ''
     brand_logo:
       width: 100
       height: 71
       file: /images/hym.png
 ---
-

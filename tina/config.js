@@ -1,6 +1,9 @@
 import { defineConfig } from 'tinacms';
 import aboutUs from './collections/about-us';
+import callToAction from './collections/call-to-action';
+import caseStudies from './collections/case-studies';
 import faq from './collections/faq';
+import gallery from './collections/gallery';
 import announcement from './collections/global/announcement';
 import config from './collections/global/config';
 import menu from './collections/global/menu';
@@ -9,14 +12,11 @@ import howItWorks from './collections/how-it-works';
 import index from './collections/index';
 import joinCommunity from './collections/join-community';
 import joinSteps from './collections/join-steps';
+import mission from './collections/mission';
 import pages from './collections/pages';
-import caseStudies from './collections/case-studies';
 import superstars from './collections/superstars';
 import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
-import callToAction from './collections/call-to-action';
-import gallery from './collections/gallery';
-import mission from './collections/mission';
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
