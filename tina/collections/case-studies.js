@@ -50,8 +50,8 @@ const caseStudies = {
           required: false,
         },
         {
-          label: 'Company',
-          name: 'company',
+          label: 'Stage',
+          name: 'stage',
           type: 'string',
         },
         {
@@ -60,8 +60,8 @@ const caseStudies = {
           type: 'string',
         },
         {
-          label: 'Company Size',
-          name: 'companySize',
+          label: 'Company',
+          name: 'company',
           type: 'string',
         },
         {

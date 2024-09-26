@@ -15,7 +15,7 @@ export default function CaseStudySingle({
 }) {
   const { title, description } = caseStudy.frontmatter;
 
-  const { company, industry, companySize, location, youtubeVideoId } =
+  const { stage, industry, company, location, youtubeVideoId } =
     caseStudy.frontmatter.information;
 
   return (
@@ -47,7 +47,7 @@ export default function CaseStudySingle({
                         src={`https://www.youtube.com/embed/${youtubeVideoId}?playlist=${youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=0`}></iframe>
                     ) : (
                       <Image
-                        className="size-full object-cover object-left-bottom md:absolute md:inset-0"
+                        className="size-full object-cover object-left-top md:absolute md:inset-0"
                         width={850}
                         height={450}
                         src={caseStudy.frontmatter.information.image || ''}
@@ -58,12 +58,12 @@ export default function CaseStudySingle({
                 </div>
                 <div className="md:col-4 lg:col-3">
                   <div className="space-y-5 divide-y divide-white/10 rounded-xl bg-dark-quaternary p-7 md:p-10">
-                    {company && (
+                    {stage && (
                       <div className="">
                         <p className="mb-2 text-base-sm opacity-80">Company</p>
                         <p
                           className="text-h6"
-                          dangerouslySetInnerHTML={{ __html: company }}
+                          dangerouslySetInnerHTML={{ __html: stage }}
                         />
                       </div>
                     )}
@@ -85,14 +85,14 @@ export default function CaseStudySingle({
                         />
                       </div>
                     )}
-                    {companySize && (
+                    {company && (
                       <div className="pt-4">
                         <p className="mb-2 text-base-sm opacity-80">
                           Company Size
                         </p>
                         <p
                           className="text-h6"
-                          dangerouslySetInnerHTML={{ __html: companySize }}
+                          dangerouslySetInnerHTML={{ __html: company }}
                         />
                       </div>
                     )}
