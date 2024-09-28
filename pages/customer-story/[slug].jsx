@@ -110,8 +110,12 @@ export default function CaseStudySingle({ caseStudy, mdxContent }) {
           </div>
         </div>
       </section>
-      <Gallery gallery={caseStudy.frontmatter.gallery} />
-      <CallToAction cta={caseStudy.frontmatter.call_to_action} />
+      {caseStudy.frontmatter.gallery && (
+        <Gallery gallery={caseStudy.frontmatter.gallery} />
+      )}
+      {caseStudy.frontmatter.call_to_action && (
+        <CallToAction cta={caseStudy.frontmatter.call_to_action} />
+      )}
     </Base>
   );
 }
