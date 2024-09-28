@@ -36,7 +36,7 @@
     "remark-gfm": "^4.0.0",
     "scrolltrigger": "^1.0.1",
     "swiper": "^9.2.2",
-    "tinacms": "^1.6.2",
+    "tinacms": "^2.2.5",
     "use-count-up": "^3.0.1"
   },
   "devDependencies": {
