@@ -397,7 +397,7 @@
   @apply prose-blockquote:border-none  prose-blockquote:not-italic;
   @apply prose-pre:rounded-lg prose-pre:bg-dark-primary;
   @apply prose-code:px-1 prose-code:text-primary;
-  @apply prose-strong:text-dark-primary;
+  @apply prose-strong:text-secondary-200;
   @apply prose-a:text-light-primary prose-a:underline hover:prose-a:text-primary;
   @apply prose-li:pl-0 prose-li:font-medium prose-li:text-light-primary prose-li:marker:text-xl prose-li:marker:text-primary;
   @apply prose-table:relative prose-table:overflow-hidden prose-table:rounded-lg prose-table:before:absolute prose-table:before:left-0 prose-table:before:top-0 prose-table:before:h-full prose-table:before:w-full prose-table:before:rounded-[inherit] prose-table:before:border prose-table:before:content-[""];
