@@ -7,12 +7,7 @@ import shortcodes from '@shortcodes/all';
 import { MDXRemote } from 'next-mdx-remote';
 import Image from 'next/image';
 
-export default function CaseStudySingle({
-  caseStudy,
-  mdxContent,
-  cta,
-  gallery,
-}) {
+export default function CaseStudySingle({ caseStudy, mdxContent }) {
   const { title, description } = caseStudy.frontmatter;
 
   const { stage, industry, company, location, youtubeVideoId } =
@@ -20,7 +15,12 @@ export default function CaseStudySingle({
 
   return (
     <Base title={title} description={description}>
-      <section className="section-lg pt-10 md:pt-20">
+      <section
+        className={
+          caseStudy.frontmatter.gallery.enable
+            ? ' section-lg pt-10 md:pt-20'
+            : 'section-lg pb-0 pt-10 md:pt-20'
+        }>
         <div className="container">
           <div className="row">
             {caseStudy.frontmatter.information.title && (
@@ -110,8 +110,8 @@ export default function CaseStudySingle({
           </div>
         </div>
       </section>
-      <Gallery gallery={gallery} />
-      <CallToAction cta={cta} />
+      <Gallery gallery={caseStudy.frontmatter.gallery} />
+      <CallToAction cta={caseStudy.frontmatter.call_to_action} />
     </Base>
   );
 }

@@ -3,8 +3,15 @@ import 'swiper/css';
 import 'swiper/css/autoplay';
 
 const Gallery = ({ gallery }) => {
-  const { enable, title, topList, bottomList, galleryImageWidth, animationSpeedForTop, animationSpeedForBottom } =
-    gallery.frontmatter;
+  const {
+    enable,
+    title,
+    topList,
+    bottomList,
+    galleryImageWidth,
+    animationSpeedForTop,
+    animationSpeedForBottom,
+  } = gallery;
   return (
     enable && (
       <section className="section-lg pt-0">
@@ -32,7 +39,7 @@ const Gallery = ({ gallery }) => {
                       alt={item.alt}
                       width={404}
                       height={300}
-                      className=" w-full h-full rounded-md border border-light-quaternary object-cover"
+                      className=" h-full w-full rounded-md border border-light-quaternary object-cover"
                     />
                   </div>
                 ))}
@@ -45,7 +52,7 @@ const Gallery = ({ gallery }) => {
                       alt={item.alt}
                       width={404}
                       height={300}
-                      className=" w-full h-full rounded-md border border-light-quaternary object-cover"
+                      className=" h-full w-full rounded-md border border-light-quaternary object-cover"
                     />
                   </div>
                 ))}
@@ -69,7 +76,7 @@ const Gallery = ({ gallery }) => {
                       alt={item.alt}
                       width={404}
                       height={300}
-                      className="w-full h-full rounded-md border border-light-quaternary object-cover"
+                      className="h-full w-full rounded-md border border-light-quaternary object-cover"
                     />
                   </div>
                 ))}

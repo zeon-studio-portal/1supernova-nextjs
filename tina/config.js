@@ -1,9 +1,7 @@
 import { defineConfig } from 'tinacms';
 import aboutUs from './collections/about-us';
-import callToAction from './collections/call-to-action';
 import caseStudies from './collections/case-studies';
 import faq from './collections/faq';
-import gallery from './collections/gallery';
 import announcement from './collections/global/announcement';
 import config from './collections/global/config';
 import menu from './collections/global/menu';
@@ -44,8 +42,6 @@ export default defineConfig({
       pages,
       aboutUs,
       joinSteps,
-      callToAction,
-      gallery,
       faq,
       goSupernova,
       howItWorks,

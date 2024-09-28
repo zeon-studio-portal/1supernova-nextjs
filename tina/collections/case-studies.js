@@ -72,6 +72,121 @@ const caseStudies = {
       ],
     },
     {
+      label: 'Gallery',
+      name: 'gallery',
+      type: 'object',
+      fields: [
+        {
+          label: 'Enable',
+          name: 'enable',
+          type: 'boolean',
+        },
+        {
+          label: 'Image Width',
+          name: 'galleryImageWidth',
+          type: 'string',
+        },
+        {
+          label: 'Top Images Animation Speed',
+          name: 'animationSpeedForTop',
+          type: 'string',
+        },
+        {
+          label: 'Bottom Images Animation Speed',
+          name: 'animationSpeedForBottom',
+          type: 'string',
+        },
+        {
+          label: 'Top List',
+          name: 'topList',
+          type: 'object',
+          list: true,
+          fields: [
+            {
+              label: 'Image',
+              name: 'image',
+              type: 'image',
+            },
+            {
+              label: 'Alt Text',
+              name: 'alt',
+              type: 'string',
+            },
+          ],
+          ui: {
+            itemProps: (item) => {
+              return { label: `${item?.alt || 'Image'}` };
+            },
+          },
+        },
+        {
+          label: 'Bottom List',
+          name: 'bottomList',
+          type: 'object',
+          list: true,
+          fields: [
+            {
+              label: 'Image',
+              name: 'image',
+              type: 'image',
+            },
+            {
+              label: 'Alt Text',
+              name: 'alt',
+              type: 'string',
+            },
+          ],
+          ui: {
+            itemProps: (item) => {
+              return { label: `${item?.alt || 'Image'}` };
+            },
+          },
+        },
+      ],
+    },
+    {
+      label: 'Call To Action',
+      name: 'call_to_action',
+      type: 'object',
+      fields: [
+        {
+          label: 'Enable',
+          name: 'enable',
+          type: 'boolean',
+        },
+        {
+          label: 'Title',
+          name: 'title',
+          type: 'string',
+          ui: {
+            component: 'textarea',
+          },
+        },
+        {
+          label: 'Button',
+          name: 'button',
+          type: 'object',
+          fields: [
+            {
+              label: 'Enable Button',
+              name: 'enable',
+              type: 'boolean',
+            },
+            {
+              label: 'Link',
+              name: 'link',
+              type: 'string',
+            },
+            {
+              label: 'Label',
+              name: 'label',
+              type: 'string',
+            },
+          ],
+        },
+      ],
+    },
+    {
       type: 'rich-text',
       name: 'body',
       label: 'Body of Document',

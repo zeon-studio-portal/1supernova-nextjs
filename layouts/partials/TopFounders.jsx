@@ -45,7 +45,7 @@ const TopFounders = ({ top_founders }) => {
                               <a
                                 href={item.case_study_link}
                                 className="btn-sm mt-10 rounded-xl bg-primary-600 text-sm font-medium transition-colors duration-300 hover:bg-primary-800">
-                                Learn More
+                                Read Case Study
                               </a>
                             )}
                         </div>
@@ -77,6 +77,14 @@ const TopFounders = ({ top_founders }) => {
                     alt={item.name}
                   />
                 </div>
+
+                {item.case_study_link && item.case_study_link !== '#' && (
+                  <a
+                    href={item.case_study_link}
+                    className="btn-sm mt-4 rounded-xl bg-primary-600 text-sm font-medium transition-colors duration-300 hover:bg-primary-800">
+                    Read Case Study
+                  </a>
+                )}
                 {item.description && (
                   <div className="mt-3 px-2 text-[15px] text-light-quaternary">
                     {item.description}
