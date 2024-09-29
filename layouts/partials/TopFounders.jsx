@@ -26,7 +26,7 @@ const TopFounders = ({ top_founders }) => {
             {top_founders.frontmatter.lists.map((item, index) => (
               <div
                 key={index}
-                className="flex flex-col"
+                className="flex flex-col items-center"
                 data-aos="fade-up-sm"
                 data-aos-delay={(index - 0.5) * 100}>
                 <div className="group relative overflow-hidden rounded-b-3xl rounded-t-3xl bg-[#2D2D2D]">
@@ -77,6 +77,11 @@ const TopFounders = ({ top_founders }) => {
                     alt={item.name}
                   />
                 </div>
+                {item.description && (
+                  <div className="mt-4 px-2 text-[15px] text-light-quaternary">
+                    {item.description}
+                  </div>
+                )}
 
                 {item.case_study_link && item.case_study_link !== '#' && (
                   <a
@@ -84,11 +89,6 @@ const TopFounders = ({ top_founders }) => {
                     className="btn-sm mt-4 rounded-xl bg-primary-600 text-sm font-medium transition-colors duration-300 hover:bg-primary-800">
                     Read Case Study
                   </a>
-                )}
-                {item.description && (
-                  <div className="mt-3 px-2 text-[15px] text-light-quaternary">
-                    {item.description}
-                  </div>
                 )}
               </div>
             ))}
