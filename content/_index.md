@@ -4,7 +4,7 @@ banner:
   subtitle: >-
     Scaling your startup is hard, but it doesn't have to be. Team up with
     successfully exited founders who guide your success. ⭐ 
-  background_youtube_video_id: Mq61xLTDdGI
+  background_youtube_video_id: YHkg4k7gnDA
   quote:
     title: 'Without my advisors, I wouldn’t have'
     items:
