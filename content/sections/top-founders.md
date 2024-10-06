@@ -12,7 +12,7 @@ lists:
     image: /images/k-fantauzzi.jpg
     designation: 'CEO & Founder '
     description: "First vibration therapy system clinically proven to lower stress \U0001F9D8\U0001F3FB‍♀️. ($30MM+ Series A)"
-    case_study_link: /customer-story/apollo
+    case_study_link: /casestudy/apollo
     brand_logo:
       width: 130
       height: 29

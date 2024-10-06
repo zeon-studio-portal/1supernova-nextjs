@@ -1,7 +1,7 @@
 const caseStudies = {
   label: 'Case Studies',
-  name: 'customer_story',
-  path: 'content/customer-story',
+  name: 'Case_Studies',
+  path: 'content/casestudy',
   format: 'mdx',
   ui: {
     filename: {

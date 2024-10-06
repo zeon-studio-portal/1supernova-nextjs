@@ -121,7 +121,7 @@ export default function CaseStudySingle({ caseStudy, mdxContent }) {
 }
 
 export async function getStaticPaths() {
-  const caseStudies = await getSinglePage('content/customer-story');
+  const caseStudies = await getSinglePage('content/casestudy');
 
   const paths = caseStudies.map((caseStudy) => ({
     params: { slug: caseStudy.slug },
@@ -134,7 +134,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const caseStudies = await getSinglePage('content/customer-story');
+  const caseStudies = await getSinglePage('content/casestudy');
   const caseStudy = caseStudies.find(
     (study) => study.slug.toLowerCase() === params.slug.toLowerCase()
   );
