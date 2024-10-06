@@ -44,6 +44,12 @@ const caseStudies = {
           required: false,
         },
         {
+          label: 'Youtube Video Start Time (In Seconds)',
+          name: 'youtubeVideoStartTime',
+          type: 'string',
+          required: false,
+        },
+        {
           label: 'Or Image',
           name: 'image',
           type: 'image',

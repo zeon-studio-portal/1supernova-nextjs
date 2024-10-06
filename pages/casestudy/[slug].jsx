@@ -10,7 +10,7 @@ import Image from 'next/image';
 export default function CaseStudySingle({ caseStudy, mdxContent }) {
   const { title, description } = caseStudy.frontmatter;
 
-  const { stage, industry, company, location, youtubeVideoId } =
+  const { stage, industry, company, location, youtubeVideoId, youtubeVideoStartTime } =
     caseStudy.frontmatter.information;
 
   return (
@@ -44,7 +44,7 @@ export default function CaseStudySingle({ caseStudy, mdxContent }) {
                         width={1200}
                         height={600}
                         className="size-full min-h-[250px]"
-                        src={`https://www.youtube.com/embed/${youtubeVideoId}?playlist=${youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=0`}></iframe>
+                        src={`https://www.youtube.com/embed/${youtubeVideoId}?playlist=${youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=${youtubeVideoStartTime || 0}`}></iframe>
                     ) : (
                       <Image
                         className="size-full object-cover object-left-top md:absolute md:inset-0"
