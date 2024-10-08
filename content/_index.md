@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Growth Stage Accelerator for Scaleups ✨
+  title: We Back Your Mission to Scale Growth & Impact ✨
   subtitle: ' Supernova is a tier-one growth stage accelerator with a successful track record scaling companies to unicorns.'
   quote: >-
     Your turnkey team of exited founders transfer their collective wisdom,
