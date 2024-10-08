@@ -8,7 +8,7 @@ info: >-
   href="https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
   target="_blank">here <span class="sr-only">to contact with us</a>.
 lists:
-  - title: Founder
+  - title: Scaleups
     icon: /images/community/01.svg
     content: >-
       **Are you a founder** of a bootstrapped or VC-backed Scaleup (minimum $5MM
