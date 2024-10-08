@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Exited Founder Community ✨
+title: Exited Founder Community
 subtitle: Over 150+ exited founders ready to serve your company as all-star teams.
 quote: >-
   We orbit around your needs as bespoke advisors, mentors, ceo coaches and
