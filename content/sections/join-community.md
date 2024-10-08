@@ -19,7 +19,7 @@ lists:
   - title: Advisor
     icon: /images/community/02.svg
     content: >-
-      **Are you an exited founder** ready to join forces to share the upside in
+      **Are you an exited founder** ready to join forces for stellar results in
       one thriving portfolio? 
     button:
       label: Let’s Talk
