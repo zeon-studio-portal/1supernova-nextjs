@@ -2,8 +2,8 @@
 banner:
   title: Scale With Exited Founders
   subtitle: >-
-    Scaling your startup is hard, but it doesn't have to be. Team up with
-    successfully exited founders who guide your success. ⭐ 
+    Scaling your startup is hard, but it doesn't have to be. Team up with our
+    exited founders for a one year accelerator. ⭐ 
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     title: 'Without my advisors, I wouldn’t have'
