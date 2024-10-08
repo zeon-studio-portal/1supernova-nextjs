@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Portfolio
+title: Portfolio Superstars
 subtitle: We proudly back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
