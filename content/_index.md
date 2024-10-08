@@ -34,8 +34,8 @@ advisory:
   title: We Back Rising Stars For Conscious Growth & Impact ✨
   subtitle: ' Supernova is a tier-one growth stage accelerator with a successful track record scaling companies to unicorns.'
   quote: >-
-    We are a private community of 150+ exited founders who advise and invest in
-    world-changing companies for sustainable growth and impact. ✨
+    We are a private community of 150+ exited founders who mentor, advise and
+    invest in world-changing companies for stellar growth and impact. ✨
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
