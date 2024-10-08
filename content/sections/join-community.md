@@ -24,7 +24,7 @@ lists:
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
-  - title: VCs
+  - title: Investor
     icon: /images/community/03.svg
     content: >-
       **Are you an investor** ready to share deal flow and supercharge your
