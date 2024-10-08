@@ -16,11 +16,11 @@ lists:
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
-  - title: Advisor
+  - title: Exited Founder
     icon: /images/community/02.svg
     content: >-
       **Are you an exited founder** ready to join forces with a peer group
-      sharing upside in a thriving portfolio? 
+      advising and investing in a thriving portfolio? 
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
