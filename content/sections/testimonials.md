@@ -1,6 +1,6 @@
 ---
 enable: true
-title: What they are saying ...
+title: What they are saying
 subtitle: 'The WOW factor is real when exited founders share their superpowers. '
 items:
   - name: JT Marino
