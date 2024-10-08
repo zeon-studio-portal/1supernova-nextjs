@@ -35,8 +35,7 @@ advisory:
   subtitle: ' Supernova is a tier-one growth stage accelerator with a successful track record scaling companies to unicorns.'
   quote: >-
     We are a private community of 150+ exited founders teaming up to back
-    world-changing companies with smart capital, advisory teams and elite
-    talent. 
+    world-changing companies to achieve their missions, faster. 
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
