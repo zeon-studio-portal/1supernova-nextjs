@@ -265,15 +265,15 @@ team:
         Jumpstart (Exit to Tagged.com), Evite.com (Exit to Ticketmaster). COO at
         LaunchCapital. 
     content: >
-      Jonathan Shambroom is the COO of INTO, a stealth new venture-backed
-      startup. For 25 years in San Francisco, he has held operational and
-      executive roles in 10 tech startups (CreatorPlus, Switchfly, Beam, Zozi,
-      Zego, Ning, Crackle, Jumpstart, Evite, WhenPF.Magic), primarily in
-      consumer media and entertainment, of which 8 were VC backed and acquired.
-      His investing experience includes nearly 2 years as COO of a seed stage
-      family office, managing internal operations, overseeing a portfolio of
-      150+ companies, leading his own investments, and serving on boards.
-      Jonathan also co-founded his own investment firm with two other GPs.
+      Jonathan Shambroom is the COO of Health Young Minds. For 25 years in San
+      Francisco, he has held operational and executive roles in 10 tech startups
+      (CreatorPlus, Switchfly, Beam, Zozi, Zego, Ning, Crackle, Jumpstart,
+      Evite, WhenPF.Magic), primarily in consumer media and entertainment, of
+      which 8 were VC backed and acquired. His investing experience includes
+      nearly 2 years as COO of a seed stage family office, managing internal
+      operations, overseeing a portfolio of 150+ companies, leading his own
+      investments, and serving on boards. Jonathan also co-founded his own
+      investment firm with two other GPs.
   - name: Peter Kellner
     image: /images/PeterKellner.jpg
     department:
