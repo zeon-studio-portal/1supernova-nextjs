@@ -32,7 +32,7 @@ founders:
 advisory:
   enable: true
   title: 'We mentor, advise and invest in Scaleups '
-  subtitle: ' Supernova is a tier-one growth stage catalyst with a successful track record scaling companies to unicorns.'
+  subtitle: ' Supernova has a successful track record scaling growth-stage companies to unicorns.'
   quote: >-
     We are a private community of 150+ exited founders who mentor, advise and
     invest in world-changing companies for stellar growth and impact. ✨
