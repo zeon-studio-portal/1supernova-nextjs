@@ -34,8 +34,8 @@ advisory:
   title: 'We invest, advise and mentor Scaleups'
   subtitle: ' Supernova has a successful track record scaling growth-stage companies to unicorns and beyond. '
   quote: >-
-    We are a private community of 150+ exited founders who mentor, advise and
-    invest in world-changing companies for stellar growth and impact. ✨
+    We are a private community of 150+ exited founders who back world-changing
+    companies for stellar growth and impact. ✨
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
