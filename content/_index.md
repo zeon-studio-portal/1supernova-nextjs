@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: We invest in Scaleups ($5MM+ Revenues)
+  title: 'We mentor, advise and invest in Scaleups '
   subtitle: ' Supernova is a tier-one growth stage catalyst with a successful track record scaling companies to unicorns.'
   quote: >-
     We are a private community of 150+ exited founders who mentor, advise and
