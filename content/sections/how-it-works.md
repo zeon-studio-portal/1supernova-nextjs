@@ -19,7 +19,7 @@ process:
   - name: "02 - Assemble \U0001FAF6"
     content: >
       We back you with a team of successfully exited founders who transfer their
-      wisdom, experience, resources, and networks.
+      collective wisdom, experience, resources, and networks.
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
