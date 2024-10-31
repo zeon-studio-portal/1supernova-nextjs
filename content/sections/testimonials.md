@@ -39,7 +39,7 @@ items:
     designation: COO
     company: Healthy Young Minds
     quote: >-
-      After advising HYM via Supernova, I joined them as COO (startup veteran: 9
+      I joined the portfolio company I advised via Supernova (startup veteran: 9
       of 11 Exits). 
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
