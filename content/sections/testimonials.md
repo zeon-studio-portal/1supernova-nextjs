@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying
-subtitle: 'The WOW factor is real when exited founders share their superpowers. '
+subtitle: 'The WOW factor is real when exited founders combine their superpowers. '
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
