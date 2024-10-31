@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: 'We mentor, advise and invest in Scaleups '
+  title: 'We mentor, advise and invest in Scaleups'
   subtitle: ' Supernova has a successful track record scaling growth-stage companies to unicorns.'
   quote: >-
     We are a private community of 150+ exited founders who mentor, advise and
