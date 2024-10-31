@@ -45,7 +45,7 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: Startups Chosen Yearly
+    - title: Scaleups Chosen Yearly
       number: 12
       suffix: ''
     - title: Exited Founders
