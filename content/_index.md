@@ -61,8 +61,8 @@ advisory_game:
   enable: true
   title: Wisdom is more valuable than gold
   subtitle: >-
-    With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
-    accelerator for Scaleups. 
+    With a 90+ Net Promoter Score (NPS) Supernova is the highest rated advisor
+    for Scaleups. 
   quote: We Help You Make Million Dollar Decisions
   nps_score: /images/nps-score.svg
   nps_score_mobile: /images/nps-score-mobile.svg
