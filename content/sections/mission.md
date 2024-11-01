@@ -18,8 +18,8 @@ headings:
       backed by elite VCs want more output from stakeholders.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
-      Supernova is a tier-one fund run by 150+ exited founders teaming up to
-      significantly improve success rates of Scaleups ($5MM to $100MM+) that go
-      the distance.
+      Supernova is a smart capital fund run by 150+ exited founders teaming up
+      to significantly improve success rates of Scaleups ($5MM to $100MM+) that
+      go the distance.
 ---
 
