@@ -59,7 +59,7 @@ advisory:
       suffix: +
 advisory_game:
   enable: true
-  title: Wisdom is more valuable than gold
+  title: Wisdom is > valuable than gold
   subtitle: >-
     With a 90+ Net Promoter Score (NPS) Supernova is the highest rated advisor
     for Scaleups. 
