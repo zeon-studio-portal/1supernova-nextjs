@@ -5,7 +5,7 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
-  - question: What is a growth stage accelerator?
+  - question: What is so special about Supernova?
     answer: >-
       If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
@@ -90,3 +90,4 @@ lists:
   - question: Why is it called Supernova?
     answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars (super founders) to combine their life force energy and shine brighter together. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity.\U0001F31F"
 ---
+
