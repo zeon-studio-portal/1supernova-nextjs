@@ -45,8 +45,8 @@ lists:
       beyond.
   - question: What if I don’t have time for Supernova?
     answer: >-
-      Our guiding North Star is TIME. We don't waste time - yours, your team, or
-      our exited founders! In fact, we invented advisory-as-a-serviceTM to
+      Our guiding North Star is TIME. We don't waste time - yours, your teams,
+      or our exited founders! In fact, we invented advisory-as-a-serviceTM to
       formalize and streamline elite mentorship and advisory services. We begin
       by matching each exited founder from Supernova to a member of your C-level
       team. For example, your CMO is supported by a successfully exited founder
