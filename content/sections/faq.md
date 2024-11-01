@@ -35,13 +35,14 @@ lists:
   - question: How much does Supernova invest?
     answer: >-
       What Y-Combinator is to early-stage startups, Supernova is to Scaleups. 
-      We are true 'growth stage accelerators' and every portfolio company
-      receives a check and time from 5 successfully exited founders and/or Super
-      founders (previous exit of $50MM+) who team up to help accelerate company
-      milestones. As the saying goes, wisdom is more precious than gold and it's
-      our commitment to transfer our experience, especially for million-dollar
-      decisions. We are the top-rated 'advisory-as-a-service' (90%+ NPS) with a
-      proven record of scaling startups to unicorn status.
+      Every portfolio company receives a check (amounts range from $100K-$1MM+),
+      and more importantly 5 successfully exited founders and/or Super founders
+      (previous exit of $50MM+) who team up and get hands-on to help accelerate
+      company milestones. As the saying goes, wisdom is more precious than gold
+      and it's our commitment to transfer our experience, especially for
+      million-dollar decisions. We are the top-rated 'advisory-as-a-service'
+      (90%+ NPS) with a proven record of scaling startups to unicorn status and
+      beyond.
   - question: What if I don’t have time for Supernova?
     answer: >-
       Our guiding North Star is TIME. We don't waste time - yours, your team, or
