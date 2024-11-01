@@ -59,7 +59,7 @@ advisory:
       suffix: +
 advisory_game:
   enable: true
-  title: Wisdom Is Our Difference
+  title: Wisdom Makes A Difference
   subtitle: >-
     With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
     advisory-as-a-service for Scaleups. 
