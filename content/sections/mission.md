@@ -18,7 +18,7 @@ headings:
       backed by elite VCs want more output from stakeholders.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
-      Supernova is a game changer run by 150+ exited founders teaming up to
+      Supernova is your game changer run by 150+ exited founders teaming up to
       significantly improve success rates of Scaleups ($5MM to $100MM+) that go
       the distance.
 ---
