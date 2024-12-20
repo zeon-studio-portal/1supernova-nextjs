@@ -55,7 +55,7 @@ advisory:
       number: 92
       suffix: ''
     - title: Exit Value ($ Billion)
-      number: 10
+      number: 11
       suffix: +
 advisory_game:
   enable: true
