@@ -12,9 +12,7 @@ features:
       **Our vision** is to serve as guiding lights (illuminating the dark side
       of startup life). ✨
   - icon: /images/go-supernova/03.svg
-    content: >-
-      **Our mission**  accelerate the realization of the founder's vision – from
-      the only perspective that truly understands, as founders ourselves.
+    content: "**Our mission** is to help world-changing companies achieve their missions, faster. \U0001F680"
   - icon: /images/go-supernova/02.svg
     content: >-
       **Our purpose** unite and ignite the world's most powerful creators to
