@@ -9,8 +9,8 @@ quote: We are a conscious cooperative of founders invested in each other’s suc
 features:
   - icon: /images/go-supernova/01.svg
     content: >-
-      **Our vision** is to serve as guiding lights (illuminating the dark side
-      of startup life). ✨
+      **Our vision** serve as guiding lights (illuminating the dark side of
+      startup life). ✨
   - icon: /images/go-supernova/03.svg
     content: "**Our mission** is to help world-changing companies achieve their missions, faster. \U0001F680"
   - icon: /images/go-supernova/02.svg
