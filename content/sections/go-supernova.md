@@ -14,8 +14,6 @@ features:
   - icon: /images/go-supernova/03.svg
     content: "**Our mission** is to help world-changing companies achieve their missions, faster. \U0001F680"
   - icon: /images/go-supernova/02.svg
-    content: >-
-      **Our purpose** unite and ignite the world's most powerful creators to
-      combine superpowers for stellar results and impact.
+    content: "**Our purpose** is to accelerate the realization of the founder’s vision - from the only perspective that truly understands, as founders ourselves. \U0001F4C8"
 ---
 
