@@ -12,7 +12,7 @@ features:
       **Our vision** light up the Supernova's of the world — bold creators who
       illuminate a path toward a better future for all.
   - icon: /images/go-supernova/03.svg
-    content: "**Our mission** help world-changing companies achieve their missions, faster. \U0001F680"
+    content: "**Our mission**  is to help world-changing companies achieve their missions, faster. \U0001F680"
   - icon: /images/go-supernova/02.svg
     content: '**Our purpose** is to serve as guiding lights. '
 ---
