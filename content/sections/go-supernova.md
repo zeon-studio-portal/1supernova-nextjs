@@ -7,7 +7,7 @@ subtitle: >-
 video_url: 'https://youtu.be/G2SqSljZBy4?si=SE85NX7Mo_rw7JaP'
 quote: We are a conscious cooperative of founders invested in each other’s success
 features:
-  - icon: /images/go-supernova/01.svg
+  - icon: /images/star.svg
     content: >-
       **Our vision** is to guide the world's brightest founders, empowering them
       to scale their dreams into a supernova of impact that lights up the
