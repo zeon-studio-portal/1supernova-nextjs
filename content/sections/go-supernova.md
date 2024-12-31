@@ -13,8 +13,8 @@ features:
       dreams into a supernova of impact. 
   - icon: /images/go-supernova/01.svg
     content: >-
-      **Our mission**   is to collaborate with conscious entrepreneurs of
-      world-changing companies to achieve their missions, faster.
+      **Our mission**   is to collaborate with world-changing companies to
+      achieve their missions, faster.
   - icon: /images/go-supernova/02.svg
     content: >-
       **Our purpose**  is to accelerate the realization of the founder’s vision
