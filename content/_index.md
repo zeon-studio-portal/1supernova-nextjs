@@ -35,7 +35,7 @@ advisory:
   subtitle: ' Supernova has a successful track record scaling growth-stage companies to unicorns and beyond. '
   quote: >-
     We are 150+ exited founders teaming up with world-changing companies to
-    scale growth and impact for oversized outcomes. ✨
+    scale growth and impact for oversized outcomes.✨
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png
