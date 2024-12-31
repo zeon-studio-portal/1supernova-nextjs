@@ -14,7 +14,7 @@ features:
   - icon: /images/go-supernova/03.svg
     content: >-
       **Our mission**  is to collaborate with conscious entrepreneurs of
-      world-changing companies to achieve their missions, faster. 
+      world-changing companies to achieve their missions, faster.
   - icon: /images/go-supernova/02.svg
     content: >-
       **Our purpose** is to accelerate the realization of the founder’s vision -
