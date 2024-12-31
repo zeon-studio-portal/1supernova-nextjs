@@ -19,6 +19,6 @@ features:
   - icon: /images/go-supernova/02.svg
     content: >-
       **Our purpose** is to accelerate the realization of the founder’s vision -
-      from the only perspective that truly understands, as founders ourselves.⏱️
+      from the only perspective that truly understands, as founders ourselves.
 ---
 
