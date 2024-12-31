@@ -10,7 +10,8 @@ features:
   - icon: /images/go-supernova/01.svg
     content: >-
       **Our vision** is to guide the world's brightest founders, empowering them
-      to scale their dreams into a supernova of impact. 
+      to scale their dreams into a supernova of impact that lights up the
+      world. 
   - icon: /images/go-supernova/03.svg
     content: >-
       **Our mission**  is to collaborate with conscious entrepreneurs of
