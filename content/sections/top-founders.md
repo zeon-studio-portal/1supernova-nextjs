@@ -29,7 +29,7 @@ lists:
   - name: Ben Lamm
     image: /images/BenLamm.jpg
     designation: CEO & Founder
-    description: "World’s first de-extinction company \U0001F984 ($150MM+ Series B)"
+    description: "World’s first de-extinction company \U0001F984 ($200MM+ Series C; $10B+ Decacorn Status)"
     case_study_link: ''
     brand_logo:
       width: 130
