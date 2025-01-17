@@ -20,8 +20,8 @@ items:
     designation: CEO & Co-founder (6x Exits)
     company: 'Colossal ($200M Series C: $10B Valuation)'
     quote: >-
-      Colossal achieved decacorn status in just 4 years! They advise me, and I
-      help others via them.
+      Supernova scales startups into success stories! They advise me, and I help
+      others via them.
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
     designation: CEO & Founder
