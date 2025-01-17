@@ -18,7 +18,7 @@ items:
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
-    company: 'Colossal Biosciences ($200M Series C: $10B Valuation)'
+    company: 'Colossal ($200M Series C: $10B Valuation)'
     quote: >-
       Like SpaceX, Open AI we're decacorn status! They advise me, and I help
       others via them.
