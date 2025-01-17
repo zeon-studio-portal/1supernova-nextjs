@@ -20,7 +20,7 @@ items:
     designation: CEO & Co-founder (6x Exits)
     company: 'Colossal Biosciences ($200M Series C: $10B Valuation)'
     quote: >-
-      Like SpaceX, Open AI we're now a decacorn! They advise me, and I help
+      Like SpaceX, Open AI we're decacorn status! They advise me, and I help
       others via them.
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
