@@ -13,7 +13,7 @@ items:
     designation: 'CEO & Founder '
     company: 'Jive (Exited) '
     quote: >-
-      Supernova is a quantum leap in expert guidance for growth-stage
+      Supernova is a quantum leap in advisory support for growth-stage
       companies. 
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
