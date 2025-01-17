@@ -18,10 +18,10 @@ items:
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
-    company: Colossal Biosciences ($150M Series B)
+    company: 'Colossal Biosciences ($200M Series C: $10B Valuation)'
     quote: >-
-      Supernova scales startups into unicorns. They advise me and I help others
-      via them.
+      Like SpaceX, Open AI we're now a decacorn! They advise me, and I help
+      others via them.
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
     designation: CEO & Founder
