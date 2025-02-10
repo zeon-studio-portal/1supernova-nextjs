@@ -2,9 +2,8 @@
 banner:
   title: Scale With Exited Founders
   subtitle: >-
-    Supernova is a smart capital impact fund run by 150+ exited founders who get
-    hands-on as tiger teams to back ScaleUps to achieve their missions, faster.
-    ⭐ 
+    Supernova is a smart capital impact fund run by 150+ exited founders who
+    back ScaleUps to achieve their missions, faster. ⭐ 
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     title: 'Without Supernova, I wouldn’t have'
