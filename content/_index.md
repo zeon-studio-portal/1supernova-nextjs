@@ -36,7 +36,7 @@ advisory:
   quote: >-
     We are 150+ exited founders joining forces as tiger teams, mentors,
     advisors, and investors in world-changing companies. <br>By sharing our
-    collective wisdom, resources, and networks, we create oversized
+    collective wisdom, resources, & networks, we create oversized
     outcomes—together.✨
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
