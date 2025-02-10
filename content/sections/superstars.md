@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Exited Founder Community
+title: 'All Stars: Exited Founders'
 subtitle: Over 150+ exited founders ready to serve your company as all-star teams.
 quote: >-
   We orbit around your needs as operating advisors, mentors, coaches and interim
