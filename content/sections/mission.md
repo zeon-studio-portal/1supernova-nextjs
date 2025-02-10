@@ -14,8 +14,8 @@ headings:
       Scaleups succeed or fail based on hitting timely milestones. Many get
       stuck bridging capital rounds (Series A to C) or burn out before achieving
       a sizeable exit, IPO, or market leadership. Meanwhile, 97% of VCs claim
-      they are 'value added' investors. Only 31% of Founders agree. Even
-      startups backed by elite VCs want more output from stakeholders.
+      they are 'value added' investors. Only 31% of Founders agree. Supernova
+      fills this gap with exited founders getting hands-on for speed-to-value.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova is a smart capital impact fund run by 150+ exited founders
