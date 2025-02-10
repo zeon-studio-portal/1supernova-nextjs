@@ -2,8 +2,9 @@
 banner:
   title: Scale With Exited Founders
   subtitle: >-
-    Scaling your startup is hard, but it doesn't have to be. Team up with exited
-    founders who back you for shared success. ⭐ 
+    Supernova is a smart capital impact fund run by 150+ exited founders who get
+    hands-on as tiger teams to back ScaleUps to achieve their missions, faster.
+    ⭐ 
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     title: 'Without my advisors, I wouldn’t have'
