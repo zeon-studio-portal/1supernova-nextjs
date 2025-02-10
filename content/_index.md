@@ -7,7 +7,7 @@ banner:
     ⭐ 
   background_youtube_video_id: YHkg4k7gnDA
   quote:
-    title: 'Without my advisors, I wouldn’t have'
+    title: 'Without Supernova, I wouldn’t have'
     items:
       - '"maintained my sanity.” '
       - '"landed our whale customer.”'
