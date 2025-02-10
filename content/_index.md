@@ -33,7 +33,7 @@ founders:
 advisory:
   enable: true
   title: 'We mentor, advise and invest in Scaleups'
-  subtitle: ' Supernova has a successful track record scaling growth-stage companies to zebras, unicorns & decacorns. '
+  subtitle: ' Supernova has a successful track record scaling growth-stage companies to zebra, unicorn & decacorn status. '
   quote: >-
     We are an smart capital impact fund run by 150+ exited founders teaming up
     with world-changing companies to scale growth and impact.✨
