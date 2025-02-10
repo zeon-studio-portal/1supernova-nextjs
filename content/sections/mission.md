@@ -15,7 +15,7 @@ headings:
       stuck bridging capital rounds (Series A to C) or burn out before achieving
       a sizeable exit, IPO, or market leadership. Meanwhile, 97% of VCs claim
       they are 'value added' investors. Only 31% of Founders agree. Supernova
-      fills this gap! Exited founders get hands-on (speed-to-value).
+      fills this gap! Exited founders get hands-on for speed-to-value.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova is a smart capital impact fund run by 150+ exited founders
