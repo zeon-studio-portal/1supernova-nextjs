@@ -3,7 +3,7 @@ banner:
   title: Scale With Exited Founders
   subtitle: >-
     Supernova is 150+ exited founders mentoring, advising and investing in
-    ScaleUps. ⭐ 
+    world-changing companies. ⭐ 
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     title: 'Without Supernova, I wouldn’t have'
