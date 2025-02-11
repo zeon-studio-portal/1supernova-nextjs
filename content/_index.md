@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: 'We mentor, advise and invest in Scaleups'
+  title: Are you ready to go Supernova?
   subtitle: ' Supernova has a proven track record successfully scaling companies to zebra, unicorn & decacorn status. '
   quote: >-
     We are 150+ exited founders joining forces as tiger teams, mentors,
