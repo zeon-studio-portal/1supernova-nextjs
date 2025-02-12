@@ -4,9 +4,8 @@ main_image: /images/pvc.png
 comparison_image: /images/comparison.png
 testimonial:
   content: >
-    "Every founder needs a team that sees their blind spots, challenges their
-    thinking, and pushes them toward greatness. We are that team. We’re in your
-    corner, always."
+    "Skip the guesswork. Learn from founders who’ve already played—and won—the
+    game."
   customer_avatar: /images/ChristopherStaley.jpg
   customer_name: Christopher Staley
   customer_profession: CO-FOUNDER OF SUPERNOVA
