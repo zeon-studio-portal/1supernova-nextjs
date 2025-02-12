@@ -21,7 +21,7 @@ headings:
     description: >
       Supernova's exited founders significantly improve success rates of
       Scaleups ($5MM to $100MM+) that go the distance. Big exits. Bigger impact.
-      We’ve built, scaled, and exited—now we're backing you to do the same. 
-      Let’s build something legendary—together.
+      We’ve built, scaled, and exited—now it's your turn.  Let’s build something
+      legendary—together.
 ---
 
