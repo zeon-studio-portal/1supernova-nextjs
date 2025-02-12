@@ -18,10 +18,10 @@ headings:
       they are 'value added' investors. Only 31% of Founders agree. Supernova
       fills this gap! Exited founders get hands-on for speed-to-value.
   - title: '**ANSWER:** SUPERNOVA'
-    description: >
+    description: >-
       Supernova's exited founders significantly improve success rates of
       Scaleups ($5MM to $100MM+) that go the distance.  We’ve built, scaled, and
       exited—now it's your turn. Big exits. Bigger impact. Let’s build something
-      legendary—together.
+      legendary—together. ⭐
 ---
 
