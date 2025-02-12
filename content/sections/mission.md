@@ -3,8 +3,10 @@ enable: true
 main_image: /images/pvc.png
 comparison_image: /images/comparison.png
 testimonial:
-  content: |
-    "We help companies achieve their missions, faster."
+  content: >
+    "Every founder needs a team that sees their blind spots, challenges their
+    thinking, and pushes them toward greatness. We are that team. We’re in your
+    corner, always."
   customer_avatar: /images/ChristopherStaley.jpg
   customer_name: Christopher Staley
   customer_profession: CO-FOUNDER OF SUPERNOVA
