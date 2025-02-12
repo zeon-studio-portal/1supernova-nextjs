@@ -20,8 +20,8 @@ headings:
   - title: '**ANSWER:** SUPERNOVA'
     description: >
       Supernova's exited founders significantly improve success rates of
-      Scaleups ($5MM to $100MM+) that go the distance. We’ve built, scaled, and
-      exited—now we’re backing you to do the same. Big exits. Bigger impact.
+      Scaleups ($5MM to $100MM+) that go the distance. Big exits. Bigger impact.
+      We’ve built, scaled, and exited—now we're backing you to do the same. 
       Let’s build something legendary—together.
 ---
 
