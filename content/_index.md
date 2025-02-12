@@ -32,7 +32,9 @@ founders:
 advisory:
   enable: true
   title: Are you ready to go Supernova?
-  subtitle: ' Supernova has a proven track record successfully scaling companies to zebra, unicorn & decacorn status. '
+  subtitle: >-
+    Supernova has a proven track record of scaling companies to zebra, unicorn,
+    and decacorn status.
   quote: >-
     We are 150+ exited founders joining forces as tiger teams, mentors,
     advisors, and investors in world-changing companies. <br>By sharing our
