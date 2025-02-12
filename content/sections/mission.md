@@ -18,7 +18,7 @@ headings:
       fills this gap! Exited founders get hands-on for speed-to-value.
   - title: '**ANSWER:** SUPERNOVA'
     description: >
-      Supernova is 150+ exited founders teaming up to significantly improve
-      success rates of Scaleups ($5MM to $100MM+) that go the distance.
+      Supernova's exited founders significantly improve success rates of
+      Scaleups ($5MM to $100MM+) that go the distance.
 ---
 
