@@ -4,8 +4,8 @@ main_image: /images/pvc.png
 comparison_image: /images/comparison.png
 testimonial:
   content: >
-    "Skip the guesswork. Learn from founders who’ve already played—and won—the
-    game."
+    "Skip the guesswork. Learn from successful founders who’ve already
+    played—and won—the game."
   customer_avatar: /images/ChristopherStaley.jpg
   customer_name: Christopher Staley
   customer_profession: CO-FOUNDER OF SUPERNOVA
