@@ -31,7 +31,7 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: Are you ready to go Supernova?
+  title: 'Are you ready to go Supernova? '
   subtitle: >-
     Supernova has a proven track record of scaling companies to “<a
     href="https://1supernova.com/#portfolio" target=**_blank**>zebra</a>”, “<a
