@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Scale With Exited Founders.
+  title: Scale With Exited Founders
   subtitle: >-
     Supernova is 150+ exited founders teaming up to mentor, advise & invest in
     world-changing companies for oversized impact. ⭐ 
