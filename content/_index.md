@@ -34,9 +34,9 @@ advisory:
   title: 'Are you ready to go Supernova? '
   subtitle: >-
     Supernova has a proven track record of scaling companies to “<a
-    href="https://1supernova.com/#portfolio" target=_blank>zebra</a>”, “<a
-    href="https://1supernova.com/#portfolio" target=_blank>unicorn</a>”, and “<a
-    href="https://1supernova.com/#portfolio" target=_blank>decacorn</a>” status.
+    href="https://1supernova.com/#portfolio" target=_blank class="link-yellow">zebra</a>”, “<a
+    href="https://1supernova.com/#portfolio" target=_blank class="link-yellow">unicorn</a>”, and “<a
+    href="https://1supernova.com/#portfolio" target=_blank class="link-yellow">decacorn</a>” status.
   quote: >-
     We are 150+ exited founders joining forces as tiger teams, mentors,
     advisors, and investors in world-changing companies. <br>By sharing our
