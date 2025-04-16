@@ -441,3 +441,8 @@
     transform: translateX(calc(-1 * var(--slides) * var(--slide-width)));
   }
 }
+
+.link-yellow {
+  color: theme('colors.secondary.800');
+  text-decoration: underline;
+}

@@ -1,7 +1,7 @@
 ---
 enable: true
 title: What they are saying
-subtitle: 'The WOW factor is real when exited founders combine their superpowers. '
+subtitle: What's possible when exited founders combine their superpowers?
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
@@ -13,14 +13,14 @@ items:
     designation: 'CEO & Founder '
     company: 'Jive (Exited) '
     quote: >-
-      Supernova is a quantum leap in expert guidance for growth-stage
+      Supernova is a quantum leap in advisory support for growth-stage
       companies. 
   - name: Ben Lamm
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
-    company: Colossal Biosciences ($150M Series B)
+    company: 'Colossal ($200M Series C: $10B Valuation)'
     quote: >-
-      Supernova scales startups into unicorns. They advise me and I help others
+      Supernova scales startups successfully! They advise me, and I help others
       via them.
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg

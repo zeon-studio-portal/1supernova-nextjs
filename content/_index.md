@@ -2,11 +2,11 @@
 banner:
   title: Scale With Exited Founders
   subtitle: >-
-    Scaling your startup is hard, but it doesn't have to be. Team up with exited
-    founders who back you for shared success. ⭐ 
+    Supernova is 150+ exited founders teaming up to mentor, advise & invest in
+    world-changing companies for oversized impact. ⭐ 
   background_youtube_video_id: YHkg4k7gnDA
   quote:
-    title: 'Without my advisors, I wouldn’t have'
+    title: 'Without Supernova, I wouldn’t have'
     items:
       - '"maintained my sanity.” '
       - '"landed our whale customer.”'
@@ -31,11 +31,19 @@ founders:
     - /images/founders/vistage.svg
 advisory:
   enable: true
-  title: 'We invest, advise and mentor Scaleups'
-  subtitle: ' Supernova has a successful track record scaling growth-stage companies to unicorns and beyond. '
+  title: 'Are you ready to go Supernova? '
+  subtitle: >-
+    Supernova has a proven track record of scaling companies to <a
+    href="https://1supernova.com/#portfolio" target=_blank
+    class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
+    target=_blank class="link-yellow">unicorn</a>, and <a
+    href="https://1supernova.com/#portfolio" target=_blank
+    class="link-yellow">decacorn</a> status.
   quote: >-
-    We are 150+ exited founders joining forces with world-changing companies to
-    scale growth and impact. ✨
+    We are 150+ exited founders joining forces as tiger teams, mentors,
+    advisors, and investors in world-changing companies. <br>By sharing our
+    collective wisdom, resources, & networks, we create oversized
+    outcomes—together.✨
   services_image: /images/advisory/services.svg
   services_image_mobile: /images/advisory/services-mobile.svg
   founder_image: /images/Founder.png

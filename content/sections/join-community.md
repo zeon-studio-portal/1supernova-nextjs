@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Join our Community
-subtitle: We are aligning the stars to shine brighter together as constellations.✨
+title: Let's Build Together
+subtitle: We believe in a more collaborative world.✨
 info: >-
   Don’t fit into any of these categories, but still want to work together?
   Contact us <a
