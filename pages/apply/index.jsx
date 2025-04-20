@@ -2,15 +2,9 @@ import Base from '@layouts/Baseof';
 import { getListPage } from '@lib/contentParser';
 import Banner from '@partials/Banner';
 import Faq from '@partials/Faq';
-import GoSupernova from '@partials/GoSupernova';
-import HowItWorks from '@partials/HowItWorks';
 import HowItWorksAboutPage from '@partials/HowItWorksAboutPage';
-import JoinCommunity from '@partials/JoinCommunity';
-import JoinSteps from '@partials/JoinSteps';
 import JoinSupernovaNetwork from '@partials/JoinSupernovaNetwork';
-import Mission from '@partials/Mission';
 import PathsToSuccess from '@partials/PathsToSuccess';
-import TopFounders from '@partials/TopFounders';
 import UploadAndApply from '@partials/UploadAndApply';
 import WhoCanApply from '@partials/WhoCanApply';
 import WhyChooseSupernova from '@partials/WhyChooseSupernova';
@@ -70,14 +64,14 @@ const Home = ({
       {/* Why Supernova Exists */}
 
       {/* FAQ */}
-      <Mission mission={mission} />
+      {/* <Mission mission={mission} /> */}
       {/* <AdvisoryGame advisory_game={advisory_game} /> */}
-      <JoinSteps join_steps={join_steps_page} />
-      <HowItWorks how_it_works={how_it_works_page} />
-      <TopFounders top_founders={top_founders_page} />
+      {/* <JoinSteps join_steps={join_steps_page} /> */}
+      {/* <HowItWorks how_it_works={how_it_works_page} /> */}
+      {/* <TopFounders top_founders={top_founders_page} /> */}
 
-      <GoSupernova go_supernova={go_supernova_page} />
-      <JoinCommunity join_community={join_community_page} />
+      {/* <GoSupernova go_supernova={go_supernova_page} /> */}
+      {/* <JoinCommunity join_community={join_community_page} /> */}
       <Faq faq={faq_page} />
     </Base>
   );
