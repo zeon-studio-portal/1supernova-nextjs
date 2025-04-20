@@ -9,10 +9,11 @@ import JoinCommunity from '@partials/JoinCommunity';
 import JoinSteps from '@partials/JoinSteps';
 import JoinSupernovaNetwork from '@partials/JoinSupernovaNetwork';
 import Mission from '@partials/Mission';
-import Superstars from '@partials/Superstars';
+import PathsToSuccess from '@partials/PathsToSuccess';
 import TopFounders from '@partials/TopFounders';
 import UploadAndApply from '@partials/UploadAndApply';
 import WhoCanApply from '@partials/WhoCanApply';
+import WhyChooseSupernova from '@partials/WhyChooseSupernova';
 
 const Home = ({
   homepage,
@@ -32,6 +33,8 @@ const Home = ({
     upload_and_apply,
     unlock_access,
     who_should_apply,
+    paths_to_success,
+    why_choose_supernova,
     founders,
     advisory,
     advisory_game,
@@ -54,10 +57,13 @@ const Home = ({
       <WhoCanApply data={who_should_apply} />
 
       {/* Your Path to Supernova Success */}
+      <PathsToSuccess data={paths_to_success} />
 
       {/* Why Founders Choose Supernova */}
+      <WhyChooseSupernova data={why_choose_supernova} />
 
       {/* Read Case Study */}
+      {/* <CaseStudyFeatured data={top_founders_page} /> */}
 
       {/* CTA */}
 
@@ -69,7 +75,7 @@ const Home = ({
       <JoinSteps join_steps={join_steps_page} />
       <HowItWorks how_it_works={how_it_works_page} />
       <TopFounders top_founders={top_founders_page} />
-      <Superstars superstars={superstars_page} />
+
       <GoSupernova go_supernova={go_supernova_page} />
       <JoinCommunity join_community={join_community_page} />
       <Faq faq={faq_page} />

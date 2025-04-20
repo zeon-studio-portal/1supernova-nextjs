@@ -227,5 +227,90 @@ who_should_apply:
       enable: true
       label: Apply Now
       link: '#'
+
+paths_to_success:
+  enable: true
+  title: Paths to Success
+  subtitle: >-
+    Supernova is a community of founders who have been in your shoes. We know what it takes to build, scale, and exit a company. 
+    We’re here to help you navigate the path to success.
+  lists:
+    - title: "**01** Founder Scorecard"
+      description: >-
+        Quick evaluation of your startup's potential and growth opportunities.
+      image: "/images/paths_to_success/image.png" 
+      badge:
+        text: "Complimentary Assessment"
+        color: "#B27A00FF"
+        
+    - title: "**02** STAR Program"
+      description: >-
+        Direct mentorship from a single exited founder focused on your specific needs.
+      image: "/images/paths_to_success/image-1.png" 
+      badge:
+        text: "Unlock Level 1"
+        color: "#1B88B0FF"
+        
+    - title: "**03** Performance"
+      description: >-
+        Engagement deepens as your startup achieves key milestones.
+      image: "/images/paths_to_success/image-2.png" 
+      badge:
+        text: "Unlock Key Milestones"
+        color: "#19AF9DFF"
+      subitems:
+        - "Unlock Level 2"
+        - "Unlock Level 3"
+        
+    - title: "**04** All-Star Team"
+      description: >-
+        Quick evaluation of your startup's potential and growth opportunities.
+      image: "/images/paths_to_success/image-3.png"
+      badge:
+        text: "Unlock Key Milestones"
+        color: "#1B88B0FF"
+        
+    - title: "**05** Supernova Impact"
+      description: >-
+        Direct mentorship from a single exited founder focused on your specific needs.
+      image: "/images/paths_to_success/image-4.png" # (placeholder)
+      badge:
+        text: "Unlock Level 2"
+        color: "#EF767A"
+        
+    - title: "**06** Elite Ecosystem"
+      description: >-
+        Access to a powerful network of funders, operators, and talent.
+      image: "/images/paths_to_success/image-5.png" # (placeholder)
+      badge:
+        text: "Go Supernova"
+        color: "#C856C7"
+
+why_choose_supernova:
+  enable: true
+  title: ✨Why Founders Choose Supernova✨
+  subtitle: >-
+    Supernova isn’t a network of career ceo coaches, operators or board members —it’s a hand-selected community of 150+ exited founders who have built, scaled, and sold companies and want to help the next generation of world-changing startups win bigger and faster.Here’s why top founders choose to unlock growth with Supernova:
+  lists:
+      
+    - icon: "/images/why-choose-supernova/rocket.svg"
+      title: You Get Access to the Playbooks of Exited Founders
+      description: We don’t theorize—we execute. Our advisors have actually built companies from scratch, raised capital, scaled operations, and exited. You get real-world, battle-tested strategies, not outdated startup clichés. 
+
+    - icon: "/images/why-choose-supernova/target.svg"
+      title: Results-Driven, Not Time-Draining
+      description: No endless coffee chats, no low-value advisory boards. We work in high-impact sprints, unlocking deeper engagement as we create results together.  
+
+    - icon: "/images/why-choose-supernova/engagement.svg"
+      title: Performance-Based Engagement
+      description: Unlike traditional advisors who take equity and vanish, we structure short-term, high-value engagements that grow with you based on traction and impact.
+
+    - icon: "/images/why-choose-supernova/global.svg"
+      title: A Global Elite Ecosytem of Proven Talent
+      description: Supernova isn't just one advisor—you tap into a high-caliber ecosystem of funders, founders, operators, executive talent and agencies who can accelerate
+
+    - icon: "/images/why-choose-supernova/right-time.svg"
+      title: The Right Help, at the Right Time
+      description: We match you with the right advisors at the right stage—so you're getting help from people who have already solved the exact challenges you're facing.
 ---
 
