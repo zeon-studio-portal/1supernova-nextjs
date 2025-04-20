@@ -11,6 +11,10 @@
   }
 }
 
+.btn-secondary {
+  @apply bg-light-tertiary text-dark-primary hover:bg-light-secondary;
+}
+
 .btn-border-gradient {
   position: relative;
   z-index: 1;
@@ -23,7 +27,7 @@
     #c14ecf 82.93%
   );
   &::after {
-    content: "";
+    content: '';
     position: absolute;
     z-index: -1;
     top: 1px;
