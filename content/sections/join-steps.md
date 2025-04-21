@@ -12,7 +12,7 @@ list_colors:
   - '#C856C7'
 lists:
   - name: Apply
-    content: We accept 12 startups each year to Supernova.
+    content: Upload your deck and show us why your company is changing the game.
   - name: Assemble
     content: We match you with exited founders who back you.
   - name: Activate
