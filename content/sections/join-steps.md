@@ -12,7 +12,9 @@ list_colors:
   - '#C856C7'
 lists:
   - name: Apply
-    content: Upload your pitch deck to get a scorecard summary from exited founders.
+    content: >-
+      Upload your pitch deck to get your free scorecard with benchmarks from
+      exited founders.
   - name: Scorecard
     content: >-
       We send you a scorecard and summary if quality for Supernova's advisory
