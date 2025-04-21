@@ -24,7 +24,7 @@ process:
       enable: true
       label: "Exited Founders Back You \U0001F680"
       link: 'https://1supernova.com/#superstars'
-  - name: 03 - Access to exited founders ✨
+  - name: 03 - Matching ✨
     content: >-
       You will receive complimentary call(s) with vetted exited founders who can
       add immediate value to your business. 
