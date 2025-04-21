@@ -18,8 +18,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >
-      We will send you a custom scorecard within 48-hours with a insights on
-      where you stand and what you need to level up. 
+      We review your deck and send you a scorecard within 48-hours with insights
+      from exited founders. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
