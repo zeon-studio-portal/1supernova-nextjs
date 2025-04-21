@@ -15,7 +15,7 @@ lists:
     content: Upload your pitch deck to see if you qualify for Supernova.
   - name: Scorecard
     content: >-
-      Get your free founder scorecard to see where you measure up to unlock
+      Get your free founder scorecard to see where you measure up and unlock
       access to Supernova.
   - name: Matching
     content: >-
