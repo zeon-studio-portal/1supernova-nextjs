@@ -24,10 +24,10 @@ process:
       enable: true
       label: "Exited Founders Back You \U0001F680"
       link: 'https://1supernova.com/#superstars'
-  - name: 03 - Accelerate ✨
+  - name: 03 - Access to exited founders ✨
     content: >-
-      We accelerate speed-to-value by installing elite talent, methods, systems,
-      and technology to derisk and game success.
+      You will recieve complimentary call(s) with vetted exited founders who can
+      add immediate value to your business. 
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
