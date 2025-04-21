@@ -32,10 +32,10 @@ process:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
       link: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
-  - name: "04 - Achieve \U0001F3AF"
+  - name: 04 - STAR ⭐
     content: >
-      We are all-in on achieving your company's next major milestone with a
-      shared upside in your outcomes.
+      You can choose to hire an exited founder as your mentor/advisor under our
+      STAR (Short-Term Advisory Relationship).
     button:
       enable: true
       label: "Read FAQs \U0001F680"
