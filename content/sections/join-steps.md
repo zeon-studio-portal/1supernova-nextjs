@@ -25,8 +25,8 @@ lists:
       solve your biggest challenges or size opportunities. 
   - name: Advisory
     content: >-
-      Exited founders get hands-on to solve your biggest challenges or seize
-      opportunities.
+      You start with one superstar exited founder who gets hand-on in
+      accelerating key milestones.
   - name: Funding
     content: >-
       Investment backed by an exited founder tiger team leading to oversized
