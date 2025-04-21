@@ -20,7 +20,9 @@ lists:
       We send you a scorecard and summary if quality for Supernova's advisory
       and/or funding.
   - name: Matching
-    content: We match you with exited founders who back you.
+    content: >-
+      We match you with exited founders for complimentary call(s) who can help
+      solve your biggest challenges or size opportunities. 
   - name: Advisory
     content: >-
       Exited founders get hands-on to solve your biggest challenges or seize
