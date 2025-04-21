@@ -43,8 +43,7 @@ process:
   - name: "05 - Funding \U0001F4B0"
     content: >-
       We invest $100,000-$250,000 checks in 10-12 world-changing companies each
-      year for our portfolio and back them with an all-star team of exited
-      founders.
+      year and back them with a tiger team of exited founders.
     button:
       enable: true
       label: "See Reviews \U0001F680"
