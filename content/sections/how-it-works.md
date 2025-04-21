@@ -18,8 +18,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >-
-      We review your deck and send you a scorecard based on benchmarks from
-      exited founders.
+      We will review your deck and send you a custom scorecard rated by exited
+      founders.
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
