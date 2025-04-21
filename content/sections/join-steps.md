@@ -19,8 +19,10 @@ lists:
       and/or advisory.
   - name: Matching
     content: We match you with exited founders who back you.
-  - name: Achieve
-    content: We hold your advisors to higher levels of excellence.
+  - name: Advisory
+    content: >-
+      Exited founders get hands-on to solve your biggest challanges or
+      opportunities.
   - name: Award
     content: We earn equity based on merit for shared success.
 ---
