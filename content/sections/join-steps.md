@@ -12,7 +12,7 @@ list_colors:
   - '#C856C7'
 lists:
   - name: Apply
-    content: Upload your deck and show us why your company is changing the game.
+    content: Upload your pitch deck to get a scorecard summary from exited founders.
   - name: Scorecard
     content: >-
       We send you a scorecard and share a summary if you quality for our fund
