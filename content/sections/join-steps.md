@@ -16,7 +16,7 @@ lists:
   - name: Scorecard
     content: >-
       Get your free founder scorecard to see where you stand and unlock access
-      to Supernova's platform.
+      to Supernova.
   - name: Matching
     content: >-
       We match you with the right exited founders for complimentary calls who
