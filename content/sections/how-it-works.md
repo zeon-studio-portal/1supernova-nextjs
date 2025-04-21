@@ -18,7 +18,7 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >-
-      We review your deck and send you a scorecard based on our benchmarks from
+      We review your deck and send you a scorecard based on benchmarks from
       exited founders.
     button:
       enable: true
