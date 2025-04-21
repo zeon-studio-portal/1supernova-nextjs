@@ -4,7 +4,7 @@ title: How it works
 quote:
   enable: true
   content: >-
-    “Every successful founder knows the secret to success is all about the right
+    “Successful founders know the secret to success is all about the right
     relationships.”
   quote_by: 'Barry Stamos, CEO & Co-founder SUPERNOVA'
 process:
