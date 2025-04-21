@@ -40,7 +40,7 @@ process:
       enable: true
       label: "Read FAQs \U0001F680"
       link: 'https://1supernova.com/#faqs'
-  - name: "05 - Fund \U0001F4B0"
+  - name: "05 - Funding \U0001F4B0"
     content: >-
       We invest $100-250K checks in 10-12 world-changing companies and back them
       with an all-star team of exited founders.
