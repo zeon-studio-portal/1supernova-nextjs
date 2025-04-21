@@ -21,7 +21,7 @@ lists:
     content: We match you with exited founders who back you.
   - name: Advisory
     content: >-
-      Exited founders get hands-on to solve your biggest challanges or
+      Exited founders get hands-on to solve your biggest challenges or
       opportunities.
   - name: Award
     content: We earn equity based on merit for shared success.
