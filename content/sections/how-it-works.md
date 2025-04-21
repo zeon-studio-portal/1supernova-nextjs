@@ -35,7 +35,7 @@ process:
   - name: 04 - Advisory ⭐
     content: >
       You may choose to hire one superstar exited founder as your mentor/advisor
-      to your team under our STAR (Short-Term Advisory Relationship) agreement.
+      to your team under our STAR (Short-Term Advisory Relationship) agreement. 
     button:
       enable: true
       label: "Read FAQs \U0001F680"
