@@ -20,7 +20,7 @@ lists:
   - name: Matching
     content: >-
       We match you with vetted exited founders for complimentary call(s) to
-      problem solve and capitalize on opportunities. 
+      problem solve and seize opportunities. 
   - name: Advisory
     content: >-
       You select one superstar exited founder who gets hand-on for
