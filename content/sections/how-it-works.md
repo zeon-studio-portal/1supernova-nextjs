@@ -2,7 +2,7 @@
 enable: true
 title: How it works
 quote:
-  enable: false
+  enable: true
   content: >-
     “Every leader knows the secret to success is being in the right
     relationships.”
