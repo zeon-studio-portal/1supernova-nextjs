@@ -26,7 +26,7 @@ process:
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Access to exited founders ✨
     content: >-
-      You will recieve complimentary call(s) with vetted exited founders who can
+      You will receive complimentary call(s) with vetted exited founders who can
       add immediate value to your business. 
     button:
       enable: true
