@@ -27,7 +27,7 @@ process:
   - name: 03 - Matching ✨
     content: >-
       You may receive complimentary call(s) with vetted exited founders who can
-      address one of your biggest challenges or opportunities. 
+      address your biggest challenges or opportunities. 
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
