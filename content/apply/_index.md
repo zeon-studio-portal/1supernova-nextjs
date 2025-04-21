@@ -1,27 +1,16 @@
 ---
 banner:
-  title: Scale With Exited Founders
+  title: Join Forces with Exited Founders Who've Built, Scaled & Sold **Now It's Your Turn**
   subtitle: >-
-    Supernova is 150+ exited founders teaming up to mentor, advise & invest in
-    world-changing companies for oversized impact. ⭐ 
+    You're Not Just Building a Business—You're Changing the World. Let's Make It Happen Faster.
   background_youtube_video_id: YHkg4k7gnDA
-  quote:
-    title: 'Without Supernova, I wouldn’t have'
-    items:
-      - '"maintained my sanity.” '
-      - '"landed our whale customer.”'
-      - '"scored our lead investor.”'
-      - '"scaled faster than I dreamed.”'
-      - '"had the right people in my corner."'
-      - '"exited at higher multiples.”'
-      - '"massively impacted humanity."'
-      - '"manifested my dream."'
-      - '"found my freedom."'
+  
   video_button:
+    enable: false
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
   founders:
-    title: "We \U0001F90D Scaleups "
+    title: "Top founders collaborate across communities: "
     brands:
       - /images/founders/ypo.svg
       - /images/founders/y-combinator.svg
@@ -29,52 +18,13 @@ banner:
       - /images/Endeavor_logo_white-sm.png
       - /images/hampton-logo-white.png
       - /images/founders/vistage.svg
-  advisory:
+ 
+  button:
     enable: true
-    title: 'Are you ready to go Supernova? '
-    subtitle: >-
-      Supernova has a proven track record of scaling companies to <a
-      href="https://1supernova.com/#portfolio" target=_blank
-      class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
-      target=_blank class="link-yellow">unicorn</a>, and <a
-      href="https://1supernova.com/#portfolio" target=_blank
-      class="link-yellow">decacorn</a> status.
-    quote: >-
-      We are 150+ exited founders joining forces as tiger teams, mentors,
-      advisors, and investors in world-changing companies. <br>By sharing our
-      collective wisdom, resources, & networks, we create oversized
-      outcomes—together.✨
-    services_image: /images/advisory/services.svg
-    services_image_mobile: /images/advisory/services-mobile.svg
-    founder_image: /images/Founder.png
-    facts_colors:
-      - '#2caffb'
-      - '#5BD9AD'
-      - '#fb9f71'
-      - '#ca58c5'
-    facts:
-      - title: Scaleups Chosen Yearly
-        number: 12
-        suffix: ''
-      - title: Exited Founders
-        number: 150
-        suffix: +
-      - title: NPS Score
-        number: 92
-        suffix: ''
-      - title: Exit Value ($ Billion)
-        number: 11
-        suffix: +
-  advisory_game:
-    enable: true
-    title: Wisdom Makes A Difference
-    subtitle: >-
-      With a 90+ Net Promoter Score (NPS) Supernova is the highest rated
-      advisory-as-a-service for Scaleups. 
-    quote: We Help You Make Million Dollar Decisions
-    nps_score: /images/nps-score.svg
-    nps_score_mobile: /images/nps-score-mobile.svg
+    label: Apply to Supernova
+    link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com'
 
+    
 join_the_supernova_network:
   enable: true
   main_image: /images/colossal200m.png
@@ -312,5 +262,26 @@ why_choose_supernova:
     - icon: "/images/why-choose-supernova/right-time.svg"
       title: The Right Help, at the Right Time
       description: We match you with the right advisors at the right stage—so you're getting help from people who have already solved the exact challenges you're facing.
+
+call_to_action:
+  enable: true
+  title: Let’s Build A Better Future Together.
+  subtitle: >-
+    What if the world's top founders, who previously competed,consciously choose to collaborate as one all-star team?
+  button:
+    enable: true
+    label: Apply Now
+    link: '#'
+
+why_supernova_exists:
+  enable: true
+  title: Why Supernova Exists
+  image: /images/why_supernova_exists.png
+  image_alt: "Supernova"
+  lists:
+    - title: >
+        **Founders build the future they wish to see.** They free us from our past by disrupting trillion-dollar industries. They are powerful creators or destroyers. They don’t have all the answers. They let few in their inner circle to influence decisions. Decisions that make or break realities and relationships. 
+    - title: > 
+       **Like our ancestors, it’s time they look to the stars to successfully navigate the hero’s journey.** The dark side of startup life is no joke. And, founders no longer have to do it all alone. At Supernova, our purpose is to be guiding lights. Shining brighter together as we team up together as all-star teams backing founders dreams to accelerate key milestones and create a supernova of oversized impact on the world. ⭐
 ---
 

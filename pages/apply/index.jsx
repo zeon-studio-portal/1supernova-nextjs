@@ -1,6 +1,8 @@
 import Base from '@layouts/Baseof';
 import { getListPage } from '@lib/contentParser';
 import Banner from '@partials/Banner';
+import CallToActionPlainBg from '@partials/CallToActionPlainBg';
+import CaseStudyFeatured from '@partials/CaseStudyFeatured';
 import Faq from '@partials/Faq';
 import HowItWorksAboutPage from '@partials/HowItWorksAboutPage';
 import JoinSupernovaNetwork from '@partials/JoinSupernovaNetwork';
@@ -8,6 +10,7 @@ import PathsToSuccess from '@partials/PathsToSuccess';
 import UploadAndApply from '@partials/UploadAndApply';
 import WhoCanApply from '@partials/WhoCanApply';
 import WhyChooseSupernova from '@partials/WhyChooseSupernova';
+import WhySupernovaExists from '@partials/WhySupernovaExists';
 
 const Home = ({
   homepage,
@@ -29,6 +32,8 @@ const Home = ({
     who_should_apply,
     paths_to_success,
     why_choose_supernova,
+    call_to_action,
+    why_supernova_exists,
     founders,
     advisory,
     advisory_game,
@@ -57,11 +62,13 @@ const Home = ({
       <WhyChooseSupernova data={why_choose_supernova} />
 
       {/* Read Case Study */}
-      {/* <CaseStudyFeatured data={top_founders_page} /> */}
+      <CaseStudyFeatured top_founders={top_founders_page} />
 
       {/* CTA */}
+      <CallToActionPlainBg data={call_to_action} />
 
       {/* Why Supernova Exists */}
+      <WhySupernovaExists data={why_supernova_exists} />
 
       {/* FAQ */}
       {/* <Mission mission={mission} /> */}

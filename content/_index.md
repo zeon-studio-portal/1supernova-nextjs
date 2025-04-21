@@ -18,6 +18,7 @@ banner:
       - '"manifested my dream."'
       - '"found my freedom."'
   video_button:
+    enable: true
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
