@@ -18,7 +18,7 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >
-      We review your deck and send you a scorecard with no-bs insights from
+      We review your deck and send you a scorecard with a no-bs review from
       exited founders. 
     button:
       enable: true
