@@ -24,6 +24,8 @@ lists:
       Exited founders get hands-on to solve your biggest challenges or seize
       opportunities.
   - name: Funding
-    content: 'Be one of the world-changing companies backed by our fund. '
+    content: >-
+      Investment backed by an exited founder tiger team leading to oversized
+      growth and impact.
 ---
 
