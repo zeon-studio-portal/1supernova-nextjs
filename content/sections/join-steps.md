@@ -15,8 +15,8 @@ lists:
     content: Upload your pitch deck to get a scorecard summary from exited founders.
   - name: Scorecard
     content: >-
-      We send you a scorecard and share a summary if you quality for our fund
-      and/or advisory.
+      We send you a scorecard and summary if quality for Supernova's advisory
+      and/or funding.
   - name: Matching
     content: We match you with exited founders who back you.
   - name: Advisory
