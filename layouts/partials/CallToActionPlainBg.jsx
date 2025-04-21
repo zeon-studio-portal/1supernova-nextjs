@@ -3,7 +3,6 @@ import ArrowButton from '@components/ArrowButton';
 import { markdownify } from '@lib/utils/textConverter';
 
 const CallToActionPlainBg = ({ data }) => {
-  console.log('🪲 ctta :', data);
   const { enable, title, subtitle, button } = data;
 
   return (

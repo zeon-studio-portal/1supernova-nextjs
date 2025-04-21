@@ -6,7 +6,7 @@ const CaseStudyFeatured = ({ top_founders }) => {
     top_founders.frontmatter.enable === true && (
       <section id="portfolio" className="section-lg bg-dark-primary">
         <div className="container text-center">
-          <div className="mt-20 flex flex-col gap-y-12">
+          <div className=" flex flex-col gap-y-12">
             {top_founders.frontmatter.lists
               .filter(
                 (item) => item.case_study_link && item.case_study_link !== '#'
