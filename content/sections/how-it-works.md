@@ -17,9 +17,9 @@ process:
       label: "Apply to Supernova \U0001F680"
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
-    content: >
-      We review your deck and send you a scorecard based on our benchmarks. You
-      may qualify for funding and/or advisory from Supernova. 
+    content: >-
+      We review your deck and send you a scorecard based on our benchmarks from
+      exited founders.
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
