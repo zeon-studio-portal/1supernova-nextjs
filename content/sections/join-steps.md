@@ -24,7 +24,7 @@ lists:
   - name: Advisory
     content: >-
       You select one superstar exited founder who gets hand-on for
-      speed-to-value to accelerate key milestones.
+      speed-to-value to hit key milestones.
   - name: Funding
     content: >-
       We invest $100-250K in 10-12 world-changing companies yearly and provide
