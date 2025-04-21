@@ -16,10 +16,10 @@ process:
       enable: true
       label: "Apply to Supernova \U0001F680"
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
-  - name: "02 - Assemble \U0001FAF6"
+  - name: "02 - Scorecard \U0001F4CA"
     content: >
-      We back you with a team of successfully exited founders who transfer their
-      collective wisdom, experience, resources, and networks.
+      We will send you a custom scorecard within 48-hours with a insights on
+      where you stand and what you need to level up. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
