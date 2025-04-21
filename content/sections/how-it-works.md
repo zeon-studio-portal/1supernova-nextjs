@@ -19,7 +19,7 @@ process:
   - name: "02 - Scorecard \U0001F4CA"
     content: >
       We review your deck and send you a scorecard with a no-bs review from
-      exited founders. 
+      exited founders on where you stand. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
