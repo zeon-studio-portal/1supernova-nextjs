@@ -13,8 +13,10 @@ list_colors:
 lists:
   - name: Apply
     content: Upload your deck and show us why your company is changing the game.
-  - name: Assemble
-    content: We match you with exited founders who back you.
+  - name: Scorecard
+    content: >-
+      We send you a scorecard and share a summary if you quality for our fund
+      and/or advisory.
   - name: Activate
     content: We manage your advisors as one all-star team.
   - name: Achieve
