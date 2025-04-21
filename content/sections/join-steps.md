@@ -17,8 +17,8 @@ lists:
     content: >-
       We send you a scorecard and share a summary if you quality for our fund
       and/or advisory.
-  - name: Activate
-    content: We manage your advisors as one all-star team.
+  - name: Matching
+    content: We match you with exited founders who back you.
   - name: Achieve
     content: We hold your advisors to higher levels of excellence.
   - name: Award
