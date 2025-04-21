@@ -23,7 +23,7 @@ lists:
     content: >-
       Exited founders get hands-on to solve your biggest challenges or seize
       opportunities.
-  - name: Award
-    content: We earn equity based on merit for shared success.
+  - name: Funding
+    content: 'Be one of the world-changing companies backed by our fund. '
 ---
 
