@@ -16,9 +16,7 @@ lists:
       Upload your pitch deck to get your free scorecard with benchmarks from
       exited founders.
   - name: Scorecard
-    content: >-
-      We send you a scorecard and summary if quality for Supernova's advisory
-      and/or funding.
+    content: Get your founder scorecard and summary and see if qualify for Supernova.
   - name: Matching
     content: >-
       We match you with exited founders for complimentary call(s) who can help
