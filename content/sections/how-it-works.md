@@ -19,7 +19,7 @@ process:
   - name: "02 - Scorecard \U0001F4CA"
     content: >
       We review your deck and send you a scorecard based on our benchmarks. You
-      may (or may not) unlock access to funding or advisory from Supernova. 
+      may qualify for funding and/or advisory from Supernova. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
