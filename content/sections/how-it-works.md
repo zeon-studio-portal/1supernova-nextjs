@@ -18,8 +18,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >
-      We review your deck and send you a scorecard within 48-hours with insights
-      from exited founders. 
+      We review your deck and send you a scorecard with no-bs insights from
+      exited founders. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
