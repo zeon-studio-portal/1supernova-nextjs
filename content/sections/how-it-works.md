@@ -32,10 +32,10 @@ process:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
       link: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
-  - name: 04 - STAR ⭐
+  - name: 04 - Advisory ⭐
     content: >
-      You can choose to hire an exited founder as your mentor/advisor under our
-      STAR (Short-Term Advisory Relationship).
+      You may choose to hire one superstar exited founder as your mentor/advisor
+      to your team under our STAR (Short-Term Advisory Relationship) agreement.
     button:
       enable: true
       label: "Read FAQs \U0001F680"
