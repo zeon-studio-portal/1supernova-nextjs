@@ -19,8 +19,8 @@ lists:
       access to Supernova.
   - name: Matching
     content: >-
-      We match you with the right exited founders for complimentary calls who
-      can solve your challenges and size opportunities. 
+      We match you with vetted exited founders for complimentary call(s) to
+      problem solve and capitalize on opportunities. 
   - name: Advisory
     content: >-
       You select one superstar exited founder who gets hand-on for
