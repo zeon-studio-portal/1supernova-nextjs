@@ -19,8 +19,8 @@ lists:
     content: Get your founder scorecard and summary and see if qualify for Supernova.
   - name: Matching
     content: >-
-      We match you with exited founders for complimentary call(s) who can help
-      solve your biggest challenges or size opportunities. 
+      We match you with vetted exited founders for complimentary calls who can
+      solve your challenges and size opportunities. 
   - name: Advisory
     content: >-
       You select one superstar exited founder who gets hand-on for
