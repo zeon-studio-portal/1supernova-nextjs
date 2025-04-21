@@ -27,7 +27,7 @@ process:
   - name: 03 - Matching ✨
     content: >-
       You will receive complimentary call(s) with vetted exited founders who can
-      add immediate value to your business. 
+      add immediate value. 
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
