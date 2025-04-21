@@ -2,8 +2,8 @@
 enable: true
 title: Success is the right relationships
 subtitle: >-
-  Best-in-class mentorship and advisory optimizes your time, money, equity and
-  outcomes.
+  Get the founder support you need to scale your company to oversized growth and
+  impact.
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
