@@ -18,8 +18,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >
-      We review your deck and send you a scorecard. You may qualify for our fund
-      or advisory/mentorship from Supernova. 
+      We review your deck and send you a founder scorecard. You may qualify for
+      our fund or advisory/mentorship from Supernova. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
