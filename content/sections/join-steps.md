@@ -29,7 +29,7 @@ lists:
       accelerating key milestones.
   - name: Funding
     content: >-
-      We invest $100-250K in 10-12 world-changing companies yearly. Each gets an
-      exited founder tiger team leading oversized growth and impact.
+      We invest $100-250K in 10-12 world-changing companies yearly and provide
+      them with a team leading of exited founders.
 ---
 
