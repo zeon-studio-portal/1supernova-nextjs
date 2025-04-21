@@ -25,7 +25,7 @@ lists:
       solve your biggest challenges or size opportunities. 
   - name: Advisory
     content: >-
-      You start with one superstar exited founder who gets hand-on for
+      You select one superstar exited founder who gets hand-on for
       speed-to-value.
   - name: Funding
     content: >-
