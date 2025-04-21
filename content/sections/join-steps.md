@@ -28,6 +28,6 @@ lists:
   - name: Funding
     content: >-
       We invest $100-250K in 10-12 world-changing companies yearly and provide
-      them with a tiger team of exited founders.
+      them with a tiger team of all-star exited founders.
 ---
 
