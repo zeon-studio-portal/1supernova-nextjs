@@ -25,8 +25,8 @@ lists:
       solve your biggest challenges or size opportunities. 
   - name: Advisory
     content: >-
-      You start with one superstar exited founder who gets hand-on in
-      accelerating key milestones.
+      You start with one superstar exited founder who gets hand-on for
+      speed-to-value.
   - name: Funding
     content: >-
       We invest $100-250K in 10-12 world-changing companies yearly and provide
