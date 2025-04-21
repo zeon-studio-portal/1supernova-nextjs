@@ -26,8 +26,8 @@ process:
       link: 'https://1supernova.com/#superstars'
   - name: 03 - Matching ✨
     content: >-
-      You will receive complimentary call(s) with vetted exited founders who can
-      add immediate value. 
+      You may receive complimentary call(s) with vetted exited founders who can
+      address one of your biggest challenges or opportunites. 
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
