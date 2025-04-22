@@ -29,11 +29,11 @@ const UploadAndApply = ({ data }) => {
             {markdownify(subtitle, 'p', 'text-light-tertiary md:text-xl')}
           </div>
 
-          <div className="mx-auto mt-20 lg:col-10">
+          <div className="mx-auto mt-20 lg:col-10" data-aos="fade-up-sm">
             <form
               action={form.action}
               method="POST"
-              className="border-light flex h-[300px] flex-col items-center justify-center rounded-lg border bg-dark-primary/20 p-6 backdrop-blur-md">
+              className="flex h-[300px] flex-col items-center justify-center rounded-lg border border-secondary/40 bg-dark-primary/20 p-6 backdrop-blur-md">
               <Image
                 src="/images/icons/upload.svg"
                 alt="Upload Icon"
@@ -42,7 +42,7 @@ const UploadAndApply = ({ data }) => {
                 height={48}
               />
               <input
-                type="text"
+                type="url"
                 placeholder={form.placeholder}
                 className="mx-auto h-12 w-full rounded-lg border border-secondary/60 bg-dark-primary/20 text-center text-lg text-light-tertiary placeholder:text-light-tertiary focus:border-secondary-600 focus:ring-secondary-600 lg:w-2/3 "
               />
@@ -59,6 +59,8 @@ const UploadAndApply = ({ data }) => {
           <div className="mt-14 grid gap-4 md:grid-cols-2 lg:gap-8 xl:grid-cols-3">
             {card_list.map((card, index) => (
               <div
+                data-aos="fade-up-sm"
+                data-aos-delay={index * 100}
                 key={index}
                 className="flex items-start gap-4 rounded-lg bg-dark-quaternary/90 p-4 text-start text-lg backdrop-blur-md">
                 <svg

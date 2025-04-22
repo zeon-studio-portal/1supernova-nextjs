@@ -1,3 +1,4 @@
+import ArrowButton from '@components/ArrowButton';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import 'swiper/css';
@@ -12,6 +13,7 @@ const WhoCanApply = ({ data }) => {
     intro,
     testimonial,
     list,
+    footer,
   } = data;
 
   return (
@@ -114,6 +116,25 @@ const WhoCanApply = ({ data }) => {
                   ))}
                 </div>
               </div>
+              {footer && (
+                <>
+                  <div
+                    data-aos="fade-up-sm"
+                    data-aos-delay="150"
+                    className="mt-6">
+                    {markdownify(footer.texts, 'p', 'text-slate-50/50 text-lg')}
+                  </div>
+                  {footer.button && footer.button.enable && (
+                    <ArrowButton
+                      data-aos="fade-up-sm"
+                      data-aos-delay="150"
+                      className="mt-4 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary"
+                      label={footer.button.label}
+                      link={footer.button.link}
+                    />
+                  )}
+                </>
+              )}
             </div>
             <div className="lg:col-6 lg:ps-10">
               <div className="flex flex-col gap-y-10">
