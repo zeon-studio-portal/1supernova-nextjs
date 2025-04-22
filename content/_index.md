@@ -62,8 +62,8 @@ advisory:
     - title: NPS Score
       number: 92
       suffix: ''
-    - title: Exit Value ($ Billion)
-      number: 14
+    - title: Portfolio Market Cap
+      number: 11
       suffix: +
 advisory_game:
   enable: true
