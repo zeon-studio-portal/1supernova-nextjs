@@ -53,7 +53,7 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: Companies In Our Portfolio
+    - title: Portfolio Companies
       number: 33
       suffix: ''
     - title: Exited Founders
