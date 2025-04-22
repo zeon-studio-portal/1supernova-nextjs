@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'Portfolio Spotlight: Rising Stars'
+title: Portfolio Spotlight
 subtitle: We proudly back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
