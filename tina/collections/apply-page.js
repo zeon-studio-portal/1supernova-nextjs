@@ -2,6 +2,12 @@ const applyPage = {
   label: 'Apply Page',
   name: 'apply_page',
   path: 'content/apply',
+  ui: {
+    allowedActions: {
+      create: false,
+      delete: false,
+    },
+  },
   match: {
     include: '_index',
   },
