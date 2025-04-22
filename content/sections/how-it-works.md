@@ -2,48 +2,49 @@
 enable: true
 title: How it works
 quote:
-  enable: false
-  content: >-
-    “Every leader knows the secret to success is being in the right
-    relationships.”
+  enable: true
+  content: >+
+    "Successful founders know the real secret: <br> it’s all about having the
+    right relationships.”
+
   quote_by: 'Barry Stamos, CEO & Co-founder SUPERNOVA'
 process:
   - name: "01 - Apply \U0001F469‍\U0001F4BB"
-    content: >
-      [Apply](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) to be one of twelve
-      companies chosen to join our portfolio, yearly. 
+    content: >-
+      [Apply](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) by uploading your
+      pitch deck.  
     button:
       enable: true
       label: "Apply to Supernova \U0001F680"
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
-  - name: "02 - Assemble \U0001FAF6"
-    content: >
-      We back you with a team of successfully exited founders who transfer their
-      collective wisdom, experience, resources, and networks.
+  - name: "02 - Scorecard \U0001F4CA"
+    content: >-
+      We will review your deck and send you a custom scorecard rated by exited
+      founders.
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
       link: 'https://1supernova.com/#superstars'
-  - name: 03 - Accelerate ✨
+  - name: 03 - Matching ✨
     content: >-
-      We accelerate speed-to-value by installing elite talent, methods, systems,
-      and technology to derisk and game success.
+      You may receive complimentary call(s) with vetted exited founders who can
+      address your biggest challenges or opportunities. 
     button:
       enable: true
       label: "Watch Best Practices Webinar \U0001F680"
       link: 'https://www.youtube.com/watch?v=iJhOa2l8jk4'
-  - name: "04 - Achieve \U0001F3AF"
+  - name: 04 - Advisory ⭐
     content: >
-      We are all-in on achieving your company's next major milestone with a
-      shared upside in your outcomes.
+      You start with one superstar exited founder as your mentor/advisor under
+      our STAR (Short-Term Advisory Relationship) agreement.
     button:
       enable: true
       label: "Read FAQs \U0001F680"
       link: 'https://1supernova.com/#faqs'
-  - name: "05 - Award \U0001F3C6"
-    content: >
-      We award equity and cash incentives to our exited founders based on
-      performance vs vesting guarantees.
+  - name: "05 - Funding \U0001F4B0"
+    content: >-
+      We invest $100,000-$250,000 checks in 10-12 world-changing companies each
+      year and back them with a tiger team of exited founders.
     button:
       enable: true
       label: "See Reviews \U0001F680"

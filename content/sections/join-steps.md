@@ -2,8 +2,8 @@
 enable: true
 title: Success is the right relationships
 subtitle: >-
-  Best-in-class mentorship and advisory optimizes your time, money, equity and
-  outcomes.
+  Get the founder support you need to scale your company to oversized growth and
+  impact.
 list_colors:
   - '#09B1FB'
   - '#0EDDE4'
@@ -12,14 +12,22 @@ list_colors:
   - '#C856C7'
 lists:
   - name: Apply
-    content: We accept 12 startups each year to Supernova.
-  - name: Assemble
-    content: We match you with exited founders who back you.
-  - name: Activate
-    content: We manage your advisors as one all-star team.
-  - name: Achieve
-    content: We hold your advisors to higher levels of excellence.
-  - name: Award
-    content: We earn equity based on merit for shared success.
+    content: Upload your pitch deck to see if you qualify for Supernova.
+  - name: Scorecard
+    content: >-
+      Get your free founder scorecard to see where you measure up and unlock
+      access to Supernova.
+  - name: Matching
+    content: >-
+      We match you with vetted exited founders for complimentary call(s) to
+      problem solve and seize opportunities. 
+  - name: Advisory
+    content: >-
+      You select one superstar exited founder who gets hand-on for
+      speed-to-value to hit key milestones.
+  - name: Funding
+    content: >-
+      We invest $100-250K in 10-12 world-changing companies yearly and provide
+      them with a tiger team of exited founders.
 ---
 
