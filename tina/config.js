@@ -1,5 +1,6 @@
 import { defineConfig } from 'tinacms';
 import aboutUs from './collections/about-us';
+import applyPage from './collections/apply-page';
 import caseStudies from './collections/case-studies';
 import faq from './collections/faq';
 import announcement from './collections/global/announcement';
@@ -38,6 +39,7 @@ export default defineConfig({
     collections: [
       announcement,
       index,
+      applyPage,
       caseStudies,
       pages,
       aboutUs,

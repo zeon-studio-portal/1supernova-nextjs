@@ -27,8 +27,30 @@ banner:
     
 join_the_supernova_network:
   enable: true
+  title: 'You’re Not Just Building a BusinessYou’re Changing the World.'
+  subtitle: >-
+    **Let’s Make It Happen Together.**
+  description: >-
+      Scaling a startup is a game of high-stakes decisions.
+      Every move matters, and the right mentors and advisors
+      can mean the difference between exponential growth or
+      costly mistakes.
+      At Supernova, we don’t just “advise”—we activate. We’re a
+      team of 150+ exited founders who have been in your
+      shoes, scaled companies to zebras, unicorns, and
+      decacorns, and know what it takes to break through
+      bottlenecks and win the game.
+      We’re not interested in theory. We’re here to roll up our
+      sleeves and help you execute. We only work with founders
+      who are ready to achieve oversized outcomes and
+      positively impact lives.
+      If that sounds like you, apply now, and let’s see if we’re a fit.
+  button:
+    enable: true
+    label: Apply Now
+    link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com'
+
   main_image: /images/colossal200m.png
-  comparison_image: ""
   testimonial:
     content: >
       "Supernova scales startups successfully! They advise me, and I help others via them."
@@ -36,29 +58,8 @@ join_the_supernova_network:
     customer_name: Ben Lamm
     customer_profession: >
       CEO & Co-founder (6x Exits) of Colossal ($200M Series C: $10B Valuation)
-  headings:
-    - title: 'You’re Not Just Building a BusinessYou’re Changing the World.'
-      subtitle: >-
-        **Let’s Make It Happen Together.**
-      description: >-
-          Scaling a startup is a game of high-stakes decisions.
-          Every move matters, and the right mentors and advisors
-          can mean the difference between exponential growth or
-          costly mistakes.
-          At Supernova, we don’t just “advise”—we activate. We’re a
-          team of 150+ exited founders who have been in your
-          shoes, scaled companies to zebras, unicorns, and
-          decacorns, and know what it takes to break through
-          bottlenecks and win the game.
-          We’re not interested in theory. We’re here to roll up our
-          sleeves and help you execute. We only work with founders
-          who are ready to achieve oversized outcomes andp
-          ositively impact lives.
-          If that sounds like you, apply now, and let’s see if we’re a fit.
-      button:
-        enable: true
-        label: Apply Now
-        link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com'
+
+      
 
 upload_and_apply:
   enable: true
@@ -68,10 +69,9 @@ upload_and_apply:
 
   form:
     placeholder: "Paste your pitch deck link here."
+    action: "https://formsubmit.co/your@email.com"
     button:
-      label: Upload & Apply Now
-      link: '#'
-
+      label: Upload & Apply No
 
   card_list:
     - title: Get Your Founder Scorecard Within 24 Hours

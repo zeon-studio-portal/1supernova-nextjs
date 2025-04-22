@@ -1,5 +1,4 @@
 import AnimatedText from '@components/AnimatedText';
-import ArrowButton from '@components/ArrowButton';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 
@@ -32,7 +31,8 @@ const UploadAndApply = ({ data }) => {
 
           <div className="mx-auto mt-20 lg:col-10">
             <form
-              action={'#'}
+              action={form.action}
+              method="POST"
               className="border-light flex h-[300px] flex-col items-center justify-center rounded-lg border bg-dark-primary/20 p-6 backdrop-blur-md">
               <Image
                 src="/images/icons/upload.svg"
@@ -41,20 +41,18 @@ const UploadAndApply = ({ data }) => {
                 width={48}
                 height={48}
               />
-
               <input
                 type="text"
                 placeholder={form.placeholder}
                 className="mx-auto h-12 w-full rounded-lg border border-secondary/60 bg-dark-primary/20 text-center text-lg text-light-tertiary placeholder:text-light-tertiary focus:border-secondary-600 focus:ring-secondary-600 lg:w-2/3 "
               />
-
-              <ArrowButton
-                link={form.button.link}
-                label={form.button.label}
+              <button
+                type="submit"
                 className={
                   'mt-10 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary'
-                }
-              />
+                }>
+                {form.button.label}
+              </button>
             </form>
           </div>
 
