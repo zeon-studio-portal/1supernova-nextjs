@@ -20,7 +20,7 @@ process:
   - name: "02 - Scorecard \U0001F4CA"
     content: >-
       We review your deck within 48-hours and send you a custom scorecard with
-      ratings by exited founders.
+      ratings by exited founders. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
