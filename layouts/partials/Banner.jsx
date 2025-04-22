@@ -1,5 +1,5 @@
-import AnimatedText from '@components/AnimatedText';
 import ArrowButton from '@components/ArrowButton';
+import ImageFallback from '@components/ImageFallback';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import 'node_modules/react-modal-video/scss/modal-video.scss';
@@ -14,16 +14,47 @@ import VideoBG from './VideoBG';
 const Banner = ({ banner, founders }) => {
   const [isOpen, setOpen] = useState(false);
 
+  const { badge } = banner;
+
   return (
     <section className="relative overflow-hidden pb-16 pt-12 after:absolute after:inset-0 after:z-20 after:h-full after:w-full after:bg-dark-primary/70 after:content-[''] md:pt-8">
       <div className="relative z-30 flex flex-col justify-around sm:min-h-[600px]">
         <div className="container relative z-50 text-center">
+          {badge && badge.enable && (
+            <div data-aos="fade-up-sm">
+              <div class=" mx-auto mb-6 flex max-w-max flex-wrap items-center justify-center gap-4 rounded-full">
+                <div class="flex items-center">
+                  {badge.images &&
+                    badge.images.length &&
+                    badge.images.map((image, index) => (
+                      <ImageFallback
+                        key={image}
+                        width={60}
+                        height={60}
+                        class="bg-light border-1 relative -mr-2 aspect-square size-10 rounded-full bg-light-quaternary"
+                        style={{ zIndex: `${index}` }}
+                        src={image}
+                        alt="Badge"
+                      />
+                    ))}
+                </div>
+                <span class="px-4 text-sm font-medium text-light-primary md:text-base">
+                  {badge.label}
+                </span>
+              </div>
+            </div>
+          )}
           <div data-aos="fade-up">
-            <AnimatedText
+            {markdownify(
+              banner.title,
+              'h1',
+              'text-banner mx-auto mb-8 w-fit text-6xl/none font-medium [&>strong]:!text-secondary-600'
+            )}
+            {/* <AnimatedText
               tag="h1"
               className="text-banner mx-auto mb-8 w-fit text-6xl/none font-medium"
               content={banner.title}
-            />
+            /> */}
           </div>
           <div data-aos="fade-up" data-aos-delay="50">
             {markdownify(

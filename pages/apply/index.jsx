@@ -34,9 +34,6 @@ const Home = ({
     why_choose_supernova,
     call_to_action,
     why_supernova_exists,
-    founders,
-    advisory,
-    advisory_game,
   } = homepage.frontmatter;
 
   return (

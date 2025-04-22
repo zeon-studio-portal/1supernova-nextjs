@@ -1,6 +1,14 @@
 ---
 banner:
-  title: Join Forces with Exited Founders Who've Built, Scaled & Sold **Now It's Your Turn**
+  badge: 
+    enable: true
+    label: "250+ Successfully Exited Founders"
+    images:
+      - "/images/avatar/image.png"
+      - "/images/avatar/image-1.png"
+      - "/images/avatar/image-2.png"
+      - "/images/avatar/image-3.png"
+  title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now It's Your Turn**
   subtitle: >-
     You're Not Just Building a Business—You're Changing the World. Let's Make It Happen Faster.
   background_youtube_video_id: YHkg4k7gnDA
@@ -71,7 +79,7 @@ upload_and_apply:
     placeholder: "Paste your pitch deck link here."
     action: "https://formsubmit.co/your@email.com"
     button:
-      label: Upload & Apply No
+      label: Upload & Apply Now
 
   card_list:
     - title: Get Your Founder Scorecard Within 24 Hours
@@ -176,7 +184,7 @@ who_should_apply:
     button: 
       enable: true
       label: Apply Now
-      link: '#'
+      link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com'
 
 paths_to_success:
   enable: true
@@ -271,7 +279,7 @@ call_to_action:
   button:
     enable: true
     label: Apply Now
-    link: '#'
+    link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com'
 
 why_supernova_exists:
   enable: true

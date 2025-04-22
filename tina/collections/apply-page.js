@@ -12,6 +12,29 @@ const applyPage = {
       type: 'object',
       fields: [
         {
+          label: 'Badge',
+          name: 'badge',
+          type: 'object',
+          fields: [
+            {
+              label: 'Enable',
+              name: 'enable',
+              type: 'boolean',
+            },
+            {
+              label: 'Label',
+              name: 'label',
+              type: 'string',
+            },
+            {
+              label: 'Images',
+              name: 'images',
+              type: 'image',
+              list: true,
+            },
+          ],
+        },
+        {
           label: 'Title',
           name: 'title',
           type: 'string',
