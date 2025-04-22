@@ -18,7 +18,6 @@ banner:
       - '"manifested my dream."'
       - '"found my freedom."'
   video_button:
-    enable: true
     label: Play Video (Our Story)
     youtube_id: Mq61xLTDdGI
 founders:
@@ -54,8 +53,8 @@ advisory:
     - '#fb9f71'
     - '#ca58c5'
   facts:
-    - title: Scaleups Chosen Yearly
-      number: 12
+    - title: Companies In Our Portfolio
+      number: 33
       suffix: ''
     - title: Exited Founders
       number: 150
