@@ -1,5 +1,5 @@
 const topFounders = {
-  label: 'Top Founders',
+  label: 'Top Founders Section',
   name: 'top_founders',
   path: 'content/sections',
   ui: {

@@ -1,7 +1,7 @@
 const faq = {
-  label: "FAQs",
-  name: "faqs",
-  path: "content/sections",
+  label: 'FAQs Section',
+  name: 'faqs',
+  path: 'content/sections',
   ui: {
     allowedActions: {
       create: false,
@@ -9,44 +9,44 @@ const faq = {
     },
   },
   match: {
-    include: "faq",
+    include: 'faq',
   },
   fields: [
     {
-      label: "Enable",
-      name: "enable",
-      type: "boolean",
+      label: 'Enable',
+      name: 'enable',
+      type: 'boolean',
     },
     {
-      label: "Title",
-      name: "title",
-      type: "string",
+      label: 'Title',
+      name: 'title',
+      type: 'string',
     },
     {
-      label: "Subtitle",
-      name: "subtitle",
-      type: "string",
+      label: 'Subtitle',
+      name: 'subtitle',
+      type: 'string',
       ui: {
-        component: "textarea",
-      }
+        component: 'textarea',
+      },
     },
     {
-      label: "Lists",
-      name: "lists",
-      type: "object",
+      label: 'Lists',
+      name: 'lists',
+      type: 'object',
       list: true,
       fields: [
         {
-          label: "Question",
-          name: "question",
-          type: "string",
+          label: 'Question',
+          name: 'question',
+          type: 'string',
         },
         {
-          label: "Answer",
-          name: "answer",
-          type: "string",
+          label: 'Answer',
+          name: 'answer',
+          type: 'string',
           ui: {
-            component: "textarea",
+            component: 'textarea',
           },
         },
       ],

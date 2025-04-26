@@ -1,7 +1,7 @@
 const goSupernova = {
-  label: "Go Supernova",
-  name: "go_supernova",
-  path: "content/sections",
+  label: 'Go Supernova Section',
+  name: 'go_supernova',
+  path: 'content/sections',
   ui: {
     allowedActions: {
       create: false,
@@ -9,51 +9,51 @@ const goSupernova = {
     },
   },
   match: {
-    include: "go-supernova",
+    include: 'go-supernova',
   },
   fields: [
     {
-      label: "Enable",
-      name: "enable",
-      type: "boolean",
+      label: 'Enable',
+      name: 'enable',
+      type: 'boolean',
     },
     {
-      label: "Title",
-      name: "title",
-      type: "string",
+      label: 'Title',
+      name: 'title',
+      type: 'string',
     },
     {
-      label: "Subtitle",
-      name: "subtitle",
-      type: "string",
+      label: 'Subtitle',
+      name: 'subtitle',
+      type: 'string',
     },
     {
-      label: "Video URL",
-      name: "video_url",
-      type: "string",
+      label: 'Video URL',
+      name: 'video_url',
+      type: 'string',
     },
     {
-      label: "Quote",
-      name: "quote",
-      type: "string",
+      label: 'Quote',
+      name: 'quote',
+      type: 'string',
     },
     {
-      label: "Features",
-      name: "features",
-      type: "object",
+      label: 'Features',
+      name: 'features',
+      type: 'object',
       list: true,
       fields: [
         {
-          label: "Icon",
-          name: "icon",
-          type: "image",
+          label: 'Icon',
+          name: 'icon',
+          type: 'image',
         },
         {
-          label: "Content",
-          name: "content",
-          type: "string",
+          label: 'Content',
+          name: 'content',
+          type: 'string',
           ui: {
-            component: "textarea",
+            component: 'textarea',
           },
         },
       ],

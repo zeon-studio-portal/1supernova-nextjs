@@ -1,6 +1,6 @@
-const joinCommunity = {
-  label: 'Join Community Section',
-  name: 'join_community',
+const uploadAndApply = {
+  label: 'Upload and Apply Section',
+  name: 'uploadAndApply',
   path: 'content/sections',
   ui: {
     allowedActions: {
@@ -9,13 +9,18 @@ const joinCommunity = {
     },
   },
   match: {
-    include: 'join-community',
+    include: 'upload-and-apply',
   },
   fields: [
     {
       label: 'Enable',
       name: 'enable',
       type: 'boolean',
+    },
+    {
+      label: 'Background Image',
+      name: 'background_image',
+      type: 'image',
     },
     {
       label: 'Title',
@@ -28,36 +33,22 @@ const joinCommunity = {
       type: 'string',
     },
     {
-      label: 'Info',
-      name: 'info',
-      type: 'string',
-    },
-    {
-      label: 'Lists',
-      name: 'lists',
+      label: 'Form',
+      name: 'form',
       type: 'object',
-      list: true,
       fields: [
         {
-          label: 'Title',
-          name: 'title',
+          label: 'Placeholder',
+          name: 'placeholder',
           type: 'string',
         },
         {
-          label: 'Icon',
-          name: 'icon',
-          type: 'image',
-        },
-        {
-          label: 'Content',
-          name: 'content',
+          label: 'Action',
+          name: 'action',
           type: 'string',
-          ui: {
-            component: 'textarea',
-          },
         },
         {
-          label: 'button',
+          label: 'Button',
           name: 'button',
           type: 'object',
           fields: [
@@ -66,12 +57,20 @@ const joinCommunity = {
               name: 'label',
               type: 'string',
             },
-            {
-              label: 'Link',
-              name: 'link',
-              type: 'string',
-            },
           ],
+        },
+      ],
+    },
+    {
+      label: 'Card List',
+      name: 'card_list',
+      type: 'object',
+      list: true,
+      fields: [
+        {
+          label: 'Title',
+          name: 'title',
+          type: 'string',
         },
       ],
       ui: {
@@ -83,4 +82,4 @@ const joinCommunity = {
   ],
 };
 
-export default joinCommunity;
+export default uploadAndApply;

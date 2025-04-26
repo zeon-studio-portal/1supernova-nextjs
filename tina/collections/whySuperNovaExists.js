@@ -1,6 +1,6 @@
-const joinSteps = {
-  label: 'Join Steps Section',
-  name: 'join_steps',
+const whySuperNovaExists = {
+  label: 'Why Supernova Exists Section',
+  name: 'whySuperNovaExists',
   path: 'content/sections',
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const joinSteps = {
     },
   },
   match: {
-    include: 'join-steps',
+    include: 'why-supernova-exists',
   },
   fields: [
     {
@@ -23,15 +23,14 @@ const joinSteps = {
       type: 'string',
     },
     {
-      label: 'Subtitle',
-      name: 'subtitle',
-      type: 'string',
+      label: 'Image',
+      name: 'image',
+      type: 'image',
     },
     {
-      label: 'List Colors',
-      name: 'list_colors',
+      label: 'Image Alt',
+      name: 'image_alt',
       type: 'string',
-      list: true,
     },
     {
       label: 'Lists',
@@ -40,23 +39,18 @@ const joinSteps = {
       list: true,
       fields: [
         {
-          label: 'Name',
-          name: 'name',
-          type: 'string',
-        },
-        {
-          label: 'Content',
-          name: 'content',
+          label: 'Title',
+          name: 'title',
           type: 'string',
         },
       ],
       ui: {
         itemProps: (item) => {
-          return { label: `${item?.name}` };
+          return { label: `${item?.title}` };
         },
       },
     },
   ],
 };
 
-export default joinSteps;
+export default whySuperNovaExists;
