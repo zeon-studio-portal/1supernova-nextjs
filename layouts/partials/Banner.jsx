@@ -22,8 +22,8 @@ const Banner = ({ banner, founders }) => {
         <div className="container relative z-50 text-center">
           {badge && badge.enable && (
             <div data-aos="fade-up-sm">
-              <div class=" mx-auto mb-6 flex max-w-max flex-wrap items-center justify-center gap-4 rounded-full">
-                <div class="flex items-center">
+              <div className=" mx-auto mb-6 flex max-w-max flex-wrap items-center justify-center gap-4 rounded-full">
+                <div className="flex items-center">
                   {badge.images &&
                     badge.images.length &&
                     badge.images.map((image, index) => (
@@ -31,14 +31,14 @@ const Banner = ({ banner, founders }) => {
                         key={image}
                         width={60}
                         height={60}
-                        class="bg-light border-1 relative -mr-2 aspect-square size-10 rounded-full bg-light-quaternary"
+                        className="bg-light border-1 relative -mr-2 aspect-square size-10 rounded-full bg-light-quaternary"
                         style={{ zIndex: `${index}` }}
                         src={image}
                         alt="Badge"
                       />
                     ))}
                 </div>
-                <span class="px-4 text-sm font-medium text-light-primary md:text-base">
+                <span className="px-4 text-sm font-medium text-light-primary md:text-base">
                   {badge.label}
                 </span>
               </div>
