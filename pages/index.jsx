@@ -8,15 +8,23 @@ import GoSupernova from '@partials/GoSupernova';
 import HowItWorks from '@partials/HowItWorks';
 import JoinCommunity from '@partials/JoinCommunity';
 import JoinSteps from '@partials/JoinSteps';
+import JoinSupernovaNetwork from '@partials/JoinSupernovaNetwork';
 import Mission from '@partials/Mission';
 import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
 import TopFounders from '@partials/TopFounders';
+import UploadAndApply from '@partials/UploadAndApply';
+import WhySupernovaExists from '@partials/WhySupernovaExists';
 
 const Home = ({
   homepage,
+  join_the_supernova_network,
+  upload_and_apply,
+  why_supernova_exists,
   testimonials_page,
   mission,
+  advisory,
+  advisory_game,
   superstars_page,
   top_founders_page,
   how_it_works_page,
@@ -25,17 +33,23 @@ const Home = ({
   join_community_page,
   faq_page,
 }) => {
-  const { banner, founders, advisory, advisory_game } = homepage.frontmatter;
+  const { banner, founders } = homepage.frontmatter;
 
   return (
     <Base>
-      <Banner banner={banner} founders={founders} />
-      <Advisory advisory={advisory} />
-      <Testimonials testimonials={testimonials_page} />
-      <Mission mission={mission} />
-      <AdvisoryGame advisory_game={advisory_game} />
+      <Banner banner={banner} founders={banner.founders} />
+      {/* The Supernova Advantage: join_the_supernova_network */}
+      <JoinSupernovaNetwork data={join_the_supernova_network.frontmatter} />
+      {/* Upload Your Pitch Deck Here */}
+      <UploadAndApply data={upload_and_apply.frontmatter} />
       <JoinSteps join_steps={join_steps_page} />
       <HowItWorks how_it_works={how_it_works_page} />
+      {/* Why Supernova Exists */}
+      <WhySupernovaExists data={why_supernova_exists.frontmatter} />
+      <Advisory advisory={advisory.frontmatter} />
+      <Testimonials testimonials={testimonials_page} />
+      <Mission mission={mission} />
+      <AdvisoryGame advisory_game={advisory_game.frontmatter} />
       <TopFounders top_founders={top_founders_page} />
       <Superstars superstars={superstars_page} />
       <GoSupernova go_supernova={go_supernova_page} />
@@ -50,7 +64,18 @@ export default Home;
 // for homepage data
 export const getStaticProps = async () => {
   const homepage = await getListPage('content/_index.md');
+  const join_the_supernova_network = await getListPage(
+    'content/sections/join_the_supernova_network.md'
+  );
+  const upload_and_apply = await getListPage(
+    'content/sections/upload-and-apply.md'
+  );
+  const why_supernova_exists = await getListPage(
+    'content/sections/why-supernova-exists.md'
+  );
   const testimonials = await getListPage('content/sections/testimonials.md');
+  const advisory = await getListPage('content/sections/advisory.md');
+  const advisory_game = await getListPage('content/sections/advisory-game.md');
   const mission = await getListPage('content/sections/mission.md');
   const superstars = await getListPage('content/sections/superstars.md');
   const top_founders = await getListPage('content/sections/top-founders.md');
@@ -65,6 +90,10 @@ export const getStaticProps = async () => {
   return {
     props: {
       homepage: homepage,
+      join_the_supernova_network: join_the_supernova_network,
+      upload_and_apply: upload_and_apply,
+      why_supernova_exists: why_supernova_exists,
+
       testimonials_page: testimonials,
       mission: mission,
       superstars_page: superstars,
@@ -73,6 +102,8 @@ export const getStaticProps = async () => {
       join_steps_page: join_steps,
       go_supernova_page: go_supernova,
       join_community_page: join_community,
+      advisory: advisory,
+      advisory_game: advisory_game,
       faq_page: faq,
     },
   };

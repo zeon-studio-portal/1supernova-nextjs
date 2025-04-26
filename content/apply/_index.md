@@ -123,7 +123,7 @@ unlock_access:
               may match you with an exited founder who can dive into one of your
               biggest challenges or opportunities via a complimentary call. If
               you qualify for our fund, you’ll instantly unlock Level 4 and be
-              fast-tracked to the investment stage. 
+              fast-tracked to the investment stage.
     - name: Level 2 - The Star
       data:
         left_section:
@@ -398,7 +398,7 @@ why_supernova_exists:
         past by disrupting trillion-dollar industries. They are powerful
         creators or destroyers. They don’t have all the answers. They let few in
         their inner circle to influence decisions. Decisions that make or break
-        realities and relationships. 
+        realities and relationships.
     - title: >
         **Like our ancestors, it’s time they look to the stars to successfully
         navigate the hero’s journey.** The dark side of startup life is no joke.
@@ -407,4 +407,3 @@ why_supernova_exists:
         together as all-star teams backing founders dreams to accelerate key
         milestones and create a supernova of oversized impact on the world. ⭐
 ---
-
