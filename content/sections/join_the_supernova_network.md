@@ -1,7 +1,7 @@
 ---
 enable: true
 title: '**An Invitation to Top Founders**<br>Ready to Play a Greater Game?'
-subtitle: "**Join forces with 150+ exited founders to achieve oversized success and impact \U0001F4C8**"
+subtitle: "**Join forces with 250+ exited founders to achieve oversized success and impact \U0001F4C8**"
 description: >-
   Scaling a startup is a game of high-stakes decisions. Every move matters, and
   the right mentors and advisors can mean the difference between success and
