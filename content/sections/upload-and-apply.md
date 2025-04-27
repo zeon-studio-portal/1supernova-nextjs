@@ -6,7 +6,7 @@ subtitle: >-
   Ready to scale? Apply now to become one of the few companies we back each
   year.
 form:
-  placeholder: Paste your pitch deck link here >
+  placeholder: 'Drag and drop or add a link to your pitch deck here '
   action: 'https://formsubmit.co/barry@1supernova.com'
   button:
     label: Upload & Apply Now
