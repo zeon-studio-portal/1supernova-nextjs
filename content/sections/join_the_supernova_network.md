@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'You''re Not Just Building a Business <br> —You''re Changing the World.  '
+title: '**An Invitation to Top Founders**<br>Ready to Play a Greater Game?'
 subtitle: "**Let's Make It Happen Faster, Together. \U0001F680**"
 description: >-
   Scaling a startup is a game of high-stakes decisions. Every move matters, and
