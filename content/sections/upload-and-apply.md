@@ -1,12 +1,12 @@
 ---
 enable: true
 background_image: /images/upload_and_apply_bg.png
-title: ✨Upload Your Pitch Deck Here✨
+title: ✨**Upload** Your Pitch Deck Here✨
 subtitle: >-
   Ready to scale? Apply now to become one of the few companies we back each
   year.
 form:
-  placeholder: Paste your pitch deck link here.
+  placeholder: Paste your pitch deck link here >
   action: 'https://formsubmit.co/barry@1supernova.com'
   button:
     label: Upload & Apply Now
