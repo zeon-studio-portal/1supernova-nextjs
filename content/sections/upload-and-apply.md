@@ -3,8 +3,8 @@ enable: true
 background_image: /images/upload_and_apply_bg.png
 title: ✨Upload Your Pitch Deck Here✨
 subtitle: >-
-  Apply now to become one of the select companies we partner with annually and
-  take a decisive step toward achieving your company’s full potential.
+  Ready to scale? Apply now to become one of the few companies we back each
+  year.
 form:
   placeholder: Paste your pitch deck link here.
   action: 'https://formsubmit.co/barry@1supernova.com'
@@ -17,3 +17,4 @@ card_list:
       You
   - title: Accelerate Key Milestones & Achieve Oversized Outcomes
 ---
+
