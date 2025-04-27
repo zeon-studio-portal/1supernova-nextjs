@@ -19,8 +19,8 @@ process:
       link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
   - name: "02 - Scorecard \U0001F4CA"
     content: >-
-      We review your deck within 48-hours and send you a custom scorecard with
-      ratings by exited founders. 
+      We review your deck and send you a custom scorecard with feedback from
+      exited founders. 
     button:
       enable: true
       label: "Exited Founders Back You \U0001F680"
