@@ -11,7 +11,7 @@ description: >-
   milestones and win the game.<br> We’re here to roll up our sleeves and help
   you execute. We only work with founders who are ready to achieve oversized
   outcomes and positively impact lives.<br> If that sounds like you, apply now,
-  and let’s see if we’re a fit.
+  and let’s see if we’re a fit. 
 button:
   enable: true
   label: Apply Now
