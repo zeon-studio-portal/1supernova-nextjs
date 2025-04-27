@@ -18,12 +18,13 @@ button:
   link: 'https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com'
 main_image: /images/colossal200m.png
 testimonial:
-  content: >
-    "Supernova scales startups successfully! They advise me, and I help others
-    via them."
+  content: >-
+    "Supernova scales startups successfully! They advise me, and I help other
+    founders succeed by advising them through Supernova."
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm
-  customer_profession: |
-    CEO & Co-founder (6x Exits) of Colossal ($200M Series C: $10B Valuation)
+  customer_profession: >-
+    6x Exited Founder. CEO & Co-founder of Colossal ($200M Series C: $10B
+    Valuation)
 ---
 
