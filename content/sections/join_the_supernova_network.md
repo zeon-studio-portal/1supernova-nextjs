@@ -19,8 +19,8 @@ button:
 main_image: /images/colossal200m.png
 testimonial:
   content: >-
-    "Supernova scales startups successfully! They advise me, and I help other
-    founders succeed by advising them through Supernova."
+    "Supernova scales startups successfully! They advise me, and now I help
+    other founders succeed through Supernova to pay it forward.""
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm
   customer_profession: >-
