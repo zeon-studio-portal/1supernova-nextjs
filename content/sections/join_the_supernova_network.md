@@ -1,6 +1,6 @@
 ---
 enable: true
-title: '**An Invitation to Top Founders**<br>Ready to Play a Greater Game?'
+title: An Invitation to Top Founders<br>Ready to Play a Greater Game?
 subtitle: >-
   **What if the world's most successful founders teamed up to play and win
   bigger and faster together?**
