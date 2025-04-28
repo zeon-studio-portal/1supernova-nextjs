@@ -13,6 +13,6 @@ form:
 card_list:
   - title: Get Your Founder Scorecard Within 24 Hours
   - title: Get Matched With Exited Founder(s)
-  - title: Accelerate Key Milestones & Achieve Oversized Outcomes
+  - title: Accelerate Key Milestones & Outcomes
 ---
 
