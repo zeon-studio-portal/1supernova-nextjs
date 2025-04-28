@@ -40,12 +40,9 @@ const Home = ({
       <Banner banner={banner} founders={banner.founders} />
       {/* The Supernova Advantage: join_the_supernova_network */}
       <JoinSupernovaNetwork data={join_the_supernova_network.frontmatter} />
-      {/* Upload Your Pitch Deck Here */}
       <UploadAndApply data={upload_and_apply.frontmatter} />
       <JoinSteps join_steps={join_steps_page} />
       <HowItWorks how_it_works={how_it_works_page} />
-      {/* Why Supernova Exists */}
-      <WhySupernovaExists data={why_supernova_exists.frontmatter} />
       <Advisory advisory={advisory.frontmatter} />
       <Testimonials testimonials={testimonials_page} />
       <Mission mission={mission} />
@@ -54,6 +51,7 @@ const Home = ({
       <Superstars superstars={superstars_page} />
       <GoSupernova go_supernova={go_supernova_page} />
       <JoinCommunity join_community={join_community_page} />
+      <WhySupernovaExists data={why_supernova_exists.frontmatter} />
       <Faq faq={faq_page} />
     </Base>
   );

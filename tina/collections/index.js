@@ -18,6 +18,29 @@ const index = {
       type: 'object',
       fields: [
         {
+          label: 'Badge',
+          name: 'badge',
+          type: 'object',
+          fields: [
+            {
+              label: 'Enable',
+              name: 'enable',
+              type: 'boolean',
+            },
+            {
+              label: 'Label',
+              name: 'label',
+              type: 'string',
+            },
+            {
+              label: 'Images',
+              name: 'images',
+              type: 'image',
+              list: true,
+            },
+          ],
+        },
+        {
           label: 'Title',
           name: 'title',
           type: 'string',
@@ -56,6 +79,11 @@ const index = {
           type: 'object',
           fields: [
             {
+              label: 'Enable',
+              name: 'enable',
+              type: 'boolean',
+            },
+            {
               label: 'label',
               name: 'label',
               type: 'string',
@@ -67,61 +95,45 @@ const index = {
             },
           ],
         },
-      ],
-    },
-    {
-      label: 'Founders',
-      name: 'founders',
-      type: 'object',
-      fields: [
         {
-          label: 'Title',
-          name: 'title',
-          type: 'string',
+          label: 'Button',
+          name: 'button',
+          type: 'object',
+          fields: [
+            {
+              label: 'Enable',
+              name: 'enable',
+              type: 'boolean',
+            },
+            {
+              label: 'Label',
+              name: 'label',
+              type: 'string',
+            },
+            {
+              label: 'Link',
+              name: 'link',
+              type: 'string',
+            },
+          ],
         },
         {
-          label: 'Brands',
-          name: 'brands',
-          type: 'image',
-          list: true,
-        },
-      ],
-    },
-
-    {
-      label: 'Advisory Game',
-      name: 'advisory_game',
-      type: 'object',
-      fields: [
-        {
-          label: 'Enable',
-          name: 'enable',
-          type: 'boolean',
-        },
-        {
-          label: 'Title',
-          name: 'title',
-          type: 'string',
-        },
-        {
-          label: 'Subtitle',
-          name: 'subtitle',
-          type: 'string',
-        },
-        {
-          label: 'Quote',
-          name: 'quote',
-          type: 'string',
-        },
-        {
-          label: 'NPS Score',
-          name: 'nps_score',
-          type: 'image',
-        },
-        {
-          label: 'NPS Score Mobile',
-          name: 'nps_score_mobile',
-          type: 'image',
+          label: 'Founders',
+          name: 'founders',
+          type: 'object',
+          fields: [
+            {
+              label: 'Title',
+              name: 'title',
+              type: 'string',
+            },
+            {
+              label: 'Brands',
+              name: 'brands',
+              type: 'image',
+              list: true,
+            },
+          ],
         },
       ],
     },
