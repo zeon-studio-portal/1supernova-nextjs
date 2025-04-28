@@ -2,6 +2,7 @@ import Logo from '@components/Logo';
 import config from '@config/config.json';
 import menu from '@config/menu.json';
 import settings from '@config/settings.json';
+import { markdownify } from '@lib/utils/textConverter';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
@@ -162,7 +163,7 @@ const Header = () => {
               href={settings.header_cta_link}
               target="_blank"
               rel="noopener nofollow noreferrer">
-              Book a Call
+              {markdownify(settings.header_cta_label, 'span', '')}
               <svg
                 width="20"
                 height="20"
@@ -187,7 +188,7 @@ const Header = () => {
             href={settings.header_cta_link}
             target="_blank"
             rel="noopener nofollow noreferrer">
-            Book a Call
+            {markdownify(settings.header_cta_label, 'span', '')}
             <svg
               width="20"
               height="20"

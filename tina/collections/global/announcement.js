@@ -1,8 +1,8 @@
 const announcement = {
-  label: "Announcement + Copywriting",
-  name: "announcement",
-  path: "config",
-  format: "json",
+  label: 'Announcement + Copywriting',
+  name: 'announcement',
+  path: 'config',
+  format: 'json',
   ui: {
     allowedActions: {
       create: false,
@@ -10,36 +10,41 @@ const announcement = {
     },
   },
   match: {
-    include: "settings",
+    include: 'settings',
   },
   fields: [
     {
-      label: "Header CTA Link",
-      name: "header_cta_link",
-      type: "string",
+      label: 'Header CTA Label',
+      name: 'header_cta_label',
+      type: 'string',
     },
     {
-      label: "Announcement",
-      name: "announcement",
-      type: "string",
+      label: 'Header CTA Link',
+      name: 'header_cta_link',
+      type: 'string',
+    },
+    {
+      label: 'Announcement',
+      name: 'announcement',
+      type: 'string',
       ui: {
-        component: "textarea",
-      }
+        component: 'textarea',
+      },
     },
     {
-      label: "Tag Manager ID",
-      name: "tag_manager_id",
-      type: "string",
+      label: 'Tag Manager ID',
+      name: 'tag_manager_id',
+      type: 'string',
     },
     {
-      label: "Footer Copy",
-      name: "footer_copy",
-      type: "string",
+      label: 'Footer Copy',
+      name: 'footer_copy',
+      type: 'string',
     },
     {
-      label: "Copyright",
-      name: "copyright",
-      type: "string",
+      label: 'Copyright',
+      name: 'copyright',
+      type: 'string',
     },
   ],
 };
