@@ -43,8 +43,13 @@ const UploadAndApply = ({ data }) => {
               />
               <input
                 type="url"
+                name="deck-link"
                 placeholder={form.placeholder}
                 className="mx-auto h-12 w-full rounded-lg border border-secondary/60 bg-dark-primary/20 text-center text-lg text-light-tertiary placeholder:text-light-tertiary focus:border-secondary-600 focus:ring-secondary-600 lg:w-2/3 "
+                required
+                autoComplete="off"
+                autoCorrect="off"
+                autoCapitalize="off"
               />
               <button
                 type="submit"

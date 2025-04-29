@@ -15,4 +15,3 @@ card_list:
   - title: Get Matched With Exited Founder(s)
   - title: Accelerate Key Milestones & Outcomes
 ---
-
