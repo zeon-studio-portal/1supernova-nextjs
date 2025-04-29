@@ -21,8 +21,8 @@ button:
 main_image: /images/colossal200m.png
 testimonial:
   content: >-
-    "They advise me. I advise others. When exited founders team up results
-    happen exponentially faster. That's the Supernova effect!"
+    "They advise me. I advise others. That's the Supernova effect! When exited
+    founders plug-n-play results happen exponentially faster."
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm (6x Exited Founder)
   customer_profession: 'CEO & Co-founder of Colossal <br> ($200M Series C: $10B Valuation) '
