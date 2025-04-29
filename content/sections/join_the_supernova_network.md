@@ -7,13 +7,14 @@ subtitle: >-
 description: >-
   Scaling a startup is a game of high-stakes decisions. Every move counts — and
   having the right investors, mentors, and advisors can be the difference
-  between success and failure.<br><br>At Supernova, we don’t just invest or
-  advise—we activate. We’re a team of 150+ exited founders who have been in your
-  shoes, scaled companies to zebras, unicorns, and decacorns, and know what it
-  takes to hit milestones and win the game.<br><br>We are here to roll up our
-  sleeves and help you execute. We only work with founders who are ready to
-  achieve oversized outcomes and positively impact lives.<br><br> If that sounds
-  like you, apply now, and let’s see if we’re a fit. 
+  between success and failure.<br><br>At Supernova, we don’t just advise or
+  invest—we activate. We are 250+ exited founders who have been in your shoes,
+  scaled companies to zebras, unicorns, and decacorns, and know what it takes to
+  hit milestones and win the game.<br><br>We are here to problem solve, roll up
+  our sleeves, and help you execute for shared success. We only work with
+  founders who are ready to achieve oversized outcomes and positively impact
+  lives.<br><br> If that sounds like you, apply now, and let’s see if we’re a
+  fit. 
 button:
   enable: true
   label: Apply Now
