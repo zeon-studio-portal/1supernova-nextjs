@@ -37,4 +37,3 @@ banner:
       - /images/founders/vistage.svg
       - /images/founders/500.svg
 ---
-
