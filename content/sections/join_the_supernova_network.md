@@ -10,10 +10,10 @@ description: >-
   between success and failure.<br><br>At Supernova, we don’t just advise or
   invest—we activate. We are 250+ exited founders who have been in your shoes,
   scaled companies to zebras, unicorns, and decacorns, and know what it takes to
-  hit milestones and win the game.<br><br>We are here to problem solve, roll up
-  our sleeves, and help you execute for shared success. We only work with
-  founders who are ready to achieve oversized outcomes and impact.<br><br> If
-  that sounds like you, apply now, and let’s see if we’re a fit. 
+  hit milestones and win the game.<br><br>We don't sit on the sidelines—we get
+  in the game with you. We back founders on a mission to build thriving
+  businesses that make a real difference.<br><br> If that sounds like you, apply
+  now, and let’s see if we’re a fit. 
 button:
   enable: true
   label: Apply Now
