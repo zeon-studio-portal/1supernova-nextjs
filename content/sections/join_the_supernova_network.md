@@ -21,8 +21,9 @@ button:
 main_image: /images/colossal200m.png
 testimonial:
   content: >-
-    "Supernova scales startups successfully! They advise me, and I help other
-    founders succeed through Supernova to pay it forward.""
+    "They advise me. I advise others to pay it forward. Results happen
+    exponentially fasters when exited founders team up. That's the Supernova
+    effect!"
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm (6x Exited Founder)
   customer_profession: 'CEO & Co-founder of Colossal <br> ($200M Series C: $10B Valuation) '
