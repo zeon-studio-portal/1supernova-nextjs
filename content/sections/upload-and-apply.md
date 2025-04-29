@@ -7,14 +7,11 @@ subtitle: >-
   year.
 form:
   placeholder: Add a link to your pitch deck here.
-  formActionUrl: 'https://formsubmit.co/ajax/barry@1supernova.com'
-  successMessage: Thank you for your submission! We will get back to you soon.
-  errorMessage: There was an error submitting the form. Please try again.
   button:
     label: Upload & Apply Now
 card_list:
   - title: Get Your Founder Scorecard Within 24 Hours
-  - title: Get Matched With Exited Founder(s)
+  - title: Get Matched With Exited Founders
   - title: Accelerate Key Milestones & Outcomes
 ---
 
