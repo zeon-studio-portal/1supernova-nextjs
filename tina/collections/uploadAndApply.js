@@ -43,8 +43,18 @@ const uploadAndApply = {
           type: 'string',
         },
         {
-          label: 'Action',
-          name: 'action',
+          label: 'Form Action Ajax Url (formsubmit.co)',
+          name: 'formActionUrl',
+          type: 'string',
+        },
+        {
+          label: 'Success Message',
+          name: 'successMessage',
+          type: 'string',
+        },
+        {
+          label: 'Error Message',
+          name: 'errorMessage',
           type: 'string',
         },
         {
