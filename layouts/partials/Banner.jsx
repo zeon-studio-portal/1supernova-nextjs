@@ -50,11 +50,6 @@ const Banner = ({ banner, founders }) => {
               'h1',
               'text-banner mx-auto mb-8 w-fit text-6xl/none font-medium [&>strong]:!text-secondary-600'
             )}
-            {/* <AnimatedText
-              tag="h1"
-              className="text-banner mx-auto mb-8 w-fit text-6xl/none font-medium"
-              content={banner.title}
-            /> */}
           </div>
           <div data-aos="fade-up" data-aos-delay="50">
             {markdownify(
@@ -101,7 +96,7 @@ const Banner = ({ banner, founders }) => {
             />
           )}
 
-          {banner.quote && (
+          {banner.quote && banner.quote.enable && (
             <div
               className="mx-auto mt-8 max-w-[400px]"
               data-aos="fade-up"

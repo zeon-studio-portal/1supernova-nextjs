@@ -61,6 +61,11 @@ const index = {
           type: 'object',
           fields: [
             {
+              label: 'Enable',
+              name: 'enable',
+              type: 'boolean',
+            },
+            {
               label: 'Title',
               name: 'title',
               type: 'string',
