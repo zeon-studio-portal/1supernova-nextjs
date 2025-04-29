@@ -23,8 +23,8 @@ lists:
       problem solve and seize opportunities. 
   - name: Advisory
     content: >-
-      You sign a STAR (Short-Term Advisory Relationship) agreement to add exited
-      founders to hit key milestones.
+      You sign a STAR (Short-Term Advisory Relationship) agreement to officially
+      engage an exited founder to hit key milestones.
   - name: Funding
     content: >-
       We invest $100-250K in 10-12 world-changing companies yearly and provide
