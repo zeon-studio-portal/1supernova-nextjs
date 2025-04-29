@@ -3,8 +3,8 @@ enable: true
 title: We Are Exited Founders
 subtitle: Over 250+ exited founders ready to serve your company needs as all-star teams.
 quote: >-
-  We team up to serve you as mentors, advisors, coaches, interim executives and
-  hands-on operators.
+  We orbit around your needs as mentors, advisors, coaches, interim executives
+  and hands-on operators.
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
