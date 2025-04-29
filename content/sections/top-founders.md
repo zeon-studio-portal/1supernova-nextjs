@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Supernova Portfolio Companies
+title: Top Supernova Portfolio Companies
 subtitle: We proudly back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
