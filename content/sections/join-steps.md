@@ -23,9 +23,8 @@ lists:
       problem solve and seize opportunities. 
   - name: Advisory
     content: >-
-      You select one superstar exited founder who gets hand-on as a STAR
-      (Short-term Advisory Relationship) for speed-to-value to hit key
-      milestones.
+      You choose to start with one exited founder and enter a STAR (Short-Term
+      Advisory Relationship) agreement to hit key milestones.
   - name: Funding
     content: >-
       We invest $100-250K in 10-12 world-changing companies yearly and provide
