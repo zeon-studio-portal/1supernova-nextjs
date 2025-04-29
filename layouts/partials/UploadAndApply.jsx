@@ -18,6 +18,8 @@ const UploadAndApply = ({ data }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoader(true);
+    setSubmitted(false);
+    setError(false);
     const formData = new FormData(e.target);
     const deckLink = formData.get('deck-link');
     setDeckLink(deckLink);
@@ -94,13 +96,13 @@ const UploadAndApply = ({ data }) => {
               />
               {/* Success Message */}
               {submitted && (
-                <div className="mt-4 text-lg text-green-500">
+                <div className="mt-4 text-lg font-medium text-green-500">
                   {form.successMessage}
                 </div>
               )}
               {/* Error Message */}
               {error && (
-                <div className="mt-4 text-lg text-red-500">
+                <div className="mt-4 text-lg font-medium text-red-500">
                   {form.errorMessage}
                 </div>
               )}
