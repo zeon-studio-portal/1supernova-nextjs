@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Supernova Events \U0001F310"
+title: "Learn From Our Portfolio Companies \U0001F310"
 subtitle: >-
   Watch this video (replay) to hear from CEO's of three Supernova portfolio
   companies
