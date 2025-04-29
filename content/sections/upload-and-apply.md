@@ -6,7 +6,7 @@ subtitle: >-
   Ready to scale? Apply now to become one of the few companies we back each
   year.
 form:
-  placeholder: Add a link to your pitch deck here.
+  placeholder: Add a link to your pitch deck here
   button:
     label: Upload & Apply Now
 card_list:
