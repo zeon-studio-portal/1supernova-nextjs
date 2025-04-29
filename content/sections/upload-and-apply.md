@@ -10,7 +10,7 @@ form:
   button:
     label: Upload & Apply Now
 card_list:
-  - title: Get Your Founder Scorecard Within 24 Hours
+  - title: Get Your Founder Scorecard for FREE
   - title: Get Matched With Exited Founders
   - title: Accelerate Milestones & Desired Outcomes
 ---
