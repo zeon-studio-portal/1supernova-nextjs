@@ -12,9 +12,8 @@ description: >-
   scaled companies to zebras, unicorns, and decacorns, and know what it takes to
   hit milestones and win the game.<br><br>We are here to problem solve, roll up
   our sleeves, and help you execute for shared success. We only work with
-  founders who are ready to achieve oversized outcomes and positively impact
-  lives.<br><br> If that sounds like you, apply now, and let’s see if we’re a
-  fit. 
+  founders who are ready to achieve oversized outcomes and impact.<br><br> If
+  that sounds like you, apply now, and let’s see if we’re a fit. 
 button:
   enable: true
   label: Apply Now
