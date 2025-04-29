@@ -21,8 +21,8 @@ button:
 main_image: /images/colossal200m.png
 testimonial:
   content: >-
-    "They advise me. I advise others to pay it forward. When exited founders
-    team up with YOU results happen exponentially faster. That's the Supernova
+    "They advise me. I advise others (pay it forward). When exited founders team
+    up with YOU results happen exponentially faster. That's the Supernova
     effect!"
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm (6x Exited Founder)
