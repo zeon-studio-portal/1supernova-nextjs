@@ -7,7 +7,9 @@ subtitle: >-
   year.
 form:
   placeholder: 'Add a link to your pitch deck here '
-  action: 'https://formsubmit.co/barry@1supernova.com'
+  formActionUrl: 'https://formsubmit.co/ajax/rubel.themefisher@gmail.com'
+  successMessage: 'Thank you for your submission! We will get back to you soon.'
+  errorMessage: 'There was an error submitting the form. Please try again.'
   button:
     label: Upload & Apply Now
 card_list:
