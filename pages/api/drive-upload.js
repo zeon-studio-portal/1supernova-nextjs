@@ -2,10 +2,15 @@ import formidable from 'formidable';
 import fs from 'fs';
 import { google } from 'googleapis';
 import path from 'path';
-import apikeys from '../../config/gas.json';
 
 // Define the scope for Google Drive API
 const SCOPES = ['https://www.googleapis.com/auth/drive'];
+const apikeys = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_JSON);
+if (!apikeys) {
+  throw new Error(
+    'Google service account JSON not found or invalid. Please set GOOGLE_SERVICE_ACCOUNT_JSON in your environment variables.'
+  );
+}
 
 // Get folder ID from environment variables or use default
 const DRIVE_FOLDER_ID =
