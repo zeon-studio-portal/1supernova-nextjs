@@ -1,10 +1,13 @@
 import ArrowButton from '@components/ArrowButton';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
+import { useState } from 'react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 
 const JoinSupernovaNetwork = ({ data }) => {
+  const [isParagraphExtended, setIsParagraphExtended] = useState(false);
+
   const {
     enable,
     main_image,
@@ -36,12 +39,23 @@ const JoinSupernovaNetwork = ({ data }) => {
                       {markdownify(
                         subtitle,
                         'p',
-                        ' [&>strong]:text-yellow-400 mb-8'
+                        `[&>strong]:text-yellow-300 mb-8 `
                       )}
                     </div>
                   )}
                   <div data-aos="fade-up-sm" data-aos-delay="100">
-                    {markdownify(description, 'p', 'text-slate-100 text-base')}
+                    {markdownify(
+                      description,
+                      'p',
+                      `text-slate-100 text-base ${isParagraphExtended ? 'h-auto' : 'max-xl:h-[200px] overflow-hidden'}`
+                    )}
+                    <button
+                      className="mt-2 hidden text-base text-yellow-400 max-xl:block"
+                      onClick={() =>
+                        setIsParagraphExtended(!isParagraphExtended)
+                      }>
+                      {isParagraphExtended ? 'Read Less' : 'Read More...'}
+                    </button>
                   </div>
                   {button && button.enable && (
                     <div data-aos="fade-up-sm">
@@ -49,7 +63,7 @@ const JoinSupernovaNetwork = ({ data }) => {
                         link={button.link}
                         label={button.label}
                         className={
-                          'mt-4 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary'
+                          'mt-8 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary'
                         }
                       />
                     </div>
