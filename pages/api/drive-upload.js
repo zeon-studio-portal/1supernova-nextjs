@@ -2,7 +2,7 @@ import formidable from 'formidable';
 import fs from 'fs';
 import { google } from 'googleapis';
 import path from 'path';
-import apikeys from '../../config/google_service_auth.json';
+import apikeys from '../../config/gas.json';
 
 // Define the scope for Google Drive API
 const SCOPES = ['https://www.googleapis.com/auth/drive'];
