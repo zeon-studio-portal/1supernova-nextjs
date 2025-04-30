@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gmap-tf",
+  "private_key_id": "9b3c6b276b62c64ea54207822a46f61b8ac18261",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDddlHhxhOZLK06\nxYiwNyfpIFAkxwjqQb0Uh8vJ6mzjB0RV9+dDPLKdztBncy4A+dqGlenritMIb9g0\nUYZBwoaHZH58/QQC5pscOVmHvRPTDDPKv7WVDVTRDWIKCNnfxtInlbyu/HXDSaO1\nl+DMntjty5wvHLhHxRrq5QPBkGbhfxlGHu4emaxCIdnRsY1UvdUQIuI+c5DOvaC1\nlH3NlBX3VI6i4q9XJMfzmtmSY7eY1zhXwJ5iw8ADuOD2pDFmdKzTuEpAuiQvhJbW\ngLExM5wFzYWcmUYksOw1YQO68QCzK8+TWAspcTVM05KJWIDpsLxZZQvwjEQYC5B3\nVEiY4U8PAgMBAAECggEAJJ3vo/jwPJ9adSE8HIbCHpWtKqeOHc2IyeA6HcSZBGCr\nN9upbUCX9+e+JZyxuo+VRjN7XeqyQe7cPKpOHIlhXPmMwHXFOAWRF/WTjBIDOR4H\nYjqYd3Cg2X/w+d/Exm9FSC5F6Fjtz8BZRSk7jhmlnIvR4yhIf/VjIfuDx3lsyVO/\nt78NHZFcfZfngUCvoRb0P9VigFrUUHiIQuddbzajJhNJE34/HGXIrI/Z+dELDFzh\nnt+P3f/y03+RTDXObelJG1dK4YCK6QZ94aIhWpcRMoAxFSiDwy5cs0ugy6JXnno+\n82DxSOmdrEtW7a6O8c7IpcLhUnCuV7KFje+dTVZ0QQKBgQD4IzVx4yCqPUkNJqJ4\nYgzGTlegQbAuz3ly+cG1pIWI9LyZ7QhGzonigXr13UGF1cSrA0aOdyt21Vbq4dv/\nQqw2VHiYoGCoatAhilh0mjzEL5U6Jk66uD/icv3hwnr5HW0d5OOJSWLe5YmycvxU\nQmogFaVp8moA61LKRCZqkcXweQKBgQDkertBJ8IaJB3yiQjS8fgXAdOEwfPwnSfP\nuD2/Z82S2i9FKJeJEtZPs+JPZd8UPq4NSd1pR7yN5UcawJqVp532Dph4n8vRiYPR\nDcl6L8KvKjKKRcZpgV7NbeWKUNa4eB9VaUiky9vodH6f5di128biFk4pAHLyXlBS\nhXX9GIApxwKBgCCWhytY1+5jtBddDpNe1SyqF0n9toS/TMTz1iPj4oG1GpvgjGi4\nMVWlCaAGmddY1sZa3MZTEks+A3c/iGQCvpk4CMqKrYcQ2Bq/j5RouThOw3tqkoZl\nMkasMXmX0Aytd6ooaFWcZLa/UJE2Frt+KW/jR+EdLBzIywuzXZQ7ZtKJAoGAF7o/\nNBcC62AQ1B0zE2UZlJoV81WJFdXcSpAhqX0INlX+TrpWcl/IbeKKgCBeOGYCAVNI\ncSSIClxjM/4Ij74mg2UkpHJD4nDbhZxe7heDqllBgmaYomBTDhZ5nhGjGukup9oV\nNzgMkGl4tPZTuR8n2lbiqxNm3JC62rcNd8lRlgUCgYB3C+g+/Olj5GOmijkCLaNz\n01jtIjHk5pyDU63gZzo8ecs7/Ta8skRDMMTb2ChtWALNmuP1JmKmpRzDupeqTS5F\nYQUXYObap2u5UvywIJwRqTOR9snPpi0KwExBEzdKrVtfMf+D63ot8ssG6BMMuhKJ\njWTxE+6/IerINKUt1xCKrQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-supernova-gd-upload-test@gmap-tf.iam.gserviceaccount.com",
+  "client_id": "104898346109663223490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-supernova-gd-upload-test%40gmap-tf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
