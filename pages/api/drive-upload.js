@@ -20,8 +20,8 @@ if (!DRIVE_FOLDER_ID) {
   );
 }
 
-// Maximum file size (50MB)
-const MAX_FILE_SIZE = 50 * 1024 * 1024;
+// Maximum file size (200MB)
+const MAX_FILE_SIZE = 200 * 1024 * 1024;
 
 // Allowed file extensions
 const ALLOWED_FILE_EXTENSIONS = [
@@ -44,6 +44,7 @@ const ALLOWED_FILE_EXTENSIONS = [
 export const config = {
   api: {
     bodyParser: false,
+    responseLimit: false,
   },
 };
 
