@@ -17,6 +17,12 @@ const nextConfig = {
 
   // Control trailing slashes for URLs
   trailingSlash: config.site.trailing_slash,
+
+  experimental: {
+    serverActions: {
+      bodySizeLimit: '50mb',
+    },
+  },
 };
 
 // Export the combined MDX and Next.js configuration
