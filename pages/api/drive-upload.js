@@ -13,8 +13,12 @@ if (!apikeys) {
 }
 
 // Get folder ID from environment variables or use default
-const DRIVE_FOLDER_ID =
-  process.env.GOOGLE_DRIVE_FOLDER_ID || '1fTe3PxYB4dRAnafOPVW68vy9l5H4FsJh';
+const DRIVE_FOLDER_ID = process.env.GOOGLE_DRIVE_FOLDER_ID;
+if (!DRIVE_FOLDER_ID) {
+  throw new Error(
+    'Google Drive folder ID not found. Please set GOOGLE_DRIVE_FOLDER_ID in your environment variables.'
+  );
+}
 
 // Maximum file size (10MB)
 const MAX_FILE_SIZE = 10 * 1024 * 1024;
