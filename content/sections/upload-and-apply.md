@@ -7,6 +7,10 @@ subtitle: >-
   year.
 form:
   placeholder: Add a link to your pitch deck here
+  formActionUrl: 'https://formsubmit.co/ajax/rubel.themefisher@gmail.com'
+  # formActionUrl: 'https://formsubmit.co/ajax/barry@1supernova.com'
+  successMessage: Thank you for your submission! We will get back to you soon.
+  errorMessage: There was an error submitting the form. Please try again.
   button:
     label: Upload & Apply Now
 card_list:
@@ -14,4 +18,3 @@ card_list:
   - title: Get Matched With Exited Founders
   - title: Accelerate Milestones & Desired Outcomes
 ---
-
