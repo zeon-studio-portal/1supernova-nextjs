@@ -29,11 +29,10 @@ banner:
   founders:
     title: 'Top founders collaborate across communities: '
     brands:
-      - /images/founders/andressen.svg
+      - /images/founders/a16z.svg
       - /images/founders/eo.svg
-      - /images/founders/gaingels.svg
+      - /images/founders/post-exit-founders.svg
       - /images/founders/ycombinator.svg
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
-      - /images/founders/500.svg
 ---
