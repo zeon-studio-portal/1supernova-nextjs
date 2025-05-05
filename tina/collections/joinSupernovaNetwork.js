@@ -60,6 +60,23 @@ const joinSupernovaNetwork = {
       type: 'image',
     },
     {
+      label: 'Main Image Video Button',
+      name: 'main_image_play_button',
+      type: 'object',
+      fields: [
+        {
+          label: 'Enable',
+          name: 'enable',
+          type: 'boolean',
+        },
+        {
+          label: 'Full Link (Youtube, Vimeo)',
+          name: 'full_link',
+          type: 'string',
+        },
+      ],
+    },
+    {
       label: 'Testimonial',
       name: 'testimonial',
       type: 'object',
