@@ -19,6 +19,10 @@ button:
   link: >-
     https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com
 main_image: /images/colossal200m.png
+main_image_play_button:
+  enable: true
+  full_link: >-
+    https://www.youtube.com/watch?v=YHkg4k7gnDA
 testimonial:
   content: >
     "Supernova scales startups successfully! They advise me, and I help others
