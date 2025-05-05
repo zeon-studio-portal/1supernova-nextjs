@@ -18,7 +18,7 @@ const Banner = ({ banner, founders }) => {
 
   return (
     <section className="relative overflow-hidden pb-16 pt-12 after:absolute after:inset-0 after:z-20 after:h-full after:w-full after:bg-dark-primary/70 after:content-[''] md:pt-8">
-      <div className="relative z-30 flex flex-col justify-around sm:min-h-[600px]">
+      <div className="relative z-30 flex flex-col justify-around gap-y-10 sm:min-h-[600px]">
         <div className="container relative z-50 text-center">
           {badge && badge.enable && (
             <div data-aos="fade-up-sm">
@@ -48,13 +48,8 @@ const Banner = ({ banner, founders }) => {
             {markdownify(
               banner.title,
               'h1',
-              'text-banner mx-auto mb-8 w-fit text-6xl/none font-medium [&>strong]:!text-secondary-600'
+              'text-banner mx-auto mb-8 w-fit text-h3/tight md:text-h1 font-medium [&>strong]:!text-secondary-600'
             )}
-            {/* <AnimatedText
-              tag="h1"
-              className="text-banner mx-auto mb-8 w-fit text-6xl/none font-medium"
-              content={banner.title}
-            /> */}
           </div>
           <div data-aos="fade-up" data-aos-delay="50">
             {markdownify(
@@ -101,7 +96,7 @@ const Banner = ({ banner, founders }) => {
             />
           )}
 
-          {banner.quote && (
+          {banner.quote && banner.quote.enable && (
             <div
               className="mx-auto mt-8 max-w-[400px]"
               data-aos="fade-up"

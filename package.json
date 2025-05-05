@@ -16,9 +16,11 @@
   "dependencies": {
     "@mdx-js/loader": "^3.0.1",
     "@next/mdx": "^14.2.13",
-    "@tinacms/cli": "^1.6.4",
+    "@tinacms/cli": "^1.9.5",
     "aos": "^2.3.4",
+    "formidable": "v2",
     "github-slugger": "^2.0.0",
+    "googleapis": "^148.0.0",
     "gray-matter": "^4.0.3",
     "gsap": "^3.12.5",
     "marked": "^12.0.2",

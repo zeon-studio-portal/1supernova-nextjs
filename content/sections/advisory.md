@@ -9,10 +9,9 @@ subtitle: >-
   href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">decacorn</a> status.
 quote: >-
-  We are 150+ exited founders joining forces as tiger teams, mentors,
-  advisors, and investors in world-changing companies. <br>By sharing our
-  collective wisdom, resources, & networks, we create oversized
-  outcomes—together.✨
+  We are 250+ exited founders joining forces as tiger teams, mentors, advisors,
+  and investors in world-changing companies. <br>By sharing our collective
+  wisdom, resources, & networks, we create oversized outcomes—together.✨
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/Founder.png
@@ -35,3 +34,4 @@ facts:
     number: 11
     suffix: +
 ---
+

@@ -1,10 +1,10 @@
 ---
 enable: true
-title: 'All Stars: Exited Founders'
-subtitle: Over 150+ exited founders ready to serve your company as all-star teams.
+title: We Are Exited Founders
+subtitle: Over 250+ exited founders ready to serve your company needs as all-star teams.
 quote: >-
-  We orbit around your needs as operating advisors, mentors, coaches and interim
-  talent.
+  We orbit around your needs as mentors, advisors, coaches, interim executives
+  and hands-on operators.
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
