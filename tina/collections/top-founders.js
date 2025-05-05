@@ -65,6 +65,31 @@ const topFounders = {
           type: 'string',
         },
         {
+          label: 'Video Popup Button',
+          name: 'video_link_button',
+          type: 'object',
+          fields: [
+            {
+              label: 'Enable',
+              name: 'enable',
+              type: 'boolean',
+              default: false,
+            },
+            {
+              label: 'Label',
+              name: 'label',
+              type: 'string',
+              default: 'Watch interview',
+            },
+            {
+              label: 'Video Link ( Youtube, Vimeo )',
+              name: 'full_link',
+              type: 'string',
+              default: 'https://www.youtube.com/watch?v=LXb3EKWsInQ',
+            },
+          ],
+        },
+        {
           label: 'Brand Logo',
           name: 'brand_logo',
           type: 'object',
