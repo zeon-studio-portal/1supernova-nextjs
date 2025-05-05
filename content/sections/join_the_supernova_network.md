@@ -9,11 +9,11 @@ description: >-
   having the right investors, mentors, and advisors can be the difference
   between success and failure.<br><br>At Supernova, we don’t fck around. We
   don’t just invest or advise—we activate. We are 250+ exited founders who have
-  been in your shoes, scaled companies to zebras, unicorns, and decacorns, and
+  been in your shoes, [scaled companies to zebras, unicorns, and decacorns](https://www.youtube.com/watch?v=gZIoe6bu2GY) <InlineVideoPopupLink label="scaled companies to zebras, unicorns, and decacorns" full_link="#" /> and
   know what it takes to win the game.<br><br>We don't sit on the sidelines—we
   get in the game with you. Savage execution. We only back founders on a mission
   to build thriving businesses that make a real difference.<br><br> If that
-  sounds like you, apply now, and let’s see if we’re a fit. 
+  sounds like you, apply now, and let’s see if we’re a fit.
 button:
   enable: true
   label: Apply Now
@@ -31,4 +31,3 @@ testimonial:
   customer_name: Ben Lamm (6x Exited Founder)
   customer_profession: 'CEO & Co-founder of Colossal <br> ($200M Series C: $10B Valuation) '
 ---
-

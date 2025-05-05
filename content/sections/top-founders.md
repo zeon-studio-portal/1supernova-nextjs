@@ -13,6 +13,10 @@ lists:
     designation: 'CEO & Founder '
     description: "First vibration therapy system clinically proven to lower stress \U0001F9D8\U0001F3FB‍♀️. ($30MM+ Series A)"
     case_study_link: /casestudy/apollo
+    video_link_button:
+      enable: false
+      label: Watch interview
+      full_link: 'https://youtu.be/G2SqSljZBy4?t=184'
     brand_logo:
       width: 130
       height: 29
@@ -22,6 +26,10 @@ lists:
     designation: 'CEO & Founder '
     description: "Smart micro financing for everyone \U0001F4B5. (Bootstrapped to $110MM+ ARR)"
     case_study_link: ''
+    video_link_button:
+      enable: false
+      label: Watch interview
+      full_link: 'https://youtu.be/G2SqSljZBy4?t=184'
     brand_logo:
       width: 130
       height: 33
@@ -31,6 +39,10 @@ lists:
     designation: CEO & Founder
     description: "World’s first de-extinction company \U0001F984 ($200MM+ Series C; $10B+ Valuation | Decacorn Status)"
     case_study_link: ''
+    video_link_button:
+      enable: true
+      label: Watch interview
+      full_link: 'https://youtu.be/G2SqSljZBy4?t=184'
     brand_logo:
       width: 130
       height: 45
@@ -40,9 +52,12 @@ lists:
     designation: CEO & Founder
     description: "Personalized online therapy for kids and teens \U0001F64B\U0001F3FB (Seed)"
     case_study_link: ''
+    video_link_button:
+      enable: false
+      label: Watch interview
+      full_link: 'https://youtu.be/G2SqSljZBy4?t=184'
     brand_logo:
       width: 100
       height: 71
       file: /images/hym.png
 ---
-

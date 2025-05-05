@@ -4,7 +4,7 @@ import ReactPlayerWrapperV2 from '@components/ReactPlayerWrapperV2';
 import PortalModal from '@layouts/helpers/PortalModal';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import { useOnClickOutside } from 'usehooks-ts';
@@ -45,34 +45,76 @@ const JoinSupernovaNetwork = ({ data }) => {
                   <div>
                     <div data-aos="fade-up-sm">
                       {markdownify(
-                        subtitle,
-                        'p',
-                        `[&>strong]:text-yellow-300 mb-8 `
+                        title,
+                        'h2',
+                        'text-h3_sm mb-4 !font-semibold [&>strong]:text-yellow-500 '
                       )}
                     </div>
-                  )}
-                  <div data-aos="fade-up-sm" data-aos-delay="100">
-                    {markdownify(
-                      description,
-                      'p',
-                      `text-slate-100 text-base ${isParagraphExtended ? 'h-auto' : 'max-xl:h-[200px] overflow-hidden'}`
+                    {subtitle && (
+                      <div data-aos="fade-up-sm" data-aos-delay={50}>
+                        {markdownify(
+                          subtitle,
+                          'p',
+                          `[&>strong]:text-yellow-300 mb-8 `
+                        )}
+                      </div>
                     )}
-                    <button
-                      className="mt-2 hidden text-base text-yellow-400 max-xl:block"
-                      onClick={() =>
-                        setIsParagraphExtended(!isParagraphExtended)
-                      }>
-                      {isParagraphExtended ? 'Read Less' : 'Read More...'}
-                    </button>
+                    <div data-aos="fade-up-sm" data-aos-delay="100">
+                      {markdownify(
+                        description,
+                        'p',
+                        `text-slate-100 text-base content [&>a]:text-yellow-300 [&>a]:hover:text-yellow-400 ${isParagraphExtended ? 'h-auto' : 'max-xl:h-[200px] overflow-hidden'}`
+                      )}
+                      <button
+                        className="mt-2 hidden text-base text-yellow-400 max-xl:block"
+                        onClick={() =>
+                          setIsParagraphExtended(!isParagraphExtended)
+                        }>
+                        {isParagraphExtended ? 'Read Less' : 'Read More...'}
+                      </button>
+                    </div>
+                    {button && button.enable && (
+                      <div data-aos="fade-up-sm">
+                        <ArrowButton
+                          link={button.link}
+                          label={button.label}
+                          className={
+                            'mt-8 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary'
+                          }
+                        />
+                      </div>
+                    )}
                   </div>
-                  {button && button.enable && (
-                    <div data-aos="fade-up-sm">
-                      <ArrowButton
-                        link={button.link}
-                        label={button.label}
-                        className={
-                          'mt-8 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary'
-                        }
+                </div>
+              </div>
+              <div className="lg:col-6 lg:ps-10">
+                <div className="flex flex-col gap-y-6">
+                  {
+                    <div data-aos="fade-up-sm" data-aos-delay={100}>
+                      <div className="relative">
+                        <Image
+                          className="w-full object-cover object-top"
+                          width={514}
+                          height={288}
+                          src={main_image}
+                          alt={'pvc'}
+                        />
+                        <div className="absolute inset-0 grid place-items-center">
+                          <div className="video-wrapper ">
+                            <PlayButton onClick={handleOpenVideoPopup} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  }
+                  {comparison_image && (
+                    <div data-aos="fade-up-sm" data-aos-delay={150}>
+                      <Image
+                        className="w-full object-cover object-top"
+                        width={514}
+                        height={288}
+                        src={comparison_image}
+                        alt={'pvc'}
                       />
                     </div>
                   )}
@@ -131,7 +173,7 @@ const JoinSupernovaNetwork = ({ data }) => {
         {isVideoPopupOpen && main_image_play_button.enable && (
           <PortalModal>
             <PortalModal.Close handleClose={handleCloseVideoModal} />
-            <div className="mx-auto w-[1200px]" ref={videoPopupRef}>
+            <div className="mx-auto w-[800px]" ref={videoPopupRef}>
               <ReactPlayerWrapperV2
                 url={main_image_play_button.full_link}
                 autoplay={true}
