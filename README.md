@@ -13,7 +13,7 @@
 npm run dev
 ```
 
-## Build Command.
+## Build Command
 
 ```
 npm run build
