@@ -63,7 +63,7 @@ const JoinSupernovaNetwork = ({ data }) => {
                       {markdownify(
                         description,
                         'p',
-                        `text-slate-100 text-base content [&>a]:text-yellow-300 [&>a]:hover:text-yellow-400 ${isParagraphExtended ? 'h-auto' : 'max-xl:h-[200px] overflow-hidden'}`
+                        `text-slate-100 text-base  [&>a]:text-yellow-300 [&>a]:hover:text-yellow-400 ${isParagraphExtended ? 'h-auto' : 'max-xl:h-[200px] overflow-hidden'}`
                       )}
                       <button
                         className="mt-2 hidden text-base text-yellow-400 max-xl:block"
