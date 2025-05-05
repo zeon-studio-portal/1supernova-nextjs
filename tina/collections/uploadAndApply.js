@@ -48,6 +48,11 @@ const uploadAndApply = {
           type: 'string',
         },
         {
+          label: 'File Upload Backend Server Endpoint',
+          name: 'fileUploadBackendServerEndpoint',
+          type: 'string',
+        },
+        {
           label: 'Success Message',
           name: 'successMessage',
           type: 'string',
