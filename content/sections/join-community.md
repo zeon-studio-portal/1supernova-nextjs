@@ -14,8 +14,8 @@ lists:
       **Are you a founder** of a bootstrapped or VC-backed Scaleup (minimum $5MM
       Revenues)?
     button:
-      label: Let’s Talk
-      link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
+      label: Apply Now
+      link: 'https://form.typeform.com/to/AZuYcsWx'
   - title: Exited Founders
     icon: /images/community/02.svg
     content: >-
