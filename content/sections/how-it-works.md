@@ -11,8 +11,8 @@ quote:
 process:
   - name: "01 - Apply \U0001F469‍\U0001F4BB"
     content: >-
-      [Apply](/https://i9evkjegsiq.typeform.com/to/E6JGj05O) by uploading your
-      pitch deck.  
+      [Apply](https://form.typeform.com/to/AZuYcsWx) by uploading your pitch
+      deck.  
     button:
       enable: true
       label: "Apply to Supernova \U0001F680"
