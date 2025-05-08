@@ -30,7 +30,7 @@ facts:
   - title: NPS Score
     number: 92
     suffix: ''
-  - title: Portfolio Market Cap ($B)
+  - title: Portfolio Market Cap ($B+)
     number: 11
     suffix: +
 ---
