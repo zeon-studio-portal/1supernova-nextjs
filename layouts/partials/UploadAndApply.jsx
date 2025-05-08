@@ -1,6 +1,5 @@
 import AnimatedText from '@components/AnimatedText';
 import { markdownify } from '@lib/utils/textConverter';
-import Image from 'next/image';
 import { useRef, useState } from 'react';
 
 const UploadAndApply = ({ data }) => {
@@ -34,6 +33,38 @@ const UploadAndApply = ({ data }) => {
     }
   };
 
+  const handleDrop = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const file = e.dataTransfer.files[0];
+    if (file) {
+      // Check if file size exceeds 20MB limit
+      if (file.size > 20 * 1024 * 1024) {
+        alert('File size exceeds 20MB limit. Please select a smaller file.');
+        return;
+      }
+      setSelectedFile(file);
+      if (fileInputRef.current) {
+        fileInputRef.current.files = e.dataTransfer.files;
+      }
+    }
+  };
+
+  const handleDragOver = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+  };
+
+  const handleDragEnter = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+  };
+
+  const handleDragLeave = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoader(true);
@@ -42,7 +73,11 @@ const UploadAndApply = ({ data }) => {
 
     try {
       // Handle file upload
-      if (!selectedFile) {
+      if (
+        !selectedFile ||
+        e.target.fullname.value === '' ||
+        e.target.email.value === ''
+      ) {
         setError(true);
         setLoader(false);
         return;
@@ -68,6 +103,8 @@ const UploadAndApply = ({ data }) => {
           body: JSON.stringify({
             _subject: `1SuperNova Deck Submission`,
             deck_link: uploadResult.file.webViewLink,
+            full_name: e.target.fullname.value,
+            email: e.target.email.value,
             file_name: selectedFile.name,
           }),
         });
@@ -114,37 +151,85 @@ const UploadAndApply = ({ data }) => {
             <form
               onSubmit={handleSubmit}
               method="POST"
-              className="flex min-h-[300px] flex-col items-center justify-center rounded-lg border border-secondary/40 bg-dark-primary/20 p-6 py-10 backdrop-blur-md">
-              <Image
-                src="/images/icons/upload.svg"
-                alt="Upload Icon"
-                className="mb-4 h-12 w-12"
-                width={48}
-                height={48}
-              />
-
-              <div className="w-full">
-                <input
-                  ref={fileInputRef}
-                  type="file"
-                  onChange={handleFileChange}
-                  className="mx-auto mb-2 block w-full cursor-pointer rounded-lg border border-secondary/60 bg-dark-primary/20 text-light-tertiary file:mr-4 file:cursor-pointer file:rounded-lg file:border-0 file:bg-secondary-600 file:px-4 file:py-2 file:text-dark-primary lg:w-2/3"
-                  accept=".pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx,.jpg,.jpeg,.png,.gif,.zip,.txt"
-                  required
-                />
-                <p className="text-xs text-light-tertiary/70">
-                  Allowed file types: PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX, JPG,
-                  JPEG, PNG, GIF, ZIP, TXT
-                </p>
-                <p className="text-xs text-light-tertiary/70">
-                  Maximum file size: 20MB
-                </p>
-                {selectedFile && (
-                  <p className="mt-2 text-sm text-light-tertiary">
-                    Selected: {selectedFile.name} (
-                    {(selectedFile.size / (1024 * 1024)).toFixed(2)} MB)
-                  </p>
-                )}
+              className="flex min-h-[300px] flex-col items-center justify-center rounded-lg border border-secondary/40 bg-[#1B1B1B] p-6 py-10">
+              <div className="w-full lg:w-2/3">
+                <div className="input-area">
+                  <label htmlFor="fullname" className="input-label">
+                    Your Name*
+                  </label>
+                  <input
+                    type="text"
+                    name="fullname"
+                    id="fullname"
+                    placeholder="Your Name"
+                    className="input-field"
+                    required
+                  />
+                </div>
+                <div className="input-area">
+                  <label htmlFor="email" className="input-label">
+                    Your Email*
+                  </label>
+                  <input
+                    type="email"
+                    name="email"
+                    id="email"
+                    placeholder="Your Name"
+                    className="input-field"
+                    required
+                  />
+                </div>
+                <div className="flex w-full flex-col items-start justify-center">
+                  <span className="input-label mb-2">Upload Your Deck*</span>
+                  <label
+                    htmlFor="dropzone-file"
+                    className="flex h-52 w-full cursor-pointer flex-col items-center justify-center rounded-lg border-2 border-dashed border-secondary/60"
+                    onDrop={handleDrop}
+                    onDragOver={handleDragOver}
+                    onDragEnter={handleDragEnter}
+                    onDragLeave={handleDragLeave}>
+                    <div className="flex flex-col items-center justify-center pb-6 pt-5">
+                      <svg
+                        className="mb-4 h-12 w-12 text-secondary-600"
+                        aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="none"
+                        viewBox="0 0 20 16">
+                        <path
+                          stroke="currentColor"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2"
+                          d="M13 13h3a3 3 0 0 0 0-6h-.025A5.56 5.56 0 0 0 16 6.5 5.5 5.5 0 0 0 5.207 5.021C5.137 5.017 5.071 5 5 5a4 4 0 0 0 0 8h2.167M10 15V6m0 0L8 8m2-2 2 2"
+                        />
+                      </svg>
+                      <p className="mb-2 text-sm text-secondary-600/60">
+                        <span className="font-semibold">Click to upload</span>{' '}
+                        or drag and drop
+                      </p>
+                      <p className="text-xs text-light-tertiary/70">
+                        Allowed file types: PDF, DOC, DOCX, XLS, XLSX, PPT,
+                        PPTX, JPG, JPEG, PNG, GIF, ZIP, TXT
+                      </p>
+                      <p className="text-xs text-light-tertiary/70">
+                        Maximum file size: 20MB
+                      </p>
+                      {selectedFile && (
+                        <p className="mt-2 text-sm text-cyan-700">
+                          Selected: {selectedFile.name} (
+                          {(selectedFile.size / (1024 * 1024)).toFixed(2)} MB)
+                        </p>
+                      )}
+                    </div>
+                    <input
+                      id="dropzone-file"
+                      type="file"
+                      ref={fileInputRef}
+                      onChange={handleFileChange}
+                      className="hidden"
+                    />
+                  </label>
+                </div>
               </div>
 
               {/* Success Message */}
