@@ -25,7 +25,7 @@ facts:
     number: 33
     suffix: ''
   - title: Exited Founders
-    number: 150
+    number: 250
     suffix: +
   - title: NPS Score
     number: 92
