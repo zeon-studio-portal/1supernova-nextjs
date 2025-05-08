@@ -24,8 +24,7 @@ banner:
   button:
     enable: true
     label: Apply to Supernova
-    link: >-
-      https://i9evkjegsiq.typeform.com/to/KCJDm5Jy?typeform-source=1supernova.com
+    link: 'https://form.typeform.com/to/AZuYcsWx'
   founders:
     title: 'Top founders collaborate across communities: '
     brands:
@@ -36,3 +35,4 @@ banner:
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
 ---
+

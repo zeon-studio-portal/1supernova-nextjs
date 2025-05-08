@@ -33,50 +33,6 @@ const uploadAndApply = {
       type: 'string',
     },
     {
-      label: 'Form',
-      name: 'form',
-      type: 'object',
-      fields: [
-        {
-          label: 'Placeholder',
-          name: 'placeholder',
-          type: 'string',
-        },
-        {
-          label: 'Form Action Ajax Url (formsubmit.co)',
-          name: 'formActionUrl',
-          type: 'string',
-        },
-        {
-          label: 'File Upload Backend Server Endpoint',
-          name: 'fileUploadBackendServerEndpoint',
-          type: 'string',
-        },
-        {
-          label: 'Success Message',
-          name: 'successMessage',
-          type: 'string',
-        },
-        {
-          label: 'Error Message',
-          name: 'errorMessage',
-          type: 'string',
-        },
-        {
-          label: 'Button',
-          name: 'button',
-          type: 'object',
-          fields: [
-            {
-              label: 'Label',
-              name: 'label',
-              type: 'string',
-            },
-          ],
-        },
-      ],
-    },
-    {
       label: 'Card List',
       name: 'card_list',
       type: 'object',

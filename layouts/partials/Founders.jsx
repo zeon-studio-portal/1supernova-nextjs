@@ -3,7 +3,7 @@ import Image from 'next/image';
 const Founders = ({ founders }) => {
   return (
     <div className="container">
-      <ul className="flex flex-wrap items-center justify-center space-x-6 space-y-6 lg:flex-nowrap lg:justify-start lg:space-y-0">
+      <ul className="flex flex-wrap items-center justify-center space-x-6 space-y-6 lg:flex-nowrap lg:space-y-0">
         <li
           className="text-md mb-2 w-full text-center leading-snug lg:mb-0 lg:w-[12rem] lg:text-start lg:text-[15px]"
           data-aos="fade"

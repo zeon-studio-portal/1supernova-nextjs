@@ -6,6 +6,7 @@ import Footer from '@partials/Footer';
 import Header from '@partials/Header';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import { useEffect } from 'react';
 
 const Base = ({
   title,
@@ -20,6 +21,12 @@ const Base = ({
   const { base_url } = config.site;
   const { announcement } = settings;
   const router = useRouter();
+
+  useEffect(() => {
+    document.querySelectorAll('a[href^="http"]').forEach((link) => {
+      link.setAttribute('target', '_blank');
+    });
+  }, []);
 
   return (
     <>
@@ -92,7 +99,10 @@ const Base = ({
         />
         <meta name="twitter:card" content="summary_large_image" />
 
-         <meta name="google-site-verification" content="gcnp8yBk4N_k4H1qWBV2h5NPgd-al3cdjy-8YyOasnU" />
+        <meta
+          name="google-site-verification"
+          content="gcnp8yBk4N_k4H1qWBV2h5NPgd-al3cdjy-8YyOasnU"
+        />
       </Head>
 
       <AnnouncementBar content={announcement} />
