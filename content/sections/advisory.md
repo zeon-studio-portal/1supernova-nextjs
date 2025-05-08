@@ -21,12 +21,12 @@ facts_colors:
   - '#fb9f71'
   - '#ca58c5'
 facts:
-  - title: Portfolio Companies
-    number: 33
-    suffix: ''
   - title: Exited Founders
     number: 250
     suffix: +
+  - title: Portfolio Companies
+    number: 33
+    suffix: ''
   - title: NPS Score
     number: 92
     suffix: ''
