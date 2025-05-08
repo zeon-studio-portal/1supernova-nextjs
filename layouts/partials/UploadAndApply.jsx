@@ -151,7 +151,7 @@ const UploadAndApply = ({ data }) => {
             <form
               onSubmit={handleSubmit}
               method="POST"
-              className="flex min-h-[300px] flex-col items-center justify-center rounded-lg border border-secondary/40 bg-[#1B1B1B] p-6 py-10">
+              className="flex min-h-[300px] flex-col items-center justify-center rounded-lg border border-secondary/40 bg-[#1B1B1B]/80 p-6 py-10">
               <div className="w-full lg:w-2/3">
                 <div className="input-area">
                   <label htmlFor="fullname" className="input-label">
