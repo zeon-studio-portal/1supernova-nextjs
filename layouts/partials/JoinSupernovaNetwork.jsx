@@ -55,7 +55,7 @@ const JoinSupernovaNetwork = ({ data }) => {
                         {markdownify(
                           subtitle,
                           'p',
-                          `[&>strong]:text-[#F49548] mb-8 `
+                          `[&>strong]:text-secondary-600 mb-8 `
                         )}
                       </div>
                     )}
