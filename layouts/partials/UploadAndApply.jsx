@@ -12,9 +12,11 @@ const UploadAndApply = ({ data }) => {
   const [selectedFile, setSelectedFile] = useState(null);
   const fileInputRef = useRef(null);
 
-  const reset = () => {
+  const reset = (e) => {
     setLoader(false);
     setSelectedFile(null);
+    e.target.fullname.value = '';
+    e.target.email.value = '';
     if (fileInputRef.current) {
       fileInputRef.current.value = '';
     }
@@ -119,7 +121,7 @@ const UploadAndApply = ({ data }) => {
       setError(true);
     } finally {
       setLoader(false);
-      reset();
+      reset(e);
     }
   };
 
