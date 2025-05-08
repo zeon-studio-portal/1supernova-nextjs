@@ -36,10 +36,10 @@ lists:
     answer: >-
       What Y-Combinator is to early-stage startups, Supernova is to Scaleups. 
       Every portfolio company receives a check (amounts range from $100K-$1MM+),
-      and more importantly 5 successfully exited founders and/or Super founders
-      (previous exit of $50MM+) who team up and get hands-on to help accelerate
-      company milestones. As the saying goes, wisdom is more precious than gold
-      and it's our commitment to transfer our experience, especially for
+      and more importantly 3-5 successfully exited founders and/or Super
+      founders (previous exit of $50MM+) who team up and get hands-on to help
+      accelerate company milestones. As the saying goes, wisdom is more precious
+      than gold. Our commitment to transfer our experience, especially for
       million-dollar decisions. We are the top-rated 'advisory-as-a-service'
       (90%+ NPS) with a proven record of scaling startups to unicorn status and
       beyond.
