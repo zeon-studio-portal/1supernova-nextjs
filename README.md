@@ -7,7 +7,7 @@
 - next v13+
 - tailwind v3+
 
-## Development Command
+## Development Command.
 
 ```
 npm run dev
@@ -18,3 +18,5 @@ npm run dev
 ```
 npm run build
 ```
+
+.
