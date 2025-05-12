@@ -17,6 +17,7 @@ const UploadAndApply = ({ data }) => {
     setSelectedFile(null);
     e.target.fullname.value = '';
     e.target.email.value = '';
+    e.target.company_name.value = '';
     if (fileInputRef.current) {
       fileInputRef.current.value = '';
     }
@@ -78,17 +79,20 @@ const UploadAndApply = ({ data }) => {
       if (
         !selectedFile ||
         e.target.fullname.value === '' ||
-        e.target.email.value === ''
+        e.target.email.value === '' ||
+        e.target.company_name.value === ''
       ) {
         setError(true);
         setLoader(false);
         return;
       }
 
+      console.log('🪲 :', e.target.company_name.value);
+
       // Create FormData for file upload
       const formData = new FormData();
       formData.append('file', selectedFile);
-
+      formData.append('company_name', e.target.company_name.value);
       // Use fetch for file upload
       const uploadResponse = await fetch(fileUploadBackendServerEndpoint, {
         method: 'POST',
@@ -106,6 +110,7 @@ const UploadAndApply = ({ data }) => {
             _subject: `1SuperNova Deck Submission`,
             full_name: e.target.fullname.value,
             email: e.target.email.value,
+            company_name: e.target.company_name.value,
             file_name: selectedFile.name,
             deck_link: uploadResult.file.webViewLink,
           }),
@@ -183,6 +188,19 @@ const UploadAndApply = ({ data }) => {
                     />
                   </div>
                 </div>
+                <div className="input-area">
+                  <label htmlFor="company_name" className="input-label">
+                    Company*
+                  </label>
+                  <input
+                    type="text"
+                    name="company_name"
+                    id="company_name"
+                    placeholder="Company Name"
+                    className="input-field"
+                    required
+                  />
+                </div>
                 <div className="flex w-full flex-col items-start justify-center">
                   <span className="input-label mb-2">Upload Your Deck*</span>
                   <label
@@ -223,11 +241,12 @@ const UploadAndApply = ({ data }) => {
                     </div>
                     <input
                       id="dropzone-file"
-                      accept=".pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx,.jpg,.jpeg,.png,.gif,.zip,.txt,.json"
+                      accept=".pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx,.jpg,.jpeg,.png,.zip"
                       type="file"
                       ref={fileInputRef}
                       onChange={handleFileChange}
                       className="hidden"
+                      required
                     />
                   </label>
                 </div>
