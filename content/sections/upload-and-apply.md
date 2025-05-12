@@ -9,11 +9,11 @@ form:
   placeholder: Add a link to your pitch deck here
   # formActionUrl: 'https://formsubmit.co/ajax/barry@1supernova.com'
   formActionUrl: 'https://formsubmit.co/ajax/rubel.themefisher@gmail.com'
-  fileUploadBackendServerEndpoint: 'https://onesupernova-server.onrender.com/api/drive-upload'
-  successMessage: Thank you for your submission! We will get back to you soon.
+  fileUploadBackendServerEndpoint: 'https://onesupernova-server.onrender.com/api/drive-uploads'
+  successMessage: Deck received. Game on. 🎯 We’re diving in. If it’s a fit, you’ll hear from us soon — and things might just go Supernova
   errorMessage: There was an error submitting the form. Please try again.
   button:
-    label: Upload & Apply Now
+    label: Upload to Apply Now
 card_list:
   - title: Get Your Founder Scorecard for FREE
   - title: Get Matched With Exited Founders

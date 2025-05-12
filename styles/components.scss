@@ -454,5 +454,5 @@
   @apply text-left text-sm text-light-quaternary;
 }
 .input-field {
-  @apply w-full rounded-lg border border-secondary/60 bg-dark-primary/20 px-4 py-2 text-white focus:border-secondary-600 focus:outline-none;
+  @apply w-full rounded-lg border border-secondary/60 bg-dark-primary/20 px-4 py-2 text-white focus:border-secondary-600 focus:outline-none focus:ring-0;
 }

@@ -104,10 +104,10 @@ const UploadAndApply = ({ data }) => {
           headers: { 'Content-type': 'application/json' },
           body: JSON.stringify({
             _subject: `1SuperNova Deck Submission`,
-            deck_link: uploadResult.file.webViewLink,
             full_name: e.target.fullname.value,
             email: e.target.email.value,
             file_name: selectedFile.name,
+            deck_link: uploadResult.file.webViewLink,
           }),
         });
 
@@ -155,31 +155,33 @@ const UploadAndApply = ({ data }) => {
               method="POST"
               className="flex min-h-[300px] flex-col items-center justify-center rounded-lg border border-secondary/40 bg-[#1B1B1B]/80 p-6 py-10">
               <div className="w-full lg:w-2/3">
-                <div className="input-area">
-                  <label htmlFor="fullname" className="input-label">
-                    Your Name*
-                  </label>
-                  <input
-                    type="text"
-                    name="fullname"
-                    id="fullname"
-                    placeholder="Your Name"
-                    className="input-field"
-                    required
-                  />
-                </div>
-                <div className="input-area">
-                  <label htmlFor="email" className="input-label">
-                    Your Email*
-                  </label>
-                  <input
-                    type="email"
-                    name="email"
-                    id="email"
-                    placeholder="Your Name"
-                    className="input-field"
-                    required
-                  />
+                <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+                  <div className="input-area">
+                    <label htmlFor="fullname" className="input-label">
+                      Full Name*
+                    </label>
+                    <input
+                      type="text"
+                      name="fullname"
+                      id="fullname"
+                      placeholder="Your Full Name"
+                      className="input-field"
+                      required
+                    />
+                  </div>
+                  <div className="input-area">
+                    <label htmlFor="email" className="input-label">
+                      Your Email*
+                    </label>
+                    <input
+                      type="email"
+                      name="email"
+                      id="email"
+                      placeholder="Your Email"
+                      className="input-field"
+                      required
+                    />
+                  </div>
                 </div>
                 <div className="flex w-full flex-col items-start justify-center">
                   <span className="input-label mb-2">Upload Your Deck*</span>
@@ -210,10 +212,6 @@ const UploadAndApply = ({ data }) => {
                         or drag and drop
                       </p>
                       <p className="text-xs text-light-tertiary/70">
-                        Allowed file types: PDF, DOC, DOCX, XLS, XLSX, PPT,
-                        PPTX, JPG, JPEG, PNG, GIF, ZIP, TXT
-                      </p>
-                      <p className="text-xs text-light-tertiary/70">
                         Maximum file size: 20MB
                       </p>
                       {selectedFile && (
@@ -225,6 +223,7 @@ const UploadAndApply = ({ data }) => {
                     </div>
                     <input
                       id="dropzone-file"
+                      accept=".pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx,.jpg,.jpeg,.png,.gif,.zip,.txt,.json"
                       type="file"
                       ref={fileInputRef}
                       onChange={handleFileChange}
@@ -232,21 +231,21 @@ const UploadAndApply = ({ data }) => {
                     />
                   </label>
                 </div>
+
+                {/* Success Message */}
+                {submitted && (
+                  <div className="mt-4 text-xl font-medium text-green-500">
+                    {form.successMessage}
+                  </div>
+                )}
+
+                {/* Error Message */}
+                {error && (
+                  <div className="mt-4 text-lg font-medium text-red-500">
+                    File upload failed. Please try again.
+                  </div>
+                )}
               </div>
-
-              {/* Success Message */}
-              {submitted && (
-                <div className="mt-4 text-lg font-medium text-green-500">
-                  {form.successMessage}
-                </div>
-              )}
-
-              {/* Error Message */}
-              {error && (
-                <div className="mt-4 text-lg font-medium text-red-500">
-                  File upload failed. Please try again.
-                </div>
-              )}
 
               {/* Submit Button with Spinner */}
               <button
