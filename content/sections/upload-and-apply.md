@@ -8,6 +8,6 @@ subtitle: >-
 card_list:
   - title: Get Your Founder Scorecard for FREE
   - title: Get Matched With Exited Founders
-  - title: 'Qualify For Funding  & Go-To Partner Ecosystem '
+  - title: Unlock Access To Funding & Resources
 ---
 
