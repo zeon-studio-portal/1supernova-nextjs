@@ -38,12 +38,12 @@ const Home = ({
   return (
     <Base>
       <Banner banner={banner} founders={banner.founders} />
+      <Advisory advisory={advisory.frontmatter} />
       {/* The Supernova Advantage: join_the_supernova_network */}
       <JoinSupernovaNetwork data={join_the_supernova_network.frontmatter} />
       <JoinSteps join_steps={join_steps_page} />
       <UploadAndApply data={upload_and_apply.frontmatter} />
       <HowItWorks how_it_works={how_it_works_page} />
-      <Advisory advisory={advisory.frontmatter} />
       <Testimonials testimonials={testimonials_page} />
       <Mission mission={mission} />
       <AdvisoryGame advisory_game={advisory_game.frontmatter} />

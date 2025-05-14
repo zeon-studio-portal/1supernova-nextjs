@@ -3,7 +3,7 @@ import ReactPlayerWrapperV2 from '@components/ReactPlayerWrapperV2';
 import PortalModal from '@layouts/helpers/PortalModal';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
-import { useRef, useState } from 'react';
+import React, { useRef, useState } from 'react';
 import { useOnClickOutside } from 'usehooks-ts';
 
 const TopFounders = ({ top_founders }) => {
@@ -39,7 +39,7 @@ const TopFounders = ({ top_founders }) => {
 
             <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 md:grid-cols-3 lg:grid-cols-4">
               {top_founders.frontmatter.lists.map((item, index) => (
-                <>
+                <React.Fragment key={index}>
                   <div
                     key={index}
                     className="flex flex-col items-center"
@@ -126,7 +126,7 @@ const TopFounders = ({ top_founders }) => {
                       </div>
                     </PortalModal>
                   )}
-                </>
+                </React.Fragment>
               ))}
             </div>
           </div>
