@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Top Supernova Portfolio Companies
+title: Portfolio Founder Spotlight
 subtitle: We proudly back world-changing companies driving a better future forward.
 list_colors:
   - '#5ECDF8'
@@ -61,3 +61,4 @@ lists:
       height: 71
       file: /images/hym.png
 ---
+
