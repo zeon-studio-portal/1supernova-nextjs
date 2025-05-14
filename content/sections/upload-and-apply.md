@@ -1,7 +1,7 @@
 ---
 enable: true
 background_image: /images/upload_and_apply_bg.png
-title: ✨ Upload Your Deck  ✨
+title: ✨ Upload Your Deck ✨
 subtitle: >-
   Ready to scale? Apply now to become one of the few companies we back each
   year.
