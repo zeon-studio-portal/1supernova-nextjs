@@ -38,11 +38,6 @@ const uploadAndApply = {
       type: 'object',
       fields: [
         {
-          label: 'Placeholder',
-          name: 'placeholder',
-          type: 'string',
-        },
-        {
           label: 'Form Action Ajax Url (formsubmit.co)',
           name: 'formActionUrl',
           type: 'string',
