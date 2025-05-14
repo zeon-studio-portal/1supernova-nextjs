@@ -16,7 +16,7 @@ process:
     button:
       enable: true
       label: "Apply to Supernova \U0001F680"
-      link: 'https://i9evkjegsiq.typeform.com/to/E6JGj05O'
+      link: 'https://form.typeform.com/to/AZuYcsWx'
   - name: "02 - Scorecard \U0001F4CA"
     content: >-
       We review your deck and send you a custom scorecard with feedback from
