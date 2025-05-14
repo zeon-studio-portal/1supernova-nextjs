@@ -3,7 +3,7 @@ publish = ".next"
 command = "yarn build"
 
 [build.environment]
-NODE_VERSION = "18"
+NODE_VERSION = "22.13.0"
 
 [functions]
 included_files = ["content/**"]
