@@ -12,7 +12,7 @@ process:
   - name: "01 - Apply \U0001F469‍\U0001F4BB"
     content: >-
       [Apply](https://form.typeform.com/to/AZuYcsWx) by uploading your pitch
-      deck.  
+      deck. 
     button:
       enable: true
       label: "Apply to Supernova \U0001F680"
