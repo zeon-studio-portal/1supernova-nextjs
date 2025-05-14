@@ -978,42 +978,6 @@ team:
         (Exited to Open English). Head of Product at Shape (Exited). Member of
         South Park Commons. 
     content: "Seth Forsgren was the Founder at Hardline (Exited), the fastest way for teams to communicate on the move. Seth was the Head of Product at Shape (Exited to Reflektive). Seth was the Founder of Yodal (exited to Open English). He is a member of South Park Commons, a community of technologists and builders dedicated to helping each other explore, learn,\_and get from -1 to 0. Seth earned his undergraduate degree at Princeton University. He is based in San Francisco, CA.\n"
-  - name: Andrew Sturner
-    image: /images/Sturner.jpg
-    department:
-      - LEGAL/IP
-      - FUNDING
-      - TECH
-      - LEADERSHIP
-      - SCALING
-      - EXITED FOUNDER
-    bulletpoints:
-      - >-
-        Founder at Entourage Effect Capital & Orange Island VC. Co-founder &
-        Chairman at Boatsetter (Series B). Founder at Interactive Services
-        (Exited). Endeavor entreprenuer. YPO Member.
-    content: >
-      Andrew Sturner has been navigating the high seas of entrepreneurship for
-      the more than three decades. Andy is an impact investor and has been
-      described as a “provocateur” with a passion for guiding executives through
-      complex situations. After a stint as a bankruptcy attorney at Stroock &
-      Stroock & Lavan in NYC, Andy traded in his suit for jeans and went on to
-      participate as an executive in six startups, two of which he guided
-      through IPOs as well as multiple exits. He sold his first startup to
-      MovieFone, where he served as VP of Business Development (IPO’d ‘94 and
-      sold to AOL ‘99). Andrew then founded Sportsline.com (IPO’d in ‘97 and
-      sold to CBS ‘04) launching one of the world’s first commercial websites in
-      1995. He then founded Aqua Marine Partners, owner and operator of a
-      portfolio of marina real estate and incubator of marine technology
-      companies with a focus on innovation (exited to  Equity Lifestyles (NYSE:
-      ELS) joint venture in ‘20). Any co-founded one of the first Miami-based
-      angel investment groups now called Miami Angels. Andy co-founded
-      Boatsetter.com and launched his 5th startup – awebsite that combines the
-      rental mechanics of Airbnb with the on-demand labor dynamics of Uber. In
-      2016, after studying the burgeoning legal cannabis landscape, Andy began
-      investing in the space and ultimately co-founded his 6th startup –
-      Entourage Effect Capital to invest in this generational wealth creation
-      event.
   - name: Juston Brommel
     image: /images/JustonBrommel.jpg
     department:
@@ -1071,35 +1035,6 @@ team:
         at Cox Enterprises ($21 Billion total revenues). Global Leader of
         Consulting at Acxiom (AMS Exit for $2.3B IGP).
     content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
-  - name: Michel Koopman
-    image: /images/MichelKoopman.jpg
-    department:
-      - COACHING
-      - SYSTEMS
-      - SCALE
-      - LEADERSHIP
-      - SALES
-    bulletpoints:
-      - >-
-        CEO & Founder of 2Swell and CXO Coaching. Advisor and executive coach to
-        leading startups like Blinkist (Exit to Go1).  Executive Chairman at
-        ARMS Medical. Co-founder at Bond Growth. CEO of getAbstract. MD at
-        Citrix Systems. 
-    content: >
-      Michel is a growth advisor and executive coach to high performing business
-      executives. He is the Founder and CEO at 2Swell and CxO Coaching and has
-      advised many leading startups including Blinkist (Series C) who recently
-      exited to Go1. Michel has held many executive roles including: Executive
-      Chairman at ARMS Medical, Co-Founder Partner at Bond Growth, Chief
-      Commercial Officer at Banyan Medical, CEO at getAbstract, Managing
-      Director at Citrix Systems, as well as other board and advisory positions.
-      He is a servant leader focused on growing companies by delivering new
-      go-to-market strategies and elevating teams to perform at their full
-      potential. He is a Forbes Business Council Member and has been published
-      and mentioned in over 80 articles in media outlets like Forbes.com, The
-      Washington Post, Strategy Magazine, Fast Company, Miami Herald, and
-      others. Michel is a Magna Cum Laude graduate of The George Washington
-      University School of Business. He is based in Miami, Florida.
   - name: Grant Hunter
     image: /images/GrantHunter.jpg
     department:
@@ -1115,19 +1050,6 @@ team:
         Mobisol). Author of "From Money to Meaning - Building Purposeful
         Business for a Life of Contribution".
     content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact. Grant is a pioneer of the micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), Amazon Best-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
-  - name: 'Revant Gupta '
-    image: /images/Revant_Gupta.jpg
-    department:
-      - GTM
-      - OPS
-      - STRATEGY
-      - FUNDRAISING
-    bulletpoints:
-      - >-
-        Founder of Wind Sprint Capital. Chief of Staff at MRGN. Head of Finance
-        at HD Home ($270M Home Depot Startup). Finance expert specializing in
-        scaling startups to $250M+ ARR. 
-    content: "Revant is an entrepreneur and an expert in revenue and growth who has scaled startups to over $250M in annual revenue. Revant is currently Chief of Staff at\_[MRGN](https://mrgn.ai/)\_a B2B SaaS fintech providing a flexible ERP platform that leverages automations and integrations to guide small businesses through the financial planning process. While at MRGN, Revant has worked in three primary areas of the business: GTM Strategy, Growth Strategy, and Product Management/Execution.\_\n\nRevant graduated summa cum laude with Honors from the University of Georgia with a Bachelors of Business Administration. He previously led the finance team at\_[HD Home](https://www.homedepot.com/b/Home-Decor/Home-Decorators-Collection/N-5yc1vZas6pZ4vr), an internal startup at the Home Depot focused exclusively on e-commerce home décor, which he helped scale from $180M to $270M in annual revenue in 15 months, with yearly forecasted revenue of $400M which the team subsequently beat. Revant generated $205M in incremental annual sales and $33M in EBIT for the broader ecommerce business during his first year in role.\n\nHe is also the founder of private investment and advisory firm\_[Wind Sprint Capital](https://www.windsprintcapital.com/)\_that supports early-stage companies across multiple sectors, including B2B SaaS, Digital Marketplaces, Fintech, Healthtech, tech-enabled service, and Web3. Wind Sprint has managed funds for multiple entities and has invested and advised 10+ startups alongside tier 1 VCs generating a blended return of 92% since investment and 23% IRR.\n"
   - name: Tomy Lorsch
     image: /images/TomyLorsch.jpg
     department:
