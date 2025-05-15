@@ -26,7 +26,7 @@ banner:
     label: Apply to Supernova
     link: 'https://form.typeform.com/to/AZuYcsWx'
   founders:
-    title: 'Top founders collaborate across communities: '
+    title: "We back top founders and \U0001F49B Scaleups: "
     brands:
       - /images/founders/a16z.svg
       - /images/founders/eo.svg
