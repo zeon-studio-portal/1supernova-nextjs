@@ -43,7 +43,7 @@ process:
       link: 'https://1supernova.com/#faqs'
   - name: "05 - Funding \U0001F4B0"
     content: >-
-      We invest $100,000-$250,000 checks in 10-12 world-changing companies each
+      We invest $100,000-$500,000 checks in 10-12 world-changing companies each
       year and back them with a tiger team of exited founders.
     button:
       enable: true
