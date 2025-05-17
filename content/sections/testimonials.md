@@ -67,8 +67,6 @@ items:
     image: /images/testimonials/patrick-hilsbos.jpg
     designation: CEO & Founder
     company: 'Neuromore '
-    quote: >-
-      I was skeptic. Supernova proved me wrong - got hands-on to 3x company
-      sales!
+    quote: I was skeptic. Supernova proved me wrong - got hands-on to 3x sales!
 ---
 
