@@ -19,9 +19,7 @@ items:
     image: /images/testimonials/ben-lamm.jpg
     designation: CEO & Co-founder (6x Exits)
     company: 'Colossal ($200M Series C: $10B Valuation)'
-    quote: >-
-      Supernova scales startups successfully! They advise me, and I help others
-      via them.
+    quote: 'When exited founders team up, results happen exponentially faster! '
   - name: Kathryn Fantauzzi
     image: /images/k-fantauzzi.jpg
     designation: CEO & Founder
