@@ -233,7 +233,7 @@ const UploadAndApply = ({ data }) => {
                         Maximum file size: 20MB
                       </p>
                       {selectedFile && (
-                        <p className="mt-2 text-sm text-cyan-700">
+                        <p className="mt-2 text-sm text-primary">
                           Selected: {selectedFile.name} (
                           {(selectedFile.size / (1024 * 1024)).toFixed(2)} MB)
                         </p>
