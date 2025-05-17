@@ -26,7 +26,7 @@ banner:
     label: Apply to Supernova
     link: 'https://form.typeform.com/to/AZuYcsWx'
   founders:
-    title: "We back top founders \U0001F49B to scale growth & impact"
+    title: "We back top founders \U0001F49B scaling growth & impact"
     brands:
       - /images/founders/a16z.svg
       - /images/founders/eo.svg
