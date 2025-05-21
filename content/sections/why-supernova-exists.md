@@ -17,7 +17,8 @@ lists:
       evolution, humanity is finally figuring out that collaboration is key.
       Given that Founders are among the most powerful creators on the planet,
       shouldn’t we? <br><br>At Supernova, our purpose is to be guiding lights.
-      We shine brighter together as all-star teams backing founders dreams and
-      co-creating a supernova of oversized positive impact on the world. ⭐
+      We shine brighter together as all-star teams backing founders dreams. And,
+      united co-creating a supernova of oversized positive impact on the world.
+      ⭐
 ---
 
