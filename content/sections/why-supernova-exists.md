@@ -18,6 +18,6 @@ lists:
       Given that Founders are among the most powerful creators on the planet,
       shouldn’t we? <br><br>At Supernova, our purpose is to be guiding lights.
       We shine brighter together as all-star teams backing founders dreams. And,
-      ignite a supernova of impact in the world. ⭐
+      through mass collaboration ignite a Supernova of impact in the world. ⭐
 ---
 
