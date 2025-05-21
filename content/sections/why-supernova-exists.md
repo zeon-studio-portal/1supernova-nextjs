@@ -16,8 +16,8 @@ lists:
       And, founders no longer have to do it all alone. After 4 Billion years of
       evolution, humanity is finally figuring out that collaboration is key.
       Given that Founders are among the most powerful creators on the planet,
-      shouldn’t we? <br><br>At Supernova, our purpose is to be guiding lights.
-      Shining brighter together as we team up as all-star teams backing founders
-      dreams to create a supernova of oversized impact on the world. ⭐
+      shouldn’t we? <br><br>At Supernova, ** our purpose is to be guiding
+      lights.**Shining brighter together as we team up as all-star teams backing
+      founders dreams to create a supernova of oversized impact on the world. ⭐
 ---
 
