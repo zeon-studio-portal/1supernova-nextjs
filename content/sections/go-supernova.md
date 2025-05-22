@@ -13,7 +13,7 @@ features:
       dreams for a supernova of impact. 
   - icon: /images/go-supernova/01.svg
     content: >-
-      **Our mission:**   collaborate with world-changing companies to achieve
+      **Our mission:** To collaborate with world-changing companies and achieve
       their missions, faster.
   - icon: /images/go-supernova/02.svg
     content: >-
