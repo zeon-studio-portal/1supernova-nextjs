@@ -656,31 +656,6 @@ team:
       management platform (exited to Workday). He is a Canadian Serial
       Entrepreneur, Angel Investor, Startup Strategy advisor and Product Manager
       based in Silicon Valley.
-  - name: Gerard Adams
-    image: /images/GerardAdams.jpg
-    department:
-      - MARKETING
-      - GTM
-      - COACHING
-      - SALES
-      - LEADERSHIP
-      - SYSTEMS
-      - SCALE
-    bulletpoints:
-      - >-
-        CEO & Founder at Leaders Create Leaders. CEO & Founder of Elite Daily
-        (exit to Daily Mail); scaled and sold in 3-years for $50MM. Social
-        influencer & Millenial Mentor. 
-    content: >
-      Gerard Adams is the Founder & CEO of Leaders Create Leaders, a business
-      growth consultancy. Gerard was the co-founder of Elite Daily (exit to
-      Daily Mail), scaled and sold in just 3-years, for $50MM. He is an
-      investor, philanthropist, and trusted advisor consulting with conscious
-      founders who are looking to leave a legacy through their work. He
-      specializes in supporting early-stage entrepreneurs to achieve 6 figures,
-      established teams scaling past 7 figures, and partnering with CEOs who
-      want help exiting their current companies so they can start a more
-      purpose-driven enterprise.
   - name: Rob Reid
     image: /images/Robert_Reid.jpg
     department:
@@ -860,29 +835,6 @@ team:
       Tellus Investment Partners, a select group of family offices and
       agribusiness professionals leveraging their resources to create
       proprietary investment opportunities. He is based in Austin, Texas.
-  - name: Juha Mikkola
-    image: /images/JuhaMikkola.jpg
-    department:
-      - COACHING
-      - PRODUCT
-      - TECHNOLOGY
-      - SALES
-      - LEADERSHIP
-    bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder at Usko Privacy. Co-Founder, Wyncode
-        (Exited to BrainStation). Founder, Clutch Sports (Exited). Endeavor
-        entrepreneur.
-    content: >
-      Juha Mikkola is a 2x exited entrepreneur. Current Chair for the Beacon
-      Council Technology Committee. Co-Founded Wyncode, South Florida Business
-      Journal Startup of the Year and Beacon Council Education and Talent
-      Development Award Winner with 1000 graduates. Wyncode was acquired by
-      BrainStation in January 2021. Raised millions in venture capital. Selected
-      as an Endeavor entrepreneur. A business and technology savvy
-      Commerce/Marketing graduate of the Rotman School of Management in Toronto
-      with proven skills in sales, leadership, innovation, proactive problem
-      solving and communication.
   - name: Tim Sae Koo
     image: /images/TimKoo.jpg
     department:
