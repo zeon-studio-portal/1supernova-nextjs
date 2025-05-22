@@ -14,7 +14,7 @@ features:
   - icon: /images/go-supernova/01.svg
     content: >-
       **Our mission:** Exited founders collaborating with world-changing
-      companies to achieve missions, faster.
+      companies to achieve missions faster.
   - icon: /images/go-supernova/02.svg
     content: >-
       **Our purpose:** To accelerate the realization of the founder’s vision -
