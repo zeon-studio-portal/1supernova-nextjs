@@ -812,29 +812,6 @@ team:
       Science Shows How to Break the Cycles of Worry and Fear to Heal Your Mind
       (Avery/Penguin Random House, 2021), and The Hunger Habit: Why We Eat When
       We’re Not hungry and How to Stop (Avery/Penguin Random House, 2024).
-  - name: Caleb Jones
-    image: /images/Jones.jpg
-    department:
-      - OPS
-      - AI
-      - TECH
-      - GROWTH
-      - FUNDING
-      - EXITED FOUNDER
-    bulletpoints:
-      - >-
-        Founder & CEO of Ink. Co-founder and COO of Code Pilot (Exit to
-        AngelList). Advisor to Tellus Investment Partners, a select group of
-        family offices and agribusiness professionals.
-    content: >
-      Caleb Jones is the Founder & CEO of Ink, a smart real estate transaction
-      solution. Caleb was the co-founder and COO of Code Pilot (exited to
-      AngeList), an online platform that provides production-grade development
-      environments with coding analytics to train, test, and assess software
-      developers skills and behavioral adaptability. He is also an advisor to
-      Tellus Investment Partners, a select group of family offices and
-      agribusiness professionals leveraging their resources to create
-      proprietary investment opportunities. He is based in Austin, Texas.
   - name: Tim Sae Koo
     image: /images/TimKoo.jpg
     department:
@@ -960,22 +937,6 @@ team:
       speaks and publishes on emerging digital business trends (web 3,
       collaboration, DAOs, AI, stakeholder participation models). He is based in
       Santa Monica, California.
-  - name: J Patrick Bewley
-    image: /images/JBewley.jpg
-    department:
-      - SCIENCE
-      - TECHNOLOGY
-      - AI
-      - SYSTEMS
-      - SCALE
-      - LEADERSHIP
-      - MARKETING
-    bulletpoints:
-      - >-
-        CEO & Founder at Evo, a leading AI platform. Head of Data & Innovation
-        at Cox Enterprises ($21 Billion total revenues). Global Leader of
-        Consulting at Acxiom (AMS Exit for $2.3B IGP).
-    content: "J Patrick Bewley is the Founder & CEO of Evo (formally known as Big Cloud Analytics), a data sciences company that delivers the leading AI platform for the processing of IoT health data for the Pharma and Insurance industries. JP was the Head of Data & Innovation for Cox Enterprises with approximately 55,000 employees and $21 billion in total revenue.\_JP was the Global Org leader for Consulting and Agency Services at Acxiom (Nasdaq: ACXM), a $1.13 billion-a-year marketing technology and services company. In just four years, he built Acxiom's marketing strategy practice from inception into a $100 million business unit adding $219 million in booked revenue. His team of over 450 employees, including 100 analytic professionals delivered client engagements in 27 countries and helped lead Acxiom to earn top recognition for Strategy, Market Presence and Current Offering in Forrester Research's most recent Database Marketing Service Provider Wave Report. JP earned his EMBA/PLD in Corporate & Marketing Strategy at Harvard University. He is based in Atlanta, GA.\n"
   - name: Grant Hunter
     image: /images/GrantHunter.jpg
     department:
