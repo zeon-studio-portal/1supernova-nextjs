@@ -1,6 +1,6 @@
 ---
 enable: true
-title: We Are Exited Founders
+title: We Are All-Stars
 subtitle: Over 250+ exited founders ready to serve your company needs as all-star teams.
 quote: >-
   We orbit around your needs as mentors, advisors, coaches, interim executives
