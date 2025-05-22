@@ -17,7 +17,7 @@ features:
       companies to achieve their missions, faster.
   - icon: /images/go-supernova/02.svg
     content: >-
-      **Our purpose:** accelerate the realization of the founder’s vision - from
-      the only perspective that truly understands, as founders ourselves.
+      **Our purpose:** To accelerate the realization of the founder’s vision -
+      from the only perspective that truly understands, as founders ourselves.
 ---
 
