@@ -24,7 +24,9 @@ lists:
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
   - title: Investors
     icon: /images/community/03.svg
-    content: '**Are you an investor** ready to supercharge your portfolio returns? '
+    content: >-
+      **Are you an investor** interested in joining our fund and sharing
+      upside? 
     button:
       label: Let’s Talk
       link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
