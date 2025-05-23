@@ -10,7 +10,9 @@ info: >-
 lists:
   - title: Startups
     icon: /images/community/01.svg
-    content: '**Are you a founder** of a bootstrapped ($1MM+ ARR) or VC-backed startup?'
+    content: >-
+      **Are you a founder** of a VC-backed startup or a successfully
+      bootstrapped company?
     button:
       label: Apply Now
       link: 'https://form.typeform.com/to/AZuYcsWx'
