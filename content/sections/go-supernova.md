@@ -13,7 +13,7 @@ features:
       dreams for a supernova of impact. 
   - icon: /images/go-supernova/01.svg
     content: >-
-      **Our mission:** Exited founders team up with world-changing companies to
+      **Our mission:** Back world-changing companies with exited founders to
       achieve their missions, faster. 
   - icon: /images/go-supernova/02.svg
     content: >-
