@@ -9,8 +9,8 @@ quote: We are a conscious cooperative of founders invested in each other’s suc
 features:
   - icon: /images/go-supernova/03.svg
     content: >-
-      **Our vision:** to guide the world's brightest founders and scale their
-      dreams for a supernova of impact. 
+      **Our vision:** To guide the world's brightest founders and scale their
+      dreams for a Supernova of impact. 
   - icon: /images/go-supernova/01.svg
     content: >-
       **Our mission:** To back world-changing companies with exited founders to
