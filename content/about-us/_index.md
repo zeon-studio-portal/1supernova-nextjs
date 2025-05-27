@@ -16,7 +16,7 @@ who_we_are:
     friendships, relationship building and curation, they have put together an
     assemblage of superstars who are motivated to share their knowledge and
     talent with mission-driven companies, for the betterment of venture
-    humanity. More than 150 exited founders have come together to provide
+    humanity. More than 250 exited founders have come together to provide
     exponential impact to companies they serve.
 our_values:
   enable: true
