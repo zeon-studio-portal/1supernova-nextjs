@@ -2,7 +2,7 @@
 title: About Us
 description: >-
   What if exited founders teamed up with companies changing the world to achieve
-  their missions, faster?  Answer: Supernova
+  their missions, faster?
 who_we_are:
   enable: true
   title: Who We Are
