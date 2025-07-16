@@ -348,7 +348,7 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Peter Yared
+  - name: Aly Orady
     image: /images/AlyOrady.jpg
     department:
       - PRODUCT
