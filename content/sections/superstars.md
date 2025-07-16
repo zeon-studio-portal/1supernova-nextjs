@@ -391,7 +391,7 @@ team:
       Now he advises and partners with founders and CEOs, combining deep
       technical expertise with proven organizational leadership to help navigate
       critical challenges in scaling companies, implementing AI strategy, and
-      developing high-performing teams.
+      developing high-performing teams. 
   - name: Johanna Mikkola
     image: /images/Johanna_Mikola.jpg
     department:
