@@ -349,34 +349,49 @@ team:
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
   - name: Peter Yared
-    image: /images/PeterYared.jpg
+    image: /images/AlyOrady.jpg
     department:
+      - PRODUCT
+      - AI
+      - FUNDING
       - TECHNOLOGY
       - PRODUCT
       - SCALE
       - LEADERSHIP
     bulletpoints:
       - >-
-        6x Exited Founder. CEO & Founder at InCountry.  Peter founded six
-        enterprise software companies that were acquired by Sun, Oracle, Citrix,
-        VMware, Sprinklr and Prograph.
+        CEO & Founder at Tonal (Unicorn with over $1B in total revenues).  25+
+        years of Sillicon Valley experience in AI, deep tech, consumer products
+        and leadership.
     content: >
-      Peter Yared is the Founder & CEO at InCountry, a global provider of Data
-      Residency-as-a-Service for SaaS and internal apps. Peter is also the
-      Ringleader at Syndichain, a censorship-resistant Web3 news aggregator.
-      Peter previously founded six enterprise software companies that were
-      acquired by Sun, Oracle, Citrix, VMware, Sprinklr and Prograph. Peter was
-      the CTO/CIO of CBS Interactive, where he was responsible for bringing CBS
-      into the cloud with the end-to-end replatform of its Comscore #7 group of
-      Internet properties. At Sun, Peter was the CTO of the Application Server
-      Division and the CTO of the Liberty federated identity consortium that
-      created SAML 2. Peter is the inventor of several patents on core Internet
-      infrastructure, including federated single sign on and dynamic data
-      requests. He began programming games and utilities at age ten and started
-      his career developing systems for U.S. government agencies. Peter
-      regularly speaks and writes about technology trends and their impact on
-      society, and has written for the Wall Street Journal, BusinessWeek,
-      TechCrunch and VentureBeat.
+      Aly Orady is a Founder, CEO, Board Member, and Executive Coach with 25+
+      years of Silicon Valley experience spanning deep technology, consumer
+      products, and organizational leadership. Depth in product & technology
+      strategy, with over a decade of experience with AI systems.
+
+
+
+      Founder and Founding CEO of Tonal, building an iconic brand in health &
+      wellness that reached unicorn status and over $1B in total revenue. Led
+      the company from concept through scale, growing to 700 employees while
+      achieving industry-leading retention metrics and an 85 NPS. Developed
+      breakthrough technology in digital resistance, leading to 100+ patents.
+      Established partnerships with elite athletes. Currently serve as Board
+      Member and CTO/Advisor.
+
+
+      Previously co-founded Pano Logic (acquired by Samsung), where I served as
+      CTO and Board Member. Earlier experience includes technical leadership
+      roles at HP's Supercomputing Lab and various startups, with focus areas
+      spanning semiconductor design, cloud computing, and enterprise
+      infrastructure.
+
+
+
+      Now he advises and partners with founders and CEOs, combining deep
+      technical expertise with proven organizational leadership to help navigate
+      critical challenges in scaling companies, implementing AI strategy, and
+      developing high-performing teams.
   - name: Johanna Mikkola
     image: /images/Johanna_Mikola.jpg
     department:
