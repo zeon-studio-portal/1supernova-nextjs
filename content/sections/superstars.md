@@ -318,6 +318,42 @@ team:
       revenue goals and financial plans, and getting to the next stage of
       funding. His expert guidance and wisdom also shine through when elevating
       leadership teams, organizational structure, and company culture.
+  - name: Scott Weller
+    image: /images/Scott-Weller.jpg
+    department:
+      - LEADERSHIP
+      - SCALE
+      - SYSTEMS
+      - M&A
+      - STRATEGY
+      - PRODUCT
+      - TECHNOLOGY
+      - GTM
+      - COACHING
+    bulletpoints:
+      - >-
+        Senior Advisor (M&A) at Mastercard. Founder & CTO at SessionM (Exit to
+        Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
+        Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cake, & Esprezzo.
+    content: >
+      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
+      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
+      (Exited Mastercard), a next generation consumer loyalty and engagement
+      platform. Scott then led the Merchant Loyalty product division (formerly
+      SessionM) at Mastercard, focusing on next generation consumer loyalty and
+      engagement capabilities for merchants and global brands. Scott has been an
+      investor, board member and/or advisor to the following companies: 
+      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
+      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
+      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
+      in leading teams to achieve their full potential, in the development and
+      commercialization of advanced technologies across industries and global
+      markets with specialities in real-time mission critical systems, mobile
+      applications, API/driven platforms, data management, data privacy, CRM,
+      customer engagement, artificial intelligence and game theory. He started
+      in software development when I was very young, joining a group of awesome
+      geeks as a teenager, to help build one of the US’s first internet services
+      providers. He is based in Boston, Massachusetts.
   - name: Peter Kellner
     image: /images/PeterKellner.jpg
     department:
@@ -356,42 +392,6 @@ team:
       does better than any other organization is to create entire cultures of
       entrepreneurship that spread within and between countries."  - Reid
       Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
-  - name: Scott Weller
-    image: /images/Scott-Weller.jpg
-    department:
-      - LEADERSHIP
-      - SCALE
-      - SYSTEMS
-      - M&A
-      - STRATEGY
-      - PRODUCT
-      - TECHNOLOGY
-      - GTM
-      - COACHING
-    bulletpoints:
-      - >-
-        Senior Advisor (M&A) at Mastercard. Founder & CTO at SessionM (Exit to
-        Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
-        Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cake, & Esprezzo.
-    content: >
-      Scott Weller serves as a senior advisor to the Mergers & Acquisitions team
-      at Mastercard Data & Services.  Scott was the co-founder & CTO at SessionM
-      (Exited Mastercard), a next generation consumer loyalty and engagement
-      platform. Scott then led the Merchant Loyalty product division (formerly
-      SessionM) at Mastercard, focusing on next generation consumer loyalty and
-      engagement capabilities for merchants and global brands. Scott has been an
-      investor, board member and/or advisor to the following companies: 
-      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
-      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
-      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
-      in leading teams to achieve their full potential, in the development and
-      commercialization of advanced technologies across industries and global
-      markets with specialities in real-time mission critical systems, mobile
-      applications, API/driven platforms, data management, data privacy, CRM,
-      customer engagement, artificial intelligence and game theory. He started
-      in software development when I was very young, joining a group of awesome
-      geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts.
   - name: Johanna Mikkola
     image: /images/Johanna_Mikola.jpg
     department:
