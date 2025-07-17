@@ -148,37 +148,50 @@ team:
       class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
       Electrical Engineering from the University of Michigan, where he was a
       Departmental Scholar and received a full PhD fellowship.
-  - name: Andrew Trader
-    image: /images/Andrew-Trader.jpg
+  - name: Aly Orady
+    image: /images/AlyOrady.jpg
     department:
-      - SYSTEMS
-      - GTM
-      - TECH
-      - GROWTH
-      - OPS
-      - CULTURE
-      - LEADERSHIP
+      - PRODUCT
+      - AI
       - FUNDING
+      - TECHNOLOGY
+      - PRODUCT
       - SCALE
-      - M&A
-      - COACHING
+      - LEADERSHIP
     bulletpoints:
       - >-
-        5x founder with 3x exits: Zynga (IPO: $8B market cap), Madison Reed
-        (raised $120M), Coremetrics (Exit to IBM for $377M) and Tribe (Exit to
-        Cisco).  Coached 30 CEO’s and helped raise $500M+ in follow-on capital.
+        CEO & Founder at Tonal (Unicorn with over $1B in total revenues).  25+
+        years of Sillicon Valley experience in AI, deep tech, consumer products
+        and leadership.
     content: >
-      A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
-      an entrepreneur, he co-founded 5 companies with $13b in exits including
-      Zynga (IPO, acquired by Take-Two), Madison Reed (raised $300M+), Tribe
-      (acquired by Cisco), and Coremetrics (acquired for $377M by IBM). As a VC
-      and Operating Partner he invested and coached 30 companies, helping to
-      raise $600m in follow-on financing (Mercury, Grin, OneRail) resulting in
-      $4b in increased valuation. AT excels at go-to-market strategy and
-      functions (sales, marketing, and biz dev), setting and accelerating
-      revenue goals and financial plans, and getting to the next stage of
-      funding. His expert guidance and wisdom also shine through when elevating
-      leadership teams, organizational structure, and company culture.
+      Aly Orady is a Founder, CEO, Board Member, and Executive Coach with 25+
+      years of Silicon Valley experience spanning deep technology, consumer
+      products, and organizational leadership. Depth in product & technology
+      strategy, with over a decade of experience with AI systems.
+
+
+
+      Founder and Founding CEO of Tonal, building an iconic brand in health &
+      wellness that reached unicorn status and over $1B in total revenue. Led
+      the company from concept through scale, growing to 700 employees while
+      achieving industry-leading retention metrics and an 85 NPS. Developed
+      breakthrough technology in digital resistance, leading to 100+ patents.
+      Established partnerships with elite athletes. Currently serve as Board
+      Member and CTO/Advisor.
+
+
+      Previously co-founded Pano Logic (acquired by Samsung), where I served as
+      CTO and Board Member. Earlier experience includes technical leadership
+      roles at HP's Supercomputing Lab and various startups, with focus areas
+      spanning semiconductor design, cloud computing, and enterprise
+      infrastructure.
+
+
+
+      Now he advises and partners with founders and CEOs, combining deep
+      technical expertise with proven organizational leadership to help navigate
+      critical challenges in scaling companies, implementing AI strategy, and
+      developing high-performing teams. 
   - name: JT Marino
     image: /images/JT.jpg
     department:
@@ -274,6 +287,37 @@ team:
       operations, overseeing a portfolio of 150+ companies, leading his own
       investments, and serving on boards. Jonathan also co-founded his own
       investment firm with two other GPs.
+  - name: Andrew Trader
+    image: /images/Andrew-Trader.jpg
+    department:
+      - SYSTEMS
+      - GTM
+      - TECH
+      - GROWTH
+      - OPS
+      - CULTURE
+      - LEADERSHIP
+      - FUNDING
+      - SCALE
+      - M&A
+      - COACHING
+    bulletpoints:
+      - >-
+        5x founder with 3x exits: Zynga (IPO: $8B market cap), Madison Reed
+        (raised $120M), Coremetrics (Exit to IBM for $377M) and Tribe (Exit to
+        Cisco).  Coached 30 CEO’s and helped raise $500M+ in follow-on capital.
+    content: >
+      A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
+      an entrepreneur, he co-founded 5 companies with $13b in exits including
+      Zynga (IPO, acquired by Take-Two), Madison Reed (raised $300M+), Tribe
+      (acquired by Cisco), and Coremetrics (acquired for $377M by IBM). As a VC
+      and Operating Partner he invested and coached 30 companies, helping to
+      raise $600m in follow-on financing (Mercury, Grin, OneRail) resulting in
+      $4b in increased valuation. AT excels at go-to-market strategy and
+      functions (sales, marketing, and biz dev), setting and accelerating
+      revenue goals and financial plans, and getting to the next stage of
+      funding. His expert guidance and wisdom also shine through when elevating
+      leadership teams, organizational structure, and company culture.
   - name: Peter Kellner
     image: /images/PeterKellner.jpg
     department:
@@ -348,50 +392,6 @@ team:
       in software development when I was very young, joining a group of awesome
       geeks as a teenager, to help build one of the US’s first internet services
       providers. He is based in Boston, Massachusetts.
-  - name: Aly Orady
-    image: /images/AlyOrady.jpg
-    department:
-      - PRODUCT
-      - AI
-      - FUNDING
-      - TECHNOLOGY
-      - PRODUCT
-      - SCALE
-      - LEADERSHIP
-    bulletpoints:
-      - >-
-        CEO & Founder at Tonal (Unicorn with over $1B in total revenues).  25+
-        years of Sillicon Valley experience in AI, deep tech, consumer products
-        and leadership.
-    content: >
-      Aly Orady is a Founder, CEO, Board Member, and Executive Coach with 25+
-      years of Silicon Valley experience spanning deep technology, consumer
-      products, and organizational leadership. Depth in product & technology
-      strategy, with over a decade of experience with AI systems.
-
-
-
-      Founder and Founding CEO of Tonal, building an iconic brand in health &
-      wellness that reached unicorn status and over $1B in total revenue. Led
-      the company from concept through scale, growing to 700 employees while
-      achieving industry-leading retention metrics and an 85 NPS. Developed
-      breakthrough technology in digital resistance, leading to 100+ patents.
-      Established partnerships with elite athletes. Currently serve as Board
-      Member and CTO/Advisor.
-
-
-      Previously co-founded Pano Logic (acquired by Samsung), where I served as
-      CTO and Board Member. Earlier experience includes technical leadership
-      roles at HP's Supercomputing Lab and various startups, with focus areas
-      spanning semiconductor design, cloud computing, and enterprise
-      infrastructure.
-
-
-
-      Now he advises and partners with founders and CEOs, combining deep
-      technical expertise with proven organizational leadership to help navigate
-      critical challenges in scaling companies, implementing AI strategy, and
-      developing high-performing teams. 
   - name: Johanna Mikkola
     image: /images/Johanna_Mikola.jpg
     department:
