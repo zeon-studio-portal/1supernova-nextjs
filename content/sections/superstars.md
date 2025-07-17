@@ -160,9 +160,9 @@ team:
       - LEADERSHIP
     bulletpoints:
       - >-
-        CEO & Founder at Tonal (Unicorn with over $1B in total revenues).  25+
-        years of Sillicon Valley experience in AI, deep tech, consumer products
-        and leadership.
+        CEO & Founder at Tonal (Unicorn with over $1B in total revenues).
+        Co-founder at Pano Logic (Exit to Samsung). 25+ years of Sillicon Valley
+        experience in AI, deep tech, consumer products and leadership.
     content: >
       Aly Orady is a Founder, CEO, Board Member, and Executive Coach with 25+
       years of Silicon Valley experience spanning deep technology, consumer
