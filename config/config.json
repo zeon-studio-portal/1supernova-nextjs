@@ -6,12 +6,27 @@
     "logo_width": "185",
     "logo_height": "40",
     "logo_text": "Supernova",
-    "mobile_nav_text": "Founder, Advisor, or VC?"
+    "mobile_nav_text": "Founder, Advisor, or VC?",
+    "base_url": "https://1supernova.com"
   },
   "metadata": {
     "meta_author": "Supernova",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Supernova stacks your advisory board with successfully exited founders. Over 150+ exited founders team up to game success by sharing their collective genius, wisdom, resources and networks. We help companies that are changing the world achieve their missions, faster.✨"
+    "meta_description": "Supernova stacks your advisory board with successfully exited founders. Over 150+ exited founders team up to game success by sharing their collective genius, wisdom, resources and networks. We help companies that are changing the world achieve their missions, faster.✨",
+    "meta_keywords": [
+      "Supernova",
+      "Exited Founders",
+      "Startup Advisors",
+      "Scaleup",
+      "Scaleups",
+      "Scale up",
+      "Scale ups",
+      "Growth Stage",
+      "Series A",
+      "Unicorn",
+      "Decacorn",
+      "Conscious Capitalism"
+    ]
   },
   "social_media": [
     {

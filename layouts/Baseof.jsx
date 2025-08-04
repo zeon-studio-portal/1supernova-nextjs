@@ -12,12 +12,14 @@ const Base = ({
   title,
   meta_title,
   description,
+  keywords,
   image,
   noindex,
   canonical,
   children,
 }) => {
-  const { meta_image, meta_author, meta_description } = config.metadata;
+  const { meta_image, meta_author, meta_description, meta_keywords } =
+    config.metadata;
   const { base_url } = config.site;
   const { announcement } = settings;
   const router = useRouter();
@@ -28,6 +30,17 @@ const Base = ({
     });
   }, []);
 
+  // Simple JSON-LD Schema
+  const schemaLD = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: config.site.title,
+    url: base_url,
+    logo: `${base_url}${config.site.logo}`,
+    description: plainify(meta_description || description),
+    sameAs: [...config.social_media.map((item) => item.link).slice(0, 1)],
+  };
+
   return (
     <>
       <Head>
@@ -37,6 +50,13 @@ const Base = ({
             meta_title ? meta_title : title ? title : config.site.title
           )}
         </title>
+        {/* Schema Markup */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(schemaLD),
+          }}
+        />
 
         {/* canonical url */}
         {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
@@ -48,6 +68,13 @@ const Base = ({
         <meta
           name="description"
           content={plainify(description ? description : meta_description)}
+        />
+
+        {/* meta-keyword */}
+        {/* meta-keywords */}
+        <meta
+          name="keywords"
+          content={plainify(keywords ? keywords : meta_keywords)}
         />
 
         {/* author from config.json */}
