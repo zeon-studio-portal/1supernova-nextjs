@@ -18,9 +18,9 @@ import pages from './collections/pages';
 import superstars from './collections/superstars';
 import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
+import trustedBrands from './collections/trusted-brands';
 import uploadAndApply from './collections/uploadAndApply';
 import whySuperNovaExists from './collections/whySuperNovaExists';
-import trustedBrands from './collections/trusted-brands';
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
