@@ -1,6 +1,6 @@
 const trustedBrands = {
   label: 'Trusted Brands Section',
-  name: 'trusted-brands',
+  name: 'trustedBrands',
   path: 'content/sections',
   ui: {
     allowedActions: {
@@ -55,7 +55,6 @@ const trustedBrands = {
         },
       },
     },
-
   ],
 };
 
