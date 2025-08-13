@@ -20,6 +20,7 @@ import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
 import uploadAndApply from './collections/uploadAndApply';
 import whySuperNovaExists from './collections/whySuperNovaExists';
+import trustedBrands from './collections/trusted-brands';
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
@@ -55,6 +56,7 @@ export default defineConfig({
       mission,
       advisory_game,
       topFounders,
+      trustedBrands,
       superstars,
       goSupernova,
       joinCommunity,

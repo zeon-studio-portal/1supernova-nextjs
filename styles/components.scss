@@ -456,3 +456,48 @@
 .input-field {
   @apply w-full rounded-lg border border-secondary/60 bg-dark-primary/20 px-4 py-2 text-white focus:border-secondary-600 focus:outline-none focus:ring-0;
 }
+
+
+
+/* Animation */
+
+.marquee-wrapper.on-hover-pause-animation:hover .marquee {
+  animation-play-state: paused;
+}
+
+.marquee {
+  animation: marquee 30s linear infinite;
+}
+.marquee-duration-60 {
+  animation-duration: 60s !important;
+}
+
+.marquee-duration-120 {
+  animation-duration: 120s !important;
+}
+.marquee-reverse {
+  animation-direction: reverse;
+  animation: marquee-reverse 60s linear infinite;
+}
+
+
+
+@keyframes marquee {
+  0% {
+    transform: translate(0);
+  }
+
+  100% {
+    transform: translate(calc(-100% - 8rem));
+  }
+}
+
+@keyframes marquee-reverse {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}

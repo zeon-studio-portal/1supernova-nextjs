@@ -13,6 +13,7 @@ import Mission from '@partials/Mission';
 import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
 import TopFounders from '@partials/TopFounders';
+import TrustedBrands from '@partials/TrustedBrands';
 import UploadAndApply from '@partials/UploadAndApply';
 import WhySupernovaExists from '@partials/WhySupernovaExists';
 
@@ -25,6 +26,7 @@ const Home = ({
   mission,
   advisory,
   advisory_game,
+  trusted_brands,
   superstars_page,
   top_founders_page,
   how_it_works_page,
@@ -48,6 +50,7 @@ const Home = ({
       <Mission mission={mission} />
       <AdvisoryGame advisory_game={advisory_game.frontmatter} />
       <TopFounders top_founders={top_founders_page} />
+      <TrustedBrands trusted_brands={trusted_brands} />
       <Superstars superstars={superstars_page} />
       <GoSupernova go_supernova={go_supernova_page} />
       <JoinCommunity join_community={join_community_page} />
@@ -75,6 +78,7 @@ export const getStaticProps = async () => {
   const advisory = await getListPage('content/sections/advisory.md');
   const advisory_game = await getListPage('content/sections/advisory-game.md');
   const mission = await getListPage('content/sections/mission.md');
+  const trustedBrands = await getListPage('content/sections/trusted-brands.md');
   const superstars = await getListPage('content/sections/superstars.md');
   const top_founders = await getListPage('content/sections/top-founders.md');
   const how_it_works = await getListPage('content/sections/how-it-works.md');
@@ -94,6 +98,7 @@ export const getStaticProps = async () => {
 
       testimonials_page: testimonials,
       mission: mission,
+      trusted_brands: trustedBrands,
       superstars_page: superstars,
       top_founders_page: top_founders,
       how_it_works_page: how_it_works,
