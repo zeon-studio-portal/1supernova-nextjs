@@ -40,7 +40,6 @@ const Base = ({
     description: plainify(meta_description || description),
     sameAs: [...config.social_media.map((item) => item.link).slice(0, 1)],
   };
-
   return (
     <>
       <Head>
@@ -59,7 +58,13 @@ const Base = ({
         />
 
         {/* canonical url */}
-        {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
+        {(canonical || base_url) && (
+          <link
+            rel="canonical"
+            href={`${canonical || base_url}/`}
+            itemProp="url"
+          />
+        )}
 
         {/* noindex robots */}
         {noindex && <meta name="robots" content="noindex,nofollow" />}

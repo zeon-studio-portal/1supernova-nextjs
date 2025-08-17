@@ -3,7 +3,6 @@ import BrandCard from '@components/BrandCard';
 import { markdownify } from '@lib/utils/textConverter';
 
 const TrustedBrands = ({ trusted_brands }) => {
-  console.log(trusted_brands.frontmatter);
   const firstList = trusted_brands.frontmatter.brand_list;
   const secondList = [...firstList].sort(() => 0.5 - Math.random());
 
