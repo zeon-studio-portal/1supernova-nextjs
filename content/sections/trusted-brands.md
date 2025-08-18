@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Builders We've Backed
+title: Portfolio Companies
 subtitle: We back world-changing companies driving a better future future.
 brand_list:
   - name: Apollo Neuro
