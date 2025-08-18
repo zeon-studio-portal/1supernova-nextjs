@@ -2,9 +2,13 @@ import AnimatedText from '@components/AnimatedText';
 import ReactPlayerWrapperV2 from '@components/ReactPlayerWrapperV2';
 import PortalModal from '@layouts/helpers/PortalModal';
 import { markdownify } from '@lib/utils/textConverter';
-import Image from 'next/image';
 import React, { useRef, useState } from 'react';
 import { useOnClickOutside } from 'usehooks-ts';
+
+import { Autoplay, Pagination } from 'swiper';
+import 'swiper/css';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import FounderCard from '@components/FounderCard';
 
 const TopFounders = ({ top_founders }) => {
   const handleOpenVideoPopup = () => {
@@ -20,12 +24,12 @@ const TopFounders = ({ top_founders }) => {
   return (
     top_founders.frontmatter.enable === true && (
       <>
-        <section id="portfolio" className="bg-dark-secondary py-24">
-          <div className="container text-center">
+        <section id="portfolio" className="rising-stars bg-dark-secondary py-24">
+          <div className="container ">
             <div data-aos="fade-up-sm">
               <AnimatedText
                 tag="h2"
-                className="mb-4 font-medium"
+                className="mb-4 font-medium text-center"
                 content={top_founders.frontmatter.title}
               />
             </div>
@@ -33,11 +37,65 @@ const TopFounders = ({ top_founders }) => {
               {markdownify(
                 top_founders.frontmatter.subtitle,
                 'p',
-                'text-light-secondary md:text-xl'
+                'text-light-secondary md:text-xl text-center'
               )}
             </div>
 
-            <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 md:grid-cols-3 lg:grid-cols-4">
+            {/* Swiper Slide for Top Founders */}
+            <Swiper
+              className="mt-20 rising-stars"
+              modules={[ Pagination, Autoplay]}
+              pagination={{ clickable: true }}
+              loop={true}
+              autoplay={{
+                delay: 4000,
+                disableOnInteraction: false,
+              }}
+              loopedSlides={2}
+              centeredSlides={true}
+              spaceBetween={20}
+              breakpoints={{
+                0: {
+                  slidesPerView: 1,
+                  spaceBetween: 10,
+                },
+                767: {
+                  slidesPerView: 2,
+                  spaceBetween: 20,
+                },
+                991: {
+                  slidesPerView: 2,
+                  spaceBetween: 20,
+                },
+                1280: {
+                  slidesPerView: 3,
+                  spaceBetween: 20,
+                },
+              }}
+             >
+              {top_founders.frontmatter.lists.map((item, index) => (
+                <SwiperSlide key={index}>
+                  <FounderCard
+                    item={item}
+                    index={index}
+                    handleOpenVideoPopup={handleOpenVideoPopup}
+                  />
+                  {isVideoPopupOpen && item.video_link_button.enable && (
+                    <PortalModal>
+                      <PortalModal.Close handleClose={handleCloseVideoModal} />
+                      <div className="mx-auto w-[800px]" ref={videoPopupRef}>
+                        <ReactPlayerWrapperV2
+                          url={item.video_link_button.full_link}
+                          autoplay={true}
+                        />
+                      </div>
+                    </PortalModal>
+                  )}
+                </SwiperSlide>
+              ))}
+            </Swiper>
+
+            {/* <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 md:grid-cols-3 lg:grid-cols-4">
               {top_founders.frontmatter.lists.map((item, index) => (
                 <React.Fragment key={index}>
                   <div
@@ -128,7 +186,7 @@ const TopFounders = ({ top_founders }) => {
                   )}
                 </React.Fragment>
               ))}
-            </div>
+            </div> */}
           </div>
         </section>
       </>
