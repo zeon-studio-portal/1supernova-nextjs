@@ -40,7 +40,7 @@ const FounderCard = ({ item, index, handleOpenVideoPopup }) => {
           </div>
         </button>
       )}
-      {item.case_study_link && item.case_study_link !== '#' && (
+      {item.case_study_link && item.case_study_link !== '#' && !item?.video_link_button?.enable && (
         <a href={item.case_study_link} className="absolute right-4 top-4 z-10">
           <div className="group flex h-[70px] w-[70px] items-center justify-center rounded-full bg-gray-400 hover:bg-primary" title='Read Case Study'>
             <div className="flex h-[85%] w-[85%] items-center justify-center rounded-full bg-white text-center text-xs text-primary transition duration-300 group-hover:bg-primary group-hover:text-white gap-1">
