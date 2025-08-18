@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Portfolio Rising Stars
-subtitle: We proudly back world-changing companies driving a better future forward.
+title: Portfolio Superstars
+subtitle: Meet the mission‑driven leaders who are changing the world.
 list_colors:
   - '#5ECDF8'
   - '#FFCA59'
