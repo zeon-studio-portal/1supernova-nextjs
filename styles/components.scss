@@ -521,6 +521,9 @@
     }
     &-active > div {
       @apply opacity-100 h-[480px] ;
+      p{
+        @apply text-base-sm;
+      }
 
     }
     &-prev > div {
