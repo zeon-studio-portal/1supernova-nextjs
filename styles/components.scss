@@ -505,7 +505,7 @@
     bottom: 0;
   }
   .swiper-wrapper {
-    @apply pb-20 items-center;
+    @apply items-center pb-20;
   }
   .swiper-pagination-bullet {
     @apply h-[14px] w-[14px] rounded-[10px] bg-dark-quaternary opacity-100;
@@ -516,23 +516,23 @@
     @apply w-8 bg-primary-600;
   }
   .swiper-slide {
-    > div  {
-      @apply opacity-60 ;
+    @apply h-[480px] flex items-center;
+    > div {
+      @apply opacity-60;
+      transition: 0.25s ease-in-out;
     }
     &-active > div {
-      @apply opacity-100 h-[480px] ;
-      p{
+      @apply h-[480px] opacity-100;
+
+      p {
         @apply text-base-sm;
       }
-
     }
     &-prev > div {
       @apply h-[400px] !opacity-30;
-      
     }
-     &-next > div  {
+    &-next > div {
       @apply h-[400px] !opacity-30;
-
     }
   }
 }
