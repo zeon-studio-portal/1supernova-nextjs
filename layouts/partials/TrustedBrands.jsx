@@ -3,8 +3,12 @@ import BrandCard from '@components/BrandCard';
 import { markdownify } from '@lib/utils/textConverter';
 
 const TrustedBrands = ({ trusted_brands }) => {
-  const firstList = trusted_brands.frontmatter.brand_list;
-  const secondList = [...firstList].sort(() => 0.5 - Math.random());
+  const brandlist = trusted_brands.frontmatter.brand_list;
+  const half = Math.ceil(brandlist.length / 2);
+  const firstList = brandlist.slice(0, half);
+  const secondList = brandlist.slice(half);
+  console.log(firstList);
+  console.log(secondList);
 
   return (
     trusted_brands.frontmatter.enable === true && (
@@ -38,12 +42,12 @@ const TrustedBrands = ({ trusted_brands }) => {
 
           <div className="pt-14">
             <div className="marquee-wrapper on-hover-pause-animation flex gap-5 overflow-hidden">
-              <div className="marquee marquee-duration-120 flex shrink-0 items-center justify-center gap-5">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5">
                 {firstList.map(( item, index ) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-                <div className="marquee marquee-duration-120 flex shrink-0 items-center justify-center gap-5">
+                <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5">
                 {firstList.map(( item, index ) => (
                   <BrandCard item={item} key={index} />
                 ))}
@@ -51,12 +55,12 @@ const TrustedBrands = ({ trusted_brands }) => {
             </div>
 
             <div className="marquee-wrapper on-hover-pause-animation flex gap-5 overflow-hidden mt-5">
-              <div className="marquee marquee-duration-120 marquee-reverse flex shrink-0 items-center justify-center gap-5">
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5">
                 {secondList.map(( item, index ) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-120 marquee-reverse flex shrink-0 items-center justify-center gap-5">
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5">
                 {secondList.map(( item, index ) => (
                   <BrandCard item={item} key={index} />
                 ))}
