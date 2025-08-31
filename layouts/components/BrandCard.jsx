@@ -4,7 +4,7 @@ import ImageFallback from './ImageFallback';
 const BrandCard = ({ item }) => {
   return (
     <div
-      className="border-border flex h-[100px] w-[200px] items-center justify-center border sm:h-[150px] sm:w-[300px] md:h-[180px] md:w-[350px] p-4 sm:p-6 hover:bg-primary-800 hover:border-transparent group hover:flex-col hover:gap-y-5  transition-all duration-300 ">
+      className="border-border flex h-[100px] w-[200px] items-center justify-center border sm:h-[150px] sm:w-[300px] md:h-[200px] md:w-[420px] p-4 sm:p-6 hover:bg-primary-800 hover:border-transparent group hover:flex-col hover:gap-y-5  transition-all duration-300 ">
       <ImageFallback
         src={item.logo}
         alt={item.name}

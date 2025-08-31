@@ -11,8 +11,8 @@ const FounderCard = ({ item, index, handleOpenVideoPopup }) => {
         className="!h-full w-full max-w-full rounded-2xl object-cover"
         src={item.image}
         alt={item.name}
-        width={400}
-        height={500}
+        width={1000}
+        height={1000}
       />
 
       {/* if video link button is enabled */}
