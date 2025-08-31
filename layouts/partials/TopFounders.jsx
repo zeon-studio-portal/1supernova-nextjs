@@ -2,13 +2,13 @@ import AnimatedText from '@components/AnimatedText';
 import ReactPlayerWrapperV2 from '@components/ReactPlayerWrapperV2';
 import PortalModal from '@layouts/helpers/PortalModal';
 import { markdownify } from '@lib/utils/textConverter';
-import React, { useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { useOnClickOutside } from 'usehooks-ts';
 
+import FounderCard from '@components/FounderCard';
 import { Autoplay, Pagination } from 'swiper';
 import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import FounderCard from '@components/FounderCard';
 
 const TopFounders = ({ top_founders }) => {
   const handleOpenVideoPopup = () => {
@@ -24,12 +24,14 @@ const TopFounders = ({ top_founders }) => {
   return (
     top_founders.frontmatter.enable === true && (
       <>
-        <section id="portfolio" className="rising-stars bg-dark-secondary py-24">
+        <section
+          id="portfolio"
+          className="rising-stars bg-dark-secondary py-24">
           <div className="container xl:max-w-[900px]">
             <div data-aos="fade-up-sm">
               <AnimatedText
                 tag="h2"
-                className="mb-4 font-medium text-center"
+                className="mb-4 text-center font-medium"
                 content={top_founders.frontmatter.title}
               />
             </div>
@@ -43,15 +45,16 @@ const TopFounders = ({ top_founders }) => {
 
             {/* Swiper Slide for Top Founders */}
             <Swiper
-              className="mt-20 rising-stars"
-              modules={[ Pagination, Autoplay]}
+              className="rising-stars mt-20"
+              modules={[Pagination, Autoplay]}
               pagination={{ clickable: true }}
               loop={true}
-              // autoplay={{
-              //   delay: 3000,
-              //   disableOnInteraction: false,
-              // }}
+              loopAddBlankSlides={true}
               loopedSlides={2}
+              autoplay={{
+                delay: 3000,
+                disableOnInteraction: true,
+              }}
               centeredSlides={true}
               spaceBetween={20}
               breakpoints={{
@@ -67,9 +70,7 @@ const TopFounders = ({ top_founders }) => {
                   slidesPerView: 3,
                   spaceBetween: 20,
                 },
-              
-              }}
-             >
+              }}>
               {top_founders.frontmatter.lists.map((item, index) => (
                 <SwiperSlide key={index}>
                   <FounderCard
@@ -91,7 +92,6 @@ const TopFounders = ({ top_founders }) => {
                 </SwiperSlide>
               ))}
             </Swiper>
-
           </div>
         </section>
       </>
