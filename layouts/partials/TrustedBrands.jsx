@@ -16,7 +16,6 @@ const TrustedBrands = ({ trusted_brands }) => {
           {/* Section Header */}
           <div className="text-center">
             <div data-aos="fade-up-sm">
-              dasd
               <AnimatedText
                 tag="h2"
                 className="mb-4 font-medium"
