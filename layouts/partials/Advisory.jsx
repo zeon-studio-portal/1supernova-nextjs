@@ -13,7 +13,11 @@ const Advisory = ({ advisory }) => {
       <section className="py-24">
         <div className="container text-center">
           <div data-aos="fade-up-sm">
-            <AnimatedText tag="h2" className="font-medium mb-4 w-fit mx-auto" content={advisory.title} />
+            <AnimatedText
+              tag="h2"
+              className="mx-auto mb-4 w-fit font-medium"
+              content={advisory.title}
+            />
           </div>
           <div data-aos="fade-up-sm" data-aos-delay="100">
             {markdownify(
@@ -45,7 +49,7 @@ const Advisory = ({ advisory }) => {
                   data-aos="fade-in"
                   data-aos-delay="50"
                 />
-                <div data-aos="fade-in" data-aos-delay="100">
+                <div data-aos="fade-in" data-nosnippet data-aos-delay="100">
                   {markdownify(
                     advisory.quote,
                     'p',

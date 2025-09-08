@@ -151,7 +151,9 @@ const Advisory = ({ superstars }) => {
                           </div>
                         </div>
                         {item.bulletpoints && (
-                          <div className="content content-superstar mt-2 [&>*]:text-[16px] [&>ul>li]:my-0">
+                          <div
+                            className="content content-superstar mt-2 [&>*]:text-[16px] [&>ul>li]:my-0"
+                            data-nosnippet>
                             <ul>
                               {item.bulletpoints?.map((d, i) => (
                                 <li key={i}>{d}</li>

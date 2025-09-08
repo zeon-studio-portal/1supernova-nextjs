@@ -1,5 +1,6 @@
 import ArrowButton from '@components/ArrowButton';
 import ImageFallback from '@components/ImageFallback';
+import config from '@config/config';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import 'node_modules/react-modal-video/scss/modal-video.scss';
@@ -22,7 +23,7 @@ const Banner = ({ banner, founders }) => {
         <div className="container relative z-50 text-center">
           {badge && badge.enable && (
             <div data-aos="fade-up-sm">
-              <div className=" mx-auto mb-6 flex max-w-max flex-wrap items-center justify-center gap-4 rounded-full">
+              <div className="mx-auto mb-6 flex max-w-max flex-wrap items-center justify-center gap-4 rounded-full">
                 <div className="flex items-center">
                   {badge.images &&
                     badge.images.length &&
@@ -51,6 +52,7 @@ const Banner = ({ banner, founders }) => {
               'text-banner mx-auto mb-8 w-fit text-h3/tight md:text-h1 font-medium [&>strong]:!text-secondary-600'
             )}
           </div>
+          <p className="sr-only">{config.metadata.meta_description}</p>
           <div data-aos="fade-up" data-aos-delay="50">
             {markdownify(
               banner.subtitle,
