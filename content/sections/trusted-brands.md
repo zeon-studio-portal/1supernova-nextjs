@@ -42,5 +42,8 @@ brand_list:
   - name: Vegetable and Butcher
     logo: /images/trusted-brands/Vegetable.png
     website: 'https://vegetableandbutcher.com/'
+  - name: Attention Hero
+    logo: /images/Logo.png
+    website: attention-hero.com
 ---
 
