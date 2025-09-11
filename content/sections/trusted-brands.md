@@ -39,7 +39,7 @@ brand_list:
   - name: Vegetable and Butcher
     logo: /images/trusted-brands/Vegetable.png
     website: 'https://vegetableandbutcher.com/'
-  - name: Eco Twin AI
+  - name: EcoTwin AI
     logo: /images/Screenshot 2025-09-11 at 2.36.28 PM.png
     website: 'https://www.echotwin.ai/'
 ---
