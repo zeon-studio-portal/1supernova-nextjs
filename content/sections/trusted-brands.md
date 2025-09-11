@@ -6,6 +6,9 @@ brand_list:
   - name: Apollo Neuro
     logo: /images/trusted-brands/Apollo.png
     website: 'https://apolloneuro.com/'
+  - name: Attention Hero
+    logo: /images/Logo.png
+    website: attention-hero.com
   - name: Aya Healthcare
     logo: /images/trusted-brands/Aya.png
     website: 'https://ayacare.com/'
@@ -42,8 +45,5 @@ brand_list:
   - name: Vegetable and Butcher
     logo: /images/trusted-brands/Vegetable.png
     website: 'https://vegetableandbutcher.com/'
-  - name: Attention Hero
-    logo: /images/Logo.png
-    website: attention-hero.com
 ---
 
