@@ -21,6 +21,9 @@ brand_list:
   - name: Colossal
     logo: /images/trusted-brands/Colossal.png
     website: 'https://colossal.com/'
+  - name: EcoTwin AI
+    logo: /images/Screenshot 2025-09-11 at 2.36.28 PM.png
+    website: 'https://www.echotwin.ai/'
   - name: GravyWork
     logo: /images/trusted-brands/Gravy.png
     website: 'https://www.gravywork.com/'
@@ -39,8 +42,5 @@ brand_list:
   - name: Vegetable and Butcher
     logo: /images/trusted-brands/Vegetable.png
     website: 'https://vegetableandbutcher.com/'
-  - name: EcoTwin AI
-    logo: /images/Screenshot 2025-09-11 at 2.36.28 PM.png
-    website: 'https://www.echotwin.ai/'
 ---
 
