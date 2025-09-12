@@ -25,7 +25,7 @@ brand_list:
     logo: /images/trusted-brands/Colossal.png
     website: 'https://colossal.com/'
   - name: EcoTwin AI
-    logo: /images/Screenshot 2025-09-11 at 2.36.28 PM.png
+    logo: /images/EchoTwin AI.png
     website: 'https://www.echotwin.ai/'
   - name: GravyWork
     logo: /images/trusted-brands/Gravy.png
