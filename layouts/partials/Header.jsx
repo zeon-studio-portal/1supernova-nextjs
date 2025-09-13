@@ -22,6 +22,10 @@ const Header = () => {
   const handleClick = () => {
     setToggleNavbar(!toggleNavbar);
     document.body.style.overflow = toggleNavbar ? 'unset' : 'hidden';
+    const navToggle = document.getElementById('nav-toggle');
+    if (navToggle) {
+      navToggle.checked = !toggleNavbar;
+    }
   };
 
   useEffect(() => {
@@ -131,6 +135,7 @@ const Header = () => {
                     {menu.children.map((child, i) => (
                       <li className="nav-dropdown-item" key={`children-${i}`}>
                         <Link
+                          onClick={handleClick}
                           href={child.url}
                           className={`nav-dropdown-link block ${
                             asPath === child.url && 'active'
@@ -144,6 +149,7 @@ const Header = () => {
               ) : (
                 <li className="nav-item">
                   <Link
+                    onClick={handleClick}
                     href={menu.url}
                     className={`nav-link block ${
                       asPath === menu.url && 'active'
