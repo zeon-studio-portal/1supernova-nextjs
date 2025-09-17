@@ -8,7 +8,7 @@ brand_list:
     website: 'https://apolloneuro.com/'
   - name: Attention Hero
     logo: /images/Screenshot 2025-09-12 at 7.54.33 AM.png
-    website: attention-hero.com
+    website: https://attention-hero.com
   - name: Aya Healthcare
     logo: /images/trusted-brands/Aya.png
     website: 'https://ayacare.com/'
@@ -46,4 +46,3 @@ brand_list:
     logo: /images/trusted-brands/Vegetable.png
     website: 'https://vegetableandbutcher.com/'
 ---
-
