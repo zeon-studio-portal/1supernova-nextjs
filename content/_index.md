@@ -19,10 +19,10 @@ banner:
       - random quotes
   video_button:
     enable: true
-    image: /images/barry_stamos_gradient.png
-    label: Play Intro Video
+    label: Play Intro Video.
     subtitle: Accelerate Your<br> Growth Journey with Supernova
-    full_link: https://www.youtube.com/watch?v=YHkg4k7gnDA
+    image: /images/barry_stamos_gradient.png
+    full_link: 'https://www.youtube.com/watch?v=YHkg4k7gnDA'
   button:
     enable: true
     label: Apply to Supernova
@@ -37,3 +37,4 @@ banner:
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
 ---
+
