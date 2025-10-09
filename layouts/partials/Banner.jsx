@@ -1,19 +1,28 @@
 import ArrowButton from '@components/ArrowButton';
 import ImageFallback from '@components/ImageFallback';
+import ReactPlayerWrapperV2 from '@components/ReactPlayerWrapperV2';
 import config from '@config/config';
+import PortalModal from '@layouts/helpers/PortalModal';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
-import 'node_modules/react-modal-video/scss/modal-video.scss';
-import { useState } from 'react';
-import ModalVideo from 'react-modal-video';
+import { useRef, useState } from 'react';
 import { Autoplay } from 'swiper';
 import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { useOnClickOutside } from 'usehooks-ts';
 import Founders from './Founders';
 import VideoBG from './VideoBG';
 
 const Banner = ({ banner, founders }) => {
-  const [isOpen, setOpen] = useState(false);
+  const handleOpenVideoPopup = () => {
+    setIsVideoPopupOpen(true);
+  };
+  const handleCloseVideoModal = () => {
+    setIsVideoPopupOpen(false);
+  };
+  const videoPopupRef = useRef(null);
+  const [isVideoPopupOpen, setIsVideoPopupOpen] = useState(false);
+  useOnClickOutside(videoPopupRef, handleCloseVideoModal);
 
   const { badge } = banner;
 
@@ -61,43 +70,6 @@ const Banner = ({ banner, founders }) => {
             )}
           </div>
 
-          {banner.video_button.enable && (
-            <div
-              data-aos="fade-up"
-              data-aos-delay="100"
-              className="video-wrapper">
-              <button
-                className="video-play-btn"
-                onClick={() => setOpen(true)}
-                aria-label="Play Video">
-                <span className="video-play-btn-icon">
-                  <svg
-                    width="26"
-                    height="26"
-                    viewBox="0 0 26 26"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="inline text-light-primary">
-                    <path
-                      d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
-                      fill="currentColor"
-                    />
-                  </svg>
-                </span>
-              </button>
-            </div>
-          )}
-
-          {banner.video_button.enable && (
-            <ModalVideo
-              channel="youtube"
-              autoplay={1}
-              isOpen={isOpen}
-              videoId={banner.video_button.youtube_id}
-              onClose={() => setOpen(false)}
-            />
-          )}
-
           {banner.quote && banner.quote.enable && (
             <div
               className="mx-auto mt-8 max-w-[400px]"
@@ -128,15 +100,78 @@ const Banner = ({ banner, founders }) => {
             </div>
           )}
 
-          {banner.button && banner.button.enable && (
-            <ArrowButton
-              label={banner.button.label}
-              link={banner.button.link}
-              data-aos="fade-up"
-              data-aos-delay="150"
-              className="mx-auto mt-10 rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary"
-            />
-          )}
+          <div className="flex flex-wrap items-center justify-center gap-4 lg:gap-8">
+            {banner.button && banner.button.enable && (
+              <ArrowButton
+                label={banner.button.label}
+                link={banner.button.link}
+                data-aos="fade-up"
+                data-aos-delay="150"
+                className="rounded-xl bg-secondary-600 px-5 py-3 text-dark-primary"
+              />
+            )}
+            {banner.video_button.enable && (
+              <button
+                data-aos="fade-up"
+                data-aos-delay="100"
+                className=" group/banner-button mx-0 flex items-center gap-2 "
+                onClick={handleOpenVideoPopup}
+                aria-label="Play Video">
+                <span className="group-hover/banner-button:btn-hover-scale-effect relative z-10 grid size-[54px] min-w-min place-items-center rounded-full bg-secondary-600 text-white group-hover/banner-button:bg-secondary-1000 ">
+                  <svg
+                    className="ml-0.5 text-3xl text-dark-primary"
+                    stroke="currentColor"
+                    fill="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 16 16"
+                    height="1em"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z"></path>
+                  </svg>
+                </span>
+                <span className=" -ml-5 grid size-[54px] min-w-min place-items-center overflow-hidden rounded-full">
+                  <ImageFallback
+                    width={80}
+                    height={80}
+                    className="size-full object-cover"
+                    src={
+                      banner.video_button.image
+                        ? banner.video_button.image
+                        : '/images/BarryStamos-r.jpg'
+                    }
+                    alt=""
+                  />
+                </span>
+
+                <div className="flex flex-col items-start text-white">
+                  {markdownify(
+                    banner.video_button.label,
+                    'span',
+                    'text-[1rem] font-medium leading-none mb-1'
+                  )}
+                  {markdownify(
+                    banner.video_button.subtitle,
+                    'span',
+                    'text-xs leading-[1] font-medium text-light-primary/50 text-left'
+                  )}
+                </div>
+              </button>
+            )}
+
+            {/* Video Popup  Modal */}
+            {isVideoPopupOpen && banner.video_button.enable && (
+              <PortalModal>
+                <PortalModal.Close handleClose={handleCloseVideoModal} />
+                <div className="mx-auto w-[800px]" ref={videoPopupRef}>
+                  <ReactPlayerWrapperV2
+                    url={banner.video_button.full_link}
+                    autoplay={true}
+                  />
+                </div>
+              </PortalModal>
+            )}
+          </div>
         </div>
 
         <Founders founders={founders} />

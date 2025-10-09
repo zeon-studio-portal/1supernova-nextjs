@@ -89,13 +89,23 @@ const index = {
               type: 'boolean',
             },
             {
-              label: 'label',
+              label: 'Label',
               name: 'label',
               type: 'string',
             },
             {
-              label: 'youtube_id',
-              name: 'youtube_id',
+              label: 'Subtitle',
+              name: 'subtitle',
+              type: 'string',
+            },
+            {
+              label: 'Image',
+              name: 'image',
+              type: 'image',
+            },
+            {
+              label: 'Full Link',
+              name: 'full_link',
               type: 'string',
             },
           ],

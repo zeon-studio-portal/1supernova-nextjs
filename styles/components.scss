@@ -505,7 +505,7 @@
     bottom: 0;
   }
   .swiper-wrapper {
-    @apply items-center pb-20 ;
+    @apply items-center pb-20;
   }
   .swiper-pagination-bullet {
     @apply h-[14px] w-[14px] rounded-[10px] bg-dark-quaternary opacity-100;
@@ -516,13 +516,13 @@
     @apply w-8 bg-primary-600;
   }
   .swiper-slide {
-    @apply h-[420px] flex items-center;
+    @apply flex h-[420px] items-center;
     > div {
       @apply opacity-60;
       transition: 0.25s ease-in-out;
     }
     &-active > div {
-      @apply h-[420px] opacity-100 mx-auto;
+      @apply mx-auto h-[420px] opacity-100;
 
       p {
         @apply text-base-sm;

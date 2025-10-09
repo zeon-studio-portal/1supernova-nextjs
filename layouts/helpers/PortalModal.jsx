@@ -13,11 +13,24 @@ const PortalModal = ({ children, refProp, ...rest }) => {
     };
   }, []);
 
+  // create fade in effect
+  const fadeInEffect = {
+    opacity: 0,
+    animation: 'fadeIn 0.5s forwards',
+
+    '@keyframes fadeIn': {
+      to: {
+        opacity: 1,
+      },
+    },
+  };
+
   return createPortal(
     <div
       ref={refProp}
       {...rest}
-      className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/60 backdrop-blur-lg">
+      style={fadeInEffect}
+      className="backdrop-blur- fixed inset-0 z-[9999] flex items-center justify-center bg-black/90">
       {children}
     </div>,
     document.body
