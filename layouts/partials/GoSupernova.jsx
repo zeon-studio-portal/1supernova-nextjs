@@ -1,8 +1,8 @@
 import AnimatedText from '@components/AnimatedText';
+import ReactPlayerWrapperV2 from '@components/ReactPlayerWrapperV2';
 import { markdownify } from '@lib/utils/textConverter';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
-import ReactPlayer from 'react-player';
 
 const GoSupernova = ({ go_supernova }) => {
   const [loading, setLoading] = useState(true);
@@ -17,11 +17,11 @@ const GoSupernova = ({ go_supernova }) => {
         <div className="container">
           <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">
-            <AnimatedText
-              tag="h2"
-              className="font-medium mb-4"
-              content={go_supernova.frontmatter.title}
-            />
+              <AnimatedText
+                tag="h2"
+                className="mb-4 font-medium"
+                content={go_supernova.frontmatter.title}
+              />
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
               {markdownify(
@@ -57,9 +57,9 @@ const GoSupernova = ({ go_supernova }) => {
               <div
                 className="player-wrapper relative z-10"
                 data-aos="fade-up-sm">
-                <ReactPlayer
+                <ReactPlayerWrapperV2
+                  autoplay={true}
                   url={go_supernova.frontmatter.video_url}
-                  controls
                 />
               </div>
               <div className="-z-10 hidden sm:block">
