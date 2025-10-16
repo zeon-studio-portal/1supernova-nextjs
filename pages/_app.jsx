@@ -1,11 +1,11 @@
 import settings from '@config/settings.json';
 import AOS from 'aos';
+import { useEffect } from 'react';
 import TagManager from 'react-gtm-module';
 import 'styles/main.scss';
-import React, { useEffect } from 'react';
-import SplitText from '/plugins/js/splittext.min.js';
 import gsap from '/plugins/js/gsap.min.js';
 import ScrollTrigger from '/plugins/js/scrolltrigger.min.js';
+import SplitText from '/plugins/js/splittext.min.js';
 
 // load fonts from local
 import localFont from 'next/font/local';
@@ -68,7 +68,7 @@ const App = ({ Component, pageProps }) => {
     AOS.init({
       easing: 'ease-out-cubic',
       once: false,
-      offset: 50,
+      offset: -50,
     });
   }, []);
 
@@ -81,9 +81,7 @@ const App = ({ Component, pageProps }) => {
     split.lines.forEach((target) => {
       const isMultiline = target.parentElement.children.length > 1;
       const isBannerText =
-        target.parentElement.parentElement.classList.contains(
-          'text-banner'
-        );
+        target.parentElement.parentElement.classList.contains('text-banner');
 
       const startValue = isMultiline
         ? 'top center'

@@ -20,11 +20,14 @@ const Header = () => {
   // navbar open/close
   const [toggleNavbar, setToggleNavbar] = useState(false);
   const handleClick = () => {
-    setToggleNavbar(!toggleNavbar);
-    document.body.style.overflow = toggleNavbar ? 'unset' : 'hidden';
-    const navToggle = document.getElementById('nav-toggle');
-    if (navToggle) {
-      navToggle.checked = !toggleNavbar;
+    // Only set overflow for mobile viewports
+    if (window.innerWidth < 1024) {
+      setToggleNavbar(!toggleNavbar);
+      document.body.style.overflow = toggleNavbar ? 'unset' : 'hidden';
+      const navToggle = document.getElementById('nav-toggle');
+      if (navToggle) {
+        navToggle.checked = !toggleNavbar;
+      }
     }
   };
 

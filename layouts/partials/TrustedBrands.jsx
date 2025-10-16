@@ -40,54 +40,54 @@ const TrustedBrands = ({ trusted_brands }) => {
           </div>
 
           <div className="pt-14">
-            <div className="marquee-wrapper on-hover-pause-animation flex gap-5 overflow-hidden md:gap-10">
-              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-10">
+            <div className="marquee-wrapper on-hover-pause-animation flex gap-5 overflow-hidden md:gap-6">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {firstList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-10">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {firstList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-10">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {firstList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
             </div>
 
-            <div className="marquee-wrapper on-hover-pause-animation mt-5 flex gap-5 overflow-hidden md:mt-10 md:gap-10">
-              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-10">
+            <div className="marquee-wrapper on-hover-pause-animation mt-5 flex gap-5 overflow-hidden md:mt-6 md:gap-6">
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {secondList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-10">
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {secondList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-10">
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {secondList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
             </div>
 
-            <div className="marquee-wrapper on-hover-pause-animation mt-5 flex gap-5 overflow-hidden md:mt-10 md:gap-10">
-              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-10">
+            <div className="marquee-wrapper on-hover-pause-animation mt-5 flex gap-5 overflow-hidden md:mt-6 md:gap-6">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {thirdList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-10">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {thirdList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
-              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-10">
+              <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {thirdList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
