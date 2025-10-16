@@ -130,7 +130,7 @@ const Banner = ({ banner, founders }) => {
                     <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 010 1.393z"></path>
                   </svg>
                 </span>
-                <span className=" -ml-5 grid size-[54px] min-w-min place-items-center overflow-hidden rounded-full">
+                <span className=" -ml-5 grid size-[54px] min-w-min place-items-center overflow-hidden rounded-full border border-secondary-200/50">
                   <ImageFallback
                     width={80}
                     height={80}

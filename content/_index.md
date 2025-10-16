@@ -21,7 +21,7 @@ banner:
     enable: true
     label: Play Intro Video
     subtitle: Accelerate Your<br> Growth Journey with Supernova
-    image: /images/barry_stamos_gradient.png
+    image: /images/barry_stamos.png
     full_link: 'https://www.youtube.com/watch?v=YHkg4k7gnDA'
   button:
     enable: true
