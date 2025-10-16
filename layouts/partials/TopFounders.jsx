@@ -49,7 +49,6 @@ const TopFounders = ({ top_founders }) => {
               modules={[Pagination, Autoplay]}
               pagination={{ clickable: true }}
               loop={true}
-              loopAddBlankSlides={true}
               loopedSlides={2}
               autoplay={{
                 delay: 3000,

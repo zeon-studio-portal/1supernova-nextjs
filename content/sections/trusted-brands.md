@@ -7,7 +7,7 @@ brand_list:
     logo: /images/trusted-brands/Apollo.png
     website: 'https://apolloneuro.com/'
   - name: Attention Hero
-    logo: /images/Screenshot 2025-09-12 at 7.54.33 AM.png
+    logo: /images/trusted-brands/attention-hero.png
     website: https://attention-hero.com
   - name: Aya Healthcare
     logo: /images/trusted-brands/Aya.png
