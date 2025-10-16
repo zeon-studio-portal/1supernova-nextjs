@@ -1,6 +1,6 @@
 ---
 enable: true
-background_image: /images/upload_and_apply_bg.png
+background_image: /images/upload_and_apply_bg.webp
 title: ✨ Upload Your Deck ✨
 subtitle: >-
   Ready to scale? Apply now to become one of the few companies we back each
@@ -17,4 +17,3 @@ card_list:
   - title: Get Matched With Exited Founders
   - title: Unlock Access To Funding & Resources
 ---
-
