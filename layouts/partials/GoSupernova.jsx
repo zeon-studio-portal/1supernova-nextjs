@@ -58,7 +58,7 @@ const GoSupernova = ({ go_supernova }) => {
                 className="player-wrapper relative z-10"
                 data-aos="fade-up-sm">
                 <ReactPlayerWrapperV2
-                  autoplay={true}
+                  autoplay={false}
                   url={go_supernova.frontmatter.video_url}
                 />
               </div>
