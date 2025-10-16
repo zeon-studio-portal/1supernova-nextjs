@@ -35,6 +35,7 @@ const VideoBG = ({ background_youtube_video_id }) => {
       width={1920}
       height={1080}
       fetchPriority="high"
+      priority={true}
     />
   );
 };
