@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 const VideoBG = ({ background_youtube_video_id }) => {
   const [isVideoLoaded, setIsVideoLoaded] = useState(false);
@@ -29,11 +29,12 @@ const VideoBG = ({ background_youtube_video_id }) => {
       src={`https://www.youtube.com/embed/${background_youtube_video_id}?playlist=${background_youtube_video_id}&autoplay=1&mute=1&loop=1&color=white&controls=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=34`}></iframe>
   ) : (
     <Image
-      className="h-full object-cover object-top aspect-[1/3] sm:aspect-auto"
+      className="aspect-[1/3] h-full object-cover object-top sm:aspect-auto"
       src={`/images/banner-bg.png`}
       alt="video thumbnail"
       width={1920}
       height={1080}
+      fetchPriority="high"
     />
   );
 };
