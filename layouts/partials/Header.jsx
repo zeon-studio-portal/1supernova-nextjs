@@ -8,7 +8,7 @@ import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
 const Header = () => {
-  // distructuring the main menu from menu object
+  // destructuring the main menu from menu object
   const { main } = menu;
 
   // get current path

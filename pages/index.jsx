@@ -35,7 +35,7 @@ const Home = ({
   join_community_page,
   faq_page,
 }) => {
-  const { banner, founders } = homepage.frontmatter;
+  const { banner } = homepage.frontmatter;
 
   return (
     <Base>

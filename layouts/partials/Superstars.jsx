@@ -52,6 +52,7 @@ const Advisory = ({ superstars }) => {
   // show loadedItems on initial render and window innerWidth change (Didn't show increased loadedItems because btn is not clicked. Show increased loadedItems only after btn is clicked)
   useEffect(() => {
     handleLoadMore({ btnClicked: false });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filteredMember, mobile]);
 
   // Save last loaded items to state

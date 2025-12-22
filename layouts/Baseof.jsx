@@ -37,7 +37,7 @@ const Base = ({
     name: config.site.title,
     url: base_url,
     logo: `${base_url}${config.site.logo}`,
-    description: plainify(meta_description || description),
+    description: plainify(description || meta_description),
     sameAs: [...config.social_media.map((item) => item.link).slice(0, 1)],
   };
   return (
@@ -72,11 +72,10 @@ const Base = ({
         {/* meta-description */}
         <meta
           name="description"
-          content={plainify(description ? description : meta_description)}
+          content={plainify(description || meta_description)}
         />
 
         {/* meta-keyword */}
-        {/* meta-keywords */}
         <meta
           name="keywords"
           content={plainify(keywords ? keywords : meta_keywords)}
@@ -96,7 +95,7 @@ const Base = ({
         {/* og-description */}
         <meta
           property="og:description"
-          content={plainify(description ? description : meta_description)}
+          content={plainify(description || meta_description)}
         />
         <meta property="og:type" content="website" />
         <meta
