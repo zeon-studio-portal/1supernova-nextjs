@@ -6,7 +6,7 @@ image: ''
 layout: ''
 ---
 
-Last Updated: Dec 22, 2025 <br/>
+Last Updated: Dec 22, 2025 <br/><br/>
 Welcome to Supernova. We’re excited to support founders who are building meaningful companies and solving real problems in the world. These Terms explain how our platform works, including NOVA AI, our Scorecard, our expert founder network, Advisory-as-a-Service, and any investment-related activities. We’ve written this in straightforward, approachable language—while still protecting everyone involved.  
 By accessing or using Supernova, you agree to these Terms.
 

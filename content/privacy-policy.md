@@ -6,7 +6,7 @@ title: Privacy Policy
 description: ''
 ---
 
-Last Updated: Dec 22, 2025 <br/>
+Last Updated: Dec 22, 2025 <br/><br/>
 
 Supernova respects your privacy and is committed to protecting the information you share with us. This Privacy Policy explains what information we collect, how we use it, how it may be shared, and the choices available to you.  
 This Policy applies to your use of the Supernova platform, including NOVA AI, the Supernova Scorecard, Advisory-as-a-Service, and any related services.
