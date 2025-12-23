@@ -6,146 +6,150 @@ title: Privacy Policy
 description: ''
 ---
 
-Welcome to the SUPERNOVA ® website.  Protecting your personal privacy is important to SUPERNOVA ®  (“we,” “us,” or “SUPERNOVA ® ”).  The purpose of this Privacy Policy is to help you understand how SUPERNOVA ®  collects, uses and safeguards the information you provide to us.  This Privacy Policy applies only to the website located at [https://www.1SUPERNOVA](https://www.1supernova) ®.com (the “Site”), and not to any other website or service.
+Last Updated: Dec 22, 2025 <br/>
 
-By using or accessing the Site, you signify your agreement to be bound by this Privacy Policy.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
+Supernova respects your privacy and is committed to protecting the information you share with us. This Privacy Policy explains what information we collect, how we use it, how it may be shared, and the choices available to you.  
+This Policy applies to your use of the Supernova platform, including NOVA AI, the Supernova Scorecard, Advisory-as-a-Service, and any related services.
 
-Personally Identifiable Information That We Collect
+### 1. Information We Collect
 
-SUPERNOVA ®  will not collect personally identifiable information from you unless you voluntarily provide it to us.  Personally identifiable information may include your name, email address, physical address and other information that specifically identifies you. SUPERNOVA ®  also will not sell your personal information to third-parties.
+#### Information You Provide Directly
 
-Non-Personal or Aggregate Information That We Collect
+We collect information you voluntarily submit, including:
 
-When you access the Site, we may automatically collect non-personally identifiable information from you (through cookies and other methods), such as IP address, web pages viewed, browser type, referring service, usage and browsing habits on the Site, and similar data.
+- Applications and onboarding materials
+- Pitch decks, financials, and supporting documents
+- Videos, URLs, and written submissions
+- Team, product, and company information
+- Communications with Supernova, including emails and messages
 
-### Information Use
+This information is collected to evaluate your company, provide platform services, and communicate with you. You are responsible for ensuring that submitted information is accurate and that you have the right to share it.
 
-We will only use your personally identifiable information as described below, unless you have specifically consented to another type of use, either at the time the personally identifiable information is collected from you or through some other form of consent from you or notification to you:
+#### Information Collected Automatically
 
-We may use your personally identifiable information to respond to your inquiries or requests.
+When you access the platform, we automatically collect certain technical and usage information, including:
 
-We may use your personally identifiable information to send emails from time to time, but we will not provide your personally identifiable information to third parties for them to contact you directly unless otherwise permitted by this Privacy Policy or if you provide your consent.
+- IP address and approximate location
+- Device type, operating system, and browser
+- Usage activity and interaction data
+- Cookies and similar tracking technologies
 
-We may permit our vendors and subcontractors to access your personally identifiable information, but they are only permitted to do so in connection with performing services for us. They are not authorized by us to use the information for their own benefit.
+This data helps us operate the platform, maintain security, and understand how Supernova is used.
 
-We may disclose personally identifiable information as required by law or legal process.
+#### Information from Third Parties
 
-We may disclose personally identifiable information to investigate suspected fraud, harassment or other violations of any law, rule or regulation, or the terms or policies for our services or our clients.
+We may receive information from trusted third parties, including:
 
-We may transfer your personally identifiable information in connection with the sale or merger or change of control of the Site, SUPERNOVA ®  or the division responsible for the services with which your personally identifiable information is associated.
+- AI processing and infrastructure providers
+- Advisors participating in the Supernova network
+- Payment processors and financial service providers
+- Analytics and security providers
 
-We may share your personally identifiable information with an affiliate of SUPERNOVA ®  who is in the same corporate family as us as long as their privacy practices are substantially similar to ours.
+Third-party data is used only in connection with providing and improving Supernova services and is handled in accordance with this Privacy Policy.
 
-Non-personally identifiable or aggregate information may be shared with any number of parties, provided that such information shall not specifically identify you.
+### 2. How We Use Your Information
 
-### Client Data
+We use collected information to:
 
-We provide services for our clients, and may collect and process information about individuals at the direction of our clients (“Client Data”). Our processing of Client Data is governed by the terms of our service agreements with our clients, and not this Privacy Policy. We are not responsible for how our clients treat the information we collect on their behalf, and we recommend you review their own privacy policies. SUPERNOVA ®  acknowledges that you may have rights in connection with Client Data. If your information has been processed by SUPERNOVA ®  on behalf of a client and you wish to exercise any rights you have with such information, please inquire with our client directly. If you wish to make your request directly to SUPERNOVA ® , please provide the name of the SUPERNOVA ®  client on whose behalf SUPERNOVA ®  processed your information. We will refer your request to that client, and will support them to the extent required by applicable law in responding to your request.
+- Analyze company submissions and applications
+- Generate Supernova Scorecards and related insights
+- Process content through NOVA AI
+- Match companies with potential Advisors
+- Evaluate companies for advisory or investment opportunities
+- Improve and develop NOVA and platform functionality
+- Communicate with users regarding services
+- Monitor, maintain, and secure the platform
 
-### Security
+Supernova does not sell personal information. We use information solely to operate, improve, and protect our services.
 
-We take appropriate commercially reasonable physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.  Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances
+### 3. NOVA AI and Third-Party Processing
 
-### Rights and Choices for California Residents
+NOVA AI is Supernova’s proprietary analytical system. In order to function, NOVA may rely on third-party AI or infrastructure providers for limited processing tasks.
 
-The California Consumer Privacy Act  of 2018 (“CCPA”) and the California Privacy Rights Act of 2023 (“CPRA”) provides California residents with specific rights regarding their personal information. This section describes your CCPA and CPRA rights and explains how to exercise those rights.
+These providers:
 
-### Right to Know
+- Act solely as service providers
+- Do not own your data
+- Do not receive rights to use data for their own purposes
+- Do not train their public models on your data
 
-You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months  (“the Right to Know”). Once we receive your request and confirm your identity, we will disclose to you:
+All scoring logic, analytical frameworks, interpretations, and outputs generated by NOVA are owned exclusively by Supernova.  
+You acknowledge that AI-based processing is inherently probabilistic and that outputs are informational in nature.
 
-The categories of personal information we collected about you.
+### 4. Sharing Information with Advisors
 
-The categories of personal information that we disclosed about you for a business or commercial purpose and an explanation of the business or commercial purpose that the personal information was used for.
+Supernova may share relevant portions of submitted information with Advisors for the limited purposes of:
 
-The categories of third parties with whom we share that personal information.
+- Assessing potential fit
+- Facilitating introductions
+- Supporting active advisory engagements
 
-The specific pieces of personal information we collected about you (also known as a data portability request).
+Advisors are independent professionals and are bound by confidentiality obligations, but they are not employees or agents of Supernova. Supernova does not control how Advisors perform their services once engaged.
 
-### Right to Delete
+### 5. Use of Anonymized and Aggregated Data
 
-You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions (the “right to delete”). Once we receive your request and confirm your identity, we will review your request to see if an exception allowing us to retain the information applies. We may deny your deletion request if retaining the information is necessary for us to:
+Supernova may anonymize and aggregate data to:
 
-Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities, to the extent that the use of your personal information is reasonable and proportionate for these purposes;
+- Improve NOVA AI and scoring methodologies
+- Enhance matching and platform performance
+- Conduct internal research on founder and company outcomes
+- Train and refine internal analytical models
 
-Debug to repair and identify and repair errors that impair functionality;
+Anonymization removes identifiable and proprietary information prior to use. Anonymized data may be retained and used on an ongoing basis.
 
-Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law;
+### 6. Data Retention
 
-Comply with the California Electronic Communications Privacy Act (Cal. Penal Code §1546 et. seq.);
+We retain information only as long as necessary to fulfill the purposes described in this Policy, including:
 
-Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us;
+- Applications and Scorecards for approximately three (3) years
+- Advisory engagement information for the duration of the engagement plus two (2) years
+- Anonymized and aggregated data indefinitely
 
-Comply with a legal obligation; and
+You may request deletion of your information, subject to legal, regulatory, or contractual retention obligations.
 
-Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+### 7. Security Measures
 
-We will delete or deidentify personal information not subject to one of these exceptions from our records and direct any of our service providers to take similar action.
+Supernova implements reasonable administrative, technical, and organizational safeguards, including:
 
-### Correct Inaccurate Personal Information
+- Encryption of data in transit and at rest
+- Secure data transfer protocols
+- Access controls and role-based permissions
+- Monitoring and logging systems
 
-You have the right to request that we correct any potential incorrect personal information that we may have about you.
+No system can be guaranteed to be completely secure. You acknowledge that use of the platform involves inherent data transmission risks.
 
-### Exercising Your Rights
+### 8. Your Privacy Rights
 
-To exercise your rights to know or delete described above, please submit a request by either:
+Depending on your location and applicable law, including California and European regulations, you may have the right to:
 
-Emailing Us at info\@1SUPERNOVA ®.com
+- Access personal information we hold about you
+- Request correction of inaccurate information
+- Request deletion of certain information
+- Request a copy of your data
+- Object to or restrict certain processing activities
 
-Only you, or someone legally authorized to act on your behalf, may make a request to know or delete related to your personal information.
+Requests may be submitted to [privacy@1supernova.com](mailto:privacy@1supernova.com). We may need to verify your identity before fulfilling requests and may deny requests where permitted by law.
 
-You may only submit a request to know twice within a 12-month period. Your request to know or delete must:
+### 9. Cookies and Tracking Technologies
 
-Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information; and
+Supernova uses cookies and similar technologies to support analytics, functionality, and user experience.  
+You may control cookies through your browser settings. Disabling cookies may limit certain features of the platform.
 
-Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+### 10. Children’s Privacy
 
-We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you.
-We will only use personal information provided in the request to verify the requestor’s identity or authority to make it.
+Supernova services are not intended for individuals under the age of eighteen (18). We do not knowingly collect personal information from minors.
 
-### Response Timing and Format
+### 11. International Data Transfers
 
-We will confirm receipt of your request within ten (10) business days. If you do not receive confirmation within the 10-day timeframe, please contact us.
+Your information may be processed and stored in the United States or other jurisdictions that may have different data protection laws than your country of residence.  
+By using the platform, you consent to the transfer and processing of information in these jurisdictions.
 
-We hope to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to an additional 45 days), we will inform you of the reason and extension period in writing, by mail or electronically.
-Upon verifying your request to delete, we will delete your personal information from our records, and notify any Service Providers or Contractors to delete your personal information. We will also notify any Third Parties that we may have shared the personal information with to delete it unless this proves impossible, involves disproportionate effort or the personal information is subject to one of the exceptions listed above.
+### 12. Policy Updates
 
-Any disclosures we provide will only cover the 12-month period preceding our receipt of your request. The response we provide will also explain the reasons that we cannot comply with a request, if applicable.
+Supernova may update this Privacy Policy from time to time. Updates will be posted on our website and reflected by the updated date above. Continued use of the platform constitutes acceptance of the updated Policy.
 
-We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded.
+### 13. Contact
 
-If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
-
-### Non-Discrimination
-
-We will not discriminate against you for exercising any of your CCPA or CPRA rights.
-
-### Other California Privacy Rights
-
-California’s “Shine the Light” law (Civil Code §1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make a request please send an email to info\@1SUPERNOVA ®.com or write to us at SUPERNOVA ®, Attn: Management, 640 poinciana drive, Fort Lauderdale, FL, 33301.
-
-### Children
-
-We do not intentionally collect personally identifiable information from children under the age of 13.  When we become aware that personally identifiable information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database.
-
-### Third-Party Links
-
-The Site may link to websites operated by third parties that we do not control.  We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We strongly encourage you to become familiar with the privacy practices of every website you visit and to contact them if you have any questions about their respective privacy policies and practices.
-
-### Changes to this Privacy Policy
-
-We reserve the right, at our discretion, to change, modify, add or remove portions from this Privacy Policy at any time.  However, if at any time in the future we plan to use personally identifiable information in a way that materially differs from this Privacy Policy, including sharing such information with more third parties, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Site following the posting of any changes to this Privacy Policy means you accept such changes.
-
-### Site Terms of Use
-
-Use of the Site is governed by and subject to the Terms of Use posted on the Site.  This Privacy Policy is incorporated into such Terms of Use.
-
-### Contact Information
-
-If you have any questions regarding this Policy, contact SUPERNOVA ®  at info\@1SUPERNOVA ®.com or by mail at SUPERNOVA ®, Attn: Management, 640 poinciana drive, Fort Lauderdale, FL, 33301.
-
-### Effective Date
-
-This Privacy Policy was last updated on May 1, 2023.
-
-© 2023 SUPERNOVA ® GROUP, LLC. All Rights Reserved.
+For questions or privacy-related requests, contact:  
+[privacy@1supernova.com](mailto:privacy@1supernova.com)  
+[info@1supernova.com](mailto:info@1supernova.com)
