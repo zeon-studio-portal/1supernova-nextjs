@@ -49,7 +49,7 @@ const Advisory = ({ advisory }) => {
                   data-aos="fade-in"
                   data-aos-delay="50"
                 />
-                <div data-aos="fade-in" data-nosnippet data-aos-delay="100">
+                <div data-aos="fade-in" data-aos-delay="100">
                   {markdownify(
                     advisory.quote,
                     'p',
