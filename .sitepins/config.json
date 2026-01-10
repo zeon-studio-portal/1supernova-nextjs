@@ -77,6 +77,11 @@
       "type": "file",
       "targetPath": "content/sections/superstars.md",
       "groupName": "Superstars: We Are All-Stars..."
+    },
+    {
+      "type": "file",
+      "targetPath": "content/about-us/_index.md",
+      "groupName": "About Us Section"
     }
   ],
   "showCommitModal": false
