@@ -92,6 +92,11 @@
       "type": "file",
       "targetPath": "content/sections/why-supernova-exists.md",
       "groupName": "Why Supernova Exists"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/faq.md",
+      "groupName": "FAQ"
     }
   ],
   "showCommitModal": false
