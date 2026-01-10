@@ -9,9 +9,7 @@
   "code": {
     "root": "layouts"
   },
-  "themeConfig": [
-    "config"
-  ],
+  "themeConfig": ["config"],
   "arrangement": [
     {
       "type": "heading",
@@ -100,21 +98,6 @@
     },
     {
       "type": "heading",
-      "groupName": "Others Pages",
-      "targetPath": ""
-    },
-    {
-      "type": "file",
-      "targetPath": "content/privacy-policy.md",
-      "groupName": "Privacy Policy"
-    },
-    {
-      "type": "file",
-      "targetPath": "content/terms-of-service.md",
-      "groupName": "Terms of service"
-    },
-    {
-      "type": "heading",
       "groupName": "About Us Page",
       "targetPath": ""
     },
@@ -134,6 +117,21 @@
       "groupName": "Case Studies",
       "include": "",
       "exclude": ""
+    },
+    {
+      "type": "heading",
+      "groupName": "Others Pages",
+      "targetPath": ""
+    },
+    {
+      "type": "file",
+      "targetPath": "content/privacy-policy.md",
+      "groupName": "Privacy Policy"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/terms-of-service.md",
+      "groupName": "Terms of service"
     }
   ],
   "showCommitModal": false
