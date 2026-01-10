@@ -17,6 +17,16 @@
       "type": "heading",
       "groupName": "Homepage",
       "targetPath": ""
+    },
+    {
+      "type": "file",
+      "targetPath": "content/_index.md",
+      "groupName": "Page Index"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/advisory.md",
+      "groupName": "Advisory: Are you ready to go Supernova?"
     }
   ],
   "showCommitModal": false
