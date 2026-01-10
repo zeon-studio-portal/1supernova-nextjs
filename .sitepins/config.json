@@ -122,6 +122,18 @@
       "type": "file",
       "targetPath": "content/about-us/_index.md",
       "groupName": "Page Index"
+    },
+    {
+      "type": "heading",
+      "groupName": "Case Study Page",
+      "targetPath": ""
+    },
+    {
+      "type": "folder",
+      "targetPath": "content/casestudy",
+      "groupName": "Case Studies",
+      "include": "",
+      "exclude": ""
     }
   ],
   "showCommitModal": false
