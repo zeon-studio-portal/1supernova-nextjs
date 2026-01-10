@@ -12,5 +12,12 @@
   "themeConfig": [
     "config"
   ],
-  "arrangement": []
+  "arrangement": [
+    {
+      "type": "heading",
+      "groupName": "Homepage",
+      "targetPath": ""
+    }
+  ],
+  "showCommitModal": false
 }
