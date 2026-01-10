@@ -97,6 +97,11 @@
       "type": "file",
       "targetPath": "content/sections/faq.md",
       "groupName": "FAQ"
+    },
+    {
+      "type": "heading",
+      "groupName": "About Page",
+      "targetPath": ""
     }
   ],
   "showCommitModal": false
