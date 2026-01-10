@@ -8,9 +8,9 @@ const Gallery = ({ gallery }) => {
     title,
     topList,
     bottomList,
-    galleryImageWidth,
-    animationSpeedForTop,
-    animationSpeedForBottom,
+    galleryImageWidth = '250px',
+    animationSpeedForTop = '105s',
+    animationSpeedForBottom = '120s',
   } = gallery;
   return (
     enable && (

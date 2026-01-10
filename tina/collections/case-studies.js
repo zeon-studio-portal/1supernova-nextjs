@@ -88,21 +88,6 @@ const caseStudies = {
           type: 'boolean',
         },
         {
-          label: 'Image Width',
-          name: 'galleryImageWidth',
-          type: 'string',
-        },
-        {
-          label: 'Top Images Animation Speed',
-          name: 'animationSpeedForTop',
-          type: 'string',
-        },
-        {
-          label: 'Bottom Images Animation Speed',
-          name: 'animationSpeedForBottom',
-          type: 'string',
-        },
-        {
           label: 'Top List',
           name: 'topList',
           type: 'object',
