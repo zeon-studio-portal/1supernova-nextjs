@@ -100,7 +100,22 @@
     },
     {
       "type": "heading",
-      "groupName": "About Page",
+      "groupName": "Others Pages",
+      "targetPath": ""
+    },
+    {
+      "type": "file",
+      "targetPath": "content/privacy-policy.md",
+      "groupName": "Privacy Policy"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/terms-of-service.md",
+      "groupName": "Terms of service"
+    },
+    {
+      "type": "heading",
+      "groupName": "About Us Page",
       "targetPath": ""
     }
   ],
