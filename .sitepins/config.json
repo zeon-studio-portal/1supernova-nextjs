@@ -82,6 +82,11 @@
       "type": "file",
       "targetPath": "content/about-us/_index.md",
       "groupName": "About Us Section"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/join-community.md",
+      "groupName": "Join Community: Let's Build Together..."
     }
   ],
   "showCommitModal": false
