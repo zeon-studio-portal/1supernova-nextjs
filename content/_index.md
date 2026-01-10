@@ -9,7 +9,9 @@ banner:
       - /images/avatar/image-2.png
       - /images/avatar/image-3.png
   title: "Join Forces with\_Exited Founders Who've Built, Scaled & Sold <br> **Now It's Your Turn**"
-  subtitle: "You're Not Just Building a Business —You're Changing the World. <br> Let's Make Both Happen Faster, Together. \U0001F680"
+  subtitle: >-
+    You're Not Just Building a Business —You're Changing the World. <br> Let's
+    Make Both Happen Faster, Together. 🚀
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
@@ -20,15 +22,15 @@ banner:
   video_button:
     enable: true
     label: Play Intro Video
-    subtitle: Accelerate Your<br> Growth Journey with Supernova
+    subtitle: Accelerate Your<br> Growth Journey with Supernova.
     image: /images/barry_stamos.png
-    full_link: 'https://www.youtube.com/watch?v=YHkg4k7gnDA'
+    full_link: https://www.youtube.com/watch?v=YHkg4k7gnDA
   button:
     enable: true
     label: Apply to Supernova
-    link: 'https://form.typeform.com/to/AZuYcsWx'
+    link: https://form.typeform.com/to/AZuYcsWx
   founders:
-    title: "We back top founders \U0001F49B scaling growth & impact"
+    title: We back top founders 💛 scaling growth & impact
     brands:
       - /images/founders/a16z.svg
       - /images/founders/eo.svg
@@ -37,3 +39,4 @@ banner:
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
 ---
+​
