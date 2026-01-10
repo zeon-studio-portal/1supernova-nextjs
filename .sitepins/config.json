@@ -67,6 +67,16 @@
       "type": "file",
       "targetPath": "content/sections/top-founders.md",
       "groupName": "Top Founders: Portfolio Superstars..."
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/trusted-brands.md",
+      "groupName": "Trusted Brands: Builders We've Backed..."
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/superstars.md",
+      "groupName": "Superstars: We Are All-Stars..."
     }
   ],
   "showCommitModal": false
