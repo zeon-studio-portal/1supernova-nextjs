@@ -87,6 +87,11 @@
       "type": "file",
       "targetPath": "content/sections/join-community.md",
       "groupName": "Join Community: Let's Build Together..."
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/why-supernova-exists.md",
+      "groupName": "Why Supernova Exists"
     }
   ],
   "showCommitModal": false
