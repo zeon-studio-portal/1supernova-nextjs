@@ -134,11 +134,6 @@
       "type": "file",
       "targetPath": "content/terms-of-service.md",
       "groupName": "Terms of service"
-    },
-    {
-      "type": "heading",
-      "groupName": "asd",
-      "targetPath": ""
     }
   ],
   "showCommitModal": false
