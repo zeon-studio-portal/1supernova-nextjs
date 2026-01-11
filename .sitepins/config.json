@@ -121,6 +121,13 @@
       "exclude": ""
     },
     {
+      "type": "folder",
+      "targetPath": "content/casestudy",
+      "groupName": "Casestudy",
+      "include": "",
+      "exclude": ""
+    },
+    {
       "type": "heading",
       "groupName": "Other Pages",
       "targetPath": ""
