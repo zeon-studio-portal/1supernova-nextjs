@@ -21,7 +21,7 @@
     {
       "type": "file",
       "targetPath": "content/_index.md",
-      "groupName": "Page Index"
+      "groupName": "Home Index"
     },
     {
       "type": "file",
@@ -106,7 +106,7 @@
     {
       "type": "file",
       "targetPath": "content/about-us/_index.md",
-      "groupName": "Page Index"
+      "groupName": "About Index"
     },
     {
       "type": "heading",
