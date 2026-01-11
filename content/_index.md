@@ -8,7 +8,7 @@ banner:
       - /images/avatar/image-1.png
       - /images/avatar/image-2.png
       - /images/avatar/image-3.png
-  title: "Join Forces with\_Exited Founders Who've Built, Scaled & Sold. <br> **Now It's Your Turn**"
+  title: "Join Forces with\_Exited Founders Who've Built, Scaled & Sold <br> **Now It's Your Turn**"
   subtitle: >-
     You're Not Just Building a Business —You're Changing the World. <br> Let's
     Make Both Happen Faster, Together. 🚀
