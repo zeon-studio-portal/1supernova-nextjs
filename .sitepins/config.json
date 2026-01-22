@@ -1,17 +1,7 @@
 {
-  "media": {
-    "root": "public/images",
-    "public": "public"
-  },
-  "content": {
-    "root": "content"
-  },
-  "code": {
-    "root": "layouts"
-  },
-  "themeConfig": [
-    "config"
-  ],
+  "media": "public/images",
+  "content": "content",
+  "code": "layouts",
   "arrangement": [
     {
       "type": "heading",
@@ -136,5 +126,9 @@
       "groupName": "Terms of service"
     }
   ],
-  "showCommitModal": false
+  "public": "public",
+  "configs": [
+    "config"
+  ],
+  "custom-commit": false
 }
