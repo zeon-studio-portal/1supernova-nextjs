@@ -75,7 +75,11 @@ team:
         Founding Partner of Opopop with Jonas Temple (cofounder of Beatport and
         Beats by Dre). Head of investments at Fuel VC ($250MM+ fund). Founding
         Partner of Rokk3r, a company builder. Chairman of Staley Foundation.
-    content: "Christopher Staley is the Co-founder & Chief Investment Officer of Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG company he built with Jonas Temple (cofounder of Beatport & Beats by Dre). Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel, a $250MM+ global VC. \_\n"
+    content: "Christopher Staley is the Co-founder & Chief Investment Officer of
+      Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG
+      company he built with Jonas Temple (cofounder of Beatport & Beats by Dre).
+      Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel,
+      a $250MM+ global VC.  \n"
   - name: Daniel Dubois
     image: /images/Daniel_Dubois.jpg
     department:
@@ -120,7 +124,13 @@ team:
         Form Bio (Series A), Hypergiant Industries (Exit to Trive Capital),
         Conversable (Exit to LivePerson), Team Choas (Exit to Zynga), Chaotic
         Moon (Exit to Accenture), SI (Exit to Agile).
-    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn valuation).\_His last 6 companies successfully exited: Founder/CEO - Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO - Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018); Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016); Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015); Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
+    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn
+      valuation). His last 6 companies successfully exited: Founder/CEO -
+      Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO -
+      Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018);
+      Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016);
+      Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015);
+      Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
   - name: Tim Chang
     image: /images/TimChang.jpg
     department:
@@ -130,7 +140,10 @@ team:
       - IMPACT
       - WEB3
     bulletpoints:
-      - "Founding\_GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led investments in MOAT (Exit to Oracle), Basis (Exit to Intel), Fitmob (Exit to Classpass), and Pillow (Exit to by Expedia). Named 2x on Midas List of top 100 VCs."
+      - "Founding GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led
+        investments in MOAT (Exit to Oracle), Basis (Exit to Intel), Fitmob
+        (Exit to Classpass), and Pillow (Exit to by Expedia). Named 2x on Midas
+        List of top 100 VCs."
     content: >
       Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
       invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
@@ -140,14 +153,14 @@ team:
       Collaborative (NYSE: GROV), TRIPP, Drop.com, and Pillow (acquired by
       Expedia). Tim was previously a Partner at Norwest Venture Partners, where
       he led NVP's investment in Playdom (acquired by Disney), ngmoco (acquired
-      by DeNA), AdChina (acquired by Alibaba), PCH International, and Lumosity. 
-      He was also actively involved with the boards of Placeware (acquired by
-      Microsoft), IPWireless (acquired by NextWave) and NextG Networks (acquired
-      by private equity syndicate). Tim received his MBA from the Stanford
-      Graduate School of Business, where he graduated in the top 10% of his
-      class as an Arjay Miller Scholar. He also holds an MSEE and BSEE in
-      Electrical Engineering from the University of Michigan, where he was a
-      Departmental Scholar and received a full PhD fellowship.
+      by DeNA), AdChina (acquired by Alibaba), PCH International, and
+      Lumosity.  He was also actively involved with the boards of Placeware
+      (acquired by Microsoft), IPWireless (acquired by NextWave) and NextG
+      Networks (acquired by private equity syndicate). Tim received his MBA from
+      the Stanford Graduate School of Business, where he graduated in the top
+      10% of his class as an Arjay Miller Scholar. He also holds an MSEE and
+      BSEE in Electrical Engineering from the University of Michigan, where he
+      was a Departmental Scholar and received a full PhD fellowship.
   - name: Aly Orady
     image: /images/AlyOrady.jpg
     department:
@@ -342,18 +355,19 @@ team:
       platform. Scott then led the Merchant Loyalty product division (formerly
       SessionM) at Mastercard, focusing on next generation consumer loyalty and
       engagement capabilities for merchants and global brands. Scott has been an
-      investor, board member and/or advisor to the following companies: 
-      NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai, LearnLux, Finally,
-      Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By People, Qatch,
-      Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party. He is an expert
-      in leading teams to achieve their full potential, in the development and
-      commercialization of advanced technologies across industries and global
-      markets with specialities in real-time mission critical systems, mobile
-      applications, API/driven platforms, data management, data privacy, CRM,
-      customer engagement, artificial intelligence and game theory. He started
-      in software development when I was very young, joining a group of awesome
-      geeks as a teenager, to help build one of the US’s first internet services
-      providers. He is based in Boston, Massachusetts.
+      investor, board member and/or advisor to the following
+      companies:  NightDragon, NNV, 10x, TBDAngels, Cyvl.ai, Squark.ai,
+      LearnLux, Finally, Cactivate, Cake, Esprezzo, Hyperspec, Aoa, Powered By
+      People, Qatch, Voatz, Maxos, Millworks, Neighborhood Schools, Nth Party.
+      He is an expert in leading teams to achieve their full potential, in the
+      development and commercialization of advanced technologies across
+      industries and global markets with specialities in real-time mission
+      critical systems, mobile applications, API/driven platforms, data
+      management, data privacy, CRM, customer engagement, artificial
+      intelligence and game theory. He started in software development when I
+      was very young, joining a group of awesome geeks as a teenager, to help
+      build one of the US’s first internet services providers. He is based in
+      Boston, Massachusetts.
   - name: Peter Kellner
     image: /images/PeterKellner.jpg
     department:
@@ -405,7 +419,28 @@ team:
         CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
         BrainStation). Endeavor entrepreneur. Former executive with National
         Hockey League.
-    content: "Johanna Mikkola is the CEO and Co-founder of\_[Wyncode Academy](http://www.wyncode.co/)\_a leading technical school dedicated to training top technology talent through best-in-class accelerated and immersive programs; 93% job placement rate, 800+ technology graduates and 400+ hiring partners. Johanna was selected as an\_[Endeavor](https://endeavormiami.org/)\_Entrepreneur in June 2015 joining a prestigious network of only the most select high impact entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence for Babson College WIN LAB, is a founding member of the Miami chapter of the Female Founder Collective, sits on the content advisory board of\_[eMerge Americas](http://emergeamericas.org/), and is an Ambassador for Aminta Ventures. She is also a member of Entrepreneur’s Organization. She was recently selected as Greater Miami Chamber of Commerce’s female leader in technology and was a finalist for Entrepreneur of the year. Before launching Wyncode in 2014, Johanna spent a decade in corporate management with the National Hockey League becoming the highest-ranking female in her department’s history. There she led a team of managers as well as overseeing the business operations of the officiating department, managing the largest departmental budget within the organization. Johanna holds an honors Bachelor’s Degree in Political Science and Economics from the University of Toronto. In 2007 she represented Canada as a forward at the World Floorball Championships.\n"
+    content: "Johanna Mikkola is the CEO and Co-founder of [Wyncode
+      Academy](http://www.wyncode.co/) a leading technical school dedicated to
+      training top technology talent through best-in-class accelerated and
+      immersive programs; 93% job placement rate, 800+ technology graduates and
+      400+ hiring partners. Johanna was selected as
+      an [Endeavor](https://endeavormiami.org/) Entrepreneur in June 2015
+      joining a prestigious network of only the most select high impact
+      entrepreneurs around the globe. Johanna is an Entrepreneur-in-Residence
+      for Babson College WIN LAB, is a founding member of the Miami chapter of
+      the Female Founder Collective, sits on the content advisory board
+      of [eMerge Americas](http://emergeamericas.org/), and is an Ambassador for
+      Aminta Ventures. She is also a member of Entrepreneur’s Organization. She
+      was recently selected as Greater Miami Chamber of Commerce’s female leader
+      in technology and was a finalist for Entrepreneur of the year. Before
+      launching Wyncode in 2014, Johanna spent a decade in corporate management
+      with the National Hockey League becoming the highest-ranking female in her
+      department’s history. There she led a team of managers as well as
+      overseeing the business operations of the officiating department, managing
+      the largest departmental budget within the organization. Johanna holds an
+      honors Bachelor’s Degree in Political Science and Economics from the
+      University of Toronto. In 2007 she represented Canada as a forward at the
+      World Floorball Championships.\n"
   - name: Keith Ferrazzi
     image: /images/PeterFerrazi.jpg
     department:
@@ -448,7 +483,24 @@ team:
         CEO & Founder at Hayden AI (Series B). CEO & Founder of Louisa (Exit).
         Served in Top USA Special Ops at The Fleet Antiterrorism Security Team
         Company (FAST). PhD.
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering smart traffic enforcement with its mobile platform to increase the safety, efficiency, and sustainability. Chris was the Founder & CEO of Nueevo (formally Caruma Technologies), a technology company focused on extending vehicles perception range to increase driver safety by using artificial intelligence-powered vision systems that collect real-time mapping data. He lived in Japan and served as an executive for Mitsubishi Heavy Industries, a\_ multinational engineering, electrical equipment, and electronics company. He was the Founder & CEO of Louisa (exited), a US/China joint venture and highly competent and reliable contract manufacturer. Chris served for four years in The Fleet Antiterrorism Security Team Company (FAST), a top US special ops team comprised of specially trained, dedicated Marines who are armed, combat trained and equipped to execute brief security missions around the world. Having founded and operated several technology companies, while leading globally distributed engineering teams, he now mentors and actively invests in up-and-coming technology companies. Chris is based in San Francisco, CA.\n"
+    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering
+      smart traffic enforcement with its mobile platform to increase the safety,
+      efficiency, and sustainability. Chris was the Founder & CEO of Nueevo
+      (formally Caruma Technologies), a technology company focused on extending
+      vehicles perception range to increase driver safety by using artificial
+      intelligence-powered vision systems that collect real-time mapping data.
+      He lived in Japan and served as an executive for Mitsubishi Heavy
+      Industries, a  multinational engineering, electrical equipment, and
+      electronics company. He was the Founder & CEO of Louisa (exited), a
+      US/China joint venture and highly competent and reliable contract
+      manufacturer. Chris served for four years in The Fleet Antiterrorism
+      Security Team Company (FAST), a top US special ops team comprised of
+      specially trained, dedicated Marines who are armed, combat trained and
+      equipped to execute brief security missions around the world. Having
+      founded and operated several technology companies, while leading globally
+      distributed engineering teams, he now mentors and actively invests in
+      up-and-coming technology companies. Chris is based in San Francisco,
+      CA.\n"
   - name: TJ Grewal
     image: /images/TJGrewal.jpg
     department:
@@ -840,7 +892,13 @@ team:
         2x exited founder. Co-founder at 1heart.com. Founder & CEO of Tintup,
         bootstrapped to 1000+ customers in 172 countries (Exited). Founder at
         WAI WEAR (Exited). Spiritual Coach. 
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for CEO's, founders, and change-makers, combining the best of modern and ancient modalities including sacred, plant medicines. Tim is the Founder & CEO of Tintup (exited), which he bootstrapped\_to 40 full-time employees, millions in annual recurring revenue, and 1000+ customers in 172 countries.  He also founded WAI WEAR (exited), an exotic, colorful, Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator
+      for CEO's, founders, and change-makers, combining the best of modern and
+      ancient modalities including sacred, plant medicines. Tim is the Founder &
+      CEO of Tintup (exited), which he bootstrapped to 40 full-time employees,
+      millions in annual recurring revenue, and 1000+ customers in 172
+      countries.  He also founded WAI WEAR (exited), an exotic, colorful,
+      Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
   - name: Ulises Orozco
     image: /images/UlisesOrozco.jpg
     department:
@@ -966,7 +1024,26 @@ team:
         Marketing (Exited to Responsys). Founder of Lumeter Networks (Exited to
         Mobisol). Author of "From Money to Meaning - Building Purposeful
         Business for a Life of Contribution".
-    content: "Grant Hunter is a 5x serial entrepreneur with 2 exits.\_Based out of the Silicon Valley, Grant excels as a thought-leader in the areas of individual, leadership and organizational learning and change\_and translating deeper purpose into impact. Grant is a pioneer of the micro-franchise model—creating replicable, scalable, locally-owned for-profit businesses in the developing world. Grant is a certified Purpose Guide (Purpose Guides Institute), Amazon Best-Selling author (#2 in Green Business, 4/23)\_From Money to Meaning—Building Purposeful Business for a Life of Contribution and Graduate of Santa Clara University’s Global Social Benefit Incubator. He is also a seasoned consultant to many of the Fortune 500 and Silicon Valley companies including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay, Logitech,\_Akamai Technologies and Disney. On a personal note, Hunter has been a long-time spiritual practitioner and meditator. He\_studied one-on-one and was sponsored by a Zen Buddhist\_\_priest in Japan for 4 years. He’s also had the opportunity to work with a Peruvian shaman in Peru along the Amazon. Hunter is also and a long-time fan of the integral theory of Ken Wilber and close student of the late Terry Patten’s integral soul work, and a former mentor in his sacred activist community, A New Republic of the Heart.\n"
+    content: "Grant Hunter is a 5x serial entrepreneur with 2 exits. Based out of
+      the Silicon Valley, Grant excels as a thought-leader in the areas of
+      individual, leadership and organizational learning and change and
+      translating deeper purpose into impact. Grant is a pioneer of the
+      micro-franchise model—creating replicable, scalable, locally-owned
+      for-profit businesses in the developing world. Grant is a certified
+      Purpose Guide (Purpose Guides Institute), Amazon Best-Selling author (#2
+      in Green Business, 4/23) From Money to Meaning—Building Purposeful
+      Business for a Life of Contribution and Graduate of Santa Clara
+      University’s Global Social Benefit Incubator. He is also a seasoned
+      consultant to many of the Fortune 500 and Silicon Valley companies
+      including Agilent Technologies, HP, Cisco, Adobe, Google, e-Bay,
+      Logitech, Akamai Technologies and Disney. On a personal note, Hunter has
+      been a long-time spiritual practitioner and meditator. He studied
+      one-on-one and was sponsored by a Zen Buddhist  priest in Japan for 4
+      years. He’s also had the opportunity to work with a Peruvian shaman in
+      Peru along the Amazon. Hunter is also and a long-time fan of the integral
+      theory of Ken Wilber and close student of the late Terry Patten’s integral
+      soul work, and a former mentor in his sacred activist community, A New
+      Republic of the Heart.\n"
   - name: Tomy Lorsch
     image: /images/TomyLorsch.jpg
     department:
@@ -980,7 +1057,22 @@ team:
         CEO/Founder at Complex Chaos, an applied collaborative AI company backed
         by Village Global (Chaired by Reid Hoffman). CEO & Founder at Oneness
         Ventures. CEO & Founder at Findasense (Exited)
-    content: "Tomy is the CEO & founder of Complex Chaos, an applied collaborative AI company backed by Village Global (chaired by Reid Hoffman and visionaries like Bill Gates, Jeff Bezos, Mark Zuckerberg, Anne Wojcicki, Eric Smidt, and many others). Tomy is also the CEO & Founder of Oneness Ventures, investing in early-stage social-impact companies, with special focus on Psychedelic Medicine, Transformative Technologies, Peace Technologies, and Climate Change tech. He is the Chief Ambassador at Second Time Founders, an invite-only community of seasoned and repeat founders committed to creating responsible, conscious companies. Tomy is the Founder & CEO of Findasense (exited), a global Customer Experience company with consulting, agency and technology integrator capabilities. He is a fellow for On Deck Angels (ODA), a continuous community for operator angels.\_Tomy is a member of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master In Digital Advertising and Communications at the IE Business School, and TEDxMadrid curator.\n"
+    content: "Tomy is the CEO & founder of Complex Chaos, an applied collaborative
+      AI company backed by Village Global (chaired by Reid Hoffman and
+      visionaries like Bill Gates, Jeff Bezos, Mark Zuckerberg, Anne Wojcicki,
+      Eric Smidt, and many others). Tomy is also the CEO & Founder of Oneness
+      Ventures, investing in early-stage social-impact companies, with special
+      focus on Psychedelic Medicine, Transformative Technologies, Peace
+      Technologies, and Climate Change tech. He is the Chief Ambassador at
+      Second Time Founders, an invite-only community of seasoned and repeat
+      founders committed to creating responsible, conscious companies. Tomy is
+      the Founder & CEO of Findasense (exited), a global Customer Experience
+      company with consulting, agency and technology integrator capabilities. He
+      is a fellow for On Deck Angels (ODA), a continuous community for operator
+      angels. Tomy is a member of the Silicon Valley Entrepreneurs’ Organization
+      (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master
+      In Digital Advertising and Communications at the IE Business School, and
+      TEDxMadrid curator.\n"
   - name: Will Weinraub
     image: /images/WillWeinraub.jpg
     department:
@@ -994,6 +1086,13 @@ team:
         CEO & co-founder at OnChain Studios ($23M Series A led by a16z). Founder
         at Local Leaders Collective backed by the Knight Foundation. CEO &
         Founder of LiveNinja (Exited). 
-    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A led by a16z crypto), a web3 interactive studio on a mission to empower, educate, and entertain the next generation of collectors around the world. Will is the founder of the Local Leaders Collective (The LLC), an organization sponsored by the Knight Foundation and started by local entrepreneurs in South Florida.\_Will is the CEO & Co-founder of LiveNinja (exited), a video chat marketplace that connects people with experts in a variety of subjects.\n"
+    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series
+      A led by a16z crypto), a web3 interactive studio on a mission to empower,
+      educate, and entertain the next generation of collectors around the world.
+      Will is the founder of the Local Leaders Collective (The LLC), an
+      organization sponsored by the Knight Foundation and started by local
+      entrepreneurs in South Florida. Will is the CEO & Co-founder of LiveNinja
+      (exited), a video chat marketplace that connects people with experts in a
+      variety of subjects.\n"
 ---
 
