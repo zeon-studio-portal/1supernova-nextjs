@@ -88,7 +88,7 @@ leadership_team:
       designation: Manifestor
     - name: Christopher Staley
       image: /images/Christopher_Staley.jpg
-      designation: Generator
+      designation: Projector
     - name: Matti Anttila
       image: /images/Matti.png
       designation: Generator
