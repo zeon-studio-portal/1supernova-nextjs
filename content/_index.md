@@ -35,7 +35,6 @@ banner:
       - /images/founders/a16z.svg
       - media/public/images/BLK_BIG.D.svg
       - /images/founders/post-exit-founders.svg
-      - /images/founders/ycombinator.svg
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
 ---
