@@ -95,18 +95,15 @@ leadership_team:
     - name: Daniel Dubois
       image: /images/DanielDubois.jpg
       designation: Reflector
-    - name: Lorenzo De Leo
-      image: media/public/images/Screenshot 2026-02-03 at 11.18.59 AM.png
-      designation: Generator
-    - name: John Thomas Marino
-      image: /images/JohnThomas.jpg
-      designation: Projector
-    - name: Tim Chang
-      image: /images/Tim_Chang.jpg
-      designation: Guide
     - name: Kyle McFadden
       image: /images/Kyle-r.jpg
       designation: Supporter
+    - name: Lorenzo De Leo
+      image: media/public/images/Screenshot 2026-02-03 at 11.18.59 AM.png
+      designation: Generator
+    - name: Tim Chang
+      image: /images/Tim_Chang.jpg
+      designation: Guide
     - name: Heather Harwood
       image: /images/HeatherHarwood.jpg
       designation: Artist
