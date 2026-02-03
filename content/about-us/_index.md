@@ -95,6 +95,9 @@ leadership_team:
     - name: Daniel Dubois
       image: /images/DanielDubois.jpg
       designation: Reflector
+    - name: Lorenzo De Leo
+      image: media/public/images/Screenshot 2026-02-03 at 11.18.59 AM.png
+      designation: Generator
     - name: John Thomas Marino
       image: /images/JohnThomas.jpg
       designation: Projector
@@ -110,9 +113,6 @@ leadership_team:
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Whisperer
-    - name: Lorenzo De Leo
-      image: media/public/images/Screenshot 2026-02-03 at 11.18.59 AM.png
-      designation: Generator
 contact_us:
   enable: false
   title: Contact Us
