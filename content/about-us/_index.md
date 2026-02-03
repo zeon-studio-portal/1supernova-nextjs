@@ -89,6 +89,9 @@ leadership_team:
     - name: Christopher Staley
       image: /images/Christopher_Staley.jpg
       designation: Generator
+    - name: Matti Anttila
+      image: /images/Matti.png
+      designation: Generator
     - name: Daniel Dubois
       image: /images/DanielDubois.jpg
       designation: Reflector
@@ -107,9 +110,6 @@ leadership_team:
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Whisperer
-    - name: Matti Anttila
-      image: /images/Matti.png
-      designation: Generator
 contact_us:
   enable: false
   title: Contact Us
