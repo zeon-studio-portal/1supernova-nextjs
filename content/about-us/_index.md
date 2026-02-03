@@ -6,8 +6,7 @@ description: >-
 who_we_are:
   enable: true
   title: Who We Are
-  content: >
-    As evolutionary entrepreneurs themselves, Supernova co-founders [Barry
+  content: As evolutionary entrepreneurs themselves, Supernova co-founders [Barry
     Stamos](https://www.linkedin.com/in/bstamos/ "Barry Stamos") and
     [Christopher Staley](https://www.linkedin.com/in/christopherbstaley/
     "Christopher Staley") have backgrounds as founders, investors, advisors, and
@@ -24,30 +23,26 @@ our_values:
   subtitle: We shine brighter together
   image: /images/about-us-chakra.svg
   list_colors:
-    - '#09B1FB'
-    - '#0EDDE4'
-    - '#FEC549'
-    - '#FD8D84'
-    - '#C856C7'
+    - "#09B1FB"
+    - "#0EDDE4"
+    - "#FEC549"
+    - "#FD8D84"
+    - "#C856C7"
   lists:
     - name: Humanity
       content: We exist to serve people contributing to the greater good.
     - name: Intentionality
-      content: >-
-        We are building a culture of people making conscious decisions with
+      content: We are building a culture of people making conscious decisions with
         compassion, sustainability and community in mind.
     - name: Collaboration
-      content: >-
-        We bring the right resources together for collective genius and
+      content: We bring the right resources together for collective genius and
         exponential impact when playing finite and infinite games.
     - name: Optimism
-      content: >-
-        We lead with love, positive intent and abundance knowing we play a part
+      content: We lead with love, positive intent and abundance knowing we play a part
         in greater missions with universal support.
     - name: Evolution
-      content: >-
-        We believe startups are birthing renewed life into their communities and
-        can bring a better future forward.
+      content: We believe startups are birthing renewed life into their communities
+        and can bring a better future forward.
 why_supernova_exists:
   enable: true
   title: Why Supernova Exists
