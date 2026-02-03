@@ -107,6 +107,9 @@ leadership_team:
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Whisperer
+    - name: Matti Anttila
+      image: /images/Matti.png
+      designation: Generator
 contact_us:
   enable: false
   title: Contact Us
