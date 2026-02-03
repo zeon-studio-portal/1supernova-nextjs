@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Builders We've Backed
-subtitle: We back world-changing companies driving a better future future.
+subtitle: We back world-changing companies driving a better future.
 brand_list:
   - name: Apollo Neuro
     logo: /images/trusted-brands/Apollo.png
