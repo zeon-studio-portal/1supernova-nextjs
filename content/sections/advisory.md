@@ -7,7 +7,7 @@ subtitle: >-
   class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
   target=_blank class="link-yellow">unicorn</a>, and <a
   href="https://1supernova.com/#portfolio" target=_blank
-  class="link-yellow">decacorn</a> status.
+  class="link-yellow">decacorn</a> status. 
 quote: >-
   We are 250+ exited founders joining forces as investors, advisors and
   operating partners in world-changing companies. <br>By sharing our collective
