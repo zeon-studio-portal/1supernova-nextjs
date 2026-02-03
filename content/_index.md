@@ -33,7 +33,7 @@ banner:
     title: We back top founders 💛 scaling growth & impact
     brands:
       - /images/founders/a16z.svg
-      - media/public/images/blackrock logo.png
+      - media/public/images/BLK_BIG.D.png
       - /images/founders/post-exit-founders.svg
       - /images/founders/ycombinator.svg
       - /images/founders/ypo.svg
