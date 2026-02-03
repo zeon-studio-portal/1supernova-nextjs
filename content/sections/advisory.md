@@ -9,8 +9,8 @@ subtitle: >-
   href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">decacorn</a> status.
 quote: >-
-  We are 250+ exited founders joining forces as investors, operating partners,
-  advisors, and mentors in world-changing companies. <br>By sharing our
+  We are 250+ exited founders joining forces as investors, advisors, mentors,
+  and operating partners in world-changing companies. <br>By sharing our
   collective wisdom, resources, & networks, we create oversized outcomes
   together.✨
 services_image: /images/advisory/services.svg
