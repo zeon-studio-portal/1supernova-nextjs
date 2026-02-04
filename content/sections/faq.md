@@ -22,7 +22,7 @@ lists:
       founders with multiple exits still tag in Supernova despite their past
       success because they know the advantage it brings when scaling their
       companies successfully.
-  - question: How can apply to Supernova?
+  - question: Who can apply to Supernova?
     answer: Founders can apply online to see where they measure up and explore
       whether Supernova is the right partner. Each year, we selectively back
       10–12 scaleups—typically Series A–C companies or bootstrapped businesses
