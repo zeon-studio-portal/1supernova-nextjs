@@ -6,8 +6,7 @@ subtitle: >-
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
   - question: What is so special about Supernova?
-    answer: >-
-      If you are leading a growth stage company ($5MM to $100MM+), then you
+    answer: If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
       entering new markets, bridging financing rounds, M&A, etc. The founders’
       journey to go the distance can be crazy complicated, but it doesn’t have
@@ -24,28 +23,27 @@ lists:
       success because they know the advantage it brings when scaling their
       companies successfully.
   - question: Is Supernova accepting applications?
-    answer: >-
-      Supernova is now accepting applications for the 2025 portfolio. To best
-      serve the companies we work with and ensure impact, we limit our annual
-      portfolio growth to 12 high-growth Scaleups (Series A-C funding or
-      bootstrapped to $5MM+ ARR). Supernova advisors specialize primarily in AI,
-      Health Tech, Fintech, SaaS, eCommerce, Impact, and Web3. We are especially
-      committed to supporting mission-driven companies solving modern-day
-      problems.
+    answer: Yes, apply online to become one of the few companies we back each year.
+      In 2026, we intend to back 10-12 Scaleups (Series A-C funding or
+      bootstrapped to $5MM+ ARR) with up to $1M+ in capital, plus a tiger tream
+      of exited founders. Additionally, if we like what we see from
+      earlier-stage companies, we'll deploy one or more of our existing founders
+      to build relationships and accelerate key milestones. Supernova is
+      agnostic, but has a proven track record in AI, Health Tech, Fintech, SaaS,
+      eCommerce, Impact, and Web3. We are especially committed to supporting
+      mission-driven companies solving modern-day problems.
   - question: How much does Supernova invest?
-    answer: >-
-      What Y-Combinator is to early-stage startups, Supernova is to Scaleups. 
-      Every portfolio company receives a check (amounts range from $100K-$1MM+),
-      and more importantly 3-5 successfully exited founders and/or Super
-      founders (previous exit of $50MM+) who team up and get hands-on to help
-      accelerate company milestones. As the saying goes, wisdom is more precious
-      than gold. Our commitment to transfer our experience, especially for
-      million-dollar decisions. We are the top-rated 'advisory-as-a-service'
+    answer: What Y-Combinator is to early-stage startups, Supernova is to
+      Scaleups.  Every portfolio company receives a check (amounts range from
+      $100K-$1MM+), and more importantly 3-5 successfully exited founders and/or
+      Super founders (previous exit of $50MM+) who team up and get hands-on to
+      help accelerate company milestones. As the saying goes, wisdom is more
+      precious than gold. Our commitment to transfer our experience, especially
+      for million-dollar decisions. We are the top-rated 'advisory-as-a-service'
       (90%+ NPS) with a proven record of scaling startups to unicorn status and
       beyond.
   - question: What if I don’t have time for Supernova?
-    answer: >-
-      Our guiding North Star is TIME. We don't waste time - yours, your teams,
+    answer: Our guiding North Star is TIME. We don't waste time - yours, your teams,
       or our exited founders! In fact, we invented advisory-as-a-serviceTM to
       formalize and streamline elite mentorship and advisory services. We begin
       by matching each exited founder from Supernova to a member of your C-level
@@ -59,8 +57,7 @@ lists:
       relationships. If you are too busy for us, you may need Supernova more
       than you realize! Are you ready to scale in "Conscious Mode"?
   - question: Why do successfully exited founders join Supernova?
-    answer: >-
-      Supernova is similar to a YPO membership with intimate groups that
+    answer: Supernova is similar to a YPO membership with intimate groups that
       function as supreme sounding boards. The difference is that with
       Supernova, successfully exited founders get to play the game of scaling
       businesses together and sharing upside in successful outcomes. We are a
@@ -78,8 +75,7 @@ lists:
       or tiger teams. Supernova is turnkey and handles all the administration
       and back-office support.
   - question: How does Supernova work with VCs?
-    answer: >-
-      Supernova helps VC’s go beyond office hours and webinars by providing
+    answer: Supernova helps VC’s go beyond office hours and webinars by providing
       access to the largest exited founder community of vetted advisors. A Tier
       1 VC partner of Supernova asked 100 founders in their portfolio, “How can
       we help?” Right behind sales growth, talent and funding, founders are
@@ -89,6 +85,12 @@ lists:
       company. We serve as founder flywheels and help their teams scale success
       and impact.
   - question: Why is it called Supernova?
-    answer: "One Supernova shines 570 billion times brighter than the sun. One sun sustains all life on planet earth. We believe it’s time for solo stars (super founders) to combine their life force energy and shine brighter together. By serving as spokes on one founder flywheel, we move energy more powerfully and efficiently through startups and their ecosystems. We exist to unify our superpowers as quantum creators and play as one all-star team for venture humanity.\U0001F31F"
+    answer: One Supernova shines 570 billion times brighter than the sun. One sun
+      sustains all life on planet earth. We believe it’s time for solo stars
+      (super founders) to combine their life force energy and shine brighter
+      together. By serving as spokes on one founder flywheel, we move energy
+      more powerfully and efficiently through startups and their ecosystems. We
+      exist to unify our superpowers as quantum creators and play as one
+      all-star team for venture humanity.🌟
 ---
 
