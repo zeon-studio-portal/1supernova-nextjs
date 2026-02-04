@@ -59,23 +59,26 @@ lists:
       mistakes, and compound progress over time. If you feel “too busy” for
       Supernova, that’s usually the signal you need us most. "
   - question: Why do successfully exited founders join Supernova?
-    answer: Supernova is similar to a YPO membership with intimate groups that
-      function as supreme sounding boards. The difference is that with
-      Supernova, successfully exited founders get to play the game of scaling
-      businesses together and sharing upside in successful outcomes. We are a
-      peer group with 150+ successfully exited founders who all believe we can
-      catalyze more growth than what they could accomplish on our own. Most of
-      our exited founders have achieved success in their careers in some part
-      thanks to the mentorship and advice they received along the way. In
-      realizing that success, they are moved to pay forward the support. By
-      working with Supernova, they unlock the opportunity to invest and get
-      equity in growth-stage companies as an energy exchange by leveraging their
-      battle-tested wisdom, experience, and social capital. Supernova curates
-      opportunities to engage with top companies in a hassle-free way by
-      sourcing top deal flow and serving up invitations to participate as
-      advisors, mentors, investors, or even join in interim or full-time roles
-      or tiger teams. Supernova is turnkey and handles all the administration
-      and back-office support.
+    answer: Supernova shares similarities with organizations like YPO—intimate,
+      high-trust peer groups that serve as powerful sounding boards. The
+      difference is that at Supernova, successfully exited founders don’t just
+      talk about the game—they get back on the field together, helping scale
+      real companies and sharing in the upside of successful outcomes. We are a
+      peer network of 250+ exited founders who believe that, together, we can
+      catalyze far more growth and impact than any of us could alone. Many of
+      our founders attribute a meaningful part of their own success to the
+      mentors and advisors who guided them along the way. Having achieved that
+      success, they feel called to pay it forward. Through Supernova, exited
+      founders gain the opportunity to invest and earn equity in growth-stage
+      companies by contributing their battle-tested wisdom, operating
+      experience, and social capital. In return, companies gain direct access to
+      founders who have already navigated the challenges they now face.
+      Supernova curates this engagement end-to-end. We source high-quality deal
+      flow and present frictionless opportunities for our founders to
+      participate—as advisors, mentors, investors, interim executives, or
+      members of focused tiger teams. We handle all administration and
+      back-office support, making Supernova a turnkey platform for high-leverage
+      engagement and impact.
   - question: How does Supernova work with VCs?
     answer: Supernova helps VC’s go beyond office hours and webinars by providing
       access to the largest exited founder community of vetted advisors. A Tier
