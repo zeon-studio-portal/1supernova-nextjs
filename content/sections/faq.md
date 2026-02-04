@@ -36,10 +36,10 @@ lists:
     answer: Every portfolio company in Supernova’s fund receives a check (up to
       $1M+). More importantly, each company is paired with 3–5 successfully
       exited founders, including Super Founders with prior exits of $50M+, who
-      roll up their sleeves and work hands-on to accelerate critical
-      milestones.As the saying goes, wisdom is more precious than gold. We don’t
-      just invest capital—we transfer lived experience, especially when the
-      stakes involve million-dollar decisions. Supernova is the top-rated
+      roll up their sleeves and work hands-on to accelerate critical milestones.
+      As the saying goes, wisdom is more precious than gold. We don’t just
+      invest capital—we transfer lived experience, especially when the stakes
+      involve million-dollar decisions. Supernova is the top-rated
       advisory-as-a-service platform (90%+ NPS), with a proven track record of
       helping companies scale to unicorn and decacorn outcomes. Together, we
       build enduring companies and a legacy that extends far beyond business
