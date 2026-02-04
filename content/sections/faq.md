@@ -33,15 +33,17 @@ lists:
       eCommerce, Impact, and Web3. We are especially committed to supporting
       mission-driven companies solving modern-day problems.
   - question: How much does Supernova invest?
-    answer: "Every portfolio company in Supernova's fund receives a check (amounts
-      range up to $1MM+), and more importantly, 3-5 successfully exited founders
-      and/or Super founders (previous exit of $50MM+) who team up and get
-      hands-on to help accelerate company milestones. As the saying goes, wisdom
-      is more precious than gold. Our commitment to transfer our experience,
-      especially for million-dollar decisions. We are the top-rated
-      'advisory-as-a-service' (90%+ NPS) with a proven record of scaling
-      startups to unicorn and decacorn status. And, creating a legacy that lives
-      on by positively impacting lives and the planet. "
+    answer: Every portfolio company in Supernova’s fund receives a check (up to
+      $1M+). More importantly, each company is paired with 3–5 successfully
+      exited founders, including Super Founders with prior exits of $50M+, who
+      roll up their sleeves and work hands-on to accelerate critical
+      milestones.As the saying goes, wisdom is more precious than gold. We don’t
+      just invest capital—we transfer lived experience, especially when the
+      stakes involve million-dollar decisions. Supernova is the top-rated
+      advisory-as-a-service platform (90%+ NPS), with a proven track record of
+      helping companies scale to unicorn and decacorn outcomes. Together, we
+      build enduring companies and a legacy that extends far beyond business
+      success.
   - question: What if I don’t have time for Supernova?
     answer: Our guiding North Star is TIME. We don't waste time - yours, your teams,
       or our exited founders! In fact, we invented advisory-as-a-serviceTM to
