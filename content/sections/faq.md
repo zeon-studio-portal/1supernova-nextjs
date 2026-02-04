@@ -33,8 +33,7 @@ lists:
       eCommerce, Impact, and Web3. We are especially committed to supporting
       mission-driven companies solving modern-day problems.
   - question: How much does Supernova invest?
-    answer: What Y-Combinator is to early-stage startups, Supernova is to
-      Scaleups.  Every portfolio company receives a check (amounts range from
+    answer: Every portfolio company receives a check (amounts range from
       $100K-$1MM+), and more importantly 3-5 successfully exited founders and/or
       Super founders (previous exit of $50MM+) who team up and get hands-on to
       help accelerate company milestones. As the saying goes, wisdom is more
@@ -93,4 +92,4 @@ lists:
       exist to unify our superpowers as quantum creators and play as one
       all-star team for venture humanity.🌟
 ---
-
+​
