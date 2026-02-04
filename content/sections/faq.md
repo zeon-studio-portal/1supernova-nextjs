@@ -104,13 +104,21 @@ lists:
       bring execution authority, pattern recognition, and personal
       accountability, delivering measurable EBITDA uplift, faster growth, and
       improved exits across the portfolio."
-  - question: Why is it called Supernova?
-    answer: One Supernova shines 570 billion times brighter than the sun. One sun
-      sustains all life on planet earth. We believe it’s time for solo stars
-      (super founders) to combine their life force energy and shine brighter
-      together. By serving as spokes on one founder flywheel, we move energy
-      more powerfully and efficiently through startups and their ecosystems. We
-      exist to unify our superpowers as quantum creators and play as one
-      all-star team for venture humanity.🌟
+  - question: Why the name Supernova?
+    answer: A single supernova shines hundreds of billions of times brighter than a
+      single star. While one sun sustains life, a supernova reshapes entire
+      galaxies. We believe it’s time for solo stars (successfully exited
+      founders) to stop operating alone and start combining their energy,
+      experience, and wisdom. When these founders align, something exponential
+      happens. Insight compounds. Mistakes aren’t repeated. Momentum
+      accelerates. Supernova exists to unite these founders into a living
+      constellation—a founder flywheel where wisdom, capital, and execution move
+      faster and cleaner through companies and ecosystems. Collaboration
+      replaces competition. Experience becomes acceleration. Purpose becomes
+      leverage. At its core, Supernova is about more than scaling companies.
+      It’s about compounding wisdom instead of relearning pain, and helping
+      founders build in a way that is worthy of the power they hold. Because the
+      future won’t be shaped by those who shine alone, but by those who shine
+      brighter together.
 ---
 ​
