@@ -25,7 +25,7 @@ lists:
   - question: Is Supernova accepting applications?
     answer: Yes, apply online to become one of the few companies we back each year.
       In 2026, we intend to back 10-12 Scaleups (Series A-C funding or
-      bootstrapped to $5MM+ ARR) with up to $1M+ in capital, plus a tiger tream
+      bootstrapped to $5MM+ ARR) with up to $1M+ in capital, plus a tiger team
       of exited founders. Additionally, if we like what we see from
       earlier-stage companies, we'll deploy one or more of our existing founders
       to build relationships and accelerate key milestones. Supernova is
