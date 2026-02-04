@@ -79,16 +79,31 @@ lists:
       members of focused tiger teams. We handle all administration and
       back-office support, making Supernova a turnkey platform for high-leverage
       engagement and impact.
-  - question: How does Supernova work with VCs?
-    answer: Supernova helps VC’s go beyond office hours and webinars by providing
-      access to the largest exited founder community of vetted advisors. A Tier
-      1 VC partner of Supernova asked 100 founders in their portfolio, “How can
-      we help?” Right behind sales growth, talent and funding, founders are
-      begging for advisor and mentor support! Even top founders with elite VC
-      backing want more output from them. Did you know? 70% of billion-dollar
-      companies had repeat founders of at least one previously successful
-      company. We serve as founder flywheels and help their teams scale success
-      and impact.
+  - question: How does Supernova work with VCs & PE?
+    answer: "Supernova acts as a force multiplier for modern VC and PE firms,
+      helping them drive value creation in an era where returns are no longer
+      driven by financial engineering alone, but by operational execution,
+      talent, and speed. We go far beyond office hours, webinars, and
+      traditional expert networks by giving portfolio companies direct access to
+      the largest network of successfully exited founders and operators who have
+      scaled and exited companies from $10M to $10B+, often in the same stage
+      and industry your portfolio companies are navigating today. Supernova
+      provides board-level operator leverage across the portfolio. Our exited
+      founders don’t advise from the sidelines—they engage hands-on to help
+      leadership teams move faster, make better decisions, and avoid costly
+      mistakes at moments where execution risk is highest: post-acquisition
+      stabilization, aggressive growth phases, executive transitions, AI and
+      operational transformation, and exit preparation. Using NOVA, our
+      proprietary AI matching engine, we diagnose each portfolio company’s most
+      critical challenges and rapidly connect them with the right exited
+      founders—often in minutes, not months—creating time compression and
+      immediate execution lift. The data supports this model. Operational
+      improvements are now the primary driver of PE returns, and nearly 70% of
+      billion-dollar companies were built by repeat founders. Supernova
+      institutionalizes that advantage, embedding outcome-driven operators who
+      bring execution authority, pattern recognition, and personal
+      accountability, delivering measurable EBITDA uplift, faster growth, and
+      improved exits across the portfolio."
   - question: Why is it called Supernova?
     answer: One Supernova shines 570 billion times brighter than the sun. One sun
       sustains all life on planet earth. We believe it’s time for solo stars
