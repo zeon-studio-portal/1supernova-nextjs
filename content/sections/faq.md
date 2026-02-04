@@ -45,19 +45,19 @@ lists:
       build enduring companies and a legacy that extends far beyond business
       success.
   - question: What if I don’t have time for Supernova?
-    answer: Our guiding North Star is TIME. We don't waste time - yours, your teams,
-      or our exited founders! In fact, we invented advisory-as-a-serviceTM to
-      formalize and streamline elite mentorship and advisory services. We begin
-      by matching each exited founder from Supernova to a member of your C-level
-      team. For example, your CMO is supported by a successfully exited founder
-      whose zone of genius addresses your most pressing problems or
-      opportunities. Typically, we request that your leadership invests an
-      average of five to ten hours monthly to level up and benefit from our
-      exited founders' knowledge transfer of wisdom, experience, resources, and
-      connections. It's said that we help them make smarter "million-dollar
-      decisions" and that saves time over time with significant returns on the
-      relationships. If you are too busy for us, you may need Supernova more
-      than you realize! Are you ready to scale in "Conscious Mode"?
+    answer: "Our guiding North Star is TIME. We don’t waste it—yours, your team’s,
+      or our exited founders’. In fact, we invented Advisory-as-a-Service™ to
+      formalize and streamline elite mentorship and advisory support. We start
+      by precisely matching each Supernova exited founder to a member of your
+      C-suite. For example, your CMO is paired with a successfully exited
+      founder whose zone of genius directly addresses your most pressing
+      opportunities and challenges. Leadership teams typically invest 5–10 hours
+      per month and gain disproportionate returns through direct knowledge
+      transfer—hard-won wisdom, pattern recognition, resources, and trusted
+      relationships. Our founders are often brought in at moments that involve
+      million-dollar decisions, helping teams move faster, avoid costly
+      mistakes, and compound progress over time. If you feel “too busy” for
+      Supernova, that’s usually the signal you need us most. "
   - question: Why do successfully exited founders join Supernova?
     answer: Supernova is similar to a YPO membership with intimate groups that
       function as supreme sounding boards. The difference is that with
