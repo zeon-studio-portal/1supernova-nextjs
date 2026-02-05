@@ -33,7 +33,7 @@ banner:
     title: We back top founders 💛 scaling growth & impact
     brands:
       - /images/founders/a16z.svg
-      - media/public/images/BLK_BIG.D.svg
+      - /images/BLK_BIG.D.svg
       - /images/founders/post-exit-founders.svg
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
