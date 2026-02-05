@@ -11,7 +11,7 @@ subtitle: >-
 quote: >-
   We are 250+ exited founders joining forces as investors, advisors and
   operating partners in world-changing companies. <br>By sharing our collective
-  wisdom, resources, & networks, we create oversized outcomes, together ✨
+  wisdom, resources, & networks, we create oversized outcomes, together. ✨
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/Founder.png
