@@ -113,6 +113,9 @@ leadership_team:
     - name: John Thomas
       image: /images/0.jpg
       designation: Value Architect
+    - name: Ben Lamm
+      image: /images/BenLamm-r.jpg
+      designation: Counsel
 contact_us:
   enable: false
   title: Contact Us
