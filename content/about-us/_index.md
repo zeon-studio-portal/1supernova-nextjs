@@ -107,15 +107,15 @@ leadership_team:
     - name: Heather Harwood
       image: /images/HeatherHarwood.jpg
       designation: Artist
-    - name: Zach Slobin
-      image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Whisperer
-    - name: John Thomas
-      image: /images/0.jpg
-      designation: Value Architect
     - name: Ben Lamm
       image: /images/BenLamm-r.jpg
       designation: Counsel
+    - name: John Thomas
+      image: /images/0.jpg
+      designation: Value Architect
+    - name: Zach Slobin
+      image: /images/leadership-team/Zach-Slobin.jpg
+      designation: Whisperer
 contact_us:
   enable: false
   title: Contact Us
