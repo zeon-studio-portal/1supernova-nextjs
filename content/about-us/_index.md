@@ -110,6 +110,9 @@ leadership_team:
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Whisperer
+    - name: John Thomas
+      image: /images/0.jpg
+      designation: Value Architect
 contact_us:
   enable: false
   title: Contact Us
