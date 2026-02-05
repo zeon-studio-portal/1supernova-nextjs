@@ -116,6 +116,9 @@ leadership_team:
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Whisperer
+    - name: Lindsey  Nahmiache
+      image: /images/LindsayNahmiache.jpg
+      designation: Promoter
 contact_us:
   enable: false
   title: Contact Us
