@@ -100,7 +100,7 @@ leadership_team:
       designation: Supporter
     - name: Lorenzo De Leo
       image: /images/Screenshot 2026-02-03 at 11.18.59 AM.png
-      designation: Generator
+      designation: Builder
     - name: Tim Chang
       image: /images/Tim_Chang.jpg
       designation: Guide
