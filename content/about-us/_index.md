@@ -99,7 +99,7 @@ leadership_team:
       image: /images/Kyle-r.jpg
       designation: Supporter
     - name: Lorenzo De Leo
-      image: media/public/images/Screenshot 2026-02-03 at 11.18.59 AM.png
+      image: /images/Screenshot 2026-02-03 at 11.18.59 AM.png
       designation: Generator
     - name: Tim Chang
       image: /images/Tim_Chang.jpg
