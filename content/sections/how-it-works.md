@@ -30,7 +30,7 @@ process:
       enable: true
       label: Watch Best Practices Webinar 🚀
       link: https://www.youtube.com/watch?v=iJhOa2l8jk4
-  - name: 04 - Advisory ⭐
+  - name: 04 - Exited Founders ⭐
     content: >
       You start with one superstar exited founder as your mentor/advisor under
       our STAR (Short-Term Advisory Relationship) agreement.
