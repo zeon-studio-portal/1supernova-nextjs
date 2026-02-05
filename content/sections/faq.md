@@ -23,20 +23,19 @@ lists:
       success because they know the advantage it brings when scaling their
       companies successfully.
   - question: Who can apply to Supernova?
-    answer: Founders can apply online to see where they measure up and explore
-      whether Supernova is the right force multiplier and ally for their next
-      phase of growth. Each year, we selectively back 10–12 scaleups—typically
-      Series A–C companies or bootstrapped businesses with $5M+ in ARR. For
-      these companies, we deploy up to $1M+ in capital, paired with a hands-on
-      tiger team of successfully exited founders focused on accelerating the
-      milestones that matter most. For earlier-stage companies that stand out,
-      we may engage before investing by deploying one or more exited founders to
-      build relationships, pressure-test strategy, and help unlock key
-      inflection points. Supernova is sector-agnostic, with a strong track
-      record across AI, HealthTech, Fintech, SaaS, eCommerce, Impact, and Web3.
-      Above all, we are drawn to mission-driven founders tackling meaningful,
-      modern-day problems and building companies that create lasting value for
-      humanity.
+    answer: Founders can apply online to see where they measure up and explore if
+      Supernova is the right ally. Each year, we selectively back 10–12
+      scaleups—typically Series A–C companies or bootstrapped businesses with
+      $5M+ in ARR. For these companies, we deploy up to $1M+ in capital, paired
+      with a hands-on tiger team of successfully exited founders focused on
+      accelerating the milestones that matter most. For earlier-stage companies
+      that stand out, we may engage before investing by deploying one or more
+      exited founders to build relationships, pressure-test strategy, and help
+      unlock key inflection points. Supernova is sector-agnostic, with a strong
+      track record across AI, HealthTech, Fintech, SaaS, eCommerce, Impact, and
+      Web3. Above all, we are drawn to mission-driven founders tackling
+      meaningful, modern-day problems and building companies that create lasting
+      value for humanity.
   - question: How much does Supernova invest?
     answer: Every portfolio company in Supernova’s fund receives a check (up to
       $1M+). More importantly, each company is paired with 3–5 successfully
