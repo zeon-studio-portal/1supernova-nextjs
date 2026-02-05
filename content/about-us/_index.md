@@ -95,15 +95,15 @@ leadership_team:
     - name: Daniel Dubois
       image: /images/DanielDubois.jpg
       designation: Reflector
-    - name: Kyle McFadden
-      image: /images/Kyle-r.jpg
-      designation: Supporter
-    - name: Lorenzo De Leo
-      image: /images/Screenshot 2026-02-03 at 11.18.59 AM.png
-      designation: Builder
     - name: Tim Chang
       image: /images/Tim_Chang.jpg
       designation: Guide
+    - name: Lorenzo De Leo
+      image: /images/Screenshot 2026-02-03 at 11.18.59 AM.png
+      designation: Builder
+    - name: Kyle McFadden
+      image: /images/Kyle-r.jpg
+      designation: "Steward "
     - name: Heather Harwood
       image: /images/HeatherHarwood.jpg
       designation: Artist
