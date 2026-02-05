@@ -76,10 +76,10 @@ lists:
       capital. In return, companies gain direct access to founders who have
       already navigated the challenges they now face. Supernova curates this
       engagement end-to-end. We source high-quality deal flow and present
-      frictionless opportunities for our founders to participate—as advisors,
+      frictionless opportunities for our founders to participate, as advisors,
       mentors, investors, interim executives, or members of focused tiger teams.
       We handle all administration and back-office support, making Supernova a
-      turnkey platform for high-leverage engagement and impact.
+      turnkey platform for high-leverage engagement and impact
   - question: How does Supernova work with VCs & PE?
     answer: "Supernova acts as a force multiplier for modern VC and PE firms,
       helping them drive value creation in an era where returns are no longer
