@@ -11,25 +11,25 @@ subtitle: >-
 quote: >-
   We are 250+ exited founders joining forces as investors, advisors and
   operating partners in world-changing companies. <br>By sharing our collective
-  wisdom, resources, & networks, we create oversized outcomes, together.✨
+  wisdom, resources, & networks, we create oversized outcomes, together ✨
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/Founder.png
 facts_colors:
-  - '#2caffb'
-  - '#5BD9AD'
-  - '#fb9f71'
-  - '#ca58c5'
+  - "#2caffb"
+  - "#5BD9AD"
+  - "#fb9f71"
+  - "#ca58c5"
 facts:
   - title: Exited Founders
     number: 250
     suffix: +
   - title: Portfolio Companies
     number: 33
-    suffix: ''
+    suffix: ""
   - title: NPS Score
     number: 92
-    suffix: ''
+    suffix: ""
   - title: Portfolio Market Cap ($B+)
     number: 11
     suffix: +
