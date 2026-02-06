@@ -104,9 +104,9 @@ leadership_team:
     - name: Kyle McFadden
       image: /images/Kyle-r.jpg
       designation: "Steward "
-    - name: Heather Harwood
-      image: /images/HeatherHarwood.jpg
-      designation: Artist
+    - name: Lindsey Nahmiache
+      image: /images/Lindsay.png
+      designation: Storyteller
     - name: Ben Lamm
       image: /images/BenLamm-r.jpg
       designation: Counsel
@@ -116,9 +116,9 @@ leadership_team:
     - name: Zach Slobin
       image: /images/leadership-team/Zach-Slobin.jpg
       designation: Whisperer
-    - name: Lindsey Nahmiache
-      image: /images/LindsayNahmiache.jpg
-      designation: Promoter
+    - name: Heather Harwood
+      image: /images/HeatherHarwood.jpg
+      designation: Artist
 contact_us:
   enable: false
   title: Contact Us
