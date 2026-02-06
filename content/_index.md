@@ -10,8 +10,8 @@ banner:
       - /images/avatar/image-3.png
   title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
-  subtitle: You're Not Just Building a Business —You're Changing the World. <br>
-    Let's Make Both Happen Faster, Together. 🚀
+  subtitle: You're Not Just Building a Business. You're Changing the World. Let's
+    Make Both Happen Faster, Together. 🚀
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
