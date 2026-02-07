@@ -48,9 +48,9 @@ brand_list:
   - name: "Soul "
     logo: /images/Screenshot 2026-02-07 at 8.57.53 AM.png
     website: https://www.bringsoul.life/
-  - name: ""
+  - name: Liquidview
     logo: ""
-    website: ""
+    website: https://liquiview.com
   - name: ""
     logo: ""
     website: ""
