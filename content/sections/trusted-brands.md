@@ -3,9 +3,6 @@ enable: true
 title: Builders We've Backed
 subtitle: We back world-changing companies driving a better future.
 brand_list:
-  - name: SoulSpring
-    logo: /images/trusted-brands/Soul.png
-    website: https://soulspring.world
   - name: Apollo Neuro
     logo: /images/trusted-brands/Apollo.png
     website: https://apolloneuro.com/
@@ -45,4 +42,7 @@ brand_list:
   - name: Marino
     logo: /images/trusted-brands/Marino.png
     website: https://marino.com/
+  - name: SoulSpring
+    logo: /images/trusted-brands/Soul.png
+    website: https://soulspring.world
 ---
