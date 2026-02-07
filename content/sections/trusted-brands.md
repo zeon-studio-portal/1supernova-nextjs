@@ -39,19 +39,19 @@ brand_list:
   - name: Human Intelligence
     logo: /images/trusted-brands/Human.png
     website: https://www.humantelligence.com/
+  - name: Liquidview
+    logo: ""
+    website: https://liquiview.com
   - name: Marino
     logo: /images/trusted-brands/Marino.png
     website: https://marino.com/
+  - name: Myndbend
+    logo: ""
+    website: https://www.myndbend.com
   - name: SoulSpring
     logo: /images/trusted-brands/Soul.png
     website: https://soulspring.world
   - name: "Soul "
     logo: /images/Screenshot 2026-02-07 at 8.57.53 AM.png
     website: https://www.bringsoul.life/
-  - name: Liquidview
-    logo: ""
-    website: https://liquiview.com
-  - name: Myndbend
-    logo: ""
-    website: https://www.myndbend.com
 ---
