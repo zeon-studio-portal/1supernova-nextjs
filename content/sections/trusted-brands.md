@@ -45,4 +45,13 @@ brand_list:
   - name: SoulSpring
     logo: /images/trusted-brands/Soul.png
     website: https://soulspring.world
+  - name: "Soul "
+    logo: /images/Screenshot 2026-02-07 at 8.57.53 AM.png
+    website: ""
+  - name: ""
+    logo: ""
+    website: ""
+  - name: ""
+    logo: ""
+    website: ""
 ---
