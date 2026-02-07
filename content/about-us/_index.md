@@ -112,12 +112,12 @@ leadership_team:
     - name: John Thomas
       image: /images/0.jpg
       designation: Value Architect
-    - name: Zach Slobin
-      image: /images/leadership-team/Zach-Slobin.jpg
-      designation: Whisperer
     - name: Heather Harwood
       image: /images/HeatherHarwood.jpg
       designation: Artist
+    - name: Zach Slobin
+      image: /images/leadership-team/Zach-Slobin.jpg
+      designation: Whisperer
 contact_us:
   enable: false
   title: Contact Us
