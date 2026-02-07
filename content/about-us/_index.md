@@ -7,16 +7,15 @@ who_we_are:
   enable: true
   title: Who We Are
   content: As evolutionary entrepreneurs themselves, Supernova co-founders [Barry
-    Stamos](https://www.linkedin.com/in/bstamos/ "Barry Stamos") and
-    [Christopher Staley](https://www.linkedin.com/in/christopherbstaley/
-    "Christopher Staley") have backgrounds as founders, investors, advisors, and
-    consultants, and have experienced first-hand the difference between
-    effective and sub-par advisor relationships. Through a lifetime of
-    friendships, relationship building and curation, they have put together an
-    assemblage of superstars who are motivated to share their knowledge and
-    talent with mission-driven companies, for the betterment of venture
-    humanity. More than 250 exited founders have come together to provide
-    exponential impact to companies they serve.
+    Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
+    Staley](https://www.linkedin.com/in/christopherbstaley/) have backgrounds as
+    serial founders and investors who have experienced first-hand the difference
+    between exceptional and sub-par operating partners. Through decades of
+    relationship building, trust, and curation, they have assembled a network of
+    world-class exited founders who are motivated to share their knowledge and
+    capital with companies that matter. Today, more than 250 exited founders
+    have come together through Supernova to deliver exponential impact to the
+    companies they serve.
 our_values:
   enable: true
   title: Our Values
