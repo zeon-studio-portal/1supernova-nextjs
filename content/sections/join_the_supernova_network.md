@@ -1,6 +1,6 @@
 ---
 enable: true
-title: An Invitation to Top Founders—<br>Ready to Play a Greater Game?
+title: An Invitation to Top Founders Ready to Play a Greater Game?
 subtitle: >-
   **What if exited founders teamed up with companies changing the world to
   achieve their missions, faster?**
