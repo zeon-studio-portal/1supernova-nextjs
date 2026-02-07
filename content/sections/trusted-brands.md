@@ -51,7 +51,7 @@ brand_list:
   - name: Liquidview
     logo: ""
     website: https://liquiview.com
-  - name: ""
+  - name: Myndbend
     logo: ""
-    website: ""
+    website: https://www.myndbend.com/
 ---
