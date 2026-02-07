@@ -47,7 +47,7 @@ brand_list:
     website: https://soulspring.world
   - name: "Soul "
     logo: /images/Screenshot 2026-02-07 at 8.57.53 AM.png
-    website: ""
+    website: https://www.bringsoul.life/
   - name: ""
     logo: ""
     website: ""
