@@ -4,10 +4,14 @@ import { markdownify } from '@lib/utils/textConverter';
 
 const TrustedBrands = ({ trusted_brands }) => {
   const brandlist = trusted_brands.frontmatter.brand_list;
-  const third = Math.ceil(brandlist.length / 3);
-  const firstList = brandlist.slice(0, third);
-  const secondList = brandlist.slice(third, third * 2);
-  const thirdList = brandlist.slice(third * 2);
+  const fourth = Math.round(brandlist.length / 4);
+  
+  const firstList = brandlist.slice(0, fourth);
+  const secondList = brandlist.slice(fourth, fourth * 2);
+  const thirdList = brandlist.slice(fourth * 2, fourth * 3);
+  const fourthList = brandlist.slice(fourth * 3);
+
+  
 
   return (
     trusted_brands.frontmatter.enable === true && (
@@ -89,6 +93,24 @@ const TrustedBrands = ({ trusted_brands }) => {
               </div>
               <div className="marquee marquee-duration-60 flex shrink-0 items-center justify-center gap-5 md:gap-6">
                 {thirdList.map((item, index) => (
+                  <BrandCard item={item} key={index} />
+                ))}
+              </div>
+            </div>
+
+             <div className="marquee-wrapper on-hover-pause-animation mt-5 flex gap-5 overflow-hidden md:mt-6 md:gap-6">
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-6">
+                {fourthList.map((item, index) => (
+                  <BrandCard item={item} key={index} />
+                ))}
+              </div>
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-6">
+                {fourthList.map((item, index) => (
+                  <BrandCard item={item} key={index} />
+                ))}
+              </div>
+              <div className="marquee marquee-duration-60 marquee-reverse flex shrink-0 items-center justify-center gap-5 md:gap-6">
+                {fourthList.map((item, index) => (
                   <BrandCard item={item} key={index} />
                 ))}
               </div>
