@@ -19,7 +19,7 @@ brand_list:
     logo: /images/trusted-brands/Brain.png
     website: https://www.brainritual.com/
   - name: Vegetable and Butcher
-    logo: /images/teamosis.png
+    logo: /images/trusted-brands/Vegetable.png
     website: https://vegetableandbutcher.com/
   - name: Clinicom
     logo: /images/trusted-brands/Clinic.png
