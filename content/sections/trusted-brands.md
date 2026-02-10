@@ -46,12 +46,12 @@ brand_list:
     logo: /images/trusted-brands/Marino.png
     website: https://marino.com/
   - name: Myndbend
-    logo: /images/trusted-brands/Myndbend.webp
+    logo: /images/trusted-brands/Myndbend.png
     website: https://www.myndbend.com
   - name: SoulSpring
     logo: /images/trusted-brands/Soul.png
     website: https://soulspring.world
   - name: "Soul"
-    logo: /images/trusted-brands/soul-logo.svg
+    logo: /images/trusted-brands/soul-logo.png
     website: https://www.bringsoul.life/
 ---
