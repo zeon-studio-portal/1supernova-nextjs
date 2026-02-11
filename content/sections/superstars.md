@@ -48,11 +48,10 @@ team:
       - MARKETING
       - TECHNOLOGY
     bulletpoints:
-      - >-
-        3x exited founder, 1 unicorn (Exit to Oracle); INBOX Marketing (Exit to
+      - "3x exited founder, 1 unicorn (Exit to Oracle); INBOX Marketing (Exit to
         Responsys/IPO). Co-founder at 1heart.com. EIR at 500 Global (#1 in VC
         Deal Counts & Exits). Advisor to 100+ Fortune 500 companies. Catalyst
-        and Superconnector. 
+        and Superconnector. "
     content: >
       Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
       Barry is the co-founder of 1heart (1heart.com), a human accelerator
@@ -65,21 +64,21 @@ team:
       business unit from scratch to $315MM annual revenues that sold to IPG for
       $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
       Fortune 500. Barry is a keynote speaker for work/life transformation.
-  - name: 'Chris Staley '
+  - name: "Chris Staley "
     image: /images/ChristopherStaley.jpg
     department:
       - OPS
       - FUNDING
     bulletpoints:
-      - >-
-        Founding Partner of Opopop with Jonas Temple (cofounder of Beatport and
+      - Founding Partner of Opopop with Jonas Temple (cofounder of Beatport and
         Beats by Dre). Head of investments at Fuel VC ($250MM+ fund). Founding
         Partner of Rokk3r, a company builder. Chairman of Staley Foundation.
-    content: "Christopher Staley is the Co-founder & Chief Investment Officer of
+    content: >
+      Christopher Staley is the Co-founder & Chief Investment Officer of
       Supernova. He was a Founding Partner at Opopop (Series B), a leading CPG
       company he built with Jonas Temple (cofounder of Beatport & Beats by Dre).
       Christopher was a Founding Partner & Head of Investments for Rokk3r Fuel,
-      a $250MM+ global VC.  \n"
+      a $250MM+ global VC.  
   - name: Daniel Dubois
     image: /images/Daniel_Dubois.jpg
     department:
@@ -89,8 +88,7 @@ team:
       - FUNDING
       - SALES
     bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder of Key. Founder of EO and YPO Angels
+      - 2x exited founder. CEO & Founder of Key. Founder of EO and YPO Angels
         (now Entrepreneurs Capital). Partner at Side Door Ventures ($100M Fund);
         partnership with Gaingels. Founder & CEO of Guiides & ShareSheid (2
         Exits to Leavetown). Led Growth at Airbnb.
@@ -119,18 +117,18 @@ team:
       - SOCIAL
       - SCIENCE
     bulletpoints:
-      - >-
-        6x exited founder. CEO & Founder of Colossal Biosciences (Unicorn) &
+      - 6x exited founder. CEO & Founder of Colossal Biosciences (Unicorn) &
         Form Bio (Series A), Hypergiant Industries (Exit to Trive Capital),
         Conversable (Exit to LivePerson), Team Choas (Exit to Zynga), Chaotic
         Moon (Exit to Accenture), SI (Exit to Agile).
-    content: "Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn
+    content: >
+      Ben Lamm is the CEO & Founder of Colossal (Series B $150M at 1.5Bn
       valuation). His last 6 companies successfully exited: Founder/CEO -
-      Hypergiant Industries \\[Aquired by Trive Capital] (2023); Founder/CEO -
-      Conversable \\[Acquired by LivePerson NASDAQ: LPSN] (2018);
-      Co-founder/Partner - Team Chaos \\[Acquired by Zynga NASDAQ: ZNGA] (2016);
-      Co-founderCEO - Chaotic Moon \\[Acquired by Accenture NYSE: ACN] (2015);
-      Co-founderCEO - Simply Interactive \\[Acquired by Agile] (2010).\n"
+      Hypergiant Industries \[Aquired by Trive Capital] (2023); Founder/CEO -
+      Conversable \[Acquired by LivePerson NASDAQ: LPSN] (2018);
+      Co-founder/Partner - Team Chaos \[Acquired by Zynga NASDAQ: ZNGA] (2016);
+      Co-founderCEO - Chaotic Moon \[Acquired by Accenture NYSE: ACN] (2015);
+      Co-founderCEO - Simply Interactive \[Acquired by Agile] (2010).
   - name: Tim Chang
     image: /images/TimChang.jpg
     department:
@@ -140,10 +138,10 @@ team:
       - IMPACT
       - WEB3
     bulletpoints:
-      - "Founding GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led
+      - Founding GP at Mayfield Capital (multi $B+ Silicon Valley Fund) and led
         investments in MOAT (Exit to Oracle), Basis (Exit to Intel), Fitmob
         (Exit to Classpass), and Pillow (Exit to by Expedia). Named 2x on Midas
-        List of top 100 VCs."
+        List of top 100 VCs.
     content: >
       Tim Chang is a Partner at Mayfield Fund, focusing on venture capital
       invests in Consumer Internet, Digital Media, eCommerce/Marketplaces and
@@ -172,8 +170,7 @@ team:
       - SCALE
       - LEADERSHIP
     bulletpoints:
-      - >-
-        CEO & Founder at Tonal (Unicorn with over $1B in total revenues).
+      - CEO & Founder at Tonal (Unicorn with over $1B in total revenues).
         Co-founder at Pano Logic (Exit to Samsung). 25+ years of Sillicon Valley
         experience in AI, deep tech, consumer products and leadership.
     content: >
@@ -215,10 +212,9 @@ team:
       - CULTURE
       - SCIENCE
     bulletpoints:
-      - >-
-        CEO & Founder at TN.com; bootstrapped to $250MM ARR (Merged with Serta
+      - "CEO & Founder at TN.com; bootstrapped to $250MM ARR (Merged with Serta
         Simmons Bedding). Board member at Penn State. Maker, Mentor, and Angel
-        Investor. Member of EO and YPO. 
+        Investor. Member of EO and YPO. "
     content: >
       JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
       Simmons on August, 2018. His bootstrapped startup achieved $250 million in
@@ -234,7 +230,7 @@ team:
       received eTail West’s Visionary of the Year Award and appeared in McGraw
       Hill’s curriculum. JT studied computer science and mathematics at Penn
       State University. He is based in Phoenix, AZ.
-  - name: 'Lindsay Nahmiache '
+  - name: "Lindsay Nahmiache "
     image: /images/LindsayNahmiache.jpg
     department:
       - COACHING
@@ -243,8 +239,7 @@ team:
       - GTM
       - SALES
     bulletpoints:
-      - >-
-        CEO & Founder at Jive (Exited). CMO of Songtradr (Series E), largest B2B
+      - CEO & Founder at Jive (Exited). CMO of Songtradr (Series E), largest B2B
         music licensing marketplace.  Founding member of Legacy 8 VC fund. Named
         100 Most Powerful Women by The Financial Post. Ambassador to UN for
         Entrepreneurship.
@@ -285,11 +280,10 @@ team:
       - OPS
       - COACHING
     bulletpoints:
-      - >-
-        Serial entrepreneur with 9 exits; Switchfly (Exit to Golub Capital),Zozi
-        (Exit to Peek), Ning (Exit to Glam Media), Crackle (Exit to Grouper),
-        Jumpstart (Exit to Tagged.com), Evite.com (Exit to Ticketmaster). COO at
-        LaunchCapital. 
+      - "Serial entrepreneur with 9 exits; Switchfly (Exit to Golub
+        Capital),Zozi (Exit to Peek), Ning (Exit to Glam Media), Crackle (Exit
+        to Grouper), Jumpstart (Exit to Tagged.com), Evite.com (Exit to
+        Ticketmaster). COO at LaunchCapital. "
     content: >
       Jonathan Shambroom is the COO of Health Young Minds. For 25 years in San
       Francisco, he has held operational and executive roles in 10 tech startups
@@ -315,10 +309,9 @@ team:
       - M&A
       - COACHING
     bulletpoints:
-      - >-
-        5x founder with 3x exits: Zynga (IPO: $8B market cap), Madison Reed
+      - "5x founder with 3x exits: Zynga (IPO: $8B market cap), Madison Reed
         (raised $120M), Coremetrics (Exit to IBM for $377M) and Tribe (Exit to
-        Cisco).  Coached 30 CEO’s and helped raise $500M+ in follow-on capital.
+        Cisco).  Coached 30 CEO’s and helped raise $500M+ in follow-on capital."
     content: >
       A.T. (Andrew Trader) is a 5-time co-founder and CEO & executive coach. As
       an entrepreneur, he co-founded 5 companies with $13b in exits including
@@ -344,8 +337,7 @@ team:
       - GTM
       - COACHING
     bulletpoints:
-      - >-
-        Senior Advisor (M&A) at Mastercard. Founder & CTO at SessionM (Exit to
+      - Senior Advisor (M&A) at Mastercard. Founder & CTO at SessionM (Exit to
         Mastercard). Investor, board member and/or advisor to 10x, TBDAngels,
         Cyvl.ai, Blustream.io, Squark.ai, LearnLux, Finally, Cake, & Esprezzo.
     content: >
@@ -368,44 +360,50 @@ team:
       was very young, joining a group of awesome geeks as a teenager, to help
       build one of the US’s first internet services providers. He is based in
       Boston, Massachusetts.
-  - name: Peter Kellner
-    image: /images/PeterKellner.jpg
+  - name: Dave Asprey
+    image: /images/Dave Asprey.png
     department:
-      - 'FUNDING '
+      - "FUNDING "
       - SCIENCE
       - TECHNOLOGY
       - GTM
       - M&A
       - COACHING
+      - SCALE
+      - MARKETING
     bulletpoints:
-      - >-
-        Founder at Richmond Global VC (now on Fund #14). Co-founder of Endeavor,
-        a non-profit organization and global community connecting 2,400+
-        high-impact entrepreneurs operating in 42 markets globally. Harvard MBA.
+      - Founder at Bulletproof Coffee. Founder/CEO of upgrade Labs (Top 100
+        podcast). Chairman of Silicon Valley Health Institute. 4x NYT
+        bestselling author. Wharton Grad.
     content: >
-      Peter Keller is the Founder of Richmond Global. A non-comprehensive list
-      of his investments follows (current unicorns are lowercase; UNICORNS at
-      Kellner's exit are capitalized): 7Park Data (exit to Vista Equity
-      Partners), AdChina (exit to Alibaba), americanas.com.br (the largest
-      e-commerce platform in Latin America), athleta (exit to The Gap),
-      AQUANTIVE (IPO, exit to Microsoft), Buuteeq (exit to Priceline), CAIS
-      (sec. sale., Eldridge), COMPASS (sec. sale., Softbank), Dimerand
-      Technologies, Haystack TV, Improvado, Internet Securities (exit to
-      Euromoney), Korrus, LearnVest (exit to Northwestern Mutual 2015), Liveramp
-      (exit to Acxiom), Lokker, Mi Aguila, Modern Meadow, Personifi (exit to
-      Collective), ProofofLearn.io, RUBICON GLOBAL (sec. sale., 2021), Skreens,
-      Vested.co, and Violin Memory (IPO). Baazee (exit to eBay in India),
-      Chia.net, dataminr, Eachnet (exit to eBay in China), Percipient.ai, Petra,
-      Source Global, TOAST (sec. sale., 2019), bolt, Color Kinetics (IPO, exit
-      to Philips Electronics), Organovo (IPO), and SALESFORCE (IPO). Peter is
-      the Co-founder of Endeavor where he led North America, starting in Miami,
-      and then served over two decades on the boards of Endeavor Global, Chile,
-      Jordan, Louisville-Indiana-Ohio, and Miami. Endeavor is now a leading
-      global community of, by, and for high-impact entrepreneurs.  "Sustainable
-      economies are dependent on high-impact entrepreneurship. What Endeavor
-      does better than any other organization is to create entire cultures of
-      entrepreneurship that spread within and between countries."  - Reid
-      Hoffman, Founder of Linkedin/Greylock and Endeavor Global Board Member
+      Dave Asprey is the founder of Bulletproof and one of the architects of the
+      modern biohacking movement. A four-time New York Times bestselling author,
+      CEO of Upgrade Labs, and host of The Human Upgrade podcast, Dave operates
+      at the intersection of entrepreneurship, biology, and peak
+      performance.<br>
+
+      Before becoming a global health innovator, Dave built and exited companies
+      in the early internet era and worked in cybersecurity and infrastructure
+      at scale. After facing serious health challenges despite professional
+      success, he applied an operator’s mindset to his own biology—testing,
+      measuring, and investing over $2M to systematically upgrade his
+      performance. The result was not only personal transformation, but the
+      creation of multiple billion-dollar markets, including MCT oil, collagen
+      protein, and functional coffee.<br>
+
+      For founders, Dave brings something rare: battle-tested entrepreneurial
+      experience combined with deep expertise in energy, cognition, resilience,
+      and longevity. He understands firsthand that scaling a company requires
+      scaling your nervous system, decision-making capacity, and physical
+      durability.
+
+      As the founder of 40 Years of Zen, a neuroscience-based executive
+      performance program, Dave mentors high-performing CEOs, investors, and
+      operators who want to think clearer, move faster, and lead at the
+      edge.<br>
+
+      He doesn’t just talk about optimization, he builds it, lives it, and
+      teaches founders how to sustain elite performance for the long game.
   - name: Johanna Mikkola
     image: /images/Johanna_Mikola.jpg
     department:
@@ -415,11 +413,11 @@ team:
       - FUNDING
       - TECHNOLOGY
     bulletpoints:
-      - >-
-        CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
+      - CEO & Co-founder at Wyntalent. CEO & Founder at Wyncode (Exit to
         BrainStation). Endeavor entrepreneur. Former executive with National
         Hockey League.
-    content: "Johanna Mikkola is the CEO and Co-founder of [Wyncode
+    content: >
+      Johanna Mikkola is the CEO and Co-founder of [Wyncode
       Academy](http://www.wyncode.co/) a leading technical school dedicated to
       training top technology talent through best-in-class accelerated and
       immersive programs; 93% job placement rate, 800+ technology graduates and
@@ -440,19 +438,18 @@ team:
       the largest departmental budget within the organization. Johanna holds an
       honors Bachelor’s Degree in Political Science and Economics from the
       University of Toronto. In 2007 she represented Canada as a forward at the
-      World Floorball Championships.\n"
+      World Floorball Championships.
   - name: Keith Ferrazzi
     image: /images/PeterFerrazi.jpg
     department:
       - LEADERSHIP
       - COACHING
       - SCALE
-      - 'SALES '
+      - "SALES "
     bulletpoints:
-      - >-
-        World's #1 executive team coach. Founder & Chairman at Ferrazzi
+      - "World's #1 executive team coach. Founder & Chairman at Ferrazzi
         Greenlight. Former CMO at Starwood & Deloitte Consulting. 3x NYT Best
-        Selling Author. Harvard MBA. Superconnector.
+        Selling Author. Harvard MBA. Superconnector."
     content: >
       Keith Ferrazzi is the Founder & Chairman of Ferrazzi Greenlight, helping
       executive teams co-elevate with radical adaptable team agility to meet
@@ -479,11 +476,11 @@ team:
       - PRODUCT
       - COACHING
     bulletpoints:
-      - >-
-        CEO & Founder at Hayden AI (Series B). CEO & Founder of Louisa (Exit).
+      - CEO & Founder at Hayden AI (Series B). CEO & Founder of Louisa (Exit).
         Served in Top USA Special Ops at The Fleet Antiterrorism Security Team
         Company (FAST). PhD.
-    content: "Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering
+    content: >
+      Chris Carson is the Founder & CEO of Hayden AI (Series B), pioneering
       smart traffic enforcement with its mobile platform to increase the safety,
       efficiency, and sustainability. Chris was the Founder & CEO of Nueevo
       (formally Caruma Technologies), a technology company focused on extending
@@ -499,8 +496,7 @@ team:
       equipped to execute brief security missions around the world. Having
       founded and operated several technology companies, while leading globally
       distributed engineering teams, he now mentors and actively invests in
-      up-and-coming technology companies. Chris is based in San Francisco,
-      CA.\n"
+      up-and-coming technology companies. Chris is based in San Francisco, CA.
   - name: TJ Grewal
     image: /images/TJGrewal.jpg
     department:
@@ -511,8 +507,7 @@ team:
       - COACHING
       - TECHNOLOGY
     bulletpoints:
-      - >-
-        Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
+      - Founder at Carport. CPO at Soraa (Exit to Ecosense). Founding CPO at
         Beats by Dre (Exit to Apple for $3.2 Billion). Manager at McKinsey and
         Ernst & Young.
     content: >
@@ -533,8 +528,7 @@ team:
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - >-
-        Founder & MP at Nfluence Partners, conscious investment banking with
+      - Founder & MP at Nfluence Partners, conscious investment banking with
         225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
         Co-founder of Luna Communication (Exited). Stanford Alumni.
     content: >
@@ -559,8 +553,7 @@ team:
       - PRODUCT
       - TECHNOLOGY
     bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder at TNC (Exit to Google). Global
+      - 2x exited founder. CEO & Founder at TNC (Exit to Google). Global
         Strategy Officer of Kakao Entertainment and CEO of Tapas Media. Invested
         in 50+ startups and has his own fund called Rabbit VC.
     content: >
@@ -577,8 +570,7 @@ team:
       - FUNDING
       - GTM
     bulletpoints:
-      - >-
-        4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
+      - 4x exited founder. Co-founder of LiquidLP (formerly OpenStock).
         Co-founder of Kandua (exited), Bizpay (Exited) Plutas (Exited),
         LiveGlass (Exited). Venture Partner with Launchpad Capital. Raised
         $200M+ for startups. Member of EO.
@@ -618,8 +610,7 @@ team:
       - LEADERSHIP
       - COACHING
     bulletpoints:
-      - >-
-        3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
+      - 3x exited founder. CEO & Co-founder OSSCube (Acquired by Happiest Minds
         Technologies). CEO & Founder of SCG  & Value One (2 exits to Seraro).
         Executive Board of EO. YPO Member. Former Monk. PhD.
     content: >
@@ -651,10 +642,9 @@ team:
       - FUNDING
       - TECHNOLOGY
     bulletpoints:
-      - >-
-        Managing Director at AI2 Incubator, born from the Allen Institute for AI
-        (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
-        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. 
+      - 'Managing Director at AI2 Incubator, born from the Allen Institute for
+        AI (AI2). CEO & Founder of Loftium (Exit to Flyhomes) and GymPact (top 5
+        mobile fitness app). Forbes "30 under 30".  EIR at Techstars. '
     content: >
       Yifan Zhang is the Managing Director at AI2 Incubator, born from the Allen
       Institute for AI (AI2). Previously 2x founder and CEO of Loftium
@@ -676,8 +666,7 @@ team:
       - SCALE
       - FUNDING
     bulletpoints:
-      - >-
-        LP at Flight Ventures, the largest syndicate on AngelList. Search Fund
+      - LP at Flight Ventures, the largest syndicate on AngelList. Search Fund
         Principal at Novastone Capital (deployed $220M+ in capital). CEO &
         Founder at Arora Project, raised $125M+ for startups(Exit to Republic).
     content: >
@@ -711,10 +700,9 @@ team:
       - FUNDRAISING
       - SYSTEMS
     bulletpoints:
-      - >-
-        Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
+      - "Investor & Advisor at InRoad Ventures. Invested in 40+ startups with 4
         unicorns (Calm, Grove Collective, BillionToOne, Grin). Co-founder at
-        Rallyteam (Exit to Workday). 
+        Rallyteam (Exit to Workday). "
     content: >
       Dan Ellis is an investor and advisor at InRoad Ventures where he directs
       investments for the family office. He has invested in 40+ startups with 4
@@ -732,8 +720,7 @@ team:
       - FUNDING
       - COACHING
     bulletpoints:
-      - >-
-        Co-founder of Resilience Reserve with Chris Anderson (head of TED).
+      - Co-founder of Resilience Reserve with Chris Anderson (head of TED).
         Founder of Listen.com (Exit to Rhapsody; RealNetworks). Founding
         investor, advisor or board member in Akili Interactive, Poshmark, Lyft,
         and Kareo/Tebra.
@@ -756,10 +743,9 @@ team:
       - FUNDING
       - STRATEGY
     bulletpoints:
-      - >-
-        Chairman of the Board at Seattles Children's. EVP at RCM (Nasdaq: RCM).
+      - "Chairman of the Board at Seattles Children's. EVP at RCM (Nasdaq: RCM).
         CEO of SCI Solutions (Exit to RCM), SaaS to 2,500 hospitals, 14,000
-        physician practices, and millions of patients.
+        physician practices, and millions of patients."
     content: >
       Joel French is the Chairman of the Board of Trustee's at Seattle Childrens
       with 10,000+ of the best nurses, physicians, other licensed clinicians,
@@ -787,11 +773,10 @@ team:
       - TECHNOLOGY
       - GTM
     bulletpoints:
-      - >-
-        President at Glo, yoga & wellness platform. CEO & Co-founder of
+      - "President at Glo, yoga & wellness platform. CEO & Co-founder of
         Carenote/ Forevernote (Exit to Evite). Head of Ops at Flipagrap; led
         Musical.ly into ByteDance (Exit to Tiktok). Senior leadership at Edmund,
-        eHarmony and MTV Networks. 
+        eHarmony and MTV Networks. "
     content: >
       Hogan Lee is the President & COO of Glo, whose mission is to connect
       people through self-care. Hogan was the Co-Founder & Chief Experience
@@ -803,7 +788,7 @@ team:
       in Senior Technical Project Management positions. He has also served as a
       Mentor for 500 Global and Endeavor, supporting successful startups and
       their leadership teams. Hogan is based in Los Angeles, CA.
-  - name: 'Chris Chaney  '
+  - name: "Chris Chaney  "
     image: /images/Chris.jpg
     department:
       - SALES
@@ -813,8 +798,7 @@ team:
       - SCALE
       - PRODUCT
     bulletpoints:
-      - >-
-        Founder & Managing Partner of C4+ for sports, esports and gaming.
+      - Founder & Managing Partner of C4+ for sports, esports and gaming.
         Founder at Infinite Esports (Exited). Co-founder of Ephere Football led
         by Agustín Rodrígues. Co-founder of Limitless Studios, female-led
         VC-backed media company.
@@ -834,7 +818,7 @@ team:
       Co-President, Black Men’s Awareness Group; Founder, State of Black Men in
       America Conference; Founder, Princeton’s Charity Basketball Tournament. He
       is based in Dallas, Texas.
-  - name: 'Jud Brewer '
+  - name: "Jud Brewer "
     image: /images/JudBrewer.jpg
     department:
       - STRATEGY
@@ -843,11 +827,10 @@ team:
       - CULTURE
       - IMPACT
     bulletpoints:
-      - >-
-        Co-founder Mindshift Recovery. Chief Medical Officer at Sharecare.
+      - "Co-founder Mindshift Recovery. Chief Medical Officer at Sharecare.
         CEO/Founder at Mindsciences (Merged with Sharecare). Director of
         Research and Innovation & Professor at Brown University. NYT
-        best-selling author. TED talk (14M+ views). PhD. 
+        best-selling author. TED talk (14M+ views). PhD. "
     content: >
       Jud Brewer MD PhD (“Dr. Jud”) is a New York Times best-selling author and
       thought leader in the field of habit change and the “science of
@@ -888,17 +871,17 @@ team:
       - MARKETING
       - LEADERSHIP
     bulletpoints:
-      - >-
-        2x exited founder. Co-founder at 1heart.com. Founder & CEO of Tintup,
+      - "2x exited founder. Co-founder at 1heart.com. Founder & CEO of Tintup,
         bootstrapped to 1000+ customers in 172 countries (Exited). Founder at
-        WAI WEAR (Exited). Spiritual Coach. 
-    content: "Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator
-      for CEO's, founders, and change-makers, combining the best of modern and
+        WAI WEAR (Exited). Spiritual Coach. "
+    content: >
+      Tim Sae Koo is the co-founder and COO of 1heart, a human accelerator for
+      CEO's, founders, and change-makers, combining the best of modern and
       ancient modalities including sacred, plant medicines. Tim is the Founder &
       CEO of Tintup (exited), which he bootstrapped to 40 full-time employees,
       millions in annual recurring revenue, and 1000+ customers in 172
       countries.  He also founded WAI WEAR (exited), an exotic, colorful,
-      Thai-designed retail clothing company. Tim is based in Costa Rica.\n"
+      Thai-designed retail clothing company. Tim is based in Costa Rica.
   - name: Ulises Orozco
     image: /images/UlisesOrozco.jpg
     department:
@@ -908,10 +891,9 @@ team:
       - SCALE
       - TECHNOLOGY
     bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder of PTO Genius, an AI-powered HR
+      - "2x exited founder. CEO & Founder of PTO Genius, an AI-powered HR
         platform. CEO & Co-founder of Gravisor (Exit to Betterment). CPO &
-        Co-founder of Smartshopper (Exited). 
+        Co-founder of Smartshopper (Exited). "
     content: >
       Ulises Orozco is a 2x exited founder. He is currently the CEO & Founder of
       PTO Genius, an AI-powered platform to track, manage, and optimize time
@@ -929,8 +911,7 @@ team:
       - LEADERSHIP
       - SCIENCE
     bulletpoints:
-      - >-
-        Founder & CSO of Xenex Healthcare Services. Chief Epidemiologist at
+      - Founder & CSO of Xenex Healthcare Services. Chief Epidemiologist at
         Forefront Healthcare. Fellow at IDSA & Royal Society of Medicine.
         Appeared on CNN, the Doctors, NPR, etc. Inventor of 160+ granted
         patents.
@@ -957,11 +938,10 @@ team:
       - TECHNOLOGY
       - PRODUCT
     bulletpoints:
-      - >-
-        CEO & Founder of Snout, modern solutions for veterinary practices backed
-        byPear VC, Bread and Butter Ventures, Tribe Capital, & Sterling Road.
-        Founder & CEO of Pawprint, #1 pet health app (Exit to Metamorphosis
-        Partners); 500 Startups and Y-Combinator Fellowship.
+      - "CEO & Founder of Snout, modern solutions for veterinary practices
+        backed byPear VC, Bread and Butter Ventures, Tribe Capital, & Sterling
+        Road. Founder & CEO of Pawprint, #1 pet health app (Exit to
+        Metamorphosis Partners); 500 Startups and Y-Combinator Fellowship."
     content: >
       Emily Dong is the CEO & Founder of Snout where our mission is to ensure no
       one ever has to make a health decision based on the cash in their bank
@@ -981,11 +961,10 @@ team:
       - OPS
       - SCIENCE
     bulletpoints:
-      - >-
-        Partner at Paper Latern. Head of Marketing at Thrive Market ($400MM
+      - "Partner at Paper Latern. Head of Marketing at Thrive Market ($400MM
         ARR). Co-founder of INBOX Marketing (Exit to Responsys/IPO/Oracle for
         $1.6 Billion). Advised 50+ high-growth startups and Fortune 500
-        companies. 
+        companies. "
     content: >
       Juston Brommel is the founder of Paper Lantern, a strategic advisory and
       commercialization firm that partners with companies to drive valuation,
@@ -1019,13 +998,13 @@ team:
       - SYSTEMS
       - OPS
     bulletpoints:
-      - >-
-        2x exited founder. CEO & Founder at Syntropy. Co-founder of INBOX
+      - 2x exited founder. CEO & Founder at Syntropy. Co-founder of INBOX
         Marketing (Exited to Responsys). Founder of Lumeter Networks (Exited to
         Mobisol). Author of "From Money to Meaning - Building Purposeful
         Business for a Life of Contribution".
-    content: "Grant Hunter is a 5x serial entrepreneur with 2 exits. Based out of
-      the Silicon Valley, Grant excels as a thought-leader in the areas of
+    content: >
+      Grant Hunter is a 5x serial entrepreneur with 2 exits. Based out of the
+      Silicon Valley, Grant excels as a thought-leader in the areas of
       individual, leadership and organizational learning and change and
       translating deeper purpose into impact. Grant is a pioneer of the
       micro-franchise model—creating replicable, scalable, locally-owned
@@ -1043,7 +1022,7 @@ team:
       Peru along the Amazon. Hunter is also and a long-time fan of the integral
       theory of Ken Wilber and close student of the late Terry Patten’s integral
       soul work, and a former mentor in his sacred activist community, A New
-      Republic of the Heart.\n"
+      Republic of the Heart.
   - name: Tomy Lorsch
     image: /images/TomyLorsch.jpg
     department:
@@ -1053,26 +1032,25 @@ team:
       - FUNDRAISING
       - SALES
     bulletpoints:
-      - >-
-        CEO/Founder at Complex Chaos, an applied collaborative AI company backed
+      - CEO/Founder at Complex Chaos, an applied collaborative AI company backed
         by Village Global (Chaired by Reid Hoffman). CEO & Founder at Oneness
         Ventures. CEO & Founder at Findasense (Exited)
-    content: "Tomy is the CEO & founder of Complex Chaos, an applied collaborative
-      AI company backed by Village Global (chaired by Reid Hoffman and
-      visionaries like Bill Gates, Jeff Bezos, Mark Zuckerberg, Anne Wojcicki,
-      Eric Smidt, and many others). Tomy is also the CEO & Founder of Oneness
-      Ventures, investing in early-stage social-impact companies, with special
-      focus on Psychedelic Medicine, Transformative Technologies, Peace
-      Technologies, and Climate Change tech. He is the Chief Ambassador at
-      Second Time Founders, an invite-only community of seasoned and repeat
-      founders committed to creating responsible, conscious companies. Tomy is
-      the Founder & CEO of Findasense (exited), a global Customer Experience
-      company with consulting, agency and technology integrator capabilities. He
-      is a fellow for On Deck Angels (ODA), a continuous community for operator
-      angels. Tomy is a member of the Silicon Valley Entrepreneurs’ Organization
-      (EO), Guest Lecturer at Universidad Europea de Madrid, Professor @ Master
-      In Digital Advertising and Communications at the IE Business School, and
-      TEDxMadrid curator.\n"
+    content: >
+      Tomy is the CEO & founder of Complex Chaos, an applied collaborative AI
+      company backed by Village Global (chaired by Reid Hoffman and visionaries
+      like Bill Gates, Jeff Bezos, Mark Zuckerberg, Anne Wojcicki, Eric Smidt,
+      and many others). Tomy is also the CEO & Founder of Oneness Ventures,
+      investing in early-stage social-impact companies, with special focus on
+      Psychedelic Medicine, Transformative Technologies, Peace Technologies, and
+      Climate Change tech. He is the Chief Ambassador at Second Time Founders,
+      an invite-only community of seasoned and repeat founders committed to
+      creating responsible, conscious companies. Tomy is the Founder & CEO of
+      Findasense (exited), a global Customer Experience company with consulting,
+      agency and technology integrator capabilities. He is a fellow for On Deck
+      Angels (ODA), a continuous community for operator angels. Tomy is a member
+      of the Silicon Valley Entrepreneurs’ Organization (EO), Guest Lecturer at
+      Universidad Europea de Madrid, Professor @ Master In Digital Advertising
+      and Communications at the IE Business School, and TEDxMadrid curator.
   - name: Will Weinraub
     image: /images/WillWeinraub.jpg
     department:
@@ -1082,17 +1060,17 @@ team:
       - FUNDING
       - EXITED FOUNDER
     bulletpoints:
-      - >-
-        CEO & co-founder at OnChain Studios ($23M Series A led by a16z). Founder
-        at Local Leaders Collective backed by the Knight Foundation. CEO &
-        Founder of LiveNinja (Exited). 
-    content: "Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series
-      A led by a16z crypto), a web3 interactive studio on a mission to empower,
+      - "CEO & co-founder at OnChain Studios ($23M Series A led by a16z).
+        Founder at Local Leaders Collective backed by the Knight Foundation. CEO
+        & Founder of LiveNinja (Exited). "
+    content: >
+      Will Weinraub is the CEO & Co-founder at OnChain Studios ($23M Series A
+      led by a16z crypto), a web3 interactive studio on a mission to empower,
       educate, and entertain the next generation of collectors around the world.
       Will is the founder of the Local Leaders Collective (The LLC), an
       organization sponsored by the Knight Foundation and started by local
       entrepreneurs in South Florida. Will is the CEO & Co-founder of LiveNinja
       (exited), a video chat marketplace that connects people with experts in a
-      variety of subjects.\n"
+      variety of subjects.
 ---
 
