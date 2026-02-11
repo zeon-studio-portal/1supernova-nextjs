@@ -202,34 +202,50 @@ team:
       technical expertise with proven organizational leadership to help navigate
       critical challenges in scaling companies, implementing AI strategy, and
       developing high-performing teams. 
-  - name: JT Marino
-    image: /images/JT.jpg
+  - name: Dave Asprey
+    image: /images/Dave Asprey.jpg
     department:
-      - SCALE
-      - COACHING
-      - PRODUCT
-      - TECH
-      - CULTURE
+      - "FUNDING "
       - SCIENCE
+      - TECHNOLOGY
+      - GTM
+      - M&A
+      - COACHING
+      - SCALE
+      - MARKETING
     bulletpoints:
-      - "CEO & Founder at TN.com; bootstrapped to $250MM ARR (Merged with Serta
-        Simmons Bedding). Board member at Penn State. Maker, Mentor, and Angel
-        Investor. Member of EO and YPO. "
+      - Founder at Bulletproof Coffee. Founder/CEO of upgrade Labs (Top 100
+        podcast). Chairman of Silicon Valley Health Institute. 4x NYT
+        bestselling author. Wharton Grad.
     content: >
-      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
-      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
-      ARR profitably in 5 years, grew to 150 employees, and delivered "The
-      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
-      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
-      at Supernova, Penn State University's School of Business, and the
-      Philanthropic Asset Committee of the Arizona State University Foundation.
-      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
-      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
-      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
-      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
-      received eTail West’s Visionary of the Year Award and appeared in McGraw
-      Hill’s curriculum. JT studied computer science and mathematics at Penn
-      State University. He is based in Phoenix, AZ.
+      Dave Asprey is the founder of Bulletproof and one of the architects of the
+      modern biohacking movement. A four-time New York Times bestselling author,
+      CEO of Upgrade Labs, and host of The Human Upgrade podcast, Dave operates
+      at the intersection of entrepreneurship, biology, and peak
+      performance.<br>
+
+      Before becoming a global health innovator, Dave built and exited companies
+      in the early internet era and worked in cybersecurity and infrastructure
+      at scale. After facing serious health challenges despite professional
+      success, he applied an operator’s mindset to his own biology—testing,
+      measuring, and investing over $2M to systematically upgrade his
+      performance. The result was not only personal transformation, but the
+      creation of multiple billion-dollar markets, including MCT oil, collagen
+      protein, and functional coffee.<br>
+
+      For founders, Dave brings something rare: battle-tested entrepreneurial
+      experience combined with deep expertise in energy, cognition, resilience,
+      and longevity. He understands firsthand that scaling a company requires
+      scaling your nervous system, decision-making capacity, and physical
+      durability.
+
+      As the founder of 40 Years of Zen, a neuroscience-based executive
+      performance program, Dave mentors high-performing CEOs, investors, and
+      operators who want to think clearer, move faster, and lead at the
+      edge.<br>
+
+      He doesn’t just talk about optimization, he builds it, lives it, and
+      teaches founders how to sustain elite performance for the long game.
   - name: "Lindsay Nahmiache "
     image: /images/LindsayNahmiache.jpg
     department:
@@ -360,50 +376,34 @@ team:
       was very young, joining a group of awesome geeks as a teenager, to help
       build one of the US’s first internet services providers. He is based in
       Boston, Massachusetts.
-  - name: Dave Asprey
-    image: /images/Dave Asprey.jpg
+  - name: JT Marino
+    image: /images/JT.jpg
     department:
-      - "FUNDING "
-      - SCIENCE
-      - TECHNOLOGY
-      - GTM
-      - M&A
-      - COACHING
       - SCALE
-      - MARKETING
+      - COACHING
+      - PRODUCT
+      - TECH
+      - CULTURE
+      - SCIENCE
     bulletpoints:
-      - Founder at Bulletproof Coffee. Founder/CEO of upgrade Labs (Top 100
-        podcast). Chairman of Silicon Valley Health Institute. 4x NYT
-        bestselling author. Wharton Grad.
+      - "CEO & Founder at TN.com; bootstrapped to $250MM ARR (Merged with Serta
+        Simmons Bedding). Board member at Penn State. Maker, Mentor, and Angel
+        Investor. Member of EO and YPO. "
     content: >
-      Dave Asprey is the founder of Bulletproof and one of the architects of the
-      modern biohacking movement. A four-time New York Times bestselling author,
-      CEO of Upgrade Labs, and host of The Human Upgrade podcast, Dave operates
-      at the intersection of entrepreneurship, biology, and peak
-      performance.<br>
-
-      Before becoming a global health innovator, Dave built and exited companies
-      in the early internet era and worked in cybersecurity and infrastructure
-      at scale. After facing serious health challenges despite professional
-      success, he applied an operator’s mindset to his own biology—testing,
-      measuring, and investing over $2M to systematically upgrade his
-      performance. The result was not only personal transformation, but the
-      creation of multiple billion-dollar markets, including MCT oil, collagen
-      protein, and functional coffee.<br>
-
-      For founders, Dave brings something rare: battle-tested entrepreneurial
-      experience combined with deep expertise in energy, cognition, resilience,
-      and longevity. He understands firsthand that scaling a company requires
-      scaling your nervous system, decision-making capacity, and physical
-      durability.
-
-      As the founder of 40 Years of Zen, a neuroscience-based executive
-      performance program, Dave mentors high-performing CEOs, investors, and
-      operators who want to think clearer, move faster, and lead at the
-      edge.<br>
-
-      He doesn’t just talk about optimization, he builds it, lives it, and
-      teaches founders how to sustain elite performance for the long game.
+      JT is the CEO & Co-founder of Tuft & Needle (TN.com) merged with Serta
+      Simmons on August, 2018. His bootstrapped startup achieved $250 million in
+      ARR profitably in 5 years, grew to 150 employees, and delivered "The
+      Internet's Most Comfortable Mattress" with 100K+ 5-star reviews and the
+      industry's lowest return rate (\< 5%). JT serves on the Board of Directors
+      at Supernova, Penn State University's School of Business, and the
+      Philanthropic Asset Committee of the Arizona State University Foundation.
+      JT has been featured on USA Today, Entrepreneur, Forbes, Inc., Recode,
+      Buzzfeed, Mashable, among others, and he is a frequent keynote speaker at
+      startup and industry events such as SXSW, Startup Grind and ShopTalk. JT
+      has been named as one of The Recode 100, Arizona Republic’s 35 Under 35,
+      received eTail West’s Visionary of the Year Award and appeared in McGraw
+      Hill’s curriculum. JT studied computer science and mathematics at Penn
+      State University. He is based in Phoenix, AZ.
   - name: Johanna Mikkola
     image: /images/Johanna_Mikola.jpg
     department:
