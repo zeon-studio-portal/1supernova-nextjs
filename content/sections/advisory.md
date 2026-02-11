@@ -14,7 +14,7 @@ quote: >-
   wisdom, resources, & networks, we create oversized outcomes, together. ✨
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
-founder_image: /images/Founder.png
+founder_image: /images/burst_pattern.png
 facts_colors:
   - "#2caffb"
   - "#5BD9AD"
