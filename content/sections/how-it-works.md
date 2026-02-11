@@ -10,8 +10,8 @@ quote:
   quote_by: Barry Stamos, CEO & Co-founder SUPERNOVA
 process:
   - name: 01 - Apply 👩‍💻
-    content: "[Apply](https://form.typeform.com/to/AZuYcsWx) by uploading your pitch
-      deck. "
+    content: "[Apply](https://nova.1supernova.com/#/apply-with-ai) by uploading your
+      pitch deck. "
     button:
       enable: true
       label: Apply to Supernova 🚀
