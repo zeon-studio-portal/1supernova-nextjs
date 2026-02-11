@@ -202,7 +202,7 @@ team:
       technical expertise with proven organizational leadership to help navigate
       critical challenges in scaling companies, implementing AI strategy, and
       developing high-performing teams. 
-  - name: Dave Asprey
+  - name: "Dave Asprey "
     image: /images/Dave Asprey_copy(2).jpg
     department:
       - "FUNDING "
