@@ -38,7 +38,7 @@ lists:
   - name: Dr. Leo Rastogi
     image: /images/LeoRastogi.jpg
     designation: CEO & Founder
-    description: Bio-individualized wellness-focused clinics, resorts and living
+    description: Bio-individualized wellness-focused clinics, resorts, and living
       communities. 🌱
     case_study_link: ""
     video_link_button:
