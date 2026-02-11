@@ -27,7 +27,7 @@ banner:
     full_link: https://www.youtube.com/watch?v=YHkg4k7gnDA
   button:
     enable: true
-    label: Apply to Supernova
+    label: Apply With NOVA AI
     link: https://nova.1supernova.com/#/apply-with-ai
   founders:
     title: We back top founders 💛 scaling growth & impact
