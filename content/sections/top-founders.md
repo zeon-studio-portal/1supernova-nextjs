@@ -74,6 +74,6 @@ lists:
     brand_logo:
       width: "130"
       height: "45"
-      file: /images/Soul Spring.png
+      file: /images/Soul Spring_copy(1).png
 ---
 
