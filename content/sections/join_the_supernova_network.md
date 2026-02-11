@@ -14,7 +14,8 @@ description: >-
   takes to win the game.<br><br>We don't sit on the sidelines. We get in the
   game with you. Savage execution. We only back founders on a mission to build
   thriving businesses that make a real difference.<br><br> If that sounds like
-  you, [apply now](https://www.asksupernova.com), and let’s see if we’re a fit. 
+  you, [apply now](https://https://nova.1supernova.com/#/apply-with-ai), and
+  let’s see if we’re a fit. 
 button:
   enable: true
   label: Apply Now
