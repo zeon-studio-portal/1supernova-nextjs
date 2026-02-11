@@ -71,8 +71,8 @@ lists:
       label: ""
       full_link: ""
     brand_logo:
-      width: 0
-      height: 0
+      width: "130"
+      height: "45"
       file: /images/Soul Spring.png
 ---
 
