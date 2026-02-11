@@ -203,7 +203,7 @@ team:
       critical challenges in scaling companies, implementing AI strategy, and
       developing high-performing teams. 
   - name: "Dave Asprey "
-    image: /images/Dave Asprey_copy(2).jpg
+    image: /images/Dave Asprey_copy(3).jpg
     department:
       - "FUNDING "
       - SCIENCE
