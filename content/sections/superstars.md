@@ -203,7 +203,7 @@ team:
       critical challenges in scaling companies, implementing AI strategy, and
       developing high-performing teams. 
   - name: Dave Asprey
-    image: /images/Dave Asprey_copy(1).jpg
+    image: /images/Dave Asprey_copy(2).jpg
     department:
       - "FUNDING "
       - SCIENCE
@@ -231,21 +231,17 @@ team:
       measuring, and investing over $2M to systematically upgrade his
       performance. The result was not only personal transformation, but the
       creation of multiple billion-dollar markets, including MCT oil, collagen
-      protein, and functional coffee.<br>
-
-      For founders, Dave brings something rare: battle-tested entrepreneurial
-      experience combined with deep expertise in energy, cognition, resilience,
-      and longevity. He understands firsthand that scaling a company requires
-      scaling your nervous system, decision-making capacity, and physical
-      durability.
+      protein, and functional coffee. For founders, Dave brings something rare:
+      battle-tested entrepreneurial experience combined with deep expertise in
+      energy, cognition, resilience, and longevity. He understands firsthand
+      that scaling a company requires scaling your nervous system,
+      decision-making capacity, and physical durability.
 
       As the founder of 40 Years of Zen, a neuroscience-based executive
       performance program, Dave mentors high-performing CEOs, investors, and
-      operators who want to think clearer, move faster, and lead at the
-      edge.<br>
-
-      He doesn’t just talk about optimization, he builds it, lives it, and
-      teaches founders how to sustain elite performance for the long game.
+      operators who want to think clearer, move faster, and lead at the edge. He
+      doesn’t just talk about optimization, he builds it, lives it, and teaches
+      founders how to sustain elite performance for the long game.
   - name: "Lindsay Nahmiache "
     image: /images/LindsayNahmiache.jpg
     department:
