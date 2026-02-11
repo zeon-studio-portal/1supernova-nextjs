@@ -48,22 +48,22 @@ team:
       - MARKETING
       - TECHNOLOGY
     bulletpoints:
-      - "3x exited founder, 1 unicorn (Exit to Oracle); INBOX Marketing (Exit to
-        Responsys/IPO). Co-founder at 1heart.com. EIR at 500 Global (#1 in VC
-        Deal Counts & Exits). Advisor to 100+ Fortune 500 companies. Catalyst
-        and Superconnector. "
+      - "3x exited founder; Founder at INBOX Marketing (Exit to
+        Responsys/IPO/Unicorn Exit to Oracle). Co-founder at 1heart.com. EIR at
+        500 Global (#1 in VC Deal Counts & Exits). Advisor to 100+ Fortune 500
+        companies. Superconnector. "
     content: >
-      Barry's the Founder & CEO of SUPERNOVA, the #1 exited founder community.
-      Barry is the co-founder of 1heart (1heart.com), a human accelerator
-      enriching leaders lives. Barry is the former Entrepreneur-in-Residence at
-      500 Global, the most active global venture capital firm in the world (#1
-      in VC Deal Counts & Exits). Barry built and sold his first startup INBOX
-      Marketing in San Francisco to Responsys pre-IPO and exited to Oracle for
-      $1.6 Billion. Barry's been an intrapreneur, as Global Practice Leader of
-      Strategy & Innovation at Acxiom (NASDAQ: ACXM), where he helped build a
-      business unit from scratch to $315MM annual revenues that sold to IPG for
-      $2.3 Billion. Barry has been hired as a paid consultant to 20% of the
-      Fortune 500. Barry is a keynote speaker for work/life transformation.
+      Barry's the Founder & CEO of SUPERNOVA. Barry is the co-founder of 1heart
+      (1heart.com), a human accelerator enriching leaders lives. Barry is the
+      former Entrepreneur-in-Residence at 500 Global, the most active global
+      venture capital firm in the world (#1 in VC Deal Counts & Exits). Barry
+      built and sold his first startup INBOX Marketing in San Francisco to
+      Responsys pre-IPO and exited to Oracle for $1.6 Billion. Barry's been an
+      intrapreneur, as Global Practice Leader of Strategy & Innovation at Acxiom
+      (NASDAQ: ACXM), where he helped build a business unit from scratch to
+      $315MM annual revenues that sold to IPG for $2.3 Billion. Barry has been
+      hired as a paid consultant to 20% of the Fortune 500. Barry is a keynote
+      speaker for work/life transformation.
   - name: "Chris Staley "
     image: /images/ChristopherStaley.jpg
     department:
