@@ -15,7 +15,7 @@ process:
     button:
       enable: true
       label: Apply to Supernova 🚀
-      link: https://form.typeform.com/to/AZuYcsWx
+      link: https://nova.1supernova.com/#/apply-with-ai
   - name: 02 - Scorecard 📊
     content: "We review your deck and send you a custom scorecard with feedback from
       exited founders. "
