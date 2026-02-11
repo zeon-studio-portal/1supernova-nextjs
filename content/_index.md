@@ -28,7 +28,7 @@ banner:
   button:
     enable: true
     label: Apply to Supernova
-    link: https://form.typeform.com/to/AZuYcsWx
+    link: https://nova.1supernova.com/#/apply-with-ai
   founders:
     title: We back top founders 💛 scaling growth & impact
     brands:
