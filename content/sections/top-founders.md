@@ -65,7 +65,8 @@ lists:
   - name: Dr. Leo Rastogi
     image: /images/LeoRastogi.jpg
     designation: CEO & Founder
-    description: Soul Spring
+    description: Bio-individualized wellness-focused clinics, resorts and living
+      communities. 🌱
     case_study_link: ""
     video_link_button:
       label: ""
