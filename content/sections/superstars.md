@@ -361,7 +361,7 @@ team:
       build one of the US’s first internet services providers. He is based in
       Boston, Massachusetts.
   - name: Dave Asprey
-    image: /images/Dave Asprey.png
+    image: /images/Dave Asprey.jpg
     department:
       - "FUNDING "
       - SCIENCE
