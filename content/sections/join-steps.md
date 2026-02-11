@@ -24,6 +24,7 @@ lists:
       a STAR (Short-Term Advisory Relationship) agreement.
   - name: Funding
     content: We invest checks up to $2MM+ in 10-12 world-changing companies yearly
-      and provide them with a tiger team of exited founders.
+      and provide them with a tiger team of exited founders for oversized
+      returns.
 ---
 
