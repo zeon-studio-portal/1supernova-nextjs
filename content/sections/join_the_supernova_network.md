@@ -18,7 +18,7 @@ description: >-
 button:
   enable: true
   label: Apply Now
-  link: https://form.typeform.com/to/AZuYcsWx
+  link: https://nova.1supernova.com/#/apply-with-ai
 main_image: /images/colossal200m.png
 main_image_play_button:
   enable: true
