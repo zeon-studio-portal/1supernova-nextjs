@@ -23,7 +23,7 @@ lists:
     content: You add one exited founder to your team to hit key milestones and sign
       a STAR (Short-Term Advisory Relationship) agreement.
   - name: Funding
-    content: We invest checks of $1MM+ in 10-12 world-changing companies yearly and
-      provide them with a tiger team of exited founders.
+    content: We invest checks up to $2MM+ in 10-12 world-changing companies yearly
+      and provide them with a tiger team of exited founders.
 ---
 
