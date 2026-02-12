@@ -39,8 +39,8 @@ process:
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
   - name: 05 - Funding 💰
-    content: We invest $1MM+ in 10-12 world-changing companies each year and back
-      them with a tiger team of exited founders.
+    content: We invest up to $2MM+ in 10-12 world-changing companies each year and
+      back them with a tiger team of exited founders.
     button:
       enable: true
       label: See Reviews 🚀
