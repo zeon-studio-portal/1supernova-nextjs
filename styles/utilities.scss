@@ -20,3 +20,31 @@ code {
     @apply text-secondary-200 no-underline;
   }
 }
+
+.badge-border-gradient {
+  @apply relative;
+}
+
+.badge-border-gradient::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  padding: 1px;
+  overflow: hidden;
+  background: linear-gradient(
+    119.47deg,
+    #0aa5fe -10.19%,
+    #02ddeb 20.98%,
+    #fdd13b 47.06%,
+    #ff8f81 78.87%,
+    #c14ecf 111.95%
+  );
+  border-radius: inherit;
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask-composite: xor;
+  z-index: -1;
+}
+
