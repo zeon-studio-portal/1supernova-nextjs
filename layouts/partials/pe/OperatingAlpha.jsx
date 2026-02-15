@@ -2,8 +2,8 @@ import React from 'react';
 import SectionHeader from './SectionHeader';
 
 const OperatingAlpha = ({ data }) => {
-  return (
-    <section className="section bg-dark-secondary">
+  return data.enable && (
+    <section className="section bg-dark-secondary" id='operating-alpha'>
       <div className="container">
         <SectionHeader data={data} />
 

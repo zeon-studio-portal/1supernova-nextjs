@@ -5,8 +5,8 @@ import Link from 'next/link';
 import ArrowButton from '@components/ArrowButton';
 
 const EngagementModels = ({ data }) => {
-  return (
-    <section className="section">
+  return data.enable && (
+    <section className="section" id='engagement-models'>
       <div className="container">
         <SectionHeader data={data} />
 

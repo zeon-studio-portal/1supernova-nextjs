@@ -2,8 +2,8 @@ import React from 'react';
 import SectionHeader from './SectionHeader';
 
 const NovaProcess = ({ data }) => {
-  return (
-    <section className="section bg-dark-secondary">
+  return data.enable && (
+    <section className="section bg-dark-secondary" id='nova-process'>
       <div className="container">
         <SectionHeader data={data} />
         <div className="relative grid lg:grid-cols-5 gap-x-4 gap-y-6">

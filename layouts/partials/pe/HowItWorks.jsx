@@ -2,8 +2,8 @@ import React from 'react';
 import SectionHeader from './SectionHeader';
 
 const HowItWorks = ({ data }) => {
-  return (
-    <section className="section bg-primary-800">
+  return data.enable && (
+    <section className="section bg-primary-800" id='how-it-works'>
       <div className="container">
         <SectionHeader data={data} />
 
