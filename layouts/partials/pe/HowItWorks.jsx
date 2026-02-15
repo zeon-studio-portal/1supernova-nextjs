@@ -18,7 +18,7 @@ const HowItWorks = ({ data }) => {
                   'py-8 pl-16 text-2xl font-medium' +
                   (index % 2 === 0
                     ? ' bg-primary-1000/80'
-                    : ' bg-primary-1000/50')
+                    : ' bg-primary-1000/60')
                 }>
                 {item.category}
               </li>
