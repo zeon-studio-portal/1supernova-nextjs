@@ -89,7 +89,7 @@ the_difference:
 # HOW IT WORKS
 how_it_works:
   enable: true
-  badge: H"OW IT WORKS"
+  badge: "HOW IT WORKS"
   title: ✨Scaling efficiency✨
   subtitle: Traditional support models optimize for deliverables. Operators optimize for decisions, velocity, and measurable value creation.
   comparison_table:

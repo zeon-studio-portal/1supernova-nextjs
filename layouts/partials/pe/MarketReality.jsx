@@ -36,7 +36,7 @@ const MarketReality = ({ data }) => {
               </svg>
 
               <div>
-                <p className="mb-4 text-2xl font-semibold">
+                <p className="mb-4 text-xl sm:text-2xl font-semibold">
                   {data?.quote?.content}
                 </p>
                 <span>{data?.quote?.author}</span>
