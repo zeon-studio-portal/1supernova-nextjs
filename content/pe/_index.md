@@ -86,6 +86,41 @@ the_difference:
         - Hours → embedded
         - EBITDA uplift
 
+# HOW IT WORKS
+how_it_works:
+  enable: true
+  badge: H"OW IT WORKS"
+  title: ✨Scaling efficiency✨
+  subtitle: Traditional support models optimize for deliverables. Operators optimize for decisions, velocity, and measurable value creation.
+  comparison_table:
+    - category: Speed
+      traditional: 'Diagnose 6-12 weeks; phased execution.'
+      supernova: 'Immediate diagnosis; parallel execution; iterate daily.'
+    - category: Authority
+      traditional: 'Advisory only; committees + buy-in.'
+      supernova: 'Interim CRO/CTO/COO style control when needed.'
+    - category: Accountability
+      traditional: 'Diffuse ownership; engagement ends.'
+      supernova: 'Reputation at stake; direct intervention until results.'
+
+# THE NOVA PROCESS
+the_nova_process:
+  enable: true
+  badge: THE NOVA PROCESS
+  title: ✨Matching to Exited Founders✨
+  subtitle: High rates and tight margins mean alpha must be generated through operations—not just leverage.
+  process_steps:
+    - title: Apply
+      content: Share the portco context and the moments where mistakes are expensive.
+    - title: Scorecard
+      content: "Rapid triage of gaps: leadership, GTM, ops, AI/data, unit economics."
+    - title: Priorities
+      content: Define the value plan and the few moves that matter this quarter.
+    - title: Schedule
+      content: Expert calls within hours; embed teams where execution is required.
+    - title: Match
+      content: Operators selected for stage + pattern recognition + execution track record.
+
 # DELIVERS MOST VALUE
 most_value:
   enable: true
@@ -135,10 +170,13 @@ operating_alpha:
   subtitle: Financial engineering is over. Returns now come from execution.
   bullet_points:
     - title: Margins
+      emoji: '💸'
       subtitle: Tightening across every sector. Traditional cost-cutting is exhausted. The only lever left is operational excellence.
     - title: Talent
+      emoji: '👥'
       subtitle: The gap widens. Finding world-class operators who have walked this road before is your competitive advantage-and your biggest bot
     - title: AI
+      emoji: '🤖'
       subtitle: Adapt now. Operators who understand AI integration and can lead transformation through it are no longer optional—they're essential.
   content_box:
     title: Board-Level Operator Leverage
@@ -148,6 +186,56 @@ operating_alpha:
       - Embedded into portcos in days; not months
       - Direct execution support (not advisory)
       - Al-assisted diagnosis of portfolio bottlenecks
+
+
+# ENGAGEMENT MODELS
+engagement_models:
+  enable: true
+  badge: ENGAGEMENT MODELS
+  title: ✨Your Path to Supernova Success✨
+  subtitle: Scaling a startup is a game of high-stakes decisions. Every move matters, and the right mentors and advisors can mean the difference between exponential growth or costly mistakes.
+  models:
+    - title: Expert Access
+      price: $1k – $2.5k/hr
+      content: Fast calls for decision support and problem-solving.
+      icon: '/images/pe/icons/Expert Access.svg'
+      bullet_points:
+        - On-demand expert calls
+        - Pattern-matched operators
+        - Decision-level support
+      button:
+        enable: true
+        label: Get Started
+        link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
+    - title: Tiger Teams
+      price: $75k – $250k
+      content: Embedded operators to drive outcomes when time and risk are non-negotiable.
+      icon: '/images/pe/icons/Tiger Teams.svg'
+      highlight: true
+      bullet_points:
+        - Embedded operator teams
+        - Outcome-driven delivery
+        - Parallel execution streams
+        - Weekly progress reports
+      button:
+        enable: true
+        label: Get Started
+        link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
+    - title: Fund Retainer
+      price: Custom
+      content: Portfolio-wide coverage with preferred rates, rapid matching, and continuity.
+      icon: '/images/pe/icons/Fund Retainer.svg'
+      bullet_points:
+        - Portfolio-wide coverage
+        - Preferred rates
+        - Rapid matching SLA
+        - Dedicated account team
+      button:
+        enable: true
+        label: Get Started
+        link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
+
+# call to action
 call_to_action:
   enable: true
   title: Want the full deck + a tailored angle for your fund?

@@ -7,14 +7,16 @@ const OperatingAlpha = ({ data }) => {
       <div className="container">
         <SectionHeader data={data} />
 
-        <div className="grid grid-cols-12 gap-4">
-          <div className="col-span-7">
-            <ul >
+        <div className="grid md:grid-cols-12 gap-6">
+          <div className="md:col-span-7">
+            <ul>
               {data.bullet_points?.map((points, index) => (
                 <li
                   key={index}
-                  className="flex gap-2 rounded-2xl bg-dark-quaternary p-4 mb-2">
-                  <svg
+                  data-aos="fade-up"
+                  data-aos-delay={index * 100}
+                  className="mb-2 flex gap-3 rounded-2xl bg-dark-quaternary p-4 ">
+                    {points.emoji ? <span className='text-2xl'>{points.emoji}</span>:  <svg
                     width="24"
                     height="24"
                     viewBox="0 0 24 24"
@@ -55,28 +57,46 @@ const OperatingAlpha = ({ data }) => {
                         x2="33.1895"
                         y2="15.6812"
                         gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#0AA5FE"></stop>
-                        <stop offset="0.255208" stop-color="#02DDEB"></stop>
-                        <stop offset="0.46875" stop-color="#FDD13B"></stop>
-                        <stop offset="0.729167" stop-color="#FF8F81"></stop>
-                        <stop offset="1" stop-color="#C14ECF"></stop>
+                        <stop stopColor="#0AA5FE"></stop>
+                        <stop offset="0.255208" stopColor="#02DDEB"></stop>
+                        <stop offset="0.46875" stopColor="#FDD13B"></stop>
+                        <stop offset="0.729167" stopColor="#FF8F81"></stop>
+                        <stop offset="1" stopColor="#C14ECF"></stop>
                       </linearGradient>
                     </defs>
-                  </svg>
+                  </svg>}
+                
 
                   <div>
                     <h4 className="mb-2 text-xl font-semibold">
                       {points.title}
                     </h4>
-                    <p className='font-medium text-light-quaternary'>{points.subtitle}</p>
+                    <p className="font-medium text-light-quaternary">
+                      {points.subtitle}
+                    </p>
                   </div>
                 </li>
               ))}
             </ul>
           </div>
-          <div className="col-span-5">
-            <div className='bg-dark-quaternary p-8 rounded-2xl'>
-
+          <div className="md:col-span-5">
+            <div
+              className="h-full rounded-3xl bg-dark-quaternary p-8"
+              data-aos="fade-up"
+              data-aos-delay={data.bullet_points?.length * 100}>
+              <h4 className="mb-6 text-xl font-semibold">
+                {data.content_box.title}
+              </h4>
+              <ul>
+                {data.content_box.list.map((item, index) => (
+                  <li
+                    key={index}
+                    className="mb-3 flex gap-3 rounded-md bg-dark-primary px-4 py-2 text-base-sm font-medium">
+                    <span className="mt-2 inline-block size-1.5 flex-shrink-0 rounded-full bg-secondary-800"></span>
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
         </div>

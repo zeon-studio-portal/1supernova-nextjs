@@ -31,13 +31,63 @@ code {
   inset: 0;
   padding: 1px;
   overflow: hidden;
+  background: conic-gradient(
+    from var(--gradient-angle),
+    #0aa5fe,
+    #02ddeb,
+    #fdd13b,
+    #ff8f81,
+    #c14ecf,
+    #0aa5fe
+  );
+  border-radius: inherit;
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask-composite: xor;
+  z-index: -1;
+    animation: rotateBorder 4s linear infinite;
+}
+
+@keyframes rotateBorder {
+  0% {
+    --gradient-angle: 0deg;
+  }
+  100% {
+    --gradient-angle: 360deg;
+  }
+}
+
+@property --gradient-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+.bg-gradient-pe{
+  background: linear-gradient(90deg, #0AA5FE 0%, #02DDEB 25.52%, #FDD13B 46.88%, #FF8F81 72.92%, #C14ECF 100%);
+
+}
+.highlight-model-pe{
+  @apply relative;
+  box-shadow: 0px 0px 40px -10px #FBBD234D;
+  background: transparent !important;
+}
+
+.highlight-model-pe::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  padding: 2px;
+  overflow: hidden;
   background: linear-gradient(
     119.47deg,
-    #0aa5fe -10.19%,
-    #02ddeb 20.98%,
-    #fdd13b 47.06%,
-    #ff8f81 78.87%,
-    #c14ecf 111.95%
+    #0AA5FE -10.19%,
+    #02DDEB 20.98%,
+    #FDD13B 47.06%,
+    #FF8F81 78.87%,
+    #C14ECF 111.95%
   );
   border-radius: inherit;
   mask:
@@ -48,3 +98,11 @@ code {
   z-index: -1;
 }
 
+.highlight-model-pe::after {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  background: theme('colors.dark.quaternary');
+  border-radius: inherit;
+  z-index: -1;
+}
