@@ -7,7 +7,12 @@ const NovaProcess = ({ data }) => {
       <div className="container">
         <SectionHeader data={data} />
         <div className="relative grid lg:grid-cols-5 gap-x-4 gap-y-6">
-          <div className="bg-gradient-pe absolute top-8 h-px w-10/12 z-0 left-1/2 -translate-x-1/2 hidden lg:block" />
+          <div 
+            className="bg-gradient-pe absolute top-8 h-px z-0 left-[8.33%] hidden lg:block line-draw"
+            data-aos="line-draw"
+            data-aos-duration="1500"
+            data-aos-delay="200"
+          />
           {data.process_steps.map((step, index) => (
             <div
               key={index}

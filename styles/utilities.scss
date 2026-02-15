@@ -106,3 +106,22 @@ code {
   border-radius: inherit;
   z-index: -1;
 }
+
+/* Line drawing animation */
+.line-draw {
+  width: 0;
+  transition: width 1.5s ease-out;
+}
+
+[data-aos="line-draw"].aos-animate {
+  width: 83.333333%; /* w-10/12 equivalent */
+}
+
+@keyframes drawLine {
+  from {
+    width: 0;
+  }
+  to {
+    width: 83.333333%;
+  }
+}
