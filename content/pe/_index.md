@@ -14,7 +14,7 @@ banner:
   outline_button:
     enable: true
     label: See the difference
-    link: /contact
+    link: "#the-difference"
   facts:
     - title: INDUSTRIES
       prefix: ''

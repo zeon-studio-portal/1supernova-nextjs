@@ -4,7 +4,7 @@ import SectionHeader from './SectionHeader';
 const Difference = ({ data }) => {
   return (
     data.enable && (
-      <section className="section bg-dark-secondary">
+      <section className="section bg-dark-secondary" id='the-difference'>
         <div className="container">
           <SectionHeader data={data} />
 
