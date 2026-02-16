@@ -549,62 +549,64 @@
 }
 
 // Apply Step Component
-
+:root {
+  --secondary-value: 254, 201, 67;
+}
 .neon-line {
   height: 1px;
   background: linear-gradient(
     90deg,
     transparent 0%,
-    rgba(254, 201, 67, 0.5) 20%,
-    rgba(254, 201, 67, 1) 50%,
-    rgba(254, 201, 67, 0.5) 80%,
+    rgba(var(--secondary-value), 0.5) 20%,
+    rgba(var(--secondary-value), 1) 50%,
+    rgba(var(--secondary-value), 0.5) 80%,
     transparent 100%
   );
-  box-shadow: 0 0 10px rgba(254, 201, 67, 0.5);
+  box-shadow: 0 0 10px rgba(var(--secondary-value), 0.5);
 }
 .neon-card {
   @apply space-y-4 rounded-2xl border border-secondary-600/20 bg-gradient-to-br from-dark-secondary via-dark-secondary to-dark-quaternary px-6 py-8 text-center transition-colors duration-300 hover:border-secondary-600/40;
   box-shadow:
-    0 0 30px rgba(254, 201, 67, 0.062),
-    inset 0 1px rgba(254, 201, 67, 0.084);
+    0 0 30px rgba(var(--secondary-value), 0.062),
+    inset 0 1px rgba(var(--secondary-value), 0.084);
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .neon-card:hover {
   box-shadow:
-    0 0 40px rgba(254, 201, 67, 0.15),
-    0 0 60px rgba(254, 201, 67, 0.08),
-    inset 0 1px rgba(254, 201, 67, 0.15);
-  border-color: rgba(254, 201, 67, 0.3);
+    0 0 40px rgba(var(--secondary-value), 0.15),
+    0 0 60px rgba(var(--secondary-value), 0.08),
+    inset 0 1px rgba(var(--secondary-value), 0.15);
+  border-color: rgba(var(--secondary-value), 0.3);
   transform: translateY(-4px);
 }
 .neon-icon {
   @apply mb-4 inline-flex h-16 w-16 items-center justify-center rounded-2xl text-3xl text-secondary-600/80;
-  background: rgba(254, 201, 67, 0.1);
+  background: rgba(var(--secondary-value), 0.1);
   box-shadow:
-    0 0 20px rgba(254, 201, 67, 0.2),
-    inset 0 0 10px rgba(254, 201, 67, 0.1);
-  border: 1px solid rgba(254, 201, 67, 0.3);
+    0 0 20px rgba(var(--secondary-value), 0.2),
+    inset 0 0 10px rgba(var(--secondary-value), 0.1);
+  border: 1px solid rgba(var(--secondary-value), 0.3);
 }
 .neon-text-subtle {
   text-shadow:
-    0 0 10px rgba(254, 201, 67, 0.3),
-    0 0 20px rgba(254, 201, 67, 0.15);
+    0 0 10px rgba(var(--secondary-value), 0.3),
+    0 0 20px rgba(var(--secondary-value), 0.15);
 }
 
 .neon-button {
   position: relative;
-  background: linear-gradient(135deg, rgba(254, 201, 67, 1), #dc8f09);
+  background: linear-gradient(135deg, rgba(var(--secondary-value), 1), #dc8f09);
   box-shadow:
-    0 0 10px rgba(254, 201, 67, 0.5),
-    0 0 20px rgba(254, 201, 67, 0.3),
-    0 0 40px rgba(254, 201, 67, 0.15);
+    0 0 10px rgba(var(--secondary-value), 0.5),
+    0 0 20px rgba(var(--secondary-value), 0.3),
+    0 0 40px rgba(var(--secondary-value), 0.15);
   transition: all 0.3s ease;
 }
 .neon-button:hover {
   transform: translateY(-3px);
   box-shadow:
-    0 0 10px rgba(254, 201, 67, 0.1),
-    0 0 20px rgba(254, 201, 67, 0.1),
-    0 0 40px rgba(254, 201, 67, 0.1);
+    0 0 10px rgba(var(--secondary-value), 0.1),
+    0 0 20px rgba(var(--secondary-value), 0.1),
+    0 0 40px rgba(var(--secondary-value), 0.1);
 }
