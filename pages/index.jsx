@@ -2,6 +2,7 @@ import Base from '@layouts/Baseof';
 import { getListPage } from '@lib/contentParser';
 import Advisory from '@partials/Advisory';
 import AdvisoryGame from '@partials/AdvisoryGame';
+import ApplySteps from '@partials/ApplySteps';
 import Banner from '@partials/Banner';
 import Faq from '@partials/Faq';
 import GoSupernova from '@partials/GoSupernova';
@@ -14,13 +15,14 @@ import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
 import TopFounders from '@partials/TopFounders';
 import TrustedBrands from '@partials/TrustedBrands';
-import UploadAndApply from '@partials/UploadAndApply';
+// import UploadAndApply from '@partials/UploadAndApply';
 import WhySupernovaExists from '@partials/WhySupernovaExists';
 
 const Home = ({
   homepage,
   join_the_supernova_network,
-  upload_and_apply,
+  // upload_and_apply,
+  apply_steps,
   why_supernova_exists,
   testimonials_page,
   mission,
@@ -44,7 +46,8 @@ const Home = ({
       {/* The Supernova Advantage: join_the_supernova_network */}
       <JoinSupernovaNetwork data={join_the_supernova_network.frontmatter} />
       <JoinSteps join_steps={join_steps_page} />
-      <UploadAndApply data={upload_and_apply.frontmatter} />
+      {/* <UploadAndApply data={upload_and_apply.frontmatter} /> */}
+      <ApplySteps data={apply_steps.frontmatter} />
       <HowItWorks how_it_works={how_it_works_page} />
       <Testimonials testimonials={testimonials_page} />
       <Mission mission={mission} />
@@ -68,9 +71,10 @@ export const getStaticProps = async () => {
   const join_the_supernova_network = await getListPage(
     'content/sections/join_the_supernova_network.md'
   );
-  const upload_and_apply = await getListPage(
-    'content/sections/upload-and-apply.md'
-  );
+  // const upload_and_apply = await getListPage(
+  //   'content/sections/upload-and-apply.md'
+  // );
+  const apply_steps = await getListPage('content/sections/apply-steps.md');
   const why_supernova_exists = await getListPage(
     'content/sections/why-supernova-exists.md'
   );
@@ -93,7 +97,8 @@ export const getStaticProps = async () => {
     props: {
       homepage: homepage,
       join_the_supernova_network: join_the_supernova_network,
-      upload_and_apply: upload_and_apply,
+      // upload_and_apply: upload_and_apply,
+      apply_steps: apply_steps,
       why_supernova_exists: why_supernova_exists,
 
       testimonials_page: testimonials,
