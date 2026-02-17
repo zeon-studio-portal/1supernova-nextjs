@@ -11,13 +11,16 @@ button:
 step_list:
   - title: Scorecard
     content: Upload your pitch deck and basic details to see if you qualify for Supernova.
-    icon: IoDocumentTextOutline
+    icon: IoDocumentTextOutline # react icons
+    link: "https://nova.1supernova.com/#/apply-with-ai"
   - title: Matching
     content: We match you with vetted exited founders for complimentary strategy calls.
-    icon: FaRegStar
+    icon: FaRegStar # react icons
+    link: "https://nova.1supernova.com/#/apply-with-ai"
   - title: Funding
     content: We invest from our exited founder fund  and/or refer you to co-investors
-    icon: LuUsers
+    icon: LuUsers # react icons
+    link: "https://nova.1supernova.com/#/apply-with-ai"
 
 
 card_list:

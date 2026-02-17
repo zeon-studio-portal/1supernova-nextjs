@@ -48,7 +48,7 @@ const ApplySteps = ({ data }) => {
 
           <div className="my-12 grid gap-8 md:grid-cols-3 md:gap-10">
             {step_list.map((step, index) => (
-              <div data-aos="fade-up" data-aos-delay={index * 200} key={index}>
+              <Link href={step.link} className='block' data-aos="fade-up" data-aos-delay={index * 200} key={index}>
                 <div className="neon-card h-full">
                   <div className="neon-icon ">
                     <DynamicIcon icon={step.icon} />
@@ -64,7 +64,7 @@ const ApplySteps = ({ data }) => {
                     {step.content}
                   </p>
                 </div>
-              </div>
+              </Link>
             ))}
           </div>
 
