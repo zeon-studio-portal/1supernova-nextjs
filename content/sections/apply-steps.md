@@ -20,7 +20,7 @@ step_list:
     icon: FaRegStar
     link: https://nova.1supernova.com/#/apply-with-ai
   - title: Funding
-    content: We invest from our exited founder fund  and/or refer you to co-investors
+    content: Standout? Get fast-tracked for investment.
     icon: LuUsers
     link: https://nova.1supernova.com/#/apply-with-ai
 
