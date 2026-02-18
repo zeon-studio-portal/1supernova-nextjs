@@ -2,6 +2,7 @@ import { defineConfig } from 'tinacms';
 import aboutUs from './collections/about-us';
 import advisory from './collections/advisory';
 import advisory_game from './collections/advisory_game';
+import applySteps from './collections/apply-steps';
 import caseStudies from './collections/case-studies';
 import faq from './collections/faq';
 import announcement from './collections/global/announcement';
@@ -48,6 +49,7 @@ export default defineConfig({
       caseStudies,
       aboutUs,
       advisory,
+      applySteps,
       joinSupernovaNetwork,
       joinSteps,
       uploadAndApply,

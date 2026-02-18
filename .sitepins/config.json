@@ -30,8 +30,8 @@
     },
     {
       "type": "file",
-      "targetPath": "content/sections/upload-and-apply.md",
-      "groupName": "Upload & Apply"
+      "targetPath": "content/sections/apply-steps.md",
+      "groupName": "Apply Steps: Let’s see if you are a fit?"
     },
     {
       "type": "file",
@@ -127,8 +127,6 @@
     }
   ],
   "public": "public",
-  "configs": [
-    "config"
-  ],
+  "configs": ["config"],
   "custom-commit": false
 }

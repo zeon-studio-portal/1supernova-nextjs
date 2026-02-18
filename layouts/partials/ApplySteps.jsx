@@ -21,7 +21,7 @@ const ApplySteps = ({ data }) => {
     enable && (
       <section
         id="join_the_supernova_network"
-        className=" relative isolate py-24 before:absolute before:inset-0 before:-z-10 before:bg-gradient-to-b before:from-dark-primary before:to-dark-primary/50"
+        className=" relative isolate py-24 before:absolute before:inset-0 before:-z-10 before:bg-gradient-to-b before:from-dark-primary/80 before:to-dark-primary/20"
         style={{
           backgroundImage: `url(${background_image})`,
           backgroundSize: 'cover',
@@ -48,15 +48,16 @@ const ApplySteps = ({ data }) => {
 
           <div className="my-12 grid gap-8 md:grid-cols-3 md:gap-10">
             {step_list.map((step, index) => (
-              <Link href={step.link} className='block' data-aos="fade-up" data-aos-delay={index * 200} key={index}>
+              <Link
+                href={step.link}
+                className="block"
+                data-aos="fade-up"
+                data-aos-delay={index * 200}
+                key={index}>
                 <div className="neon-card h-full">
                   <div className="neon-icon ">
                     <DynamicIcon icon={step.icon} />
                   </div>
-
-                  <h3 className="neon-text-subtle text-h2 font-bold text-secondary-800/30">
-                    0{index + 1}
-                  </h3>
                   <h4 className="text-2xl font-bold text-light-primary">
                     {step.title}
                   </h4>
@@ -84,7 +85,7 @@ const ApplySteps = ({ data }) => {
                 data-aos="fade-up-sm"
                 data-aos-delay={index * 100}
                 key={index}
-                className="flex items-start gap-4 rounded-lg bg-dark-quaternary/90 p-4 text-start text-lg backdrop-blur-md">
+                className="flex items-start gap-4 rounded-lg bg-dark-quaternary/80 p-4 text-start text-lg backdrop-blur-md transition-all duration-300">
                 <svg
                   width="24"
                   height="24"

@@ -71,9 +71,6 @@ export const getStaticProps = async () => {
   const join_the_supernova_network = await getListPage(
     'content/sections/join_the_supernova_network.md'
   );
-  // const upload_and_apply = await getListPage(
-  //   'content/sections/upload-and-apply.md'
-  // );
   const apply_steps = await getListPage('content/sections/apply-steps.md');
   const why_supernova_exists = await getListPage(
     'content/sections/why-supernova-exists.md'
