@@ -20,7 +20,6 @@ import superstars from './collections/superstars';
 import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
 import trustedBrands from './collections/trusted-brands';
-import uploadAndApply from './collections/uploadAndApply';
 import whySuperNovaExists from './collections/whySuperNovaExists';
 
 export default defineConfig({
@@ -52,7 +51,6 @@ export default defineConfig({
       applySteps,
       joinSupernovaNetwork,
       joinSteps,
-      uploadAndApply,
       howItWorks,
       testimonials,
       mission,

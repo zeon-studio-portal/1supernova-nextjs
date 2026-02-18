@@ -15,13 +15,11 @@ import Superstars from '@partials/Superstars';
 import Testimonials from '@partials/Testimonials';
 import TopFounders from '@partials/TopFounders';
 import TrustedBrands from '@partials/TrustedBrands';
-// import UploadAndApply from '@partials/UploadAndApply';
 import WhySupernovaExists from '@partials/WhySupernovaExists';
 
 const Home = ({
   homepage,
   join_the_supernova_network,
-  // upload_and_apply,
   apply_steps,
   why_supernova_exists,
   testimonials_page,
@@ -46,7 +44,6 @@ const Home = ({
       {/* The Supernova Advantage: join_the_supernova_network */}
       <JoinSupernovaNetwork data={join_the_supernova_network.frontmatter} />
       <JoinSteps join_steps={join_steps_page} />
-      {/* <UploadAndApply data={upload_and_apply.frontmatter} /> */}
       <ApplySteps data={apply_steps.frontmatter} />
       <HowItWorks how_it_works={how_it_works_page} />
       <Testimonials testimonials={testimonials_page} />
