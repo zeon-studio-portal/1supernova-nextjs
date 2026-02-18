@@ -26,6 +26,6 @@ step_list:
 
 card_list:
   - title: Get Your Founder Scorecard for FREE
-  - title: Get Matched With Exited Founders
-  - title: "Standout? Get fast-tracked for investment. "
+  - title: Get Matched With Vetted Exited Founders
+  - title: Qualify For Capital From Our Fund & Investment Partners
 ---
