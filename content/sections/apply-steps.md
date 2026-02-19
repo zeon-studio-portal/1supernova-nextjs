@@ -27,5 +27,6 @@ step_list:
 card_list:
   - title: Get Your Founder Scorecard for FREE
   - title: Get Matched With Vetted Exited Founders
-  - title: "Get Capital From Our Exited Founder Fund "
+  - title: Get Capital From Our Fund & Investment Partners
 ---
+​
