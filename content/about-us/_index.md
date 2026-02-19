@@ -63,15 +63,14 @@ why_supernova_exists:
     high-level, but rarely get hands-on to solve problems and implement
     solutions.
   content_right: >
-    **The perfect advisor does not exist**, but a dynamic team that adapts to
+    **The perfect founder does not exist**, but a dynamic team that adapts to
     your current company challenges, and knows what you are going through
     because they too have been a founder is “the perfect advisor.” <br/><br/>
 
 
-    **Supernova is the future of startup advising.** We are the first and only
-    resource able to curate successfully exited entrepreneurs and adapt that
-    team to serve the evolving priorities and challenges of your company.
-    <br/><br/>
+    **Supernova is a growth multiplier.** We are the first and only resource
+    able to curate successfully exited entrepreneurs and adapt that team to
+    serve the evolving priorities and challenges of your company. <br/><br/>
 
 
     **Our mission is to accelerate the realization of the founder's vision**
