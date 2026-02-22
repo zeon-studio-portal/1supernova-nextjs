@@ -21,6 +21,7 @@ import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
 import trustedBrands from './collections/trusted-brands';
 import whySuperNovaExists from './collections/whySuperNovaExists';
+import pe from './collections/pe';
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
@@ -47,6 +48,7 @@ export default defineConfig({
       pages,
       caseStudies,
       aboutUs,
+      pe,
       advisory,
       applySteps,
       joinSupernovaNetwork,
