@@ -90,6 +90,16 @@
     },
     {
       "type": "heading",
+      "groupName": "PE Page",
+      "targetPath": ""
+    },
+    {
+      "type": "file",
+      "targetPath": "content/pe/_index.md",
+      "groupName": "PE Index"
+    },
+    {
+      "type": "heading",
       "groupName": "About Us Page",
       "targetPath": ""
     },
