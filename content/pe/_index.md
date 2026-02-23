@@ -40,7 +40,7 @@ banner:
 the_market_reality:
   enable: true
   badge: The Market Reality
-  title: ✨The era of financial engineering is over.✨
+  title: The era of financial engineering is over.
   subtitle: High rates and tight margins mean alpha must be generated through
     operations—not just leverage.
   quote:
