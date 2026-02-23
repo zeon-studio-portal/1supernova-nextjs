@@ -5,7 +5,7 @@ description: >-
 banner:
   badge: THE NEXT ERA OF VALUE CREATION
   title: Bringing venture energy <br> to **private equity.**
-  subtitle: Exited founders as a service. Board-level operator leverage for
+  subtitle: Exited founders-as-a-service. Board-level operator leverage for
     portfolio companies via instant access to exited founders who've scaled and
     exited from ~$10M to $10B+. <br> Not consulting. Not coaching.
     Execution-oriented expertise at speed.
