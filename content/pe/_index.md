@@ -196,8 +196,8 @@ operating_alpha:
   bullet_points:
     - title: Margins
       emoji: 💸
-      subtitle: Tightening across every sector. Traditional cost-cutting is exhausted.
-        The only lever left is operational excellence.
+      subtitle: Operating excellence is the only lever left; venture operators know
+        how to drive efficiency without stifling growth.
     - title: Talent
       emoji: 👥
       subtitle: The gap widens. Finding world-class operators who have walked this
