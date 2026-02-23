@@ -161,7 +161,8 @@ most_value:
       content: Traditional support is often too slow and too theoretical.
       icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
-      content: Ports need modernization-but lack execution DNA.
+      content: Adopt now; our opterators know how to integrate AI to accelerate
+        execution.
       icon: /images/pe/icons/The Al imperative.svg
     - title: Exit acceleration
       content: Operator-led growth initiatives to position portcos for IPO or
