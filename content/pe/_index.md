@@ -112,9 +112,11 @@ how_it_works:
       traditional: "Every engagement is run through a defined framework with clear
         objectives and OKRS. "
       supernova: A dedicated Client Engagement Manager ensures focus, pace and delivery.
-    - category: Accountability
-      traditional: Diffuse ownership; engagement ends.
-      supernova: Reputation at stake; direct intervention until results.
+    - category: Accountability by design
+      traditional: Exited founders are scored and ranked on output, not advance. The
+        system continuously reinforces what works and removes what doesn't.
+      supernova: This is a repeatable playbook build by operators, designed to deliver
+        results, not recommendations
 
 # THE NOVA PROCESS
 the_nova_process:
