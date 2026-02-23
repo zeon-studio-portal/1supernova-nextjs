@@ -115,7 +115,7 @@ how_it_works:
     - category: Accountability by design
       traditional: Exited founders are scored and ranked on output, not advance. The
         system continuously reinforces what works and removes what doesn't.
-      supernova: This is a repeatable playbook build by operators, designed to deliver
+      supernova: This is a repeatable playbook built by operators, designed to deliver
         results, not recommendations
 
 # THE NOVA PROCESS
