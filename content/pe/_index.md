@@ -200,8 +200,8 @@ operating_alpha:
         how to drive efficiency without stifling growth.
     - title: Talent
       emoji: 👥
-      subtitle: The gap widens. Finding world-class operators who have walked this
-        road before is your competitive advantage-and your biggest bot
+      subtitle: The gap widens. World-class operators who have walked this road before
+        are your competitive advantage.
     - title: AI
       emoji: 🤖
       subtitle: Adapt now. Operators who understand AI integration and can lead
