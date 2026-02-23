@@ -155,7 +155,8 @@ most_value:
       content: Fast triage and leadership support in the first 30-90 days.
       icon: /images/pe/icons/Post-acquisition stabilization.svg
     - title: Tightening Margins
-      content: Multiple expansion is no longer guaranteed.
+      content: Operational excellence is the only left; venture operators know how to
+        drive efficiency without stifling growth.
       icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
       content: World-class operators who've walked the road before are your
