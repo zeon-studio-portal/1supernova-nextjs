@@ -122,7 +122,7 @@ how_it_works:
 the_nova_process:
   enable: true
   badge: THE NOVA PROCESS
-  title: ✨Matching to Exited Founders✨
+  title: Matching to Exited Founders.
   subtitle: Share your context and inflection points where mistakes are costly. We
     triage gaps, set priorites, schedule calls within hours and match you with
     the exited founder/operator whose pattern recognition will flip your growth
