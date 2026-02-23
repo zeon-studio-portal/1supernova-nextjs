@@ -204,8 +204,8 @@ operating_alpha:
         are your competitive advantage.
     - title: AI
       emoji: 🤖
-      subtitle: Adapt now. Operators who understand AI integration and can lead
-        transformation through it are no longer optional—they're essential.
+      subtitle: Adapt now. Our operators know how to integrate AI to accelerate
+        execution.
   content_box:
     title: Board-Level Operator Leverage
     list:
