@@ -64,7 +64,7 @@ the_market_reality:
 the_difference:
   enable: true
   badge: The Difference
-  title: ✨Your unfair advantage✨
+  title: Your unfair advantage
   subtitle: Supernova connects funds and portcos with operators who have done it
     before-faster, with authority, and outcomes over optics.
   features:
