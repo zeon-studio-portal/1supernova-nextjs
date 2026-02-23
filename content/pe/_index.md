@@ -144,7 +144,7 @@ the_nova_process:
 most_value:
   enable: true
   badge: WHERE SUPERNOVA DELIVERS MOST VALUE
-  title: ✨Moments where mistakes are expensive & avoidable.✨
+  title: Moments where mistakes are expensive & avoidable.
   subtitle: Supernova connects funds and portcos with operators who have done it
     before-faster, with authority, and outcomes over optics.
   list:
