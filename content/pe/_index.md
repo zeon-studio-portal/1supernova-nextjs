@@ -108,9 +108,10 @@ how_it_works:
         on stage, pattern recognition, and prioritized results - not
         availability. "
       supernova: Immediate diagnosis; parallel execution; iterate daily.
-    - category: Authority
-      traditional: Advisory only; committees + buy-in.
-      supernova: Interim CRO/CTO/COO style control when needed.
+    - category: Managed execution
+      traditional: "Every engagement is run through a defined framework with clear
+        objectives and OKRS. "
+      supernova: A dedicated Client Engagement Manager ensures focus, pace and delivery.
     - category: Accountability
       traditional: Diffuse ownership; engagement ends.
       supernova: Reputation at stake; direct intervention until results.
