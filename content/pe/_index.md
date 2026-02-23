@@ -5,9 +5,9 @@ description: >-
 banner:
   badge: THE NEXT ERA OF VALUE CREATION
   title: Bringing venture energy <br> to **private equity.**
-  subtitle: Exited founders-as-a-service. Board-level operator leverage for
-    portfolio companies via instant access to exited founders who've scaled and
-    exited from ~$10M to $10B+. <br> Not consulting. Not coaching.
+  subtitle: <b>Exited-founders-as-a-service.™ <b/>Board-level operator leverage
+    for portfolio companies via instant access to exited founders who've scaled
+    and exited from ~$10M to $10B+. <br> Not consulting. Not coaching.
     Execution-oriented expertise at speed.
   background_image: /images/pe/pe-bg.png
   fill_button:
@@ -284,3 +284,4 @@ call_to_action:
     label: Contact Us
     link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
 ---
+​
