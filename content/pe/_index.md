@@ -222,7 +222,7 @@ operating_alpha:
 engagement_models:
   enable: true
   badge: ENGAGEMENT MODELS
-  title: ✨Your Path to Supernova Success✨
+  title: Your path to Supernova success.
   subtitle: Scaling a startup is a game of high-stakes decisions. Every move
     matters, and the right mentors and advisors can mean the difference between
     exponential growth or costly mistakes.
