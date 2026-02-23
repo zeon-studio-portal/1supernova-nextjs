@@ -64,7 +64,7 @@ the_market_reality:
 the_difference:
   enable: true
   badge: The Difference
-  title: Your unfair advantage
+  title: Your unfair advantage.
   subtitle: Supernova connects funds and portcos with operators who have done it
     before-faster, with authority, and outcomes over optics.
   features:
@@ -98,7 +98,7 @@ the_difference:
 how_it_works:
   enable: true
   badge: HOW IT WORKS
-  title: ✨ A managed system for results ✨
+  title: A managed system for results.
   subtitle: "Supernova isn't a loose network of advisors. It's a structured
     operating system designed to turn existing founder expertise into measurable
     outcomes. "
