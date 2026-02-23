@@ -56,7 +56,8 @@ the_market_reality:
         operators move at the speed of execution and know how to win.
       icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
-      content: Ports need modernization-but lack execution DNA.
+      content: Portfolio companies need modernization but lack execution DNA; our
+        founders bring the know-how to integrate AI and other modern tools.
       icon: /images/pe/icons/The Al imperative.svg
 
 # The Difference
