@@ -158,7 +158,8 @@ most_value:
       content: Multiple expansion is no longer guaranteed.
       icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
-      content: Traditional support is often too slow and too theoretical.
+      content: World-class operators who've walked the road before are your
+        competitive advantage.
       icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
       content: Adopt now; our opterators know how to integrate AI to accelerate
