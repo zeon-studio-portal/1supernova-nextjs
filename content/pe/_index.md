@@ -52,7 +52,8 @@ the_market_reality:
         operational excellence.
       icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
-      content: Traditional support is often too slow and too theoretical.
+      content: Traditional support is often too slow and too theoretical; venture
+        operators move at the speed of execution and know how to win.
       icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
       content: Ports need modernization-but lack execution DNA.
