@@ -89,8 +89,8 @@ the_difference:
     - title: SUPERNOVA
       highlight: true
       list:
-        - Exited founders & operating partners as a service
-        - Hands-on execution, guided by OKRs and measurable outcomes
+        - Exited founders & operating partners
+        - Hands-on execution & measurable outcomes
         - Hours to embed → days to accelerate
         - EBITDA uplift & venture-style growth
 
