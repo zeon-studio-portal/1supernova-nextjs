@@ -144,7 +144,7 @@ the_nova_process:
 most_value:
   enable: true
   badge: WHERE SUPERNOVA DELIVERS MOST VALUE
-  title: Moments where mistakes are expensive & avoidable.
+  title: Moments where mistakes are expensive and avoidable.
   subtitle: Supernova connects funds and portcos with operators who have done it
     before-faster, with authority, and outcomes over optics.
   list:
@@ -272,7 +272,7 @@ engagement_models:
 # call to action
 call_to_action:
   enable: true
-  title: Want the full deck + a tailored angle for your fund?
+  title: Want the full deck + a tailored angle for your portco?
   content: Share your portfolio themes and we'll map where Supernova can compress
     time, reduce risk, and unlock value.
   button_fill:
