@@ -163,6 +163,10 @@ most_value:
     - title: The Al imperative
       content: Ports need modernization-but lack execution DNA.
       icon: /images/pe/icons/The Al imperative.svg
+    - title: Exit acceleration
+      content: Operator-led growth initiatives to position portcos for IPO or
+        strategic exit when markets reopen.
+      icon: ""
 
 # ✨Why Supernova✨
 why_supernova:
