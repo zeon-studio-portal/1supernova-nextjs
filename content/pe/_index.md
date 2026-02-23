@@ -174,7 +174,7 @@ most_value:
 # ✨Why Supernova✨
 why_supernova:
   enable: true
-  title: ✨Why Supernova✨
+  title: Why Supernova?
   subtitle: Supernova connects funds and portcos with operators who have done it
     before-faster, with authority, and outcomes over optics.
   list:
