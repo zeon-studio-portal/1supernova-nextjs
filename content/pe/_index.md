@@ -123,8 +123,10 @@ the_nova_process:
   enable: true
   badge: THE NOVA PROCESS
   title: ✨Matching to Exited Founders✨
-  subtitle: High rates and tight margins mean alpha must be generated through
-    operations—not just leverage.
+  subtitle: Share your context and inflection points where mistakes are costly. We
+    triage gaps, set priorites, schedule calls within hours and match you with
+    the exited founder/operator whose pattern recognition will flip your growth
+    switch back on.
   process_steps:
     - title: Apply
       content: Share the portco context and the moments where mistakes are expensive.
