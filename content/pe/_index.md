@@ -98,12 +98,15 @@ the_difference:
 how_it_works:
   enable: true
   badge: HOW IT WORKS
-  title: ✨Scaling efficiency✨
-  subtitle: Traditional support models optimize for deliverables. Operators
-    optimize for decisions, velocity, and measurable value creation.
+  title: ✨ A managed system for results ✨
+  subtitle: "Supernova isn't a loose network of advisors. It's a structured
+    operating system designed to turn existing founder expertise into measurable
+    outcomes. "
   comparison_table:
-    - category: Speed
-      traditional: Diagnose 6-12 weeks; phased execution.
+    - category: Structured matching
+      traditional: "We diagnose portfolio needs fast, and match exited founders based
+        on stage, pattern recognition, and prioritized results - not
+        availability. "
       supernova: Immediate diagnosis; parallel execution; iterate daily.
     - category: Authority
       traditional: Advisory only; committees + buy-in.
