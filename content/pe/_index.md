@@ -4,7 +4,7 @@ description: >-
   Supernova is a force multiplier for modern private equity.
 banner:
   badge: THE NEXT ERA OF VALUE CREATION
-  title: Bringing venture energy to **private equity.**
+  title: Bringing venture energy <br> to **private equity.**
   subtitle: Exited founders as a service. Board-level operator leverage for
     portfolio companies via instant access to exited founders who've scaled and
     exited from ~$10M to $10B+. Not consulting. Not coaching. Execution-oriented
