@@ -194,7 +194,7 @@ why_supernova:
 # Operating Alpha
 operating_alpha:
   enable: true
-  title: ✨Operating Alpha is Everything✨
+  title: Operating Alpha is everything.
   subtitle: Financial engineering is over. Returns now come from execution.
   bullet_points:
     - title: Margins
