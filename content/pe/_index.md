@@ -149,7 +149,7 @@ most_value:
     before-faster, with authority, and outcomes over optics.
   list:
     - title: Deal due diligence
-      content: Operator-grade diligence on product, GTM, and execution risk.
+      content: Operator-grade diligence on product / GTM / execution risk.
       icon: /images/pe/icons/Deal due diligence.svg
     - title: Post-acquisition stabilization
       content: Fast triage and leadership support in the first 30-90 days.
