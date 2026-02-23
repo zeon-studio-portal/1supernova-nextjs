@@ -4,9 +4,12 @@ description: >-
   Supernova is a force multiplier for modern private equity.
 banner:
   badge: THE NEXT ERA OF VALUE CREATION
-  title: Supernova is a force multiplier for modern **private equity.**
-  subtitle: Board-level operator leverage for portfolio companies-via instant access to exited founders who've scaled and exited from ~$10M to $10B+. Not consulting. Not coaching. Execution-oriented expertise at speed.
-  background_image: '/images/pe/pe-bg.png'
+  title: Bringing venture energy to **private equity.**
+  subtitle: Exited founders as a service. Board-level operator leverage for
+    portfolio companies via instant access to exited founders who've scaled and
+    exited from ~$10M to $10B+. Not consulting. Not coaching. Execution-oriented
+    expertise at speed.
+  background_image: /images/pe/pe-bg.png
   fill_button:
     enable: true
     label: Book call
@@ -17,48 +20,51 @@ banner:
     link: "#the-difference"
   facts:
     - title: INDUSTRIES
-      prefix: ''
+      prefix: ""
       number: 12
-      suffix: ''
+      suffix: ""
     - title: EXITED FOUNDERS
-      prefix: ''
+      prefix: ""
       number: 5000
-      suffix: '+'
+      suffix: +
     - title: EXIT VALUE
-      prefix: '$'
+      prefix: $
       number: 200
-      suffix: 'B+'
+      suffix: B+
     - title: ENTERPRISE VALUE
-      prefix: '$'
+      prefix: $
       number: 500
-      suffix: 'B+'
+      suffix: B+
 
 # The Market Reality
 the_market_reality:
   enable: true
   badge: The Market Reality
   title: ✨The era of financial engineering is over.✨
-  subtitle: High rates and tight margins mean alpha must be generated through operations—not just leverage.
+  subtitle: High rates and tight margins mean alpha must be generated through
+    operations—not just leverage.
   quote:
     content: Operational improvements are now the primary driver of PE returns."
-    author: '- industry consensus'
+    author: "- industry consensus"
   list:
     - title: Tightening Margins
-      content: Multiple expansion is no longer guaranteed.
-      icon: '/images/pe/icons/Tightening Margins.svg'
+      content: Multiple expansion is no longer guaranteed; growth must be earned with
+        operational excellence.
+      icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
       content: Traditional support is often too slow and too theoretical.
-      icon: '/images/pe/icons/The Talent Gap.svg'
+      icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
       content: Ports need modernization-but lack execution DNA.
-      icon: '/images/pe/icons/The Al imperative.svg'
+      icon: /images/pe/icons/The Al imperative.svg
 
 # The Difference
 the_difference:
   enable: true
   badge: The Difference
   title: ✨Your unfair advantage✨
-  subtitle: Supernova connects funds and portcos with operators who have done it before-faster, with authority, and outcomes over optics.
+  subtitle: Supernova connects funds and portcos with operators who have done it
+    before-faster, with authority, and outcomes over optics.
   features:
     - title: DIMENSION
       list:
@@ -89,26 +95,28 @@ the_difference:
 # HOW IT WORKS
 how_it_works:
   enable: true
-  badge: "HOW IT WORKS"
+  badge: HOW IT WORKS
   title: ✨Scaling efficiency✨
-  subtitle: Traditional support models optimize for deliverables. Operators optimize for decisions, velocity, and measurable value creation.
+  subtitle: Traditional support models optimize for deliverables. Operators
+    optimize for decisions, velocity, and measurable value creation.
   comparison_table:
     - category: Speed
-      traditional: 'Diagnose 6-12 weeks; phased execution.'
-      supernova: 'Immediate diagnosis; parallel execution; iterate daily.'
+      traditional: Diagnose 6-12 weeks; phased execution.
+      supernova: Immediate diagnosis; parallel execution; iterate daily.
     - category: Authority
-      traditional: 'Advisory only; committees + buy-in.'
-      supernova: 'Interim CRO/CTO/COO style control when needed.'
+      traditional: Advisory only; committees + buy-in.
+      supernova: Interim CRO/CTO/COO style control when needed.
     - category: Accountability
-      traditional: 'Diffuse ownership; engagement ends.'
-      supernova: 'Reputation at stake; direct intervention until results.'
+      traditional: Diffuse ownership; engagement ends.
+      supernova: Reputation at stake; direct intervention until results.
 
 # THE NOVA PROCESS
 the_nova_process:
   enable: true
   badge: THE NOVA PROCESS
   title: ✨Matching to Exited Founders✨
-  subtitle: High rates and tight margins mean alpha must be generated through operations—not just leverage.
+  subtitle: High rates and tight margins mean alpha must be generated through
+    operations—not just leverage.
   process_steps:
     - title: Apply
       content: Share the portco context and the moments where mistakes are expensive.
@@ -119,49 +127,52 @@ the_nova_process:
     - title: Schedule
       content: Expert calls within hours; embed teams where execution is required.
     - title: Match
-      content: Operators selected for stage + pattern recognition + execution track record.
+      content: Operators selected for stage + pattern recognition + execution track
+        record.
 
 # DELIVERS MOST VALUE
 most_value:
   enable: true
   badge: WHERE SUPERNOVA DELIVERS MOST VALUE
   title: ✨Moments where mistakes are expensive & avoidable.✨
-  subtitle: Supernova connects funds and portcos with operators who have done it before-faster, with authority, and outcomes over optics.
+  subtitle: Supernova connects funds and portcos with operators who have done it
+    before-faster, with authority, and outcomes over optics.
   list:
     - title: Deal due diligence
       content: Operator-grade diligence on product, GTM, and execution risk.
-      icon: '/images/pe/icons/Deal due diligence.svg'
+      icon: /images/pe/icons/Deal due diligence.svg
     - title: Post-acquisition stabilization
       content: Fast triage and leadership support in the first 30-90 days.
-      icon: '/images/pe/icons/Post-acquisition stabilization.svg'
+      icon: /images/pe/icons/Post-acquisition stabilization.svg
     - title: Tightening Margins
       content: Multiple expansion is no longer guaranteed.
-      icon: '/images/pe/icons/Tightening Margins.svg'
+      icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
       content: Traditional support is often too slow and too theoretical.
-      icon: '/images/pe/icons/The Talent Gap.svg'
+      icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
       content: Ports need modernization-but lack execution DNA.
-      icon: '/images/pe/icons/The Al imperative.svg'
+      icon: /images/pe/icons/The Al imperative.svg
 
 # ✨Why Supernova✨
 why_supernova:
   enable: true
   title: ✨Why Supernova✨
-  subtitle: Supernova connects funds and portcos with operators who have done it before-faster, with authority, and outcomes over optics.
+  subtitle: Supernova connects funds and portcos with operators who have done it
+    before-faster, with authority, and outcomes over optics.
   list:
     - title: Execution authority
       content: Expert access. Embedded hact
-      icon: '/images/pe/icons/Deal due diligence.svg'
+      icon: /images/pe/icons/Deal due diligence.svg
     - title: Speed
       content: Expert access. Embedded hact
-      icon: '/images/pe/icons/Post-acquisition stabilization.svg'
+      icon: /images/pe/icons/Post-acquisition stabilization.svg
     - title: Stage pattern recognition
       content: Expert access. Embedded hact
-      icon: '/images/pe/icons/The Talent Gap.svg'
+      icon: /images/pe/icons/The Talent Gap.svg
     - title: Engagement models
       content: Expert access. Embedded hact
-      icon: '/images/pe/icons/The Al imperative.svg'
+      icon: /images/pe/icons/The Al imperative.svg
 
 # Operating Alpha
 operating_alpha:
@@ -170,14 +181,17 @@ operating_alpha:
   subtitle: Financial engineering is over. Returns now come from execution.
   bullet_points:
     - title: Margins
-      emoji: '💸'
-      subtitle: Tightening across every sector. Traditional cost-cutting is exhausted. The only lever left is operational excellence.
+      emoji: 💸
+      subtitle: Tightening across every sector. Traditional cost-cutting is exhausted.
+        The only lever left is operational excellence.
     - title: Talent
-      emoji: '👥'
-      subtitle: The gap widens. Finding world-class operators who have walked this road before is your competitive advantage-and your biggest bot
+      emoji: 👥
+      subtitle: The gap widens. Finding world-class operators who have walked this
+        road before is your competitive advantage-and your biggest bot
     - title: AI
-      emoji: '🤖'
-      subtitle: Adapt now. Operators who understand AI integration and can lead transformation through it are no longer optional—they're essential.
+      emoji: 🤖
+      subtitle: Adapt now. Operators who understand AI integration and can lead
+        transformation through it are no longer optional—they're essential.
   content_box:
     title: Board-Level Operator Leverage
     list:
@@ -187,18 +201,19 @@ operating_alpha:
       - Direct execution support (not advisory)
       - Al-assisted diagnosis of portfolio bottlenecks
 
-
 # ENGAGEMENT MODELS
 engagement_models:
   enable: true
   badge: ENGAGEMENT MODELS
   title: ✨Your Path to Supernova Success✨
-  subtitle: Scaling a startup is a game of high-stakes decisions. Every move matters, and the right mentors and advisors can mean the difference between exponential growth or costly mistakes.
+  subtitle: Scaling a startup is a game of high-stakes decisions. Every move
+    matters, and the right mentors and advisors can mean the difference between
+    exponential growth or costly mistakes.
   models:
     - title: Expert Access
       price: $1k – $2.5k/hr
       content: Fast calls for decision support and problem-solving.
-      icon: '/images/pe/icons/Expert Access.svg'
+      icon: /images/pe/icons/Expert Access.svg
       bullet_points:
         - On-demand expert calls
         - Pattern-matched operators
@@ -209,8 +224,9 @@ engagement_models:
         link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
     - title: Tiger Teams
       price: $75k – $250k
-      content: Embedded operators to drive outcomes when time and risk are non-negotiable.
-      icon: '/images/pe/icons/Tiger Teams.svg'
+      content: Embedded operators to drive outcomes when time and risk are
+        non-negotiable.
+      icon: /images/pe/icons/Tiger Teams.svg
       highlight: true
       bullet_points:
         - Embedded operator teams
@@ -223,8 +239,9 @@ engagement_models:
         link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
     - title: Fund Retainer
       price: Custom
-      content: Portfolio-wide coverage with preferred rates, rapid matching, and continuity.
-      icon: '/images/pe/icons/Fund Retainer.svg'
+      content: Portfolio-wide coverage with preferred rates, rapid matching, and
+        continuity.
+      icon: /images/pe/icons/Fund Retainer.svg
       bullet_points:
         - Portfolio-wide coverage
         - Preferred rates
@@ -239,7 +256,8 @@ engagement_models:
 call_to_action:
   enable: true
   title: Want the full deck + a tailored angle for your fund?
-  content: Share your portfolio themes and we'll map where Supernova can compress time, reduce risk, and unlock value.
+  content: Share your portfolio themes and we'll map where Supernova can compress
+    time, reduce risk, and unlock value.
   button_fill:
     enable: true
     label: Book a call
