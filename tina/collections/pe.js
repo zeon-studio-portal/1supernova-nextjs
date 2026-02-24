@@ -358,6 +358,7 @@ const pe = {
             component: 'textarea',
           },
         },
+        
         {
           label: 'Lists',
           name: 'lists',
