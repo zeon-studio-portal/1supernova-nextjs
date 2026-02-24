@@ -12,7 +12,7 @@ const Accordion = ({ index, item }) => {
       <button
         className="relative block w-full px-7 py-4 text-left"
         onClick={() => setShow(!show)}>
-        {item.question}
+       <span className='inline-block mr-3'> {item.question}</span>
         <svg
           className={`absolute right-5 top-1/2 m-0 -translate-y-1/2 text-primary-800 ${
             show && 'rotate-180'

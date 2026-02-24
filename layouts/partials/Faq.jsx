@@ -8,7 +8,7 @@ const Faq = ({ faq }) => {
   const { social_media } = config;
 
   return (
-    faq.frontmatter.enable === true && (
+    faq.enable === true && (
       <section id="faqs" className="py-24">
         <div className="container">
           <div className="row">
@@ -18,12 +18,12 @@ const Faq = ({ faq }) => {
                   <AnimatedText
                     tag="h2"
                     className="text-5xl lg:text-6xl font-semibold mb-6 bg-gradient-text text-transparent bg-clip-text leading-[1.2]"
-                    content={faq.frontmatter.title}
+                    content={faq.title}
                   />
                 </div>
                 <div data-aos="fade-up-sm" data-aos-delay="100">
                   {markdownify(
-                    faq.frontmatter.subtitle,
+                    faq.subtitle,
                     'p',
                     'text-light-tertiary md:text-xl leading-normal has-link has-link-secondary mb-8 hidden md:block'
                   )}
@@ -51,7 +51,7 @@ const Faq = ({ faq }) => {
             </div>
 
             <div className="md:col-7">
-              {faq.frontmatter.lists.map((item, index) => (
+              {faq.lists.map((item, index) => (
                 <div key={index} data-aos="fade-up-sm">
                   <Accordion item={item} index={index} />
                 </div>
@@ -61,7 +61,7 @@ const Faq = ({ faq }) => {
                 className="mt-10 block text-center md:hidden"
                 data-aos="fade-up-sm">
                 {markdownify(
-                  faq.frontmatter.subtitle,
+                  faq.subtitle,
                   'p',
                   'text-light-tertiary leading-normal has-link has-link-secondary mb-8'
                 )}

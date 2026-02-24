@@ -17,14 +17,14 @@ banner:
   outline_button:
     enable: true
     label: See the difference
-    link: "#the-difference"
+    link: '#the-difference'
   facts:
     - title: INDUSTRIES
-      prefix: ""
+      prefix: ''
       number: 12
-      suffix: ""
+      suffix: ''
     - title: EXITED FOUNDERS
-      prefix: ""
+      prefix: ''
       number: 5000
       suffix: +
     - title: EXIT VALUE
@@ -45,18 +45,21 @@ the_market_reality:
     operations—not just leverage.
   quote:
     content: Operational improvements are now the primary driver of PE returns."
-    author: "- industry consensus"
+    author: '- industry consensus'
   list:
     - title: Tightening Margins
-      content: Multiple expansion is no longer guaranteed; growth must be earned with
+      content:
+        Multiple expansion is no longer guaranteed; growth must be earned with
         operational excellence.
       icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
-      content: Traditional support is often too slow and too theoretical; venture
+      content:
+        Traditional support is often too slow and too theoretical; venture
         operators move at the speed of execution and know how to win.
       icon: /images/pe/icons/The Talent Gap.svg
     - title: The Al imperative
-      content: Portfolio companies need modernization but lack execution DNA; our
+      content:
+        Portfolio companies need modernization but lack execution DNA; our
         founders bring the know-how to integrate AI and other modern tools.
       icon: /images/pe/icons/The Al imperative.svg
 
@@ -104,18 +107,22 @@ how_it_works:
     outcomes. "
   comparison_table:
     - category: Structured matching
-      traditional: "We diagnose portfolio needs fast, and match exited founders based
+      traditional:
+        'We diagnose portfolio needs fast, and match exited founders based
         on stage, pattern recognition, and prioritized results - not
-        availability. "
+        availability. '
       supernova: Immediate diagnosis; parallel execution; iterate daily.
     - category: Managed execution
-      traditional: "Every engagement is run through a defined framework with clear
-        objectives and OKRS. "
+      traditional:
+        'Every engagement is run through a defined framework with clear
+        objectives and OKRS. '
       supernova: A dedicated Client Engagement Manager ensures focus, pace and delivery.
     - category: Accountability by design
-      traditional: Exited founders are scored and ranked on output, not advance. The
+      traditional:
+        Exited founders are scored and ranked on output, not advance. The
         system continuously reinforces what works and removes what doesn't.
-      supernova: This is a repeatable playbook built by operators, designed to deliver
+      supernova:
+        This is a repeatable playbook built by operators, designed to deliver
         results, not recommendations
 
 # THE NOVA PROCESS
@@ -123,7 +130,8 @@ the_nova_process:
   enable: true
   badge: THE NOVA PROCESS
   title: Matching to Exited Founders.
-  subtitle: Share your context and inflection points where mistakes are costly. We
+  subtitle:
+    Share your context and inflection points where mistakes are costly. We
     triage gaps, set priorites, schedule calls within hours and match you with
     the exited founder/operator whose pattern recognition will flip your growth
     switch back on.
@@ -131,13 +139,14 @@ the_nova_process:
     - title: Apply
       content: Share the portco context and the moments where mistakes are expensive.
     - title: Scorecard
-      content: "Rapid triage of gaps: leadership, GTM, ops, AI/data, unit economics."
+      content: 'Rapid triage of gaps: leadership, GTM, ops, AI/data, unit economics.'
     - title: Priorities
       content: Define the value plan and the few moves that matter this quarter.
     - title: Schedule
       content: Expert calls within hours; embed teams where execution is required.
     - title: Match
-      content: Operators selected for stage + pattern recognition + execution track
+      content:
+        Operators selected for stage + pattern recognition + execution track
         record.
 
 # DELIVERS MOST VALUE
@@ -155,7 +164,8 @@ most_value:
       content: Fast triage and leadership support in the first 30-90 days.
       icon: /images/pe/icons/Post-acquisition stabilization.svg
     - title: Tightening Margins
-      content: Operational excellence is the only left; venture operators know how to
+      content:
+        Operational excellence is the only left; venture operators know how to
         drive efficiency without stifling growth.
       icon: /images/pe/icons/Tightening Margins.svg
     - title: The Talent Gap
@@ -169,7 +179,7 @@ most_value:
     - title: Exit acceleration
       content: Operator-led growth initiatives to position portcos for IPO or
         strategic exit when markets reopen.
-      icon: ""
+      icon: ''
 
 # ✨Why Supernova✨
 why_supernova:
@@ -199,11 +209,13 @@ operating_alpha:
   bullet_points:
     - title: Margins
       emoji: 💸
-      subtitle: Operating excellence is the only lever left; venture operators know
+      subtitle:
+        Operating excellence is the only lever left; venture operators know
         how to drive efficiency without stifling growth.
     - title: Talent
       emoji: 👥
-      subtitle: The gap widens. World-class operators who have walked this road before
+      subtitle:
+        The gap widens. World-class operators who have walked this road before
         are your competitive advantage.
     - title: AI
       emoji: 🤖
@@ -273,7 +285,8 @@ engagement_models:
 call_to_action:
   enable: true
   title: Want the full deck + a tailored angle for your portco?
-  content: Share your portfolio themes and we'll map where Supernova can compress
+  content:
+    Share your portfolio themes and we'll map where Supernova can compress
     time, reduce risk, and unlock value.
   button_fill:
     enable: true
@@ -283,5 +296,75 @@ call_to_action:
     enable: true
     label: Contact Us
     link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
+
+# FAQ
+faq:
+  enable: true
+  title: Frequently Asked Questions
+  subtitle: >-
+    Can’t find answers here? <br /> Feel free to [reach
+    out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
+
+  lists:
+    - question: What if we already have access to top advisors, board members, or operating partners?
+      answer: >-
+        Many funds do. The challenge is rarely access. It is activation and follow-through.
+        Supernova is designed for situations where experienced advisors exist but execution
+        stalls due to limited capacity, unclear ownership, or lack of sustained momentum.
+        Our model complements existing boards and operating partners by providing hands-on
+        support through a structured framework with clear objectives, delivery oversight,
+        and accountability for outcomes. In practice, Supernova often amplifies rather than
+        replaces the resources already around the table.
+
+    - question: Why Supernova in an AI-driven world?
+      answer: >-
+        AI has dramatically improved analysis and speed. It has not replaced judgment.
+        High-stakes decisions, particularly around growth, leadership, transformation,
+        and exit readiness, still depend on experience, pattern recognition, and judgment
+        under uncertainty. Supernova combines AI-assisted diagnosis with operators who
+        have personally navigated these decisions at scale.
+
+        Capital enables growth. Technology accelerates insight. Judgment determines outcomes.
+
+    - question: How is Supernova different from an expert network?
+      answer: >-
+        Expert networks are designed to provide access to knowledge. Supernova is designed
+        to deliver results. Each engagement runs through a defined operating framework with
+        clear priorities, agreed objectives, and delivery management. Advisors are selected
+        based on relevant execution experience, continuously evaluated based on impact, and
+        supported by a Client Engagement Manager responsible for ensuring progress. The
+        distinction is not the calibre of people. It is the structure around how they are deployed.
+
+    - question: How does this differ from consulting or a traditional operating partner model?
+      answer: >-
+        Consulting engagements typically conclude with recommendations, while operating
+        partner models often focus on capacity. Supernova is built for execution at speed.
+        Our operators engage when decisions must be made quickly and outcomes matter. In
+        some cases, they step into interim CRO, COO, or CTO-style roles to drive progress
+        directly. The focus is on compressing time to impact, not extending engagement duration.
+
+    - question: Where does Supernova create the most value?
+      answer: >-
+        Supernova is most effective in moments where execution risk is high and mistakes
+        are costly, including pre-deal and confirmatory diligence, the first 30 to 90 days
+        post-acquisition, growth slowdowns or leadership transitions, AI and operational
+        transformation, and exit or IPO readiness. It is not intended for long-term staff
+        augmentation or purely theoretical strategy work.
+
+    - question: How do you maintain quality and consistency across engagements?
+      answer: >-
+        Quality is managed through process and measurement. Advisors are continuously
+        assessed based on delivery and outcomes, not credentials alone. Engagements are
+        overseen by a dedicated Client Engagement Manager who ensures alignment, cadence,
+        and accountability. Performance data informs future matching and deployment decisions.
+        This feedback loop is central to maintaining standards across the platform.
+
+    - question: Why now?
+      answer: >-
+        The environment has changed. With tighter margins, uncertain multiple expansion,
+        and increasing operational complexity, value creation is increasingly driven by
+        execution rather than financial engineering. Supernova exists to support funds and
+        portfolio companies in this reality.
 ---
+
 ​

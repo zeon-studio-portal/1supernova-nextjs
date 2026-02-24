@@ -55,7 +55,7 @@ const Home = ({
       <GoSupernova go_supernova={go_supernova_page} />
       <JoinCommunity join_community={join_community_page} />
       <WhySupernovaExists data={why_supernova_exists.frontmatter} />
-      <Faq faq={faq_page} />
+      <Faq faq={faq_page.frontmatter} />
     </Base>
   );
 };

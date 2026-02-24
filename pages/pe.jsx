@@ -11,6 +11,7 @@ import OperatingAlpha from '@partials/pe/OperatingAlpha';
 import HowItWorks from '@partials/pe/HowItWorks';
 import NovaProcess from '@partials/pe/NovaProcess';
 import EngagementModels from '@partials/pe/EngagementModels';
+import Faq from '@partials/Faq';
 
 const PE = ({ pe }) => {
   const {
@@ -26,6 +27,7 @@ const PE = ({ pe }) => {
     operating_alpha,
     engagement_models,
     call_to_action,
+    faq,
   } = pe.frontmatter;
 
   return (
@@ -40,6 +42,7 @@ const PE = ({ pe }) => {
       <OperatingAlpha data={operating_alpha} />
       <EngagementModels data={engagement_models} />
       <CallToAction cta={call_to_action} />
+      <Faq faq={faq} />
     </Base>
   );
 };
