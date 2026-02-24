@@ -343,7 +343,49 @@ const pe = {
         },
       ],
     },
-  
+    {
+      label: 'FAQs',
+      name: 'faq',
+      type: 'object',
+      fields: [
+        { label: 'Enable', name: 'enable', type: 'boolean' },
+        { label: 'Title', name: 'title', type: 'string' },
+        {
+          label: 'Subtitle',
+          name: 'subtitle',
+          type: 'string',
+          ui: {
+            component: 'textarea',
+          },
+        },
+        {
+          label: 'Lists',
+          name: 'lists',
+          type: 'object',
+          list: true,
+          fields: [
+            {
+              label: 'Question',
+              name: 'question',
+              type: 'string',
+            },
+            {
+              label: 'Answer',
+              name: 'answer',
+              type: 'string',
+              ui: {
+                component: 'textarea',
+              },
+            },
+          ],
+          ui: {
+            itemProps: (item) => {
+              return { label: `${item?.question}` };
+            },
+          },
+        },
+      ],
+    },
   ],
 };
 export default pe;
