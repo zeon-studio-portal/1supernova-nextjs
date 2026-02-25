@@ -12,7 +12,7 @@ const Difference = ({ data }) => {
             className="grid gap-1 overflow-hidden  rounded-lg text-center sm:grid-cols-2 sm:gap-0 md:grid-cols-4"
             data-aos="fade-up">
             {data?.features?.map((feature, index) => (
-              <div key={index}>
+              <div key={index} className={`bg-dark-primary ${feature?.highlight && 'bg-primary-800'}`}>
                 <div
                   className={`bg-dark-primary ${feature?.highlight && 'bg-primary-800'} ${data?.features.length - 1 === index ? '' : 'border-r border-white/10'}`}>
                   <h3 className="border-b border-white/10 py-6 text-base-sm font-semibold uppercase">

@@ -107,21 +107,21 @@ how_it_works:
     outcomes. "
   comparison_table:
     - category: Structured matching
-      traditional:
+      traditional: |
         'We diagnose portfolio needs fast, and match exited founders based
         on stage, pattern recognition, and prioritized results - not
         availability. '
       supernova: Immediate diagnosis; parallel execution; iterate daily.
     - category: Managed execution
-      traditional:
+      traditional: |
         'Every engagement is run through a defined framework with clear
         objectives and OKRS. '
       supernova: A dedicated Client Engagement Manager ensures focus, pace and delivery.
     - category: Accountability by design
-      traditional:
+      traditional: |
         Exited founders are scored and ranked on output, not advance. The
         system continuously reinforces what works and removes what doesn't.
-      supernova:
+      supernova: |
         This is a repeatable playbook built by operators, designed to deliver
         results, not recommendations
 

@@ -14,7 +14,7 @@ const Accordion = ({ index, item }) => {
         onClick={() => setShow(!show)}>
        <span className='inline-block mr-3'> {item.question}</span>
         <svg
-          className={`absolute right-5 top-1/2 m-0 -translate-y-1/2 text-primary-800 ${
+          className={`absolute right-5 top-1/2 m-0 -translate-y-1/2 text-primary-800 transition-transform duration-300 ${
             show && 'rotate-180'
           }`}
           width="20"
@@ -28,7 +28,13 @@ const Accordion = ({ index, item }) => {
           />
         </svg>
       </button>
-      <div className={`px-7 pb-4 text-light-quaternary ${!show && 'hidden'}`}>
+      <div 
+        className={`overflow-hidden transition-all duration-300 ease-in-out px-7 text-light-quaternary`}
+        style={{
+          maxHeight: show ? '1000px' : '0px',
+          opacity: show ? 1 : 0,
+          paddingBottom: show ? '1rem' : '0px'
+        }}>
         {markdownify(item.answer)}
       </div>
     </div>
