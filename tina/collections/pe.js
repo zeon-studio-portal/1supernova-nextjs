@@ -143,6 +143,8 @@ const pe = {
         { label: 'Badge', name: 'badge', type: 'string' },
         { label: 'Title', name: 'title', type: 'string' },
         { label: 'Subtitle', name: 'subtitle', type: 'string' },
+        { label: 'List Title Traditional', name: 'list_title_traditional', type: 'string' },
+        { label: 'List Title Supernova', name: 'list_title_supernova', type: 'string' },
         {
           label: 'Comparison Table',
           name: 'comparison_table',

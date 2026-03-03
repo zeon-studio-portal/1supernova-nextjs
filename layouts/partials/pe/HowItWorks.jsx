@@ -100,7 +100,7 @@ const HowItWorks = ({ data }) => {
               data-aos-delay="200"
               className="relative z-10 flex  flex-col justify-between rounded-3xl bg-dark-quaternary p-6 text-center">
               <h3 className="mb-10 text-2xl font-semibold uppercase">
-                traditional
+                {data.list_title_traditional}
               </h3>
               <ul className="flex h-full flex-col justify-between gap-y-4">
                 {data.comparison_table.map((item, index) => (
@@ -119,7 +119,7 @@ const HowItWorks = ({ data }) => {
               data-aos-delay="400"
               className="relative z-10 flex  flex-col justify-between rounded-3xl bg-dark-quaternary p-6 text-center">
               <h3 className="mb-10 text-2xl font-semibold uppercase">
-                supernova
+                {data.list_title_supernova}
               </h3>
               <ul className="flex h-full flex-col justify-between gap-y-4">
                 {data.comparison_table.map((item, index) => (

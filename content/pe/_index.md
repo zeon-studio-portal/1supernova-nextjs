@@ -105,6 +105,8 @@ how_it_works:
   subtitle: "Supernova isn't a loose network of advisors. It's a structured
     operating system designed to turn existing founder expertise into measurable
     outcomes. "
+  list_title_traditional: Quick Wins
+  list_title_supernova: Supernova
   comparison_table:
     - category: Structured matching
       traditional: |
