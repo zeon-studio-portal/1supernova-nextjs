@@ -99,7 +99,7 @@ const HowItWorks = ({ data }) => {
               data-aos="fade-up"
               data-aos-delay="200"
               className="relative z-10 flex  flex-col justify-between rounded-3xl bg-dark-quaternary p-6 text-center">
-              <h3 className="mb-10 text-2xl font-semibold uppercase">
+              <h3 className="mb-5 text-2xl font-semibold uppercase">
                 {data.list_title_traditional}
               </h3>
               <ul className="flex h-full flex-col justify-between gap-y-4">
@@ -118,7 +118,7 @@ const HowItWorks = ({ data }) => {
               data-aos="fade-up"
               data-aos-delay="400"
               className="relative z-10 flex  flex-col justify-between rounded-3xl bg-dark-quaternary p-6 text-center">
-              <h3 className="mb-10 text-2xl font-semibold uppercase">
+              <h3 className="mb-5 text-2xl font-semibold uppercase">
                 {data.list_title_supernova}
               </h3>
               <ul className="flex h-full flex-col justify-between gap-y-4">
