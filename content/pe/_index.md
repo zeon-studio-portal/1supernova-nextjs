@@ -44,7 +44,7 @@ the_market_reality:
   subtitle: High rates and tight margins mean alpha must be generated through
     operations—not just leverage.
   quote:
-    content: Operational improvements are now the primary driver of PE returns."
+    content: Operational improvements are now the primary driver of PE returns.
     author: '- industry consensus'
   list:
     - title: Tightening Margins
