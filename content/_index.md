@@ -22,8 +22,8 @@ banner:
       - random quotes
   video_button:
     enable: true
-    label: Play Intro Video
-    subtitle: "with CEO & Founder <br> Barry Stamos "
+    label: See if you pass/fail
+    subtitle: Find out in minutes, not months
     image: /images/barry_stamos.png
     full_link: https://www.youtube.com/watch?v=YHkg4k7gnDA
   button:
