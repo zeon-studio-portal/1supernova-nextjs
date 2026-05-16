@@ -25,7 +25,7 @@ banner:
     label: See if you pass/fail
     subtitle: Find out in minutes, not months
     image: /images/barry_stamos.png
-    full_link: https://www.youtube.com/watch?v=YHkg4k7gnDA
+    full_link: nova.1supernova.com
   button:
     enable: true
     label: Get your NOVA AI scorecard free
