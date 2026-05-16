@@ -22,8 +22,8 @@ banner:
       - random quotes
   video_button:
     enable: true
-    label: See if you pass/fail
-    subtitle: Find out in minutes, not months
+    label: Find out in minutes, not months
+    subtitle: Get your free NOVA AI scorecard today
     image: /images/barry_stamos.png
     full_link: nova.1supernova.com
   button:
