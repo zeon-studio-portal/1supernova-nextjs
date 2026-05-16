@@ -10,9 +10,9 @@ banner:
       - /images/avatar/image-3.png
   title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
-  subtitle: We are 250+ exited founders serving as investors and hands-on
+  subtitle: "We are 250+ exited founders serving as investors and hands-on
     operating partners for scaleups. In the age of AI, the right relationships
-    are your only unfair advantage.
+    are your only unfair advantage. "
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
