@@ -11,8 +11,8 @@ banner:
   title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
   subtitle: 250+ exited founders serving as investors and hands-on operating
-    partners. In the age of AI, the right relationships are your only unfair
-    advantage.
+    partners for founders who refuse to leave growth to chance. In the age of
+    AI, the right relationships are your only unfair advantage.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
