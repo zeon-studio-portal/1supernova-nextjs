@@ -10,9 +10,9 @@ banner:
       - /images/avatar/image-3.png
   title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
-  subtitle: We are 250+ exited founders serving as investors and operating
-    partners to support founders scaling in the age of AI. Capital scales
-    companies. Judgment determines outcomes. 🚀
+  subtitle: 250+ exited founders serving as investors and operating partners to
+    support founders scaling in the age of AI. <br> Capital scales companies.
+    Judgment determines outcomes. </br>
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
