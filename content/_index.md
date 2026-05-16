@@ -28,7 +28,7 @@ banner:
     full_link: nova.1supernova.com
   button:
     enable: true
-    label: Get your NOVA AI scorecard free
+    label: Get your free NOVA AI scorecard
     link: https://nova.1supernova.com/#/apply-with-ai
   founders:
     title: We back top founders 💛 scaling growth & impact
