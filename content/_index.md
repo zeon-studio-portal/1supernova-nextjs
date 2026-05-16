@@ -10,8 +10,9 @@ banner:
       - /images/avatar/image-3.png
   title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
-  subtitle: 250+ exited founders serving as investors and operating partners serve
-    as one unfair advantage for founders scaling in the age of AI.
+  subtitle: 250+ exited founders serving as investors and hands-on operating
+    partners. In the age of AI, the only thing that can't be replicated in the
+    right relationships.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
