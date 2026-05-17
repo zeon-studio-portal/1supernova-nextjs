@@ -12,7 +12,7 @@ banner:
     It's Your Turn**
   subtitle: In the age of AI, relationships are your only unfair advantage. We are
     250+ exited founders serving as investors and hands-on operating partners
-    for scaleups built to last.
+    for scaleups building a better future.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: false
