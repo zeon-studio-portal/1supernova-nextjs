@@ -1,6 +1,6 @@
 ---
 enable: true
-title: What Supernova is
+title: We Aren't A Fit For Everyone
 quote:
   enable: true
   content: >+
