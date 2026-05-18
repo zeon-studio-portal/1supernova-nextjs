@@ -22,7 +22,7 @@ banner:
       - 70% of venture-backed startups fail
       - 9% Series A make it Series B < 2 years
       - 70% unicorns built by repeat founders
-      - 80% who sold have post-exit regrets
+      - 80% founders have post-exit regrets
   video_button:
     enable: true
     label: Find out in minutes, not months
