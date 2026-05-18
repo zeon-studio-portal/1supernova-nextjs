@@ -32,7 +32,7 @@ step_list:
 
 card_list:
   - title: The race isn't to zero.
-  - title: It's To Compounding Advantage
-  - title: Applied Pattern Recognition
+  - title: It's to compounding advantage
+  - title: And who is in your corner
 ---
 ​
