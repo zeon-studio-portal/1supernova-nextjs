@@ -13,8 +13,8 @@ quote: >-
   Most advice comes from people who haven't lived the consequences. Exited
   founders have. They've navigated hyper-growth, near-death quarters, board
   pressure, and exits. That's why they're the most trusted partners on your
-  journey. There are 350+ million entrepreneurs. Less than 1% exit. Supernova
-  gives you access to the rarest resource: **wisdom**, <br> when it matters
+  journey. There are 350+ million entrepreneurs. Less than 1% exit. **Supernova
+  gives you access to the rarest resource: wisdom**, <br> when it matters
   most.</br>
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
