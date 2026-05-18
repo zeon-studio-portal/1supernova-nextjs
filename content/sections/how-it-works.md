@@ -36,8 +36,8 @@ process:
       label: Watch Best Practices Webinar 🚀
       link: https://www.youtube.com/watch?v=iJhOa2l8jk4
   - name: 04 - What We Are Not  ❌
-    content: "Not an accelerator. Not a coaching platform. Not traditional VC. Not a
-      passive board. "
+    content: "❌ Not an accelerator. <br> ❌ Not a coaching platform. </br> <br> ❌ Not
+      traditional VC. </br><br> ❌ Not a passive board. </br> "
     button:
       enable: true
       label: Read FAQs 🚀
