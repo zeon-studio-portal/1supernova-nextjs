@@ -9,12 +9,11 @@ button:
   link: https://nova.1supernova.com/#/apply-with-ai
   enable: true
 step_list:
-  - title: The Race Isn't To Zero
-    content: AI isn't the moat. Every company has access to the same models, the
-      same tools, the same playbooks. The only real differentiator is judgment —
-      and judgment comes from people who've already won at scale. Supernova
-      brings you the exited founders who built the last revolution, now guiding
-      yours.
+  - title: "AI isn't the moat. "
+    content: Every company has access to the same models, the same tools, the same
+      playbooks. The only real differentiator is judgment — and judgment comes
+      from people who've already won at scale. Supernova brings you the exited
+      founders who built the last revolution, now guiding yours.
     icon: IoDocumentTextOutline
     link: https://nova.1supernova.com/#/apply-with-ai
   - title: "Decisions compound – or they don't "
