@@ -18,7 +18,7 @@ services_image: /images/upload_and_apply_bg.webp
 services_image_mobile: /images/upload_and_apply_bg.webp
 founder_image: /images/burst_pattern.png
 facts_colors:
-  - "#2caffb"
+  - "#F5C400"
   - "#5BD9AD"
   - "#fb9f71"
   - "#ca58c5"
