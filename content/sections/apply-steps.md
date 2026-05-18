@@ -33,6 +33,6 @@ step_list:
 card_list:
   - title: The race isn't to zero.
   - title: It's To Compounding Advantage
-  - title: "Applied Pattern Recognition "
+  - title: Applied Pattern Recognition
 ---
 ​
