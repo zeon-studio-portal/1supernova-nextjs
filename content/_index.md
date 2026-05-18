@@ -15,7 +15,7 @@ banner:
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: true
-    title: Proof this matters
+    title: Why we exist
     items:
       - Less than 1% of entrepreneurs exit
       - 70% of venture-backed startups fail
