@@ -13,7 +13,8 @@ step_list:
   - title: "AI isn't the moat. "
     content: "Every company has access to the same models, tools, and playbooks. The
       real differentiator is the judgment you apply. Judgment is forged through
-      pattern recognition that takes decades to develop.   "
+      pattern recognition that takes decades to develop. Few get it. They are
+      more valuable now than ever. "
     icon: IoDocumentTextOutline
     link: https://nova.1supernova.com/#/apply-with-ai
   - title: "Decisions compound – or they don't "
