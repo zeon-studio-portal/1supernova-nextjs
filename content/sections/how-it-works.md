@@ -21,7 +21,7 @@ process:
     content: "We back companies at critical inflection points where failure is not
       an option: growth acceleration 📈, AI transformation 🤖, executive talent
       👩🏽‍💻, market expansion 🌎, distribution 🏪, M&A 🌗, fundraising 💰, or
-      exit 🌟. "
+      exit to the right buyer🌟. "
     button:
       enable: true
       label: Exited Founders Back You 🚀
