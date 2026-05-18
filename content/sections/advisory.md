@@ -1,6 +1,7 @@
 ---
 enable: true
-title: 'In the Age of AI <br> Relationships Are Your Unfair Advantage. </br>'
+title: 'In the Age of AI <br> Relationships Are Your </br> <br> Unfair
+  Advantage. </br>'
 subtitle: >-
   Supernova has a proven track record of scaling companies to <a
   href="https://1supernova.com/#portfolio" target=_blank
