@@ -1,6 +1,6 @@
 ---
 enable: true
-title: About Supernova
+title: Supernova Snapshot
 quote:
   enable: true
   content: >+
@@ -18,20 +18,19 @@ process:
       enable: true
       label: Apply to Supernova 🚀
       link: https://nova.1supernova.com/#/apply-with-ai
-  - name: 02 - When we engage
-    content: "We invest capital. We earn sweat equity. We help companies at critical
-      inflection points where failure is not an option: growth acceleration, AI
-      transformation, executive talent, market expansion, M&A, fundraising or
-      exit. "
+  - name: 02 - When we engage ⚡
+    content: "We help companies at critical inflection points where failure is not
+      an option: growth acceleration, AI transformation, executive talent,
+      market expansion, distribution, M&A, fundraising, or exit. "
     button:
       enable: true
       label: Exited Founders Back You 🚀
       link: https://1supernova.com/#superstars
   - name: 03 - What We Are ✨
     content: "Operating partners embedded in your growth. <br> Exited founders with
-      real, lived pattern recognition. </br> <br> Capital that comes with
-      judgment attached. </br><br> Hands-on execution leverage - not theory.
-      </br> <br> A network that compounds across every chapter. </br> "
+      real, lived pattern recognition. </br> <br> Smart capital that comes with
+      benefits. </br><br> Hands-on execution leverage - not theory. </br> <br> A
+      network that compounds across every chapter. </br> "
     button:
       enable: true
       label: Watch Best Practices Webinar 🚀
@@ -44,7 +43,7 @@ process:
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
   - name: 05 - What Founders Gain 📊
-    content: >+
+    content: >-
       Six dimensions where existing founders rewire the trajectory of a company
       - quietly, then all at once. 
 
@@ -74,10 +73,9 @@ process:
 
 
       This is not mentorship. It's operator leverage.
-
     button:
       enable: true
-      label: See Reviews 🚀
+      label: See Founder Reviews 🚀
       link: https://1supernova.com/#reviews
 draft: false
 ---
