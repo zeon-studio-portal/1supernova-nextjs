@@ -18,7 +18,7 @@ banner:
     title: Proof this matters
     items:
       - Less than 1% of entrepreneurs exit
-      - 99% sacrifice and walk away with nothing
+      - 99% sacrifice and walk with nothing
       - 70% of VC-backed startups fail
       - "9% of Series A reach Series B "
       - Founders own 20% or less by Series C
