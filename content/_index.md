@@ -15,10 +15,12 @@ banner:
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: true
-    title: ""
+    title: Proof this matters
     items:
-      - "In the age of AI, relationships are your unfair advantage. "
-      - Why Supernova? Capital. Judgement. Operator Leverage.
+      - Less than 1% of entrepreneurs exit
+      - 70% of venture-backed startups fail
+      - 70% of unicorns are built by repeat founders
+      - 75% of founders have post-exit remorse
   video_button:
     enable: true
     label: Find out in minutes, not months
