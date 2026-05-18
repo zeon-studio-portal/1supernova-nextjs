@@ -14,10 +14,11 @@ banner:
     partners for scaleups shaping the future.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
-    enable: false
+    enable: true
     title: Quotes
     items:
-      - random quote 1
+      - Great companies aren't built on capital alone. They're guided by those
+        who have built, scaled and won and now pay-it-forward.
       - random quotes
   video_button:
     enable: true
