@@ -1,6 +1,6 @@
 ---
 enable: true
-title: How it works
+title: What Supernova is
 quote:
   enable: true
   content: >+
@@ -9,42 +9,47 @@ quote:
 
   quote_by: Barry Stamos, CEO & Co-founder SUPERNOVA
 process:
-  - name: 01 - Apply 👩‍💻
-    content: "[Apply](https://nova.1supernova.com/#/apply-with-ai) by uploading your
-      pitch deck. "
+  - name: 01 - Who we back 👩‍💻
+    content: Our primary focus is growth-stage ($5-100M+ ARR), Series A-C, and
+      PE-backed companies. We make exceptions for outliers seed/seed+). Rare. We
+      know them when we see them.
     button:
       enable: true
       label: Apply to Supernova 🚀
       link: https://nova.1supernova.com/#/apply-with-ai
-  - name: 02 - Scorecard 📊
-    content: "We review your deck and send you a custom scorecard with feedback from
-      exited founders. "
+  - name: 02 - When Founders Engage Us 📊
+    content: "Critical inflection points where failure is not an option: growth
+      acceleration, AI transformation, executive talent, market expansion, M&A,
+      fundraising or exit.  "
     button:
       enable: true
       label: Exited Founders Back You 🚀
       link: https://1supernova.com/#superstars
-  - name: 03 - Matching ✨
-    content: "You may receive complimentary call(s) with vetted exited founders who
-      can address your biggest challenges or opportunities. "
+  - name: 03 - What We Are ✨
+    content: "Operating partners embedded in your growth. Exited founders with real,
+      lived pattern recognition. Capital that comes with judgement attached.
+      Hands-on execution leverage - not theory. A network that compounds across
+      every chapter. "
     button:
       enable: true
       label: Watch Best Practices Webinar 🚀
       link: https://www.youtube.com/watch?v=iJhOa2l8jk4
-  - name: 04 - Exited Founders ⭐
-    content: >
-      You start with one superstar exited founder as your mentor/advisor under
-      our STAR (Short-Term Advisory Relationship) agreement.
+  - name: 04 - What We Are Not  ❌
+    content: "Not an accelerator. Not a coaching platform. Not traditional VC. Not a
+      passive board. "
     button:
       enable: true
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
-  - name: 05 - Funding 💰
-    content: We invest up to $2MM+ in world-changing companies each year and back
-      them with a tiger team of exited founders.
+  - name: 05 - What Founders Gain 🤩
+    content: "Faster, more profitable growth (3.2x); Compounding revenue with
+      capital efficiency built in. Fewer preventable msitakes (-74%); Pattern
+      recognition from operators who have shipped at scale. Better, faster
+      decisions (10x); Direct lines to people who have made the call before. "
     button:
       enable: true
       label: See Reviews 🚀
       link: https://1supernova.com/#reviews
 draft: false
 ---
-
+​
