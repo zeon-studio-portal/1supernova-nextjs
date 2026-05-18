@@ -11,7 +11,7 @@ subtitle: >-
 quote: >-
   We are 250+ exited founders joining forces to bring capital, judgement and
   operator leverage to help Scaleups succeed.✨ We've navigated hyper-growth,
-  near-death quarters, board pressure, and exits.  That's why we're the most
+  near-death quarters, board pressure, and exits. That's why we're the most
   trusted partners on your journey.  There are 350+ million entrepreneurs today.
   Less than 1% successfully exit. Supernova gives you access to the rarest
   resource: lived experience and wisdom, when it matters most. 
