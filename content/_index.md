@@ -17,12 +17,12 @@ banner:
     enable: true
     title: Proof this matters
     items:
-      - 99% of founders never see liquidity
-      - 70% of venture-backed startups fail
-      - 9% of Series A make it Series B
       - Less than 1% of entrepreneurs exit
-      - 80% who sold have post-exit remorse
-      - 70% of unicorns built by repeat founders
+      - 99% of founders never see a big liquidity event
+      - 70% of venture-backed startups fail
+      - 9% Series A make it Series B < 2 years
+      - 70% unicorns built by repeat founders
+      - 80% who sold have post-exit regrets
   video_button:
     enable: true
     label: Find out in minutes, not months
