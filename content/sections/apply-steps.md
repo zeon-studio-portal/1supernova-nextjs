@@ -3,7 +3,8 @@ enable: true
 background_image: /images/paths_to_success/image-4.png
 title: THE AI REALITY CHECK
 subtitle: >-
-  AI Changes Everything. ** Who Guides You Changes the Outcome. ** 
+  You Can Build Anything With AI. <br> But Who Guides You Changes the Outcome.
+  <br>
 button:
   label: Talk to NOVA AI to access exited founders and capital
   link: https://nova.1supernova.com/#/apply-with-ai
