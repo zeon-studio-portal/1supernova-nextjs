@@ -17,7 +17,7 @@ process:
       enable: true
       label: Apply to Supernova 🚀
       link: https://nova.1supernova.com/#/apply-with-ai
-  - name: 02 - When Founders Engage Us 📊
+  - name: "02 - When Founders Engage Us "
     content: "Critical inflection points where failure is not an option: growth
       acceleration, AI transformation, executive talent, market expansion, M&A,
       fundraising or exit.  "
@@ -41,7 +41,7 @@ process:
       enable: true
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
-  - name: 05 - What Founders Gain 🤩
+  - name: 05 - What Founders Gain 📊
     content: "Six dimensions where exited founders rewires the trajectory of a
       company - quietly, then all at onnce. Faster, more profitable growth "
     button:
