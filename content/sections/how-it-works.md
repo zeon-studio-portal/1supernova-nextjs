@@ -1,6 +1,6 @@
 ---
 enable: true
-title: We Aren't A Fit For Everyone
+title: Getting Started with Supernova
 quote:
   enable: true
   content: >+
@@ -10,9 +10,10 @@ quote:
   quote_by: Barry Stamos, CEO & Co-founder SUPERNOVA
 process:
   - name: 01 - Who we back 👩‍💻
-    content: Our primary focus is growth-stage ($5-100M+ ARR), Series A-C, and
-      PE-backed companies. We make exceptions for outliers seed/seed+). Rare. We
-      know them when we see them.
+    content: Supernova deploys exited founders and selective capital to accelerate
+      companies through their next stage of growth. Our primary focus is
+      growth-stage ($5-100M+ ARR), Series A-C, and PE-backed companies. We make
+      exceptions for outliers seed/seed+). Rare. We know them when we see them.
     button:
       enable: true
       label: Apply to Supernova 🚀
