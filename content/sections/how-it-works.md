@@ -19,9 +19,10 @@ process:
       label: Apply to Supernova 🚀
       link: https://nova.1supernova.com/#/apply-with-ai
   - name: 02 - When we engage
-    content: "Critical inflection points where failure is not an option: growth
-      acceleration, AI transformation, executive talent, market expansion, M&A,
-      fundraising or exit.  "
+    content: "We invest capital. We earn sweat equity. We help companies at critical
+      inflection points where failure is not an option: growth acceleration, AI
+      transformation, executive talent, market expansion, M&A, fundraising or
+      exit. "
     button:
       enable: true
       label: Exited Founders Back You 🚀
