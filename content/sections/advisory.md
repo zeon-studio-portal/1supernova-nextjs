@@ -11,7 +11,7 @@ subtitle: >-
   class="link-yellow">decacorn</a> status. </br>
 quote: >-
   Most startup advice comes from people who haven't lived the consequences.
-  Exited founders have. The've navigated hyper-growth, near-death quarters,
+  Exited founders have. They've navigated hyper-growth, near-death quarters,
   board pressure, and exits.
 
   That's why they're the most trusted partners on your journey. There are 350+
