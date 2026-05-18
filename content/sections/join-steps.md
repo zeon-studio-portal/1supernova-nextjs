@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Success is the right relationships
+title: Are You Ready To Go Supernova?
 subtitle: >-
   Get the founder support you need to scale your company to oversized growth and
   impact.
@@ -27,4 +27,4 @@ lists:
       and provide them with a tiger team of exited founders for oversized
       returns.
 ---
-
+​
