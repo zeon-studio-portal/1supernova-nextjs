@@ -21,10 +21,13 @@ banner:
       - 99% will sacrifice everything but get nothing
       - 70% of venture-backed startups fail
       - 9% Series A make it Series B < 2 years
+      - Founders often hold <20% by Series C
       - 70% unicorns are by repeat founders
       - 80% founders have post-exit regrets
+      - "VC's play growth-at-all-cost games "
+      - PE buys, strips and flips
       - You don't have to learn this the hard way
-      - "Supernova is here to pay it forward. "
+      - Supernova exists to change the game
   video_button:
     enable: true
     label: Find out in minutes, not months
