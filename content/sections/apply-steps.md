@@ -11,10 +11,9 @@ button:
   enable: true
 step_list:
   - title: "AI isn't the moat. "
-    content: Every company has access to the same models, the same tools, the same
-      playbooks. The only real differentiator is judgment — and judgment comes
-      from people who've already won at scale. Supernova brings you the exited
-      founders who built the last revolution, now guiding yours.
+    content: "Every company has access to the same models, tools, and playbooks. The
+      real differentiator is the judgment you apply. Judgment is forged through
+      pattern recognition that takes decades to develop.   "
     icon: IoDocumentTextOutline
     link: https://nova.1supernova.com/#/apply-with-ai
   - title: "Decisions compound – or they don't "
