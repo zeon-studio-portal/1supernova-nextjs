@@ -29,8 +29,8 @@ facts:
   - title: Companies Backed
     number: 33
     suffix: ""
-  - title: "First Portfolio Company Valuation ($B) "
-    number: "11"
+  - title: "Portfolio Company Valuation ($B) "
+    number: "10"
     suffix: ""
   - title: IN EXIT VALUE ($B)
     number: "200"
