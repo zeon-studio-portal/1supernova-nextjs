@@ -19,7 +19,7 @@ banner:
     items:
       - Less than 1% of entrepreneurs exit
       - 99% sacrifice everything to get nothing
-      - 70% of venture-backed startups fail
+      - 70% of VC-backed startups fail
       - "9% of Series A reach Series B "
       - Founders own 20% or less by Series C
       - 70% unicorns are by repeat founders
