@@ -10,10 +10,10 @@ subtitle: >-
   href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">decacorn</a> status. <br> 
 quote: >-
-  350+ million entrepreneurs worldwide. <1% successfully exit.  We are that 1%
-  and we pay-it-forward. We've seen hyper-growth, near-death quarters, board
-  pressure, and exits. Felt the consequences. Supernova gives you access to the
-  rarest resource: **wisdom, when it matters most.**</br> 
+  350+ million entrepreneurs worldwide. <1% exit.  We're the ones who built,
+  scaled and sold. We've seen hyper-growth, near-death quarters, board pressure,
+  and exits. Felt the consequences. Supernova gives you access to the rarest
+  resource: **wisdom, when it matters most.**</br> 
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/burst_pattern.png
