@@ -23,6 +23,8 @@ banner:
       - 9% Series A make it Series B < 2 years
       - 70% unicorns built by repeat founders
       - 80% founders have post-exit regrets
+      - You don't have to learn this the hard way
+      - "Supernova is here to pay it forward. "
   video_button:
     enable: true
     label: Find out in minutes, not months
