@@ -31,7 +31,7 @@ banner:
     label: See if you pass/fail
     link: https://nova.1supernova.com/#/apply-with-ai
   founders:
-    title: We back top founders 💛 scaling growth & impact
+    title: "We back top founders 💛 "
     brands:
       - /images/founders/a16z.svg
       - /images/BLK_BIG.D.svg
