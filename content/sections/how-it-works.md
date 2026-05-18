@@ -17,7 +17,7 @@ process:
       enable: true
       label: Apply to Supernova 🚀
       link: https://nova.1supernova.com/#/apply-with-ai
-  - name: "02 - When Founders Engage Us "
+  - name: 02 - When we engage
     content: "Critical inflection points where failure is not an option: growth
       acceleration, AI transformation, executive talent, market expansion, M&A,
       fundraising or exit.  "
@@ -42,21 +42,41 @@ process:
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
   - name: 05 - What Founders Gain 📊
-    content: "Six dimensions where exited founders rewires the trajectory of a
-      company - quietly, then all at onnce. Faster, more profitable growth "
+    content: >+
+      Six dimensions where existing founders rewire the trajectory of a company
+      - quietly, then all at once. 
+
+
+      1. Faster, more profitable growth (3.2x). Compounding revenue with capital
+      efficiency built in. 
+
+
+      2. Fewer preventable mistakes (-74%). Pattern recognition from operators
+      who have shipped at scale. 
+
+
+      3. Better, faster decisions (10x). Direct lines to people who have made
+      the call before.
+
+
+      4. Stronger leadership hires (A+). Warn intros to talent your stage rarely
+      reaches.
+
+
+      5. Smarter, compounding growth (\(\infty \) Every cycle informed by the
+      last - judgment is a flywheel.
+
+
+      6. Greater outcomes at exit (+2.4x). Set up the moment that matters from
+      day one.
+
+
+      This is not mentorship. It's operator leverage.
+
     button:
       enable: true
       label: See Reviews 🚀
       link: https://1supernova.com/#reviews
 draft: false
 ---
-Six dimensions where existing founders rewire the trajectory of a company - quietly, then all at once.&#x20;
-
-1. **Faster, more profitable growth** (3.2x). Compounding revenue with capital efficiency built in.&#x20;
-2. **Fewer preventable mistakes** (-74%). Pattern recognition from operators who have shipped at scale.&#x20;
-3. **Better, faster decisions** (10x). Direct lines to people who have made the call before.
-4. **Stronger leadership hires** (A+). Warn intros to talent your stage rarely reaches.
-5. Smarter, compounding growth (\\(\infty \\) Every cycle informed by the last - judgment is a flywheel.
-6. **Greater outcomes at exit** (+2.4x). Set up the moment that matters from day one.
-
-This is not mentorship. It's operator leverage.
+​
