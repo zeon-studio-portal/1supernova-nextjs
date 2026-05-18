@@ -11,8 +11,8 @@ quote:
 process:
   - name: 01 - Who we back 👩‍💻
     content: Our primary focus is growth-stage ($5-100M+ ARR), Series A-C and
-      PE-backed companies. We make exceptions for outliers seed/seed+). Rare. We
-      know them when we see them. 🎯
+      PE-backed companies. We make exceptions for outliers (seed/seed+). We know
+      them when we see them. 🎯
     button:
       enable: true
       label: Apply to Supernova 🚀
