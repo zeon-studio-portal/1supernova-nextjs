@@ -1,6 +1,6 @@
 ---
 enable: true
-title: '**In the Age of AI, Relationships are the Unfair Advantage. ** '
+title: '**AI is not a Moat. Relationships are the Unfair Advantage. ** '
 subtitle: >-
   Supernova has a proven track record of scaling companies to <a
   href="https://1supernova.com/#portfolio" target=_blank
