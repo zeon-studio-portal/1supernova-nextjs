@@ -26,35 +26,30 @@ process:
       enable: true
       label: Exited Founders Back You 🚀
       link: https://1supernova.com/#superstars
-  - name: 03 - What We Are ☑️
-    content: "☑️ Operating partners embedded in your growth. <br> ☑️ Exited founders
-      with real, lived pattern recognition. </br> ☑️ Smart capital with
-      benefits. </br>☑️  Hands-on execution leverage - not theory. </br> ☑️ A
-      network that compounds across every chapter.</br> "
-    button:
-      enable: true
-      label: Watch Best Practices Webinar 🚀
-      link: https://www.youtube.com/watch?v=iJhOa2l8jk4
-  - name: 04 - What We Are Not  ❌
+  - name: 03 - What We Are Not  ❌
     content: "❌ Not an accelerator. <br> ❌ Not a coaching platform. </br>  ❌ Not
       traditional VC. </br> ❌ Not a passive board. "
     button:
       enable: true
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
+  - name: 04 - What We Are ☑️
+    content: "☑️ Operating partners embedded in your growth. <br> ☑️ Exited founders
+      with real, lived pattern recognition. </br> ☑️ Smart capital with
+      benefits. </br>☑️  Hands-on execution leverage. </br> ☑️ A network that
+      compounds across every chapter.</br> "
+    button:
+      enable: true
+      label: Watch Best Practices Webinar 🚀
+      link: https://www.youtube.com/watch?v=iJhOa2l8jk4
   - name: 05 - What Founders Gain 📊
     content: |-
-      1. Faster, more profitable growth (3.2x)
-
-      2. Fewer preventable mistakes (-74%)
-
-      3. Better, faster decisions (10x)
-
-      4. Stronger leadership hires (A+)
-
-      5. Smarter, compounding growth (\(\infty \) 
-
-      6. Greater outcomes at exit (+2.4x). 
+      Faster, more profitable growth (3.2x)
+      Fewer preventable mistakes (-74%)
+      Better, faster decisions (10x)
+      Stronger leadership hires (A+)
+      Smarter, compounding growth (10x)
+      Greater outcomes at exit (+2.4x). 
     button:
       enable: true
       label: See Founder Reviews 🚀
