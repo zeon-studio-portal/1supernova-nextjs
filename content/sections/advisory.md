@@ -15,8 +15,8 @@ quote: >-
   board pressure, and exits.
 
   That's why they're the most trusted partners on your journey. There are 350+
-  million entrepreneurs today. Less than 1% successfully exit. Supernova gives
-  you access to the rarest resource: wisdom, when it matters most.
+  million entrepreneurs today. Less than 1% exit. Supernova gives you access to
+  the rarest resource: **wisdom**, when it matters most.
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/burst_pattern.png
