@@ -28,10 +28,10 @@ process:
       label: Exited Founders Back You 🚀
       link: https://1supernova.com/#superstars
   - name: 03 - What We Are ✨
-    content: "Operating partners embedded in your growth. Exited founders with real,
-      lived pattern recognition. Capital that comes with judgement attached.
-      Hands-on execution leverage - not theory. A network that compounds across
-      every chapter. "
+    content: "Operating partners embedded in your growth. <br> Exited founders with
+      real, lived pattern recognition. </br> <br> Capital that comes with
+      judgment attached. </br><br> Hands-on execution leverage - not theory.
+      </br> <br> A network that compounds across every chapter. </br> "
     button:
       enable: true
       label: Watch Best Practices Webinar 🚀
