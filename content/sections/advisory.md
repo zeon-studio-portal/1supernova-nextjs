@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'The Unfair Advantage <br> **For Founders Scaling** in the Age of AI </br>'
+title: '**The Unfair Advantage For Founders** <br> Scaling in the Age of AI </br>'
 subtitle: >-
   Supernova has a proven track record of scaling companies to <a
   href="https://1supernova.com/#portfolio" target=_blank
