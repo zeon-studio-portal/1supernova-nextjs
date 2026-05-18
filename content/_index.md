@@ -17,10 +17,11 @@ banner:
     enable: true
     title: Proof this matters
     items:
-      - Less than 1% of entrepreneurs exit
       - 70% of venture-backed startups fail
-      - 70% of unicorns are built by repeat founders
-      - 75% of founders have post-exit remorse
+      - 9% of Series A make it Series B
+      - Less than 1% of entrepreneurs exit
+      - 80% who sold have post-exit remorse
+      - 70% of unicorns built by repeat founders
   video_button:
     enable: true
     label: Find out in minutes, not months
