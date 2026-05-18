@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Stories
+title: Founder Stories
 subtitle: >-
   Watch the 'made it' podcast with Barry Stamos, CEO of Supernova
 video_url: 'https://youtu.be/gZIoe6bu2GY?si=8cmkc5j4FBFu8f1p'
