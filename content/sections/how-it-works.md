@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Supernova Snapshot
+title: Behind the Scenes
 quote:
   enable: true
   content: >+
@@ -37,8 +37,8 @@ process:
       label: Watch Best Practices Webinar 🚀
       link: https://www.youtube.com/watch?v=iJhOa2l8jk4
   - name: 04 - What We Are Not  ❌
-    content: "❌ Not an accelerator. <br> ❌ Not a coaching platform. </br> <br> ❌ Not
-      traditional VC. </br><br> ❌ Not a passive board. </br> "
+    content: "❌ Not an accelerator. <br> ❌ Not a coaching platform. </br>  ❌ Not
+      traditional VC. </br> ❌ Not a passive board. "
     button:
       enable: true
       label: Read FAQs 🚀
