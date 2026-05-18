@@ -26,14 +26,14 @@ facts:
   - title: Exited Founders
     number: 250
     suffix: +
-  - title: Portfolio Companies
+  - title: Companies Backed
     number: 33
     suffix: ""
-  - title: NPS Score
-    number: 92
+  - title: "First Portfolio Company Valuation ($B) "
+    number: "10"
     suffix: ""
-  - title: Portfolio Market Cap ($B+)
-    number: 11
+  - title: IN EXIT VALUE ($B)
+    number: "200"
     suffix: +
 ---
 ​
