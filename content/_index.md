@@ -18,10 +18,10 @@ banner:
     title: Proof this matters
     items:
       - Less than 1% of entrepreneurs exit
-      - 99% will sacrifice everything but get nothing
+      - 99% sacrifice everything to get nothing
       - 70% of venture-backed startups fail
-      - 9% Series A make it Series B < 2 years
-      - Founders often hold <20% by Series C
+      - "9% of Series A reach Series B "
+      - Founders own 20% or less by Series C
       - 70% unicorns are by repeat founders
       - 80% founders have post-exit regrets
       - "VC's play growth-at-all-cost games "
