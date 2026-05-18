@@ -7,14 +7,15 @@ subtitle: >-
   class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
   target=_blank class="link-yellow">unicorn</a>, and <a
   href="https://1supernova.com/#portfolio" target=_blank
-  class="link-yellow">decacorn</a> status. 
-quote: >-
-  We are 250+ exited founders joining forces to bring capital, judgement and
-  operator leverage to help Scaleups succeed.✨ We've navigated hyper-growth,
-  near-death quarters, board pressure, and exits. That's why we're the most
-  trusted partners on your journey.  There are 350+ million entrepreneurs today.
-  Less than 1% successfully exit. Supernova gives you access to the rarest
-  resource: lived experience and wisdom, when it matters most. 
+  class="link-yellow">decacorn</a> status. <br> We are 250+ exited founders
+  joining forces to bring capital, judgement and operator leverage to help
+  Scaleups succeed.✨</br>
+quote: >2-
+   We've navigated hyper-growth, near-death quarters, board pressure, and exits.
+  That's why we're the most trusted partners on your journey. There are 350+
+  million entrepreneurs today. Less than 1% successfully exit. Supernova gives
+  you access to the rarest resource: lived experience and wisdom, when it
+  matters most. 
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/burst_pattern.png
