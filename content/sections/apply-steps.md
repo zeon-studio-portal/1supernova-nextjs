@@ -5,7 +5,7 @@ title: THE AI REALITY CHECK
 subtitle: >-
   AI Changes Everything. ** Who Guides You Changes the Outcome. ** 
 button:
-  label: Get Started
+  label: Talk to NOVA AI to learn more about Supernova
   link: https://nova.1supernova.com/#/apply-with-ai
   enable: true
 step_list:
