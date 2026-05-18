@@ -1,9 +1,9 @@
 ---
 enable: true
-title: '**The Unfair Advantage For Founders** <br> Scaling in the Age of AI </br>'
+title: '**The Unfair Advantage For Scaleups** '
 subtitle: >-
   We are 250+ exited founders joining forces to bring capital, judgement and
-  operator leverage to succeed.✨<br> Supernova has a proven track record of
+  operator leverage to help you win.✨<br> Supernova has a proven track record of
   scaling companies to <a href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
   target=_blank class="link-yellow">unicorn</a>, and <a
