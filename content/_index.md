@@ -18,7 +18,7 @@ banner:
     title: Proof this matters
     items:
       - Less than 1% of entrepreneurs exit
-      - 99% of founders never see a big liquidity event
+      - 99% sacrifice and walk away with nothing
       - 70% of venture-backed startups fail
       - 9% Series A make it Series B < 2 years
       - 70% unicorns built by repeat founders
