@@ -21,7 +21,7 @@ banner:
       - 99% sacrifice and never get to a liquidity event
       - 70% of venture-backed startups fail
       - 9% Series A make it Series B < 2 years
-      - 70% unicorns built by repeat founders
+      - 70% unicorns are by repeat founders
       - 80% founders have post-exit regrets
       - You don't have to learn this the hard way
       - "Supernova is here to pay it forward. "
