@@ -15,11 +15,10 @@ banner:
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: true
-    title: Quotes
+    title: ""
     items:
-      - Great companies aren't built on capital alone. They're guided by those
-        who have built, scaled and won and now pay-it-forward.
-      - random quotes
+      - "In the age of AI, relationships are your unfair advantage. "
+      - Supernova gives you access to exited founders who pay it forward.
   video_button:
     enable: true
     label: Find out in minutes, not months
