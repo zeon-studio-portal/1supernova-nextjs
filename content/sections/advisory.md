@@ -1,6 +1,6 @@
 ---
 enable: true
-title: '**The Unfair Advantage For Scaleups** '
+title: '**In the Age of AI, Relationships are the Unfair Advantage. ** '
 subtitle: >-
   We are 250+ exited founders joining forces to bring capital, judgement and
   operator leverage to help you win.✨<br> Supernova has a proven track record of
