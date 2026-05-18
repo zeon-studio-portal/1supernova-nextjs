@@ -10,7 +10,7 @@ button:
   link: https://nova.1supernova.com/#/apply-with-ai
   enable: true
 step_list:
-  - title: "AI isn't the moat. "
+  - title: AI isn't the moat
     content: "Every company has access to the same models, tools, and playbooks. The
       real differentiator is the judgment you apply. Judgment is forged through
       pattern recognition that takes decades to develop. Few get it. They are
@@ -31,8 +31,8 @@ step_list:
     link: https://nova.1supernova.com/#/apply-with-ai
 
 card_list:
-  - title: The race isn't to zero.
+  - title: The race isn't to zero
   - title: It's to compounding advantage
-  - title: And who is in your corner
+  - title: Who is in your corner matters most
 ---
 ​
