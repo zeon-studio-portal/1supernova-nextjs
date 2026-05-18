@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Getting Started with Supernova
+title: About Supernova
 quote:
   enable: true
   content: >+
