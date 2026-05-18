@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'Are you ready to go Supernova? '
+title: 'The Unfair Advantage For Founders Scaling in the Age of AI'
 subtitle: >-
   Supernova has a proven track record of scaling companies to <a
   href="https://1supernova.com/#portfolio" target=_blank
@@ -9,9 +9,13 @@ subtitle: >-
   href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">decacorn</a> status. 
 quote: >-
-  We are 250+ exited founders joining forces as investors, advisors and
-  operating partners in world-changing companies. <br>By sharing our collective
-  wisdom, resources, & networks, we create oversized outcomes, together. ✨
+  We are 250+ exited founders joining forces to bring capital, judgement and
+  operator leverage to build a better future together.✨ We've navigated
+  hyper-growth, near-death quarters, board pressure, and exits.  That's why
+  we're the most trusted partners on your journey.  There are 350+ million
+  entrepreneurs today. Less than 1% successfully exit. Supernova gives you
+  access to the rarest resource: lived experience and wisdom, when it matters
+  most. 
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/burst_pattern.png
@@ -34,4 +38,4 @@ facts:
     number: 11
     suffix: +
 ---
-
+​
