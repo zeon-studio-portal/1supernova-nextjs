@@ -2,13 +2,14 @@
 enable: true
 title: '**In the Age of AI, Relationships are the Unfair Advantage. ** '
 subtitle: >-
-  We are 250+ exited founders joining forces to bring capital, judgement and
-  operator leverage to help you win.✨<br> Supernova has a proven track record of
-  scaling companies to <a href="https://1supernova.com/#portfolio" target=_blank
+  Supernova has a proven track record of scaling companies to <a
+  href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
   target=_blank class="link-yellow">unicorn</a>, and <a
   href="https://1supernova.com/#portfolio" target=_blank
-  class="link-yellow">decacorn</a> status. </br>
+  class="link-yellow">decacorn</a> status. <br> We are 250+ exited founders
+  joining forces to bring capital, judgement and operator leverage to help you
+  win.✨</br>
 quote: >-
   Most advice comes from people who haven't lived the consequences. Exited
   founders have. They've navigated hyper-growth, near-death quarters, board
