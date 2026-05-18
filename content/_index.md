@@ -17,6 +17,7 @@ banner:
     enable: true
     title: Proof this matters
     items:
+      - 99% of founders never see liquidity
       - 70% of venture-backed startups fail
       - 9% of Series A make it Series B
       - Less than 1% of entrepreneurs exit
