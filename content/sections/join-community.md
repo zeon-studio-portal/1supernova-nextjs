@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: Let's Build Together
 subtitle: We believe in a more collaborative world ✨
 info: >-
@@ -10,27 +10,24 @@ info: >-
 lists:
   - title: Startups
     icon: /images/community/01.svg
-    content: >-
-      **Are you a founder** of a VC-backed startup or a successfully
-      bootstrapped company?
+    content: "**Are you a founder** of a VC-backed startup or a successfully
+      bootstrapped company?"
     button:
       label: Apply Now
-      link: 'https://form.typeform.com/to/AZuYcsWx'
+      link: https://form.typeform.com/to/AZuYcsWx
   - title: Exited Founders
     icon: /images/community/02.svg
-    content: >-
-      **Are you an exited founder** ready to join forces in one thriving
-      portfolio? 
+    content: "**Are you an exited founder** ready to join forces in one thriving
+      portfolio? "
     button:
       label: Let’s Talk
-      link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
+      link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
   - title: Investors
     icon: /images/community/03.svg
-    content: >-
-      **Are you an investor** interested in joining our fund and sharing
-      upside? 
+    content: "**Are you an investor** interested in joining our fund and sharing
+      upside? "
     button:
       label: Let’s Talk
-      link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-05'
+      link: https://calendly.com/supernova-intro/supernova-intro?month=2023-05
 ---
-
+​
