@@ -44,36 +44,18 @@ process:
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
   - name: 05 - What Founders Gain 📊
-    content: >-
-      Six dimensions where existing founders rewire the trajectory of a company
-      - quietly, then all at once. 
+    content: |-
+      1. Faster, more profitable growth (3.2x)
 
+      2. Fewer preventable mistakes (-74%)
 
-      1. Faster, more profitable growth (3.2x). Compounding revenue with capital
-      efficiency built in. 
+      3. Better, faster decisions (10x)
 
+      4. Stronger leadership hires (A+)
 
-      2. Fewer preventable mistakes (-74%). Pattern recognition from operators
-      who have shipped at scale. 
+      5. Smarter, compounding growth (\(\infty \) 
 
-
-      3. Better, faster decisions (10x). Direct lines to people who have made
-      the call before.
-
-
-      4. Stronger leadership hires (A+). Warn intros to talent your stage rarely
-      reaches.
-
-
-      5. Smarter, compounding growth (\(\infty \) Every cycle informed by the
-      last - judgment is a flywheel.
-
-
-      6. Greater outcomes at exit (+2.4x). Set up the moment that matters from
-      day one.
-
-
-      This is not mentorship. It's operator leverage.
+      6. Greater outcomes at exit (+2.4x). 
     button:
       enable: true
       label: See Founder Reviews 🚀
