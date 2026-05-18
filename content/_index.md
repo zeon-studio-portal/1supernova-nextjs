@@ -18,7 +18,7 @@ banner:
     title: ""
     items:
       - "In the age of AI, relationships are your unfair advantage. "
-      - Supernova gives you access to exited founders who pay it forward.
+      - Why Supernova? Capital. Judgement. Operator Leverage.
   video_button:
     enable: true
     label: Find out in minutes, not months
