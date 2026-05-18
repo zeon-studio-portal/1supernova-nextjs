@@ -2,8 +2,7 @@
 enable: true
 title: Stories
 subtitle: >-
-  Watch the latest 'made it' podcast on "Scaling Startups to Zebras, Unicorns &
-  Decacorns" with Barry Stamos, CEO of Supernova
+  Watch the 'made it' podcast with Barry Stamos, CEO of Supernova
 video_url: 'https://youtu.be/gZIoe6bu2GY?si=8cmkc5j4FBFu8f1p'
 quote: We are a conscious cooperative of founders invested in each other’s success
 features:
