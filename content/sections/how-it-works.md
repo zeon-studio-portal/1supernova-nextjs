@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Behind the Scenes
+title: At-A-Glance
 quote:
   enable: true
   content: >+
