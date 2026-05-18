@@ -26,7 +26,7 @@ banner:
       - 80% founders have post-exit regrets
       - "VC's play growth-at-all-cost games "
       - PE buys, strips and flips
-      - Don't have to learn this the hard way
+      - You don't have to learn the hard way
       - Supernova exists to change the game
   video_button:
     enable: true
