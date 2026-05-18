@@ -11,12 +11,10 @@ subtitle: >-
   href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">decacorn</a> status. <br> 
 quote: >-
-  Most advice comes from people who haven't lived the consequences. Exited
-  founders have. We've navigated hyper-growth, near-death quarters, board
-  pressure, and exits. That's why we're the most trusted partners on your
-  journey. There are 350+ million entrepreneurs. Less than 1% exit. Supernova
-  gives you access to the rarest resource: **lived experience, when it matters
-  most.**</br>
+  350+ million entrepreneurs worldwide. Less than 1% successfully exit.  We are
+  that 1% and we pay-it-forward. We've seen hyper-growth, near-death quarters,
+  board pressure, and exits. Felt the consequences. Supernova gives you access
+  to the rarest resource: **wisdom, when it matters most.**</br> 
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/burst_pattern.png
