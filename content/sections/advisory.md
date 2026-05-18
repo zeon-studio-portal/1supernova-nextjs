@@ -9,9 +9,12 @@ subtitle: >-
   target=_blank class="link-yellow">unicorn</a>, and <a
   href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">decacorn</a> status. </br>
-quote: >2-
-   We've navigated hyper-growth, near-death quarters, board pressure, and exits.
-  That's why we're the most trusted partners on your journey. There are 350+
+quote: >-
+  Most startup advice comes from people who haven't lived the consequences.
+  Exited founders have. The've navigated hyper-growth, near-death quarters,
+  board pressure, and exits.
+
+  That's why they're the most trusted partners on your journey. There are 350+
   million entrepreneurs today. Less than 1% successfully exit. Supernova gives
   you access to the rarest resource: wisdom, when it matters most.
 services_image: /images/advisory/services.svg
