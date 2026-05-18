@@ -2,7 +2,7 @@
 banner:
   badge:
     enable: true
-    label: 250+ Successfully Exited Founders
+    label: 250+ EXITED FOUNDERS. ONE UNFAIR ADVANTAGE.
     images:
       - /images/avatar/image.png
       - /images/avatar/image-1.png
