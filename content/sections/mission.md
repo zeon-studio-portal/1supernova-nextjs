@@ -16,8 +16,7 @@ headings:
       achieving a sizeable exit or IPO. Meanwhile, 97% of VCs claim they are
       'value added' investors. Only 31% of Founders agree. "
   - title: "**ANSWER:** SUPERNOVA"
-    description: Supernova's exited founders significantly improve success rates of
-      Scaleups ($5MM to $100MM+) that go the distance.⭐ Supernova fills the gap!
-      Exited founders get hands-on for speed-to-value.
+    description: "Supernova's exited founders significantly improve success rates of
+      Scaleups ($5MM to $100MM+) that go the distance. "
 ---
 ​
