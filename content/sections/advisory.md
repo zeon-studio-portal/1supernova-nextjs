@@ -12,8 +12,8 @@ subtitle: >-
 quote: >-
   350+ million entrepreneurs worldwide. < 1% successfully exit. We built,
   scaled, and sold. We lived the consequences of hyper-growth, near-death
-  quarters, board pressure, and exits. Now we pay it forward. Supernova gives
-  you access to the rarest resource: **wisdom, when it matters most.**</br> 
+  quarters, board pressure, and exits. Now we pay it forward. **Supernova gives
+  you access to the rarest resource: wisdom, when it matters most.**</br> 
 services_image: /images/advisory/services.svg
 services_image_mobile: /images/advisory/services-mobile.svg
 founder_image: /images/burst_pattern.png
