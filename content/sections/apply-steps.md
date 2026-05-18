@@ -1,6 +1,6 @@
 ---
 enable: true
-background_image: /images/why_supernova_exists.png
+background_image: /images/paths_to_success/image-4.png
 title: THE AI REALITY CHECK
 subtitle: >-
   AI Changes Everything. ** Who Guides You Changes the Outcome. ** 
