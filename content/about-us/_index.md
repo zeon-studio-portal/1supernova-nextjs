@@ -17,8 +17,8 @@ who_we_are:
     into companies that matter."
 our_values:
   enable: true
-  title: Our Values
-  subtitle: We shine brighter together
+  title: What We Stand For
+  subtitle: We shine brighter together.
   image: /images/about-us-chakra.svg
   list_colors:
     - "#09B1FB"
@@ -28,13 +28,13 @@ our_values:
     - "#C856C7"
   lists:
     - name: Humanity
-      content: We exist to serve people contributing to the greater good.
+      content: We back founders building businesses the world actually needs.
     - name: Intentionality
-      content: We are building a culture of people making conscious decisions with
-        compassion, sustainability and community in mind.
+      content: Every match, every introduction, every check written is deliberate. We
+        don't move fast and break things. We move smart and build them to last.
     - name: Collaboration
-      content: We bring the right resources together for collective genius and
-        exponential impact when playing finite and infinite games.
+      content: "250+ exited founders don't compete - they combine. Collective wisdom
+        compounds faster than any single genius working alone. "
     - name: Optimism
       content: We lead with love, positive intent and abundance knowing we play a part
         in greater missions with universal support.
