@@ -1,6 +1,6 @@
 ---
 enable: true
-background_image: /images/violet-bloom-fractal-gt7zjtfu9uajapem.png
+background_image: /images/testimonials/Exec--Jeetu--A-New-Era-for-Networking-and-the-Future-of-Work_1200x675_graphic.jpg
 title: THE AI REALITY CHECK
 subtitle: >-
   You Can Build Anything With AI. <br> But Who Guides You Changes the Outcome.
