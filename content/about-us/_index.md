@@ -57,17 +57,13 @@ why_supernova_exists:
     **The perfect founder doesn't exist**. The perfect team does. Supernova
     curates exited founders around your most critical needs, adapting as your
     company evolves. <br/><br/>
-  content_right: >+
-    **Traditional support has failed Scaleups**. Accelerators serve early-stage
-    companies. Boards advise from a distance. Advisors show up when it's
-    convenient. None of them have felt the consequences of the decisions they
-    recommend. <br/> <br/> **Exited founders have**. They've navigated
+  content_right: "**Traditional support has failed Scaleups**. Accelerators serve
+    early-stage companies. Boards advise from a distance. Advisors show up when
+    it's convenient. None of them have felt the consequences of the decisions
+    they recommend. <br/> <br/> **Exited founders have**. They've navigated
     hyper-growth, near-death quarters, board pressure, and exits. Less than 1%
     of entrepreneurs successfully exit. Supernova is built from that 1%, and
-    they're paying it forward. <br/><br/>
-
-
-
+    they're paying it forward. <br/><br/>"
 leadership_team:
   enable: true
   title: Leadership Team
