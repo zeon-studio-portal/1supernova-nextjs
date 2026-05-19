@@ -1,10 +1,6 @@
 {
   "main": [
     {
-      "name": "Why Us?",
-      "url": "/#mission"
-    },
-    {
       "name": "How it Works",
       "url": "/#join-steps"
     },
@@ -15,6 +11,10 @@
     {
       "name": "Exited Founders",
       "url": "/#superstars"
+    },
+    {
+      "name": "Why Us?",
+      "url": "/#mission"
     },
     {
       "name": "FAQs",
