@@ -33,6 +33,6 @@ step_list:
 card_list:
   - title: The race isn't to zero
   - title: It's to compounding advantage
-  - title: Who is in your corner matters most
+  - title: Who is in your corner matters
 ---
 ​
