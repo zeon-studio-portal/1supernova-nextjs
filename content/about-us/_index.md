@@ -2,8 +2,8 @@
 title: Our Thesis
 description: >-
   What if exited founders teamed up with companies changing the world to achieve
-  their missions, faster? <br/> <br/> That's no longer hypothetical. <br/> <br/>
-  That's SUPERNOVA.
+  their missions, faster? <br/> <br/> (That's no longer hypothetical.) <br/>
+  <br/> That's SUPERNOVA.
 who_we_are:
   enable: true
   title: Our Story
@@ -55,8 +55,8 @@ why_supernova_exists:
     matters most, most founders are doing it alone. <br/><br/> 
 
     **The perfect founder doesn't exist**. The perfect team does. Supernova
-    curates exited founders around your most critical needs, adapting as your
-    company evolves. <br/><br/>
+    curates exited founders around companies most critical needs, adapting as
+    the company evolves. <br/><br/>
   content_right: "**Traditional support has failed Scaleups**. Accelerators serve
     early-stage companies. Boards advise from a distance. Advisors show up when
     it's convenient. None of them have felt the consequences of the decisions
