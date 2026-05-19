@@ -36,11 +36,11 @@ our_values:
       content: "250+ exited founders don't compete - they combine. Collective wisdom
         compounds faster than any single genius working alone. "
     - name: Optimism
-      content: We lead with love, positive intent and abundance knowing we play a part
-        in greater missions with universal support.
+      content: "We lead with positive intent and the belief that the best founders are
+        solving problems most people haven't noticed yet. "
     - name: Evolution
-      content: We believe startups are birthing renewed life into their communities
-        and can bring a better future forward.
+      content: We grow alongside the companies we back. When they win, we learn. When
+        we learn, the next company wins faster.
 why_supernova_exists:
   enable: true
   title: Why Supernova Exists
