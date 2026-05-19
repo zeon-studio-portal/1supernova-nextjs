@@ -55,9 +55,9 @@ why_supernova_exists:
     **Traditional support has failed Scaleups**. Accelerators serve early-stage
     companies. Boards advise from a distance. Advisors show up when it's
     convenient. None of them have felt the consequences of the decisions they
-    recommend.
+    recommend. <br/>
   content_right: >-
-    **Exited founders have**. They've navigated hyper-growth, near-death
+    <br/>**Exited founders have**. They've navigated hyper-growth, near-death
     quarters, board pressure, and exits. Less than 1% of entrepreneurs
     successfully exit. Supernova is built from that 1%, and they're paying it
     forward. <br/><br/>
