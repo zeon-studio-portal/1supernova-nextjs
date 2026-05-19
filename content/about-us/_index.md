@@ -19,8 +19,7 @@ who_we_are:
 our_values:
   enable: true
   title: What We Stand For
-  subtitle: We shine brighter together. That's not a tagline. It's how we're built
-    to last.
+  subtitle: We shine brighter together. Stars burn out. The impact we create doesn't.
   image: /images/about-us-chakra.svg
   list_colors:
     - "#09B1FB"
