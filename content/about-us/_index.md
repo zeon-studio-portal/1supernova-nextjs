@@ -9,12 +9,12 @@ who_we_are:
   content: " [Barry Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
     Staley](https://www.linkedin.com/in/christopherbstaley/) built Supernova
     from a simple observation: the difference between a company that scales and
-    one that stalls almost always comes down to who's in the room. <br> Both
-    serial founders and investors themselves, they spent decades building the
-    kind of relationships most founders never get access to - exited founders
-    who've made the calls. </br> Today, 250+ of those founders have come
-    together through Supernova to deploy their capital, wisdom, and networks
-    into companies that matter."
+    one that stalls almost always comes down to who's in the room. Both serial
+    founders and investors themselves, they spent decades building the kind of
+    relationships most founders never get access to - exited founders who've
+    made the calls. Today, 250+ of those founders have come together through
+    Supernova to deploy their capital, wisdom, and networks into companies that
+    matter."
 our_values:
   enable: true
   title: What We Stand For
