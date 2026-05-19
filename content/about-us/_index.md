@@ -46,15 +46,17 @@ our_values:
 why_supernova_exists:
   enable: true
   title: Why Supernova Exists
-  quote: We orbit around your needs as all-star teams.
+  quote: "Our purpose: Accelerate the realization of the founder's vision, from
+    the only perspective that truly understands it. As founders ourselves. "
   content_left: >-
     **Founders build the future the rest of us inherit**. They disrupt
     trillion-dollar industries, make decisions that shape realities, and carry
     the weight of missions most people will never understand. And yet, when it
     matters most, most founders are doing it alone. <br/><br/> 
 
-    **Our mission:** Accelerate the realization of the founder's vision, from
-    the only perspective that truly understands it. As founders ourselves. 
+    **The perfect founder doesn't exist**. The perfect team does. Supernova
+    curates exited founders around your most critical needs, adapting as your
+    company evolves. <br/><br/>
   content_right: >+
     **Traditional support has failed Scaleups**. Accelerators serve early-stage
     companies. Boards advise from a distance. Advisors show up when it's
@@ -65,9 +67,6 @@ why_supernova_exists:
     they're paying it forward. <br/><br/>
 
 
-    **The perfect founder doesn't exist**. The perfect team does. Supernova
-    curates exited founders around your most critical needs, adapting as your
-    company evolves. <br/><br/>
 
 leadership_team:
   enable: true
