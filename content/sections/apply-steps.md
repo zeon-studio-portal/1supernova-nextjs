@@ -1,6 +1,6 @@
 ---
 enable: true
-background_image: /images/paths_to_success/image-4.png
+background_image: /images/violet-bloom-fractal-gt7zjtfu9uajapem.png
 title: THE AI REALITY CHECK
 subtitle: >-
   You Can Build Anything With AI. <br> But Who Guides You Changes the Outcome.
