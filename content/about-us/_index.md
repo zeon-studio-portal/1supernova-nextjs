@@ -19,7 +19,7 @@ our_values:
   enable: true
   title: What We Stand For
   subtitle: We shine brighter together.
-  image: /images/about-us-chakra.svg
+  image: /images/Supernova Exited Founders.jpg
   list_colors:
     - "#09B1FB"
     - "#0EDDE4"
