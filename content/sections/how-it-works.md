@@ -34,10 +34,9 @@ process:
       label: Read FAQs 🚀
       link: https://1supernova.com/#faqs
   - name: 04 - What We Are ☑️
-    content: "☑️ Operating partners embedded in your growth. <br> ☑️ Exited founders
-      with real, lived pattern recognition. </br> ☑️ Smart capital with
-      benefits. </br>☑️  Hands-on execution leverage. </br> ☑️ A network that
-      compounds across every chapter.</br> "
+    content: "☑️ Embedded operating partners. <br> ☑️ Exited founders with skin in
+      the game. </br> ☑️ Smart capital with benefits. </br>☑️  Hands-on
+      execution leverage. </br> ☑️ A network for speed-to-value.</br> "
     button:
       enable: true
       label: Watch Best Practices Webinar 🚀
