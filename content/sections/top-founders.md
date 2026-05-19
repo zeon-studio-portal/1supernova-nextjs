@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Portfolio Superstars
-subtitle: Meet the mission‑driven leaders positively impacting the world.
+subtitle: Meet the mission‑driven founders of world-changing companies.
 list_colors:
   - "#5ECDF8"
   - "#FFCA59"
