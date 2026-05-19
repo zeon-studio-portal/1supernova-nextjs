@@ -51,26 +51,24 @@ why_supernova_exists:
     **Founders build the future the rest of us inherit**. They disrupt
     trillion-dollar industries, make decisions that shape realities, and carry
     the weight of missions most people will never understand. And yet, when it
-    matters most, most founders are doing it alone. incentivized? <br/><br/> 
+    matters most, most founders are doing it alone. <br/><br/> 
 
+    **Our mission:** Accelerate the realization of the founder's vision, from
+    the only perspective that truly understands it. As founders ourselves. 
+  content_right: >+
     **Traditional support has failed Scaleups**. Accelerators serve early-stage
     companies. Boards advise from a distance. Advisors show up when it's
     convenient. None of them have felt the consequences of the decisions they
-    recommend. <br/>
-  content_right: >-
-    <br/>**Exited founders have**. They've navigated hyper-growth, near-death
-    quarters, board pressure, and exits. Less than 1% of entrepreneurs
-    successfully exit. Supernova is built from that 1%, and they're paying it
-    forward. <br/><br/>
+    recommend. <br/> <br/> **Exited founders have**. They've navigated
+    hyper-growth, near-death quarters, board pressure, and exits. Less than 1%
+    of entrepreneurs successfully exit. Supernova is built from that 1%, and
+    they're paying it forward. <br/><br/>
 
 
     **The perfect founder doesn't exist**. The perfect team does. Supernova
     curates exited founders around your most critical needs, adapting as your
     company evolves. <br/><br/>
 
-
-    **Our mission:** Accelerate the realization of the founder's vision, from
-    the only perspective that truly understands it. As founders ourselves. 
 leadership_team:
   enable: true
   title: Leadership Team
