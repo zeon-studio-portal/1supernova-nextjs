@@ -19,7 +19,7 @@ who_we_are:
 our_values:
   enable: true
   title: What We Stand For
-  subtitle: We shine brighter together. Stars burn out. The impact we create doesn't.
+  subtitle: Make more. Give more. Scale What Matters.
   image: /images/about-us-chakra.svg
   list_colors:
     - "#09B1FB"
