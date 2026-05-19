@@ -25,8 +25,8 @@ main_image_play_button:
   enable: true
   full_link: https://youtu.be/G2SqSljZBy4?si=5CX-hKMFqpn9mJ-P&t=175
 testimonial:
-  content: "**\"They advise me. I advise others. That's the Supernova effect! When
-    exited founders team up results happen faster.\"**"
+  content: "\"They advise me. I advise others. **That's the Supernova effect!**
+    When exited founders team up results happen faster.\""
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm (6x Exited Founder)
   customer_profession: "CEO & Co-founder of Colossal <br> ($200M Series C: $10B+ Valuation) "
