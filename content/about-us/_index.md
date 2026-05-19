@@ -1,9 +1,9 @@
 ---
 title: Our Thesis
 description: >-
-  What if exited founders teamed up with <br>companies changing the world to
-  achieve their missions, faster? <br/> <br/> (That's no longer hypothetical.)
-  <br/> <br/> That's SUPERNOVA.
+  What if exited founders teamed up <br> with companies changing the world <br>
+  to achieve their missions, faster? <br/> <br/> (That's no longer
+  hypothetical.) <br/> <br/> That's SUPERNOVA.
 who_we_are:
   enable: true
   title: Our Story
