@@ -46,8 +46,8 @@ our_values:
 why_supernova_exists:
   enable: true
   title: Why Supernova Exists
-  quote: "Our purpose: Accelerate the realization of the founder's vision, from
-    the only perspective that truly understands it. As founders ourselves. "
+  quote: "Accelerate the realization of the founder's vision, <br/>from the only
+    perspective that truly understands it. As founders ourselves. "
   content_left: >-
     **Founders build the future the rest of us inherit**. They disrupt
     trillion-dollar industries, make decisions that shape realities, and carry
