@@ -57,13 +57,13 @@ why_supernova_exists:
     recommend.
   content_right: >-
     **Exited founders have**. They've navigated hyper-growth, near-death
-    quarters, board pressure and exits. Less than 1% of entrepreneurs
+    quarters, board pressure, and exits. Less than 1% of entrepreneurs
     successfully exit. Supernova is built from that 1%, and they're paying it
     forward. <br/><br/>
 
 
     **The perfect founder doesn't exist. The perfect team does.** Supernova
-    curates exited founders around your most critial needs, adapting as your
+    curates exited founders around your most critical needs, adapting as your
     company evolves. <br/><br/>
 
 
