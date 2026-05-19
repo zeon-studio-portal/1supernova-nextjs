@@ -45,36 +45,30 @@ why_supernova_exists:
   enable: true
   title: Why Supernova Exists
   quote: We orbit around your needs as all-star advisory teams.
-  content_left: >
-    **The founders’ journey is innately challenging;** it’s why so few have the
-    endurance to make it all the way through. Seeking and building a team of
-    mentors to strengthen decision-making is a powerful way to increase the
-    probability of success. Unfortunately, finding actual experienced startup
-    advisors who can care for you and the mission is difficult. And if you do
-    find them, how do you ensure that they are properly utilized and
-    incentivized? <br/><br/>
+  content_left: >-
+    **Founders build the future the rest of us inherit**. They disrupt
+    trillion-dollar industries, make decisions that shape realities, and carry
+    the weight of missions most people will never understand. And yet, when it
+    matters most, most founders are doing it alone. incentivized? <br/><br/> 
+
+    **Traditional support has failed Scaleups**. Accelerators serve early-stage
+    companies. Boards advise from a distance. Advisors show up when it's
+    convenient. None of them have felt the consequences of the decisions they
+    recommend.
+  content_right: >-
+    **Exited founders have**. They've navigated hyper-growth, near-death
+    quarters, board pressure and exits. Less than 1% of entrepreneurs
+    successfully exit. Supernova is built from that 1%, and they're paying it
+    forward. <br/><br/>
 
 
-    For decades, traditional advising for most founders and their companies has
-    been essentially non-existent, or so informal and ad-hoc that it leaves
-    something to be desired. Accelerators are mostly all focused on early-stage
-    companies and Scaleups needs are super different. Boards can be helpful at a
-    high-level, but rarely get hands-on to solve problems and implement
-    solutions.
-  content_right: >
-    **The perfect founder does not exist**, but a dynamic team that adapts to
-    your current company challenges, and knows what you are going through
-    because they too have been a founder is “the perfect advisor.” <br/><br/>
+    **The perfect founder doesn't exist. The perfect team does.** Supernova
+    curates exited founders around your most critial needs, adapting as your
+    company evolves. <br/><br/>
 
 
-    **Supernova is a growth multiplier.** We are the first and only resource
-    able to curate successfully exited entrepreneurs and adapt that team to
-    serve the evolving priorities and challenges of your company. <br/><br/>
-
-
-    **Our mission is to accelerate the realization of the founder's vision**
-    from the only perspective that truly understands the journey, as founders
-    ourselves. 
+    **Our mission:** Accelerate the realization of the founder's vision, from
+    the only perspective that truly understands it. As founders ourselves. 
 leadership_team:
   enable: true
   title: Leadership Team
