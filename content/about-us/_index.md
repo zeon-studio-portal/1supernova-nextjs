@@ -47,22 +47,20 @@ why_supernova_exists:
   title: Why Supernova Exists
   quote: "Accelerate the realization of the founder's vision, <br/>from the only
     perspective that truly understands it. As founders ourselves. "
-  content_left: >-
-    **Founders build the future the rest of us inherit**. They disrupt
-    trillion-dollar industries, make decisions that shape realities, and carry
-    the weight of missions most people will never understand. And yet, when it
-    matters most, most founders are doing it alone. <br/><br/> 
-
-    **The perfect founder doesn't exist**. The perfect team does. Supernova
-    curates exited founders around companies most critical needs, adapting as
-    the company evolves. <br/><br/>
-  content_right: "**Traditional support has failed Scaleups**. Accelerators serve
-    early-stage companies. Boards advise from a distance. Advisors show up when
-    it's convenient. None of them have felt the consequences of the decisions
-    they recommend. <br/> <br/> **Exited founders have**. They've navigated
-    hyper-growth, near-death quarters, board pressure, and exits. Less than 1%
-    of entrepreneurs successfully exit. Supernova is built from that 1%, and
-    they're paying it forward. <br/><br/>"
+  content_left: "**Founders build the future the rest of us inherit**. They
+    disrupt trillion-dollar industries, make decisions that shape realities, and
+    carry the weight of missions most people will never understand. And yet,
+    when it matters most, most founders are doing it alone. <br/><br/>
+    **Traditional support has failed Scaleups**. Accelerators serve early-stage
+    companies. Boards advise from a distance. Advisors show up when it's
+    convenient. None of them have felt the consequences of the decisions they
+    recommend. <br/> <br/>"
+  content_right: "**Exited founders have**. They've navigated hyper-growth,
+    near-death quarters, board pressure, and exits. Less than 1% of
+    entrepreneurs successfully exit. Supernova is built from that 1%, and
+    they're paying it forward. <br/><br/>**The perfect founder doesn't exist**.
+    The perfect team does. Supernova curates exited founders around the
+    company's most critical needs, adapting as the company evolves. <br/><br/> "
 leadership_team:
   enable: true
   title: Leadership Team
