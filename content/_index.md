@@ -20,11 +20,14 @@ banner:
       - Less than 1% of entrepreneurs exit
       - 99% founders walk away with nothing
       - 70% of VC-backed startups fail
-      - "9% of Series A reach Series B "
-      - 50% founding ceo's fired/forced out
+      - 83% founders live with chronic stress
+      - 72% founders struggle w/ mental health
+      - 50% founders experience insomnia
+      - "9% Series A make it to Series B "
       - Founders own 20% or less by Series C
+      - 50% founding ceo's fired/forced out
       - "70% unicorns from repeat founders "
-      - 80% founders have post-exit regrets
+      - "75% founders regret selling/exiting "
       - "VC's play games (growth-at-all-cost) "
       - PE buys, strips and flips
       - You don't have to learn the hard way
