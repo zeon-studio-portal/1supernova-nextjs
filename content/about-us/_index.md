@@ -60,8 +60,8 @@ why_supernova_exists:
     entrepreneurs successfully exit. Supernova is built from that 1%, and
     they're paying it forward. <br/><br/>**AI is the new frontier**. Why
     wouldn't you have the people who conquered the last one guiding your way?
-    Supernova curates exited founders around the company's most critical needs,
-    adapting as the company evolves. <br/><br/> "
+    Supernova brings the exited founders who built the last revolution, now
+    guiding yours. <br/><br/> "
 leadership_team:
   enable: true
   title: Leadership Team
