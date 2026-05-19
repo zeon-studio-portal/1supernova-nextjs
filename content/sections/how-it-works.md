@@ -15,7 +15,7 @@ process:
       know them when we see them.
     button:
       enable: true
-      label: Apply to Supernova 🚀
+      label: See If You Qualify In Minutes ⏱️
       link: https://nova.1supernova.com/#/apply-with-ai
   - name: 02 - When we engage ⚡
     content: "We back companies at critical inflection points where failure is not
@@ -31,7 +31,7 @@ process:
       traditional VC. </br> ❌ Not a passive board. "
     button:
       enable: true
-      label: Read FAQs 🚀
+      label: Read FAQs 📝
       link: https://1supernova.com/#faqs
   - name: 04 - What We Are ☑️
     content: "☑️ Embedded operating partners. <br> ☑️ Exited founders with skin in
@@ -51,7 +51,7 @@ process:
       Greater outcomes at exit (+2.4x). 
     button:
       enable: true
-      label: See Founder Reviews 🚀
+      label: Read Founder Reviews 🫶🏼
       link: https://1supernova.com/#reviews
 draft: false
 ---
