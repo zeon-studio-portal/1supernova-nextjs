@@ -23,7 +23,7 @@ banner:
       - "9% of Series A reach Series B "
       - 50% founding ceo's fired/forced out
       - Founders own 20% or less by Series C
-      - 70% unicorns from repeat founders
+      - "70% unicorns from repeat founders "
       - 80% founders have post-exit regrets
       - "VC's play games (growth-at-all-cost) "
       - PE buys, strips and flips
