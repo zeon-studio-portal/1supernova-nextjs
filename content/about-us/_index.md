@@ -1,9 +1,9 @@
 ---
 title: Our Thesis
 description: >-
-  What if exited founders teamed up with companies changing the world to achieve
-  their missions, faster? <br/> <br/> (That's no longer hypothetical.) <br/>
-  <br/> That's SUPERNOVA.
+  What if exited founders teamed up with <br>companies changing the world to
+  achieve their missions, faster? <br/> <br/> (That's no longer hypothetical.)
+  <br/> <br/> That's SUPERNOVA.
 who_we_are:
   enable: true
   title: Our Story
@@ -55,13 +55,13 @@ why_supernova_exists:
     companies. Boards advise from a distance. Advisors show up when it's
     convenient. None of them have felt the consequences of the decisions they
     recommend. <br/> <br/>"
-  content_right: "**Exited founders have**. They've navigated hyper-growth,
-    near-death quarters, board pressure, and exits. Less than 1% of
-    entrepreneurs successfully exit. Supernova is built from that 1%, and
-    they're paying it forward. <br/><br/>**AI is the new frontier**. Why
-    wouldn't you have the people who conquered the last one guiding your way?
-    Supernova brings the exited founders who built the last revolution, now
-    guiding yours. <br/><br/> "
+  content_right: "**AI is the new frontier**. Why wouldn't you have the people who
+    conquered the last one guiding your way? Supernova brings the exited
+    founders who built the last revolution, now guiding yours. <br/><br/>
+    **Exited founders have**. They've navigated hyper-growth, near-death
+    quarters, board pressure, and exits. Less than 1% of entrepreneurs
+    successfully exit. Supernova is built from that 1%, and they're paying it
+    forward. <br/><br/>"
 leadership_team:
   enable: true
   title: Leadership Team
