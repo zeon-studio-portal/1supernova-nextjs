@@ -15,7 +15,7 @@ description: >-
   game with you. Savage execution. We only back founders on a mission to build
   thriving businesses that make a real difference.<br><br> If that sounds like
   you, [apply now](https://https://nova.1supernova.com/#/apply-with-ai), and
-  let’s see if we’re a fit. 
+  let’s see if we’re a fit.
 button:
   enable: true
   label: Apply Now
