@@ -1,9 +1,9 @@
 ---
 enable: true
-title: Are You Ready To Go Supernova?
+title: How Supernova Works
 subtitle: >-
-  Get the founder support you need to scale your company to oversized growth and
-  impact.
+  Give steps from pitch deck to a tiger team of exited founders and capital,
+  optimized for the one thing you can't get back: time.
 list_colors:
   - "#09B1FB"
   - "#0EDDE4"
@@ -12,19 +12,18 @@ list_colors:
   - "#C856C7"
 lists:
   - name: Apply
-    content: Upload your pitch deck to see if you qualify for Supernova.
+    content: Upload your pitch deck. NOVA AI scores you in minutes, not months.
   - name: Scorecard
-    content: Get your free founder scorecard to see where you measure up and unlock
-      access to Supernova.
+    content: Get your free founder scorecard - an honest assessment of where you
+      stand and what it takes to qualify.
   - name: Matching
-    content: "We match you with vetted exited founders for complimentary call(s) to
-      problem solve and seize opportunities. "
+    content: We match you with vetted exited founders who've solved your exact
+      problems. You approve, they opt in, we connect you.
   - name: Exited Founders
-    content: You add one exited founder to your team to hit key milestones and sign
-      a STAR (Short-Term Advisory Relationship) agreement.
+    content: "One exited founder to your team hands-on, focused on your most
+      critical milestones. "
   - name: Funding
-    content: We invest checks up to $2MM+ in 10-12 world-changing companies yearly
-      and provide them with a tiger team of exited founders for oversized
-      returns.
+    content: We invest up to $2MM+ in 10-12 world-changing companies per year,
+      paired with a tiger team of exited founders built to win.
 ---
 ​
