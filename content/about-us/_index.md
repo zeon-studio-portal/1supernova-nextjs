@@ -1,11 +1,11 @@
 ---
-title: What if exited founders teamed up with companies changing the world to
-  achieve their missions, faster?
+title: Our Thesis
 description: >-
-  That's not a hypothetical. That's SUPERNOVA. 
+  What if exited founders teamed up with companies changing the world to achieve
+  their missions, faster?
 who_we_are:
   enable: true
-  title: Who We Are
+  title: Our Story
   content: " [Barry Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
     Staley](https://www.linkedin.com/in/christopherbstaley/) built Supernova
     from a simple observation: the difference between a company that scales and
