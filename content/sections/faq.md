@@ -26,7 +26,7 @@ lists:
     answer: Founders can apply online to see where they measure up and explore if
       Supernova is the right ally. We selectively back 10–12 scaleups each year
       —typically Series A–C companies or bootstrapped businesses with $5M+ in
-      ARR. For these companies, we deploy up to $1M+ in capital, paired with a
+      ARR. For these companies, we deploy up to $2M+ in capital, paired with a
       hands-on tiger team of successfully exited founders focused on
       accelerating the milestones. For earlier-stage companies that stand out,
       we may engage before investing by deploying one or more exited founders to
