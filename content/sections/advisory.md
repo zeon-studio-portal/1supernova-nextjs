@@ -29,11 +29,11 @@ facts:
   - title: Companies Backed
     number: 33
     suffix: ""
-  - title: "Portfolio Company Valuation ($B) "
-    number: "10"
-    suffix: ""
+  - title: "Portfolio Company Valuation($B) "
+    number: "15"
+    suffix: +
   - title: IN EXIT VALUE ($B)
-    number: "200"
+    number: "100"
     suffix: +
 ---
 ​
