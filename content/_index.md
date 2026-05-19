@@ -25,7 +25,7 @@ banner:
       - Founders own 20% or less by Series C
       - 70% unicorns are by repeat founders
       - 80% founders have post-exit regrets
-      - "VC's play growth-at-all-cost games "
+      - "VC's play games (growth-at-all-cost) "
       - PE buys, strips and flips
       - You don't have to learn the hard way
       - Supernova exists to change the game
