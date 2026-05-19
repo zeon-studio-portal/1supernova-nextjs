@@ -45,7 +45,7 @@ our_values:
 why_supernova_exists:
   enable: true
   title: Why Supernova Exists
-  quote: We orbit around your needs as all-star advisory teams.
+  quote: We orbit around your needs as all-star teams.
   content_left: >-
     **Founders build the future the rest of us inherit**. They disrupt
     trillion-dollar industries, make decisions that shape realities, and carry
