@@ -1,21 +1,20 @@
 ---
-title: About Us
+title: What if exited founders teamed up with companies changing the world to
+  achieve their missions, faster?
 description: >-
-  What if exited founders teamed up with companies changing the world to achieve
-  their missions, faster?
+  That's not a hypothetical. That's SUPERNOVA. 
 who_we_are:
   enable: true
   title: Who We Are
-  content: As evolutionary entrepreneurs themselves, Supernova co-founders [Barry
-    Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
-    Staley](https://www.linkedin.com/in/christopherbstaley/) have backgrounds as
-    serial founders and investors who have experienced first-hand the difference
-    between exceptional and sub-par operating partners. Through decades of
-    relationship building, trust, and curation, they have assembled a network of
-    world-class exited founders who are motivated to share their knowledge and
-    capital with companies that matter. Today, more than 250 exited founders
-    have come together through Supernova to deliver exponential impact to the
-    companies they serve.
+  content: " [Barry Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
+    Staley](https://www.linkedin.com/in/christopherbstaley/) built Supernova
+    from a simple observation: the difference between a company that scales and
+    one that stalls almost always comes down to who's int he room. <br> Both
+    serial founders and investrs themselves, they spent decades building the
+    kind of relationships most founders never get access to - exited founders
+    who've made the calls. </br> Today, 250+ of those founders have come
+    together through Supernova to deploy their capital, wisdom, and networks
+    into companies that matter."
 our_values:
   enable: true
   title: Our Values
@@ -137,4 +136,4 @@ contact_us:
       name: Brooke Figlo
       email: brooke@decentstartup.com
 ---
-
+​
