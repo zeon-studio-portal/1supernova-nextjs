@@ -63,7 +63,7 @@ why_supernova_exists:
     forward. <br/><br/>
 
 
-    **The perfect founder doesn't exist. The perfect team does.** Supernova
+    **The perfect founder doesn't exist**. The perfect team does. Supernova
     curates exited founders around your most critical needs, adapting as your
     company evolves. <br/><br/>
 
