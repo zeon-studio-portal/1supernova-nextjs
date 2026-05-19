@@ -2,7 +2,7 @@
 title: Our Thesis
 description: >-
   What if exited founders teamed up with companies changing the world to achieve
-  their missions, faster? <br> **That's no longer hypothetical. That's
+  their missions, faster? <br/> <br/> That's no longer hypothetical. That's
   SUPERNOVA. **
 who_we_are:
   enable: true
