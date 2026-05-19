@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Portfolio Superstars
-subtitle: Meet the mission‑driven leaders who are changing the world.
+subtitle: Meet the mission‑driven leaders positively impacting the world.
 list_colors:
   - "#5ECDF8"
   - "#FFCA59"
@@ -76,4 +76,4 @@ lists:
       height: 71
       file: /images/hym.png
 ---
-
+​
