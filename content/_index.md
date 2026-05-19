@@ -25,7 +25,7 @@ banner:
       - 50% founding ceo's fired/forced out
       - "VC's play games (growth-at-all-cost) "
       - 83% founders live with chronic stress
-      - 72% founders struggle w/ mental health
+      - 72% founders mental health struggles
       - 50% founders experience insomnia
       - "40% founder divorce rate "
       - "70% unicorns from repeat founders "
