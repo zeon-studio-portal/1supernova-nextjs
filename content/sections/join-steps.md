@@ -20,8 +20,8 @@ lists:
     content: We match you with exited founders who've solved your exact problems.
       You approve, they opt in, we connect you.
   - name: Exited Founders
-    content: "One exited founder to your team hands-on, focused on your most
-      critical milestones. "
+    content: "One exited founder to your team, focused on your most critical
+      milestones. "
   - name: Funding
     content: We invest up to $2MM+ in 10-12 world-changing companies per year,
       paired with a tiger team of exited founders built to win.
