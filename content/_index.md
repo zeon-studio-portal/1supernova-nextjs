@@ -18,7 +18,7 @@ banner:
     title: Proof this matters
     items:
       - Less than 1% of entrepreneurs exit
-      - 99% of founders walk with nothing
+      - 99% of founders walk away with nothing
       - 70% of VC-backed startups fail
       - "9% of Series A reach Series B "
       - 50% founding ceo's fired/forced out
