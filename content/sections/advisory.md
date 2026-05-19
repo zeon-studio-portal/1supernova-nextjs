@@ -14,8 +14,8 @@ quote: >-
   scaled, and sold. We lived the consequences of hyper-growth, near-death
   quarters, board pressure, and exits. Now we pay it forward. Supernova gives
   you the rarest resource: **wisdom**, when it matters most.</br> 
-services_image: /images/Supernova Exited Founders.jpg
-services_image_mobile: /images/Supernova Exited Founders.jpg
+services_image: /images/nps-score.svg
+services_image_mobile: /images/pvc.png
 founder_image: /images/burst_pattern.png
 facts_colors:
   - "#F5C400"
