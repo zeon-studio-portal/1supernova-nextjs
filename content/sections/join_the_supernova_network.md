@@ -29,6 +29,6 @@ testimonial:
     exited founders team up results happen faster.\"**"
   customer_avatar: /images/apply/Ben Lamm.png
   customer_name: Ben Lamm (6x Exited Founder)
-  customer_profession: "CEO & Co-founder of Colossal <br> ($200M Series C: $10B Valuation) "
+  customer_profession: "CEO & Co-founder of Colossal <br> ($200M Series C: $10B+ Valuation) "
 ---
 ​
