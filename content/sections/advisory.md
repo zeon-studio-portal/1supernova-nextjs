@@ -16,7 +16,7 @@ quote: >-
   you the rarest resource: **wisdom**, when it matters most.</br> 
 services_image: /images/upload_and_apply_bg.webp
 services_image_mobile: /images/upload_and_apply_bg.webp
-founder_image: /images/why_supernova_exists.png
+founder_image: /images/testimonials/layer-1.svg
 facts_colors:
   - "#F5C400"
   - "#5BD9AD"
