@@ -21,6 +21,7 @@ banner:
       - 99% sacrifice and walk with nothing
       - 70% of VC-backed startups fail
       - "9% of Series A reach Series B "
+      - 50%+ founding ceo's are fired/forced out
       - Founders own 20% or less by Series C
       - 70% unicorns are by repeat founders
       - 80% founders have post-exit regrets
