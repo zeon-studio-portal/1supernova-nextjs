@@ -2,8 +2,8 @@
 enable: true
 title: An Invitation to Top Founders Ready to Play a Greater Game?
 subtitle: >-
-  What if exited founders teamed up with companies changing the world to achieve
-  their missions, faster?
+  **What if exited founders teamed up with companies changing the world to
+  achieve their missions, faster?**
 description: >-
   Scaling a startup is a game of high-stakes decisions. Every move counts and
   having the right investors and operating partners can be the difference
