@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Don't take our word for it. Take theirs. "
+title: "The Supernova effect (in their own words)"
 subtitle: What's possible when exited founders share their superpowers?
 items:
   - name: JT Marino
