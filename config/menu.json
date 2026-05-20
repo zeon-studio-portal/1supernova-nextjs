@@ -1,28 +1,28 @@
 {
   "main": [
     {
-      "name": "Exited Founders",
-      "url": "/#superstars"
-    },
-    {
       "name": "Portfolio",
       "url": "/#portfolio"
+    },
+    {
+      "name": "Exited Founders",
+      "url": "/#superstars"
     },
     {
       "name": "How it Works",
       "url": "/#join-steps"
     },
     {
+      "name": "NOVA AI",
+      "url": "https://acceptance.1supernova.com/"
+    },
+    {
       "name": "FAQs",
       "url": "/#faqs"
     },
     {
-      "name": "About Us",
+      "name": "About",
       "url": "https://1supernova.com/about-us"
-    },
-    {
-      "name": "NOVA AI",
-      "url": "https://acceptance.1supernova.com/"
     }
   ],
   "footer": [
