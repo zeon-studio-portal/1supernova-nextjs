@@ -1,7 +1,7 @@
 ---
 enable: true
-title: What they are saying
-subtitle: What's possible when exited founders combine their superpowers?
+title: "Don't take our word for it. Take theirs. "
+subtitle: Here's what our founders and portfolio companies say.
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
@@ -64,4 +64,4 @@ items:
     company: "Neuromore "
     quote: I was skeptic. Supernova proved me wrong - got hands-on to 3x sales!
 ---
-
+​
