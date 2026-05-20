@@ -38,7 +38,7 @@ banner:
     label: Find out in minutes, not months
     subtitle: Get your free NOVA AI scorecard today
     image: /images/burst_pattern.png
-    full_link: nova.1supernova.com
+    full_link: https://nova.1supernova.com/#/apply-with-ai
   button:
     enable: true
     label: See if you pass/fail
