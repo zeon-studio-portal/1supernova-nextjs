@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "The Supernova Effect "
-subtitle: "Here's what founders and portfolio companies say. "
+subtitle: "Here's what our founders and portfolio companies say. "
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
