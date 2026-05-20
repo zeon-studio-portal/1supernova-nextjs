@@ -5,6 +5,19 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
+  - question: Who gets backed by Supernova?
+    answer: Founders can apply online to see where they measure up and explore if
+      Supernova is the right ally. We selectively back up to a dozen scaleups
+      each year, typically Series A–C companies or bootstrapped businesses with
+      $5M-100M in ARR. For these companies, we deploy up to $2M+ in capital,
+      paired with a hands-on tiger team of successfully exited founders focused
+      on accelerating the milestones. For earlier-stage companies that stand
+      out, we may engage before investing by deploying one or more exited
+      founders to build relationships and help unlock key inflection points.
+      Supernova is sector-agnostic, with a strong track record across AI,
+      HealthTech, Fintech, SaaS, eCommerce, Impact, and Web3. Above all, we are
+      drawn to mission-driven founders tackling meaningful, modern-day problems
+      and building companies that create lasting value for humanity.
   - question: What makes top founders choose you?
     answer: "If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
@@ -22,19 +35,6 @@ lists:
       founders with multiple exits still tag in Supernova despite their past
       success because they know the advantage it brings when scaling their
       companies successfully."
-  - question: Who gets selected?
-    answer: Founders can apply online to see where they measure up and explore if
-      Supernova is the right ally. We selectively back up to a dozen scaleups
-      each year, typically Series A–C companies or bootstrapped businesses with
-      $5M-100M in ARR. For these companies, we deploy up to $2M+ in capital,
-      paired with a hands-on tiger team of successfully exited founders focused
-      on accelerating the milestones. For earlier-stage companies that stand
-      out, we may engage before investing by deploying one or more exited
-      founders to build relationships and help unlock key inflection points.
-      Supernova is sector-agnostic, with a strong track record across AI,
-      HealthTech, Fintech, SaaS, eCommerce, Impact, and Web3. Above all, we are
-      drawn to mission-driven founders tackling meaningful, modern-day problems
-      and building companies that create lasting value for humanity.
   - question: How much does Supernova invest?
     answer: Every portfolio company in Supernova’s fund receives a check (up to
       $2M+). More importantly, each company is paired with 3–5 successfully
