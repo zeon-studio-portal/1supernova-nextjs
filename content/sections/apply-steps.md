@@ -3,7 +3,7 @@ enable: true
 background_image: /images/testimonials/Exec--Jeetu--A-New-Era-for-Networking-and-the-Future-of-Work_1200x675_graphic.jpg
 title: THE AI REALITY CHECK
 subtitle: >-
-  You Can Build Anything With AI. <br> But Who Guides You Changes the Outcome.
+  You can build anything with AI. <br> But who guides you changes the outcome.
   <br>
 button:
   label: Talk to NOVA AI now to access exited founders and smart capital
