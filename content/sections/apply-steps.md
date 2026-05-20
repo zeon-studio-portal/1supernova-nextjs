@@ -1,7 +1,7 @@
 ---
 enable: true
 background_image: /images/testimonials/Exec--Jeetu--A-New-Era-for-Networking-and-the-Future-of-Work_1200x675_graphic.jpg
-title: THE AI REALITY CHECK
+title: The AI Reality Check
 subtitle: >-
   You can build anything with AI. <br> But who guides you changes the outcome.
   <br>
