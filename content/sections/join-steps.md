@@ -23,7 +23,7 @@ lists:
     content: "One exited founder joins your team, focused on your most critical
       milestones. "
   - name: Funding
-    content: We invest up to $2MM+ in 10-12 world-changing companies per year,
+    content: We invest up to $2MM+ in up to 12 world-changing companies annually,
       paired with a tiger team of exited founders built to win.
 ---
 ​
