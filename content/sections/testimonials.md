@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Don't take our word for it. Take theirs. "
-subtitle: Here's what our founders and portfolio companies say.
+subtitle: What's possible when exited founders share their superpowers?
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
