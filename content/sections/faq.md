@@ -90,14 +90,14 @@ lists:
       scaled and exited companies from $10M to $10B+, often in the same stage
       and industry your portfolio companies are navigating today. Supernova
       provides board-level operator leverage across the portfolio. Our exited
-      founders don’t advise from the sidelines—they engage hands-on to help
+      founders don’t advise from the sidelines, they engage hands-on to help
       leadership teams move faster, make better decisions, and avoid costly
       mistakes at moments where execution risk is highest: post-acquisition
       stabilization, aggressive growth phases, executive transitions, AI and
       operational transformation, and exit preparation. Using NOVA, our
       proprietary AI matching engine, we diagnose each portfolio company’s most
       critical challenges and rapidly connect them with the right exited
-      founders—often in minutes, not months—creating time compression and
+      founders, often in minutes, not months, creating time compression and
       immediate execution lift. The data supports this model. Operational
       improvements are now the primary driver of PE returns, and nearly 70% of
       billion-dollar companies were built by repeat founders. Supernova
