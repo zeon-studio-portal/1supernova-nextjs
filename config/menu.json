@@ -1,6 +1,10 @@
 {
   "main": [
     {
+      "name": "Exited Founders",
+      "url": "/#superstars"
+    },
+    {
       "name": "How it Works",
       "url": "/#join-steps"
     },
@@ -9,16 +13,16 @@
       "url": "/#portfolio"
     },
     {
-      "name": "Exited Founders",
-      "url": "/#superstars"
-    },
-    {
       "name": "Why Us?",
       "url": "/#mission"
     },
     {
       "name": "FAQs",
       "url": "/#faqs"
+    },
+    {
+      "name": "About Us",
+      "url": "https://1supernova.com/about-us"
     }
   ],
   "footer": [
