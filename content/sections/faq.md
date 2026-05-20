@@ -6,22 +6,22 @@ subtitle: >-
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
   - question: What makes top founders choose Supernova?
-    answer: If you are leading a growth stage company ($5MM to $100MM+), then you
+    answer: "If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
       entering new markets, bridging financing rounds, M&A, etc. The founders’
       journey to go the distance can be crazy complicated, but it doesn’t have
       to be. Our mission at Supernova is to accelerate the realization of the
       founder's vision from the only perspective that truly understands the
       journey, as exited founders ourselves. Stacking successfully exited
-      founders on your team is a game-changer. They supply shortcuts, and cheat
+      founders on your team is a game-changer. They supply shortcuts, cheat
       codes and help solve problems to help you get unstuck and accelerate
-      speed-to-value. They fill specific needs - guidance, expertise,
-      connections, mentorship, coaching and can even get hands-on serving in
+      speed-to-value. They fill specific needs: guidance, expertise,
+      connections, mentorship, coaching, and can even get hands-on serving in
       interim roles or tiger teams. 70% of unicorns were built by repeat
       founders of at least one previously successful company. That's why
       founders with multiple exits still tag in Supernova despite their past
       success because they know the advantage it brings when scaling their
-      companies successfully.
+      companies successfully."
   - question: Who gets selected for Supernova?
     answer: Founders can apply online to see where they measure up and explore if
       Supernova is the right ally. We selectively back 10–12 scaleups each year
