@@ -5,7 +5,7 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
-  - question: What makes top founders choose Supernova?
+  - question: What makes top founders choose you?
     answer: "If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
       entering new markets, bridging financing rounds, M&A, etc. The founders’
