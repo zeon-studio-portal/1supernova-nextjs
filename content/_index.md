@@ -37,7 +37,7 @@ banner:
     enable: true
     label: Find out in minutes, not months
     subtitle: Get your free NOVA AI scorecard today
-    image: /images/barry_stamos.png
+    image: /images/why_supernova_exists.png
     full_link: nova.1supernova.com
   button:
     enable: true
