@@ -5,7 +5,7 @@ subtitle: 250+ exited founders who've built, scaled, and sold. Now get in the
   game with you.
 quote: >-
   We orbit around your needs as investors, mentors, advisors, coaches, interim
-  executives, and hands-on operators.
+  executives, and hands-on operators. 
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
