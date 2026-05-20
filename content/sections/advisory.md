@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'In the Age of AI <br> Relationships Are Your Unfair Advantage. </br>'
+title: 'In the Age of AI <br> Relationships Are Your Unfair Advantage </br>'
 subtitle: >-
   We are 250+ exited founders deploying capital, judgement and operator leverage
   to help you win.✨</br> Supernova has a proven track record of scaling
