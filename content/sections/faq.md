@@ -18,7 +18,7 @@ lists:
       HealthTech, Fintech, SaaS, eCommerce, Impact, and Web3. Above all, we are
       drawn to mission-driven founders tackling meaningful, modern-day problems
       and building companies that create lasting value for humanity.
-  - question: What makes top founders choose you?
+  - question: Why do top founders choose you?
     answer: "If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
       entering new markets, bridging financing rounds, M&A, etc. The founders’
