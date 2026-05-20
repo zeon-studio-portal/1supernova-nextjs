@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: Why Supernova Exists
 image: /images/why_supernova_exists.png
 image_alt: Supernova
@@ -10,8 +10,7 @@ lists:
       destroyers. They don’t have all the answers. They let few in their inner
       circle to influence decisions. Decisions that make or break realities and
       relationships.
-  - title: >-
-      **Like our ancestors, it’s time they look to the stars to successfully
+  - title: "**Like our ancestors, it’s time they look to the stars to successfully
       navigate the hero’s journey.** The dark side of startup life is no joke.
       And, founders no longer have to do it all alone. After 4 Billion years of
       evolution, humanity is finally figuring out that collaboration is key.
@@ -19,6 +18,6 @@ lists:
       shouldn’t we? <br><br>At Supernova, our purpose is to be guiding lights.
       We shine brighter together as all-star teams backing founders dreams. We
       believe mass collaboration can spark a Supernova of impact in the world.
-      ⭐
+      ⭐"
 ---
-
+​
