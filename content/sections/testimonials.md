@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "The Supernova effect (in their own words)"
-subtitle: What's possible when exited founders share their superpowers?
+subtitle: Proof that the right relationships change everything
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
