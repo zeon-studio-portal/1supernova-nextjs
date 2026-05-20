@@ -1,7 +1,8 @@
 ---
 enable: true
 title: We Are All-Stars
-subtitle: Over 250+ exited founders ready to serve your company needs as all-star teams.
+subtitle: 250+ exited founders who've built, scaled, and sold. Now get in the
+  game with you.
 quote: >-
   We orbit around your needs as investors, mentors, advisors, coaches, interim
   executives, and hands-on operators.
@@ -1069,4 +1070,4 @@ team:
       (exited), a video chat marketplace that connects people with experts in a
       variety of subjects.
 ---
-
+​
