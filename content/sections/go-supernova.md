@@ -3,11 +3,7 @@ enable: true
 title: Behind The Scenes
 subtitle: >-
   Watch the 'made it' podcast with Barry Stamos, CEO of Supernova
-video_url: '<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/gZIoe6bu2GY?si=7Iq9rZr-2hxVkVsB"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+video_url: 'https://youtu.be/gZIoe6bu2GY?si=BTrnY__dSHSI2fNO'
 quote: We are a conscious cooperative of founders invested in each other’s success
 features:
   - icon: /images/go-supernova/03.svg
