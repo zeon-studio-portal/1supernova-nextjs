@@ -80,7 +80,7 @@ lists:
       mentors, investors, interim executives, or members of focused tiger teams.
       We handle all administration and back-office support, making Supernova a
       turnkey platform for high-leverage engagement and impact
-  - question: How does Supernova work with VCs & PE?
+  - question: How do you work with VCs & PE?
     answer: "Supernova acts as a force multiplier for modern VC and PE firms,
       helping them drive value creation in an era where returns are no longer
       driven by financial engineering alone, but by operational execution,
