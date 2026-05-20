@@ -5,15 +5,15 @@
       "url": "/#superstars"
     },
     {
-      "name": "How it Works",
-      "url": "/#join-steps"
-    },
-    {
       "name": "Portfolio",
       "url": "/#portfolio"
     },
     {
-      "name": "Why Us?",
+      "name": "How it Works",
+      "url": "/#join-steps"
+    },
+    {
+      "name": "Why Now?",
       "url": "/#mission"
     },
     {
@@ -70,5 +70,6 @@
       "name": "VC’s",
       "url": "www.1supernova.com/pe"
     }
-  ]
+  ],
+  "draft": false
 }
