@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "The Supernova effect (in their own words)"
-subtitle: Proof that the right relationships change everything
+title: "The Supernova Effect "
+subtitle: "Here's what founders and portfolio companies say. "
 items:
   - name: JT Marino
     image: /images/testimonials/jt-marnio.jpg
