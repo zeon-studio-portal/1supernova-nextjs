@@ -35,7 +35,7 @@ lists:
       founders with multiple exits still tag in Supernova despite their past
       success because they know the advantage it brings when scaling their
       companies successfully."
-  - question: How much does Supernova invest?
+  - question: How much do you invest?
     answer: Every portfolio company in Supernova’s fund receives a check (up to
       $2M+). More importantly, each company is paired with 3–5 successfully
       exited founders, including Super Founders with prior exits of $50M+, who
