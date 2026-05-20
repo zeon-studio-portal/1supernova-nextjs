@@ -60,7 +60,7 @@ lists:
       move faster, avoid costly mistakes, and compound progress over time. If
       you feel “too busy” for Supernova, that’s usually the signal you need us
       most. "
-  - question: Why do successfully exited founders do this?
+  - question: Why do successfully exited founders join Supernova?
     answer: Supernova shares similarities with organizations like YPO; intimate,
       high-trust peer groups that serve as powerful sounding boards. The
       difference is that at Supernova, exited founders don’t just talk about the
