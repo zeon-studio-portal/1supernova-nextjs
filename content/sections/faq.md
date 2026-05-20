@@ -22,10 +22,10 @@ lists:
       founders with multiple exits still tag in Supernova despite their past
       success because they know the advantage it brings when scaling their
       companies successfully."
-  - question: Who gets selected for Supernova?
+  - question: Who gets selected?
     answer: Founders can apply online to see where they measure up and explore if
-      Supernova is the right ally. We selectively back 10–12 scaleups each year
-      —typically Series A–C companies or bootstrapped businesses with $5M+ in
+      Supernova is the right ally. We selectively back 10–12 scaleups each year,
+      typically Series A–C companies or bootstrapped businesses with $5M-100M in
       ARR. For these companies, we deploy up to $2M+ in capital, paired with a
       hands-on tiger team of successfully exited founders focused on
       accelerating the milestones. For earlier-stage companies that stand out,
