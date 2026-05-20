@@ -2,10 +2,10 @@
 enable: true
 title: An Invitation to Top Founders Ready to Play a Greater Game?
 subtitle: >-
-  **What if exited founders teamed up with companies changing the world to
-  achieve their missions, faster?**
+  What if exited founders teamed up with companies changing the world to achieve
+  their missions, faster?
 description: >-
-  Scaling a startup is a game of high-stakes decisions. Every move count and
+  Scaling a startup is a game of high-stakes decisions. Every move counts and
   having the right investors and operating partners can be the difference
   between success and failure.<br><br>At Supernova, we don’t fck around. We
   don’t just invest or advise. We activate. We are 250+ exited founders who have
@@ -14,11 +14,11 @@ description: >-
   takes to win the game.<br><br>We don't sit on the sidelines. We get in the
   game with you. Savage execution. We only back founders on a mission to build
   thriving businesses that make a real difference.<br><br> If that sounds like
-  you, [apply now](https://https://nova.1supernova.com/#/apply-with-ai), and
-  let’s see if we’re a fit.
+  you, [see if you
+  pass/fail](https://https://nova.1supernova.com/#/apply-with-ai).
 button:
   enable: true
-  label: Apply Now
+  label: Apply with NOVA AI
   link: https://nova.1supernova.com/#/apply-with-ai
 main_image: /images/colossal200m.png
 main_image_play_button:
