@@ -37,7 +37,7 @@ lists:
       building companies that create lasting value for humanity.
   - question: How much does Supernova invest?
     answer: Every portfolio company in Supernova’s fund receives a check (up to
-      $1M+). More importantly, each company is paired with 3–5 successfully
+      $2M+). More importantly, each company is paired with 3–5 successfully
       exited founders, including Super Founders with prior exits of $50M+, who
       roll up their sleeves and work hands-on to accelerate critical milestones.
       As the saying goes, wisdom is more precious than gold. We don’t just
