@@ -6,7 +6,7 @@ subtitle: >-
   You can build anything with AI. <br> But who guides you changes the outcome.
   <br>
 button:
-  label: Talk to NOVA AI To Access Exited Founders & Smart Capital 💬
+  label: Talk to NOVA AI to Access Exited Founders & Smart Capital 💬
   link: https://nova.1supernova.com/#/apply-with-ai
   enable: true
 step_list:
