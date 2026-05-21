@@ -108,6 +108,6 @@ lists:
       more than scaling companies. It’s about compounding wisdom instead of
       relearning pain, and helping founders build in a way that is worthy of the
       power they hold. Because the future won’t be shaped by those who shine
-      alone, but by those who shine brighter together. "
+      alone, but by those who shine brighter together. ✨"
 ---
 ​
