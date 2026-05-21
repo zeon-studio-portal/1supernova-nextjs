@@ -28,7 +28,7 @@ facts:
     suffix: +
   - title: Companies Backed
     number: 33
-    suffix: ""
+    suffix: +
   - title: "Portfolio Company Valuation($B) "
     number: "11"
     suffix: +
