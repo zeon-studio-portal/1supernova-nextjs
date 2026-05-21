@@ -17,22 +17,16 @@ lists:
       drawn to: mission-driven leaders talking real problems, building
       companies, scaling what matters. Apply online to see if we're a fit."
   - question: Why do top founders choose you?
-    answer: "If you are leading a growth stage company ($5MM to $100MM+), then you
-      already know it doesn't get any easier the bigger you get. Scaling teams,
-      entering new markets, bridging financing rounds, M&A, etc. The founders’
-      journey to go the distance can be crazy complicated, but it doesn’t have
-      to be. Our mission at Supernova is to accelerate the realization of the
-      founder's vision from the only perspective that truly understands the
-      journey, as exited founders ourselves. Stacking successfully exited
-      founders on your team is a game-changer. They supply shortcuts, cheat
-      codes and help solve problems to help you get unstuck and accelerate
-      speed-to-value. They fill specific needs: guidance, expertise,
-      connections, mentorship, coaching, and can even get hands-on serving in
-      interim roles or tiger teams. 70% of unicorns were built by repeat
-      founders of at least one previously successful company. That's why
-      founders with multiple exits still tag in Supernova despite their past
-      success because they know the advantage it brings when scaling their
-      companies successfully."
+    answer: "Leading a $5MM to $100MM+ company doesn't get easier as you scale. New
+      markets, financing rounds, growth, team, M&A - the complexity compounds.
+      What actually moves the needle the most at this stage is making wiser
+      choices that lead to better outcomes. Supernova puts wisdom and lived
+      experience directly on your team. Not as advisors who show up quarterly,
+      but as operators who dig in: guidance, introductions, interim roles, tiger
+      teams or whatever the moment calls for. 70% of unicorns were built by
+      repeat founders of at least one previously successful company. That's not
+      a coincidence. Founders with multiple exits still bring Supernova because
+      they understand what experienced pattern recognition is worth at scale. "
   - question: How much do you invest?
     answer: Every portfolio company in Supernova’s fund receives a check (up to
       $2M+). More importantly, each company is paired with 3–5 successfully
