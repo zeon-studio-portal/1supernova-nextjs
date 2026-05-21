@@ -47,18 +47,19 @@ lists:
       helping companies scale to unicorn and decacorn outcomes. Together, we
       build enduring companies and a legacy that extends far beyond business
       success.
-  - question: What if I don’t have time?
-    answer: "Our guiding North Star is TIME. We don’t waste it: yours, your team’s,
-      or our exited founders’. We start by precisely matching each Supernova
-      exited founder to a member of your C-suite. For example, your CMO is
-      paired with a successfully exited founder whose zone of genius directly
-      addresses their most pressing opportunities and problems. Leadership teams
-      typically invest 5–10 hours per month and gain disproportionate returns
-      through direct knowledge transfer: hard-won wisdom, pattern recognition,
-      resources, and trusted relationships. Our founders are often brought in at
-      moments that involve million-dollar decisions, helping teams move faster,
-      avoid costly mistakes, and compound progress over time. If you feel “too
-      busy” for Supernova, that’s usually the signal you need us most. "
+  - question: What if I don’t have time for exited founders?
+    answer: "If you feel “too busy” for Supernova, that’s usually the signal you
+      need us most. We meach each Supernova exited founder to a member of your
+      C-suite, based on where your biggest opportunities and blind spots
+      actually are. For example, your CMO gets paired with someone who's already
+      solved what they are facing right now. Leadership teams typically invest
+      5–10 hours per month and gain disproportionate returns through direct
+      knowledge transfer: hard-won wisdom, pattern recognition, and trusted
+      relationships that would otherwise take years to build. Our founders are
+      called in at million-dollar decision points. They help teams level up,
+      move faster, avoid expensive mistakes, and compound progress over
+      time.  Our guiding North Star is TIME. We don’t waste your time, your
+      team’s time, or our exited founders’. "
   - question: Why do successfully exited founders join Supernova?
     answer: Supernova shares similarities with organizations like YPO; intimate,
       high-trust peer groups that serve as powerful sounding boards. The
