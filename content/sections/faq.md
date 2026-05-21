@@ -52,7 +52,7 @@ lists:
       North Star is TIME. We don’t waste your time, your team’s time, or our
       exited founders’. "
   - question: Why do exited founders join SUPERNOVA?
-    answer: "Most exited founders didn't get there alone. We know the right
+    answer: Most exited founders didn't get there alone. We know the right
       relationships matter. Supernova is how we give back and pay it forward to
       fellow founders with real upside. We are a peer group of 250+ exited
       founders who believe that, together, we can catalyze far more growth and
@@ -68,7 +68,7 @@ lists:
       similarities with organizations like YPO; intimate, high-trust peer groups
       that serve as powerful sounding boards. The difference is that at
       Supernova, exited founders don’t just talk about the game, they get back
-      on the field together. "
+      on the field together.
   - question: How do you team with VC/PE?
     answer: "Operational improvements are now the primary driver of PE returns, and
       nearly 70% of billion-dollar companies were built by repeat founders.
