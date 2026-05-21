@@ -52,14 +52,13 @@ lists:
       or our exited founders’. We start by precisely matching each Supernova
       exited founder to a member of your C-suite. For example, your CMO is
       paired with a successfully exited founder whose zone of genius directly
-      addresses your most pressing opportunities and challenges. Leadership
-      teams typically invest 5–10 hours per month and gain disproportionate
-      returns through direct knowledge transfer—hard-won wisdom, pattern
-      recognition, resources, and trusted relationships. Our founders are often
-      brought in at moments that involve million-dollar decisions, helping teams
-      move faster, avoid costly mistakes, and compound progress over time. If
-      you feel “too busy” for Supernova, that’s usually the signal you need us
-      most. "
+      addresses their most pressing opportunities and problems. Leadership teams
+      typically invest 5–10 hours per month and gain disproportionate returns
+      through direct knowledge transfer: hard-won wisdom, pattern recognition,
+      resources, and trusted relationships. Our founders are often brought in at
+      moments that involve million-dollar decisions, helping teams move faster,
+      avoid costly mistakes, and compound progress over time. If you feel “too
+      busy” for Supernova, that’s usually the signal you need us most. "
   - question: Why do successfully exited founders join Supernova?
     answer: Supernova shares similarities with organizations like YPO; intimate,
       high-trust peer groups that serve as powerful sounding boards. The
