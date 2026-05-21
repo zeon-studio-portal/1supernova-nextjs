@@ -19,9 +19,9 @@ services_image_mobile: /images/upload_and_apply_bg.webp
 founder_image: /images/Supernova Exited Founders.jpg
 facts_colors:
   - "#F5C400"
-  - "#5BD9AD"
-  - "#fb9f71"
   - "#ca58c5"
+  - "#fb9f71"
+  - "#5BD9AD"
 facts:
   - title: Exited Founders
     number: 250
@@ -32,8 +32,8 @@ facts:
   - title: "Portfolio Company Valuation($B) "
     number: "11"
     suffix: ""
-  - title: IN EXIT VALUE ($B)
-    number: "200"
-    suffix: ""
+  - title: "NPS "
+    number: "90"
+    suffix: "%"
 ---
 ​
