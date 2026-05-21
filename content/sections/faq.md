@@ -52,25 +52,23 @@ lists:
       North Star is TIME. We don’t waste your time, your team’s time, or our
       exited founders’. "
   - question: Why do successfully exited founders join Supernova?
-    answer: Supernova shares similarities with organizations like YPO; intimate,
-      high-trust peer groups that serve as powerful sounding boards. The
-      difference is that at Supernova, exited founders don’t just talk about the
-      game, they get back on the field together, helping scale real companies
-      and sharing upside in successful outcomes. We are a peer group of 250+
-      exited founders who believe that, together, we can catalyze far more
-      growth and impact than any of us could alone. Many of our founders
-      attribute a meaningful part of their own success to the mentors and
-      advisors who guided them along the way. Having achieved that success, they
-      feel called to pay it forward. Through Supernova, exited founders gain the
-      opportunity to invest and earn equity in growth-stage companies by
-      contributing their battle-tested wisdom, operating experience, and social
-      capital. In return, companies gain direct access to founders who have
-      already navigated the challenges they now face. Supernova curates this
-      engagement end-to-end. We source high-quality deal flow and present
-      frictionless opportunities for our founders to participate, as advisors,
-      mentors, investors, interim executives, or members of focused tiger teams.
-      We handle all administration and back-office support, making Supernova a
-      turnkey platform for high-leverage engagement and impact
+    answer: "Most exited founders didn't get there alone. We know the right
+      relationships matter. Supernova is how we give back and pay it forward to
+      fellow founders with real upside. We are a peer group of 250+ exited
+      founders who believe that, together, we can catalyze far more growth and
+      impact than any of us could alone. Exited founders gain the opportunity to
+      invest and/or earn equity in growth-stage companies by contributing their
+      battle-tested wisdom, operating experience, and social capital. You choose
+      your level of involvement. We handle everything else. Supernova sources
+      the deal flow, handles all the structure and back-office work, and shares
+      opportunities to participate as an advisor, mentor, interim executive,
+      investor, or tiger team member. You gain equity (and sometimes
+      cash/distributions), a peer group of people who've actually done it, and
+      the satisfaction of being useful lagain in a way that matters. We share
+      similarities with organizations like YPO; intimate, high-trust peer groups
+      that serve as powerful sounding boards. The difference is that at
+      Supernova, exited founders don’t just talk about the game, they get back
+      on the field together. "
   - question: How do you team with VC/PE?
     answer: "Operational improvements are now the primary driver of PE returns, and
       nearly 70% of billion-dollar companies were built by repeat founders.
