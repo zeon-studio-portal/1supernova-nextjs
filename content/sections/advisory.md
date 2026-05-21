@@ -30,7 +30,7 @@ facts:
     number: 33
     suffix: +
   - title: "Portfolio Company Valuation($B) "
-    number: "11"
+    number: "10"
     suffix: +
   - title: Exit Value ($B)
     number: "100"
