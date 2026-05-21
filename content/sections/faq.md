@@ -6,18 +6,16 @@ subtitle: >-
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
   - question: Who gets backed by Supernova?
-    answer: Founders can apply online to see where they measure up and explore if
-      Supernova is the right ally. We selectively back up to a dozen scaleups
-      each year, typically Series A–C companies or bootstrapped businesses with
-      $5M-100M in ARR. For these companies, we deploy up to $2M+ in capital,
-      paired with a hands-on tiger team of successfully exited founders focused
-      on accelerating the milestones. For earlier-stage companies that stand
-      out, we may engage before investing by deploying one or more exited
-      founders to build relationships and help unlock key inflection points.
-      Supernova is sector-agnostic, with a strong track record across AI,
-      HealthTech, Fintech, SaaS, eCommerce, Impact, and Web3. Above all, we are
-      drawn to mission-driven founders tackling meaningful, modern-day problems
-      and building companies that create lasting value for humanity.
+    answer: "We back up to a dozen scaleups each year. Typically Series A–C
+      companies, or bootstrapped businesses doing $5M-100M in ARR. For the right
+      fit, we deploy up to $2M+ in capital alongside a hands-on tiger team of
+      exited founders who have already been where you're trying to go. For
+      earlier-stage companies that stand out, we'll sometimes embed an exited
+      founders before we invest, to build the relationship and prove the fit.
+      We're sector-agnostic. AI, HealthTech, Fintech, SaaS, eCommerce, Impact,
+      and Web3 - the industry matters less than the founder and team. What we're
+      drawn to: mission-driven leaders talking real problems, building
+      companies, scaling what matters. Apply online to see if we're a fit."
   - question: Why do top founders choose you?
     answer: "If you are leading a growth stage company ($5MM to $100MM+), then you
       already know it doesn't get any easier the bigger you get. Scaling teams,
