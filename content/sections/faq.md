@@ -51,7 +51,7 @@ lists:
       avoid expensive mistakes, and compound progress over time.  Our guiding
       North Star is TIME. We don’t waste your time, your team’s time, or our
       exited founders’. "
-  - question: Why do exited founders join Supernova?
+  - question: Why do exited founders join SUPERNOVA?
     answer: "Most exited founders didn't get there alone. We know the right
       relationships matter. Supernova is how we give back and pay it forward to
       fellow founders with real upside. We are a peer group of 250+ exited
