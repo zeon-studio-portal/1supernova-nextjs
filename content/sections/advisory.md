@@ -31,7 +31,7 @@ facts:
     suffix: ""
   - title: "Portfolio Company Valuation($B) "
     number: "11"
-    suffix: B
+    suffix: ""
   - title: "NPS "
     number: "90"
     suffix: "%"
