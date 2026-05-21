@@ -49,8 +49,8 @@ lists:
       success.
   - question: What if I don’t have time for exited founders?
     answer: "If you feel “too busy” for Supernova, that’s usually the signal you
-      need us most. We match each Supernova exited founder to a member of your
-      C-suite, based on where your biggest opportunities and blind spots
+      need us most. We match each Supernova exited founder to key members of
+      your C-suite, based on where your biggest opportunities and blind spots
       actually are. For example, your CMO gets paired with someone who's already
       solved what they are facing right now. Leadership teams typically invest
       5–10 hours per month and gain disproportionate returns through direct
