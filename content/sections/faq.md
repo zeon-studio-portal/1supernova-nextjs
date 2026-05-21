@@ -64,7 +64,7 @@ lists:
       opportunities to participate as an advisor, mentor, interim executive,
       investor, or tiger team member. You gain equity (and sometimes
       cash/distributions), a peer group of people who've actually done it, and
-      the satisfaction of being useful lagain in a way that matters. We share
+      the satisfaction of being useful again in a way that matters. We share
       similarities with organizations like YPO; intimate, high-trust peer groups
       that serve as powerful sounding boards. The difference is that at
       Supernova, exited founders don’t just talk about the game, they get back
