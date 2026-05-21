@@ -103,7 +103,8 @@ lists:
       preparation. Using NOVA, our proprietary AI matching engine, we diagnose
       each portfolio company’s most critical challenges and rapidly connect them
       with the right exited founders, often in minutes, not months, creating
-      time compression and immediate execution lift."
+      time compression and immediate execution lift. Learn more at
+      1supernova.com/pe"
   - question: Why the name Supernova?
     answer: "A Supernova shines hundreds of billions of times brighter than a single
       star. While one sun sustains life, a Supernova reshapes entire galaxies.
