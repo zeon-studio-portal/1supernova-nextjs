@@ -33,7 +33,7 @@ facts:
     number: "11"
     suffix: ""
   - title: IN EXIT VALUE ($B)
-    number: "100"
-    suffix: +
+    number: "200"
+    suffix: ""
 ---
 ​
