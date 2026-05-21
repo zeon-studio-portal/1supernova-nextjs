@@ -6,7 +6,7 @@ subtitle: >-
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
   - question: Who gets backed by Supernova?
-    answer: "We back up to a dozen scaleups each year. Typically Series A–C
+    answer: "We back up to a dozen scaleups each year. Typically, Series A–C
       companies, or bootstrapped businesses doing $5M-100M in ARR. For the right
       fit, we deploy up to $2M+ in capital alongside a hands-on tiger team of
       exited founders who have already been where you're trying to go. For
