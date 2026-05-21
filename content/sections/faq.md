@@ -5,6 +5,17 @@ subtitle: >-
   Can’t find answers here? <br /> Feel free to [reach
   out](https://calendly.com/supernova-intro/supernova-intro?month=2023-05).
 lists:
+  - question: How much do you invest?
+    answer: "Every portfolio company in Supernova’s fund gets a check up to $2M.
+      That's the starting point, not the whole offer. Each company is also
+      paired with 3–5 exited founders, including a Super Founder with prior
+      exits of $50M+, who gets hands-on involvement, not just a call once a
+      month. They're in the room when it matters: hiring decisions, fundraising
+      strategy, partnership negotiations, inflection points that carry
+      seven-figure consequences. Capital is table stakes. The reason Supernova
+      portfolio companies achieve unicorn and decacorn outcomes is the judgment
+      that sits alongside the check. 90% NPS. The founders we back tend to stay
+      close."
   - question: Who gets backed by Supernova?
     answer: "We back up to a dozen scaleups each year. Typically, Series A–C
       companies, or bootstrapped businesses doing $5M-100M in ARR. For the right
@@ -27,17 +38,6 @@ lists:
       repeat founders of at least one previously successful company. That's not
       a coincidence. Founders with multiple exits still bring Supernova because
       they understand what experienced pattern recognition is worth at scale. "
-  - question: How much do you invest?
-    answer: "Every portfolio company in Supernova’s fund gets a check up to $2M.
-      That's the starting point, not the whole offer. Each company is also
-      paired with 3–5 exited founders, including a Super Founder with prior
-      exits of $50M+, who gets hands-on involvement, not just a call once a
-      month. They're in the room when it matters: hiring decisions, fundraising
-      strategy, partnership negotiations, inflection points that carry
-      seven-figure consequences. Capital is table stakes. The reason Supernova
-      portfolio companies achieve unicorn and decacorn outcomes is the judgment
-      that sits alongside the check. 90% NPS. The founders we back tend to stay
-      close."
   - question: What if I don’t have time for exited founders?
     answer: "If you feel “too busy” for Supernova, that’s usually the signal you
       need us most. We match each Supernova founder to members of your C-suite,
