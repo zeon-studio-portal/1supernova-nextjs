@@ -47,7 +47,7 @@ lists:
       helping companies scale to unicorn and decacorn outcomes. Together, we
       build enduring companies and a legacy that extends far beyond business
       success.
-  - question: What if I don’t have time for exited founders?
+  - question: What if I don’t have time?
     answer: "Our guiding North Star is TIME. We don’t waste it: yours, your team’s,
       or our exited founders’. We start by precisely matching each Supernova
       exited founder to a member of your C-suite. For example, your CMO is
