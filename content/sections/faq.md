@@ -28,17 +28,16 @@ lists:
       a coincidence. Founders with multiple exits still bring Supernova because
       they understand what experienced pattern recognition is worth at scale. "
   - question: How much do you invest?
-    answer: Every portfolio company in Supernova’s fund receives a check (up to
-      $2M+). More importantly, each company is paired with 3–5 successfully
-      exited founders, including Super Founders with prior exits of $50M+, who
-      roll up their sleeves and work hands-on to accelerate critical milestones.
-      As the saying goes, wisdom is more precious than gold. We don’t just
-      invest capital—we transfer lived experience, especially when the stakes
-      involve million-dollar decisions. Supernova is the top-rated
-      advisory-as-a-service platform (90%+ NPS), with a proven track record of
-      helping companies scale to unicorn and decacorn outcomes. Together, we
-      build enduring companies and a legacy that extends far beyond business
-      success.
+    answer: "Every portfolio company in Supernova’s fund gets a check up to $2M.
+      That's the starting point, not the whole offer. Each company is also
+      paired with 3–5 exited founders, including a Super Founder with prior
+      exits of $50M+, who gets hands-on involvement, not just a call once a
+      month. They're in the room when it matters: hiring decisions, fundraising
+      strategy, partnership negotiations, inflection points that carry
+      seven-figure consequences. Capital is table stakes. The reason Supernova
+      portfolio companies achieve unicorn and decacorn outcomes is the judgment
+      that sits alongside the check. 90% NPS. The founders we back tend to stay
+      close."
   - question: What if I don’t have time for exited founders?
     answer: "If you feel “too busy” for Supernova, that’s usually the signal you
       need us most. We match each Supernova founder to members of your C-suite,
