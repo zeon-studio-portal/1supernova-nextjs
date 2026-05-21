@@ -115,7 +115,11 @@ const Advisory = ({ advisory }) => {
                       className="block h-[50px] text-4xl font-bold"
                       style={{ color: colors[index] }}>
                       {fact.number > 0 && isVisible && (
-                        <CountUp isCounting end={fact.number} duration={1} />
+                        <CountUp
+                          isCounting
+                          end={Number(fact.number)}
+                          duration={1}
+                        />
                       )}
                       {fact.suffix}
                     </span>
