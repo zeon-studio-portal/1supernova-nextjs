@@ -20,8 +20,8 @@ founder_image: /images/Supernova Exited Founders.jpg
 facts_colors:
   - "#F5C400"
   - "#ca58c5"
-  - "#fb9f71"
   - "#5BD9AD"
+  - "#fb9f71"
 facts:
   - title: Exited Founders
     number: 250
