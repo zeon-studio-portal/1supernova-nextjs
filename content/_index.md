@@ -23,6 +23,7 @@ banner:
       - "9% Series A make it to Series B "
       - Founders own 20% or less by Series C
       - 50% founding ceo's fired/forced out
+      - 93% of VCs never founded a startup.
       - "VC's play games (growth-at-all-cost) "
       - 83% founders live with chronic stress
       - 72% founders struggle with mental health
