@@ -32,7 +32,7 @@ banner:
       - "70% unicorns from repeat founders "
       - "75% founders regret selling/exiting "
       - PE buys, strips and flips
-      - You don't have to learn the hard way
+      - "You don't have to learn the hard way "
       - Supernova exists to change the game
   video_button:
     enable: true
