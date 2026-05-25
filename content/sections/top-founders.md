@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Rising Stars
+title: Portfolio
 subtitle: Meet our founders, scaling what matters.
 list_colors:
   - "#5ECDF8"
