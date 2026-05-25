@@ -42,7 +42,7 @@ banner:
     full_link: https://nova.1supernova.com/#/
   button:
     enable: true
-    label: See if you pass/fail
+    label: See if you qualify
     link: https://nova.1supernova.com/#/apply-with-ai
   founders:
     title: We back top founders 💛
