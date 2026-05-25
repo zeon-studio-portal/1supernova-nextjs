@@ -1,16 +1,16 @@
 {
   "main": [
     {
+      "name": "How it Works",
+      "url": "/#join-steps"
+    },
+    {
       "name": "Companies",
       "url": "/#portfolio"
     },
     {
       "name": "Team",
       "url": "/#superstars"
-    },
-    {
-      "name": "How it Works",
-      "url": "/#join-steps"
     },
     {
       "name": "Why Us",
