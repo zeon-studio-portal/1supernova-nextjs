@@ -17,8 +17,8 @@ lists:
     content: Get your free founder scorecard - an honest assessment of where you
       stand and if you qualify.
   - name: Matching
-    content: We match you with exited founders who've solved your exact problems.
-      You approve, they opt in, we connect you.
+    content: We match you with exited founders who've solved your problems. You
+      approve, they opt in, we connect you.
   - name: Exited Founders
     content: "One exited founder joins your team, focused on your most critical
       milestones. "
