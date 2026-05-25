@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Rising Stars
-subtitle: Meet our mission‑driven founders and rising stars.
+subtitle: Meet our founders, building a better tomorrow.
 list_colors:
   - "#5ECDF8"
   - "#FFCA59"
