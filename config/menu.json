@@ -5,12 +5,12 @@
       "url": "/#join-steps"
     },
     {
-      "name": "Companies",
-      "url": "/#portfolio"
-    },
-    {
       "name": "Team",
       "url": "/#superstars"
+    },
+    {
+      "name": "Companies",
+      "url": "/#portfolio"
     },
     {
       "name": "Why Us",
