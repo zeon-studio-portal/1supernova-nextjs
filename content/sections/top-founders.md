@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Portfolio Superstars
+title: Rising Stars
 subtitle: Meet our mission‑driven founders and rising stars.
 list_colors:
   - "#5ECDF8"
