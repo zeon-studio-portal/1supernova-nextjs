@@ -133,7 +133,7 @@ team:
   - name: Tim Chang
     image: /images/TimChang.jpg
     department:
-      - COACHING
+      - Alliances
       - AI
       - FUNDING
       - IMPACT
