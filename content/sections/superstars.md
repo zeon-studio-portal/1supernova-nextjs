@@ -1,6 +1,6 @@
 ---
 enable: true
-title: We Are All-Stars
+title: We Are Superstars
 subtitle: 250+ exited founders who've built, scaled, and sold. Now get in the
   game with you.
 quote: >-
