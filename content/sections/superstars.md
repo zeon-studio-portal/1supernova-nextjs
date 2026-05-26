@@ -524,6 +524,7 @@ team:
       - STRATEGY
       - FUNDING
       - EXITED FOUNDER
+      - Alliances
     bulletpoints:
       - Founder & MP at Nfluence Partners, conscious investment banking with
         225+ M&A transactions (spun out of TMT group at Headwaters MB). CTO &
