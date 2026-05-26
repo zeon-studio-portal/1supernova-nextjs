@@ -1,10 +1,10 @@
 ---
 enable: true
-title: We Are Superstars
-subtitle: 250+ exited founders who've built, scaled, and sold. Now get in the
-  game with you.
+title: 250+ Exited Founders
+subtitle: Built, scaled, and exited companies from startup to IPO, unicorn, and
+  decacorn outcomes.
 quote: >-
-  We orbit around your needs as investors, mentors, advisors, coaches, interim
+  We orbit around your needs as investors, mentors, advisors, interim
   executives, and hands-on operators. 
 group_list:
   - name: AI
