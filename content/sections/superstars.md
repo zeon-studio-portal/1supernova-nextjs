@@ -113,7 +113,7 @@ team:
       - AI
       - SCALE
       - FUNDING
-      - COACHING
+      - Alliances
       - CULTURE
       - SOCIAL
       - SCIENCE
