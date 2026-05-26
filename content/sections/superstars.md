@@ -9,7 +9,7 @@ quote: >-
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
-  - name: Coaching
+  - name: CEO Coaching
     icon: /images/superstars/icons/coaching.svg
   - name: Funding
     icon: /images/superstars/icons/funding.svg
