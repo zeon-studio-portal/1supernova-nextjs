@@ -44,7 +44,7 @@ team:
       - GTM
       - Leadership
       - AI
-      - Coaching
+      - Alliances
       - SALES
       - MARKETING
       - TECHNOLOGY
