@@ -440,7 +440,7 @@ team:
     image: /images/PeterFerrazi.jpg
     department:
       - LEADERSHIP
-      - COACHING
+      - Alliances
       - SCALE
       - "SALES "
     bulletpoints:
