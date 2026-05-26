@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Build With Founders Who've Already Done It
+title: "Build With Exited Founders "
 subtitle: 250+ exited founders helping the next generation scale what matters
 quote: >-
   We orbit around your needs as investors, mentors, advisors, interim
