@@ -83,7 +83,7 @@ team:
   - name: Daniel Dubois
     image: /images/Daniel_Dubois.jpg
     department:
-      - COACHING
+      - Alliances
       - PRODUCT
       - TECH
       - FUNDING
