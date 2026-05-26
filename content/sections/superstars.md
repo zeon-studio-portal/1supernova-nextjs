@@ -737,7 +737,7 @@ team:
       - M&A
       - GTM
       - SALES
-      - COACH
+      - Alliances
       - FUNDING
       - STRATEGY
     bulletpoints:
