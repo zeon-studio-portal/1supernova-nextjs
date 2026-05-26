@@ -7,7 +7,7 @@ description: >-
 who_we_are:
   enable: true
   title: Our Story
-  content: " [Barry Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
+  content: "[Barry Stamos](https://www.linkedin.com/in/bstamos/) and [Christopher
     Staley](https://www.linkedin.com/in/christopherbstaley/) built Supernova
     from a simple observation: the difference between a company that scales and
     one that stalls almost always comes down to who's in the room. Both serial
