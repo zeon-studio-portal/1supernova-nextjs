@@ -1,7 +1,8 @@
 ---
 enable: true
-title: "Build With Exited Founders "
-subtitle: 250+ exited founders helping the next generation scale what matters
+title: "250+ Exited Founders "
+subtitle: Built, scaled, and exited companies from startup to IPO, unicorn, and
+  decacorn outcomes.
 quote: >-
   We orbit around your needs as investors, mentors, advisors, interim
   executives, and hands-on operators. 
