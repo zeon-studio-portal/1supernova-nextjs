@@ -2,7 +2,7 @@
 enable: true
 title: How Supernova Works
 subtitle: >-
-  5 steps from pitch deck to a tiger team of exited founders & capital, <br>
+  5 steps from pitch deck to a tiger team of exited founders & capital,
   optimized for the one thing you can't get back: **time**.⏳
 list_colors:
   - "#09B1FB"
