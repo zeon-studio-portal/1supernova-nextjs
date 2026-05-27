@@ -8,8 +8,8 @@ banner:
       - /images/avatar/image-1.png
       - /images/avatar/image-2.png
       - /images/avatar/image-3.png
-  title: Join Forces with Exited Founders Who've Built, Scaled & Sold <br> **Now
-    It's Your Turn**
+  title: Build with Exited Founders Who've Built, Scaled & Sold <br> **Now It's
+    Your Turn**
   subtitle: We are exited founders serving as investors and hands-on operating
     partners for scaleups shaping the future.
   background_youtube_video_id: YHkg4k7gnDA
