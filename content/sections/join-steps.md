@@ -2,9 +2,8 @@
 enable: true
 title: How Supernova Works
 subtitle: >-
-  Built to connect scaleups with exited founders, operator leverage, and capital
-  in minutes, not months. Optimized for the one thing you can't get back:
-  **Time**. ⏳
+  Built to connect scaleups with exited founders, operator leverage, and
+  capital. Optimized for the one thing you can't get back: **time**. ⏳
 list_colors:
   - "#09B1FB"
   - "#0EDDE4"
