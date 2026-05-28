@@ -10,11 +10,11 @@ description: >-
   <br><br>That’s where experienced operators matter. <br><br>At Supernova,
   **founders gain operators, not spectators**. We don't sit on the sidelines. We
   get in the game with you. We invest, embed, and activate to accelerate major
-  milestones. <br><br>We pair scaleups with exited founders who know where
-  companies stall, break through, and win because they’ve lived it themselves.
-  <br><br> The next generation of category-defining companies will be built by
-  founders capable of evolving as fast as the markets around them. <br><br>If
-  that sounds like you, [let's see if we're a
+  milestones. We pair scaleups with exited founders who know where companies
+  stall, break through, and win because they’ve lived it themselves. <br><br>
+  The next generation of iconic companies will be built by founders capable of
+  evolving as fast as the markets around them. <br><br>If that sounds like you,
+  [let's see if we're a
   fit](https://https://nova.1supernova.com/#/apply-with-ai). 
 button:
   enable: true
