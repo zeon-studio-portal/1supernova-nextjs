@@ -13,7 +13,7 @@ quote: >-
   350+ million entrepreneurs worldwide (less than 1% exit). We built, scaled,
   and sold. We lived the consequences of hyper-growth, near-death quarters,
   board pressure, and exits. Now we pay it forward. Supernova gives you the
-  rarest resource: **WISDOM**, when it matters most.</br> 
+  rarest resource: **Wisdom**, when it matters most.</br> 
 services_image: /images/upload_and_apply_bg.webp
 services_image_mobile: /images/upload_and_apply_bg.webp
 founder_image: /images/Supernova Exited Founders.jpg
