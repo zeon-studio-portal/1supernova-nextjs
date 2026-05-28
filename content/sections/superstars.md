@@ -1,11 +1,11 @@
 ---
 enable: true
 title: "250+ Exited Founders "
-subtitle: Built, scaled, and exited companies from startup to IPO, unicorn, and
-  decacorn outcomes.
+subtitle: Built, scaled, and exited companies. Now backing founders through the
+  moments that define outcomes.
 quote: >-
-  We orbit around your needs as investors, mentors, advisors, interim
-  executives, and hands-on operators. 
+  Embedded operators applying battle-tested judgment where companies break,
+  stall, scale, and win.
 group_list:
   - name: AI
     icon: /images/superstars/icons/ai.svg
