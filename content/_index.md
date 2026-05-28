@@ -8,7 +8,7 @@ banner:
       - /images/avatar/image-1.png
       - /images/avatar/image-2.png
       - /images/avatar/image-3.png
-  title: Build with Exited Founders <br> Who've Built, Scaled & Sold <br> **Now
+  title: Build Alongside Exited Founders Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
   subtitle: One team of exited founders serving as investors and embedded
     operators for scaleups navigating critical inflection points.
