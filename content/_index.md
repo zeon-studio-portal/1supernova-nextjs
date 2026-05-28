@@ -10,7 +10,8 @@ banner:
       - /images/avatar/image-3.png
   title: Build With Exited Founders </br>Who've Built, Scaled & Sold <br> **The AI
     Edge is Human**
-  subtitle: We are exited founders backing scaleups in the age of AI.
+  subtitle: We are exited founders backing scaleups through the moments that
+    define outcomes.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: true
