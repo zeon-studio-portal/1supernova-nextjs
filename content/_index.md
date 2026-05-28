@@ -8,8 +8,8 @@ banner:
       - /images/avatar/image-1.png
       - /images/avatar/image-2.png
       - /images/avatar/image-3.png
-  title: Build Alongside Exited Founders Who've Built, Scaled & Sold <br>
-    **Relationships Are the Unfair Advantage**
+  title: Build Alongside Exited Founders Who've Built, Scaled & Sold <br> **The
+    Edge is Human**
   subtitle: One team of exited founders serving as investors and embedded
     operators helping scaleups win in the age of AI.
   background_youtube_video_id: YHkg4k7gnDA
