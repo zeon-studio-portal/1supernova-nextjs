@@ -11,7 +11,8 @@ banner:
   title: Build With Exited Founders </br>Who've Built, Scaled & Sold <br> **The AI
     Edge is Human**
   subtitle: One team of exited founders serving as investors and embedded
-    operators helping scaleups win in the age of AI.
+    operators helping scaleups navigate critical inflection points in the age of
+    AI.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: true
