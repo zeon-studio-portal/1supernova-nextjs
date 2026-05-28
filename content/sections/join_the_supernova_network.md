@@ -5,14 +5,15 @@ subtitle: >-
   **What if exited founders teamed up with companies changing the world to
   achieve their missions, faster?**
 description: >-
-  Scaling a startup is a game of high-stakes decisions. Most companies do not
-  fail from lack of ambition or intelligence. They fail because choices have
-  consequences, especially at critical inflection points.<br><br>That’s where
-  experienced operators matter. At Supernova, we are built different. We pair
-  scaleups with exited founders who know where companies stall, breakthrough,
-  and win.<br><br>We don't sit on the sidelines. We get in the game with you. We
-  invest, embed, and activate. We only back mission-driven businesses scaling
-  what matters.<br><br> If that sounds like you, [let's see if we're a
+  Most companies do not fail from lack of ambition or intelligence. They fail
+  because the wrong decisions compound at critical inflection
+  points.<br><br>Scaling a startup is a game of high-stakes decisions. That’s
+  where experienced operators matter. At Supernova, we operate differently. We
+  pair scaleups with exited founders who know where companies stall, break
+  through, and win.<br><br>We don't sit on the sidelines. We get in the game
+  with you. We invest, embed, and activate as one all-star team. We back
+  founders building companies that matter with clarity, alignment, purpose,
+  resilience, and legacy.<br><br> If that sounds like you, [let's see if we're a
   fit](https://https://nova.1supernova.com/#/apply-with-ai).
 button:
   enable: true
