@@ -8,8 +8,8 @@ description: >-
   Scaling a startup is a game of high-stakes decisions. Every move counts and
   having the right investors and operating partners can be the difference
   between success and failure.<br><br>At Supernova, we are built different. We
-  don't just invest or advise. We activate. We are 250+ exited founders who have
-  been in your shoes, [scaled companies to zebras, unicorns, and
+  don't just invest or advise. We get hands-on. We are 250+ exited founders who
+  have been in your shoes, [scaled companies to zebras, unicorns, and
   decacorns](https://www.youtube.com/watch?v=gZIoe6bu2GY), and know what it
   takes to win big.<br><br>We don't sit on the sidelines. We get in the game
   with you. Savage execution. We only back founders on a mission to build
