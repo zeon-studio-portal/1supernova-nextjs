@@ -3,7 +3,7 @@ enable: true
 title: How Supernova Works
 subtitle: >-
   5 steps to exited founders & capital, optimized for the one thing you can't
-  get back: **Time**.⏳
+  get back: **Time**. ⏳
 list_colors:
   - "#09B1FB"
   - "#0EDDE4"
