@@ -12,7 +12,7 @@ description: >-
   don't sit on the sidelines. We get in the game with you. <br><br> The next
   generation of iconic companies will be built by leaders evolving as fast as
   the markets around them. <br><br>If that sounds like you, [let's see if you
-  qualify].(https://https://nova.1supernova.com/#/apply-with-ai). 
+  qualify.(https://https://nova.1supernova.com/#/apply-with-ai).]
 button:
   enable: true
   label: Apply with NOVA AI
