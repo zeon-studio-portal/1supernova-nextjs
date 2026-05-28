@@ -2,7 +2,7 @@
 enable: true
 title: 'Relationships Are The Unfair Advantage'
 subtitle: >-
-  We are 250+ exited founders deploying smart capital and operator support to
+  We are 250+ exited founders deploying smart capital and embedded operators to
   help you win.✨</br> Supernova has a proven track record of scaling companies
   to <a href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
