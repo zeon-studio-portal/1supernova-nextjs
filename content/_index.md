@@ -20,8 +20,8 @@ banner:
       - 99% founders walk away with nothing
       - 70% of VC-backed startups fail
       - "9% Series A make it to Series B "
-      - Founders own 20% or less by Series C
       - 50% founding ceo's fired/forced out
+      - Founders own <20% by Series C
       - "VC's play games (growth-at-all-cost) "
       - 93% of VCs never built a company
       - 83% founders live with chronic stress
