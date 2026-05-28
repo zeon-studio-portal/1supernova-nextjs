@@ -1,10 +1,11 @@
 ---
 enable: true
-title: 'In the Age of AI <br> Relationships Are Your Unfair Advantage </br>'
+title: 'Capital Scales Companies. Judgement Determines Outcomes.'
 subtitle: >-
-  We are 250+ exited founders deploying smart capital and operator leverage to
-  help you win.✨</br> Supernova has a proven track record of scaling companies
-  to <a href="https://1supernova.com/#portfolio" target=_blank
+  In the age of AI, relationships are your unfair advantage. We are 250+ exited
+  founders deploying smart capital and operator leverage to help you win.✨</br>
+  Supernova has a proven track record of scaling companies to <a
+  href="https://1supernova.com/#portfolio" target=_blank
   class="link-yellow">zebra</a>, <a href="https://1supernova.com/#portfolio"
   target=_blank class="link-yellow">unicorn</a>, and <a
   href="https://1supernova.com/#portfolio" target=_blank
