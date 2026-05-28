@@ -8,7 +8,7 @@ banner:
       - /images/avatar/image-1.png
       - /images/avatar/image-2.png
       - /images/avatar/image-3.png
-  title: Build Alongside Exited Founders Who've Built, Scaled & Sold <br> **The AI
+  title: Build With Exited Founders </br>Who've Built, Scaled & Sold <br> **The AI
     Edge is Human**
   subtitle: One team of exited founders serving as investors and embedded
     operators helping scaleups win in the age of AI.
