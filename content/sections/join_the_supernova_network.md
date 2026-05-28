@@ -5,7 +5,7 @@ subtitle: >-
   **What if exited founders teamed up with companies changing the world to
   achieve their missions, faster?**
 description: >-
-  Scaling a startup is a game of high-stakes decisions. Most companies  fail
+  Scaling a startup is a game of high-stakes decisions. Most companies fail
   because the wrong choices compound at critical inflection
   points.<br><br>That’s where experienced operators matter. At Supernova, we
   operate differently. We pair scaleups with exited founders who know where
