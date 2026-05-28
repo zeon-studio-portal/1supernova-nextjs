@@ -5,16 +5,16 @@ subtitle: >-
   **What if exited founders teamed up with companies changing the world to
   achieve their missions, faster?**
 description: >-
-  Most companies do not fail from lack of ambition or intelligence. They fail
-  because the wrong decisions compound at critical inflection
-  points.<br><br>Scaling a startup is a game of high-stakes decisions. That’s
-  where experienced operators matter. At Supernova, we operate differently. We
-  pair scaleups with exited founders who know where companies stall, break
-  through, and win.<br><br>We don't sit on the sidelines. We get in the game
-  with you. We invest, embed, and activate to accelerate key milestones. <br> We
-  back founders and leadership teams building companies with clarity, alignment,
-  purpose, resilience, and legacy. If that sounds like you, [let's see if we're
-  a fit](https://https://nova.1supernova.com/#/apply-with-ai).
+  Scaling a startup is a game of high-stakes decisions. Most companies  fail
+  because the wrong choices compound at critical inflection
+  points.<br><br>That’s where experienced operators matter. At Supernova, we
+  operate differently. We pair scaleups with exited founders who know where
+  companies stall, break through, and win. We don't sit on the sidelines. We get
+  in the game with you. We invest, embed, and activate to accelerate major
+  milestones.<br><br> The next generation of category-defining companies will be
+  built by founders capable of evolving as fast as the markets around them. If
+  that sounds like you, [let's see if we're a
+  fit](https://https://nova.1supernova.com/#/apply-with-ai). 
 button:
   enable: true
   label: Apply with NOVA AI
