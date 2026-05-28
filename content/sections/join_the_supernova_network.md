@@ -12,8 +12,8 @@ description: >-
   get in the game with you. We invest, embed, and activate to accelerate major
   milestones. <br><br> The next generation of iconic companies will be built by
   founders capable of evolving as fast as the markets around them. <br><br>If
-  that sounds like you, let's pair you up with exited
-  founders.](https://https://nova.1supernova.com/#/apply-with-ai). 
+  that sounds like you, let's see if you
+  qualify.](https://https://nova.1supernova.com/#/apply-with-ai). 
 button:
   enable: true
   label: Apply with NOVA AI
