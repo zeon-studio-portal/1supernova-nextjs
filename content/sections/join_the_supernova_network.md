@@ -8,8 +8,8 @@ description: >-
   Scaling a startup is a game of high-stakes decisions. Most companies fail
   because the wrong choices compound at critical inflection points.
   <br><br>That’s where experienced operators matter. <br><br>At Supernova,
-  founders gain operators, not spectators. We don't sit on the sidelines. We get
-  in the game with you. We invest, embed, and activate to accelerate major
+  **founders gain operators, not spectators**. We don't sit on the sidelines. We
+  get in the game with you. We invest, embed, and activate to accelerate major
   milestones. <br><br>We pair scaleups with exited founders who know where
   companies stall, break through, and win because they’ve lived it themselves.
   <br><br> The next generation of category-defining companies will be built by
