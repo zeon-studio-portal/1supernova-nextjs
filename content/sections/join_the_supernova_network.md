@@ -1,14 +1,14 @@
 ---
 enable: true
-title: An Invitation to Top Founders Ready to Play a Greater Game?
+title: Ready to Play a Greater Game?
 subtitle: >-
   **What if exited founders teamed up with companies changing the world to
   achieve their missions, faster?**
 description: >-
   Scaling a startup is a game of high-stakes decisions. Every move counts and
   having the right investors and operating partners can be the difference
-  between success and failure.<br><br>At Supernova, we don’t fck around. We
-  don’t just invest or advise. We activate. We are 250+ exited founders who have
+  between success and failure.<br><br>At Supernova, we don’t sit on the
+  sidelines. We get in the game with you. We are 250+ exited founders who have
   been in your shoes, [scaled companies to zebras, unicorns, and
   decacorns](https://www.youtube.com/watch?v=gZIoe6bu2GY), and know what it
   takes to win the game.<br><br>We don't sit on the sidelines. We get in the
