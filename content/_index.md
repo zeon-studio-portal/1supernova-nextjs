@@ -11,7 +11,7 @@ banner:
   title: Build with Exited Founders <br> Who've Built, Scaled & Sold <br> **Now
     It's Your Turn**
   subtitle: One team of exited founders serving as investors and embedded
-    operators for scaleups shaping the future.
+    operators for scaleups navigating critical inflection points.
   background_youtube_video_id: YHkg4k7gnDA
   quote:
     enable: true
