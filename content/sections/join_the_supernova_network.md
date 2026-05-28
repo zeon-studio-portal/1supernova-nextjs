@@ -6,12 +6,12 @@ subtitle: >-
   achieve their missions, faster?**
 description: >-
   Scaling is a game of high-stakes decisions. Companies fail because the wrong
-  choices compound at critical inflection points. <br><br>That’s where
-  experienced operators matter. <br><br>At Supernova, **founders gain operators,
-  not spectators**. We don't sit on the sidelines. We get in the game with you.
-  We invest, embed, and activate to accelerate major milestones. <br><br> The
-  next generation of iconic companies will be built by leaders evolving as fast
-  as the markets around them. <br><br>If that sounds like you, let's see if you
+  choices compound at critical inflection points. <br><br>That’s why exited
+  founders matter.. <br><br>At Supernova, **founders gain operators, not
+  spectators**. We don't sit on the sidelines. We get in the game with you. We
+  invest, embed, and activate to accelerate major milestones. <br><br> The next
+  generation of iconic companies will be built by leaders evolving as fast as
+  the markets around them. <br><br>If that sounds like you, let's see if you
   qualify.](https://https://nova.1supernova.com/#/apply-with-ai). 
 button:
   enable: true
