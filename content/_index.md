@@ -47,7 +47,6 @@ banner:
     title: We back top founders 💛
     brands:
       - /images/founders/a16z.svg
-      - /images/BLK_BIG.D.svg
       - /images/founders/post-exit-founders.svg
       - /images/founders/ypo.svg
       - /images/founders/vistage.svg
