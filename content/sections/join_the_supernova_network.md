@@ -6,14 +6,14 @@ subtitle: >-
   achieve their missions, faster?**
 description: >-
   Scaling a startup is a game of high-stakes decisions. Most companies fail
-  because the wrong choices compound at critical inflection
-  points.<br><br>That’s where experienced operators matter. At Supernova, we
-  operate differently. We pair scaleups with exited founders who know where
-  companies stall, break through, and win. We don't sit on the sidelines. We get
-  in the game with you. We invest, embed, and activate to accelerate major
-  milestones.<br><br> The next generation of category-defining companies will be
-  built by founders capable of evolving as fast as the markets around them. If
-  that sounds like you, [let's see if we're a
+  because the wrong choices compound at critical inflection points. That’s where
+  experienced operators matter. <br><br>At Supernova, founders gain operators,
+  not spectators. We invest, embed, and activate to accelerate major milestones.
+  We don't sit on the sidelines. We get in the game with you. We pair scaleups
+  with exited founders who know where companies stall, break through, and win.
+  <br><br> The next generation of category-defining companies will be built by
+  founders capable of evolving as fast as the markets around them. If that
+  sounds like you, [let's see if we're a
   fit](https://https://nova.1supernova.com/#/apply-with-ai). 
 button:
   enable: true
