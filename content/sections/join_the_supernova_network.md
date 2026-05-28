@@ -12,7 +12,7 @@ description: >-
   pair scaleups with exited founders who know where companies stall, break
   through, and win.<br><br>We don't sit on the sidelines. We get in the game
   with you. We invest, embed, and activate as one all-star team. <br> We back
-  founders building companies that matter with clarity, alignment, purpose,
+  founders and teams building companies with clarity, alignment, purpose,
   resilience, and legacy. If that sounds like you, [let's see if we're a
   fit](https://https://nova.1supernova.com/#/apply-with-ai).
 button:
