@@ -27,8 +27,8 @@ process:
       label: Exited Founders Back You 🚀
       link: https://1supernova.com/#superstars
   - name: 03 - What We Are Not  ❌
-    content: "❌ Not an accelerator. <br> ❌ Not a coaching platform. </br>  ❌ Not
-      traditional VC. </br> ❌ Not a passive board. "
+    content: ❌ Not an accelerator <br> ❌ Not a coaching platform </br>  ❌ Not
+      traditional VC </br> ❌ Not a passive board
     button:
       enable: true
       label: Read FAQs 📝
