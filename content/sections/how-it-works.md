@@ -34,8 +34,8 @@ process:
       label: Read FAQs 📝
       link: https://1supernova.com/#faqs
   - name: 04 - What We Are ☑️
-    content: "☑️ Embedded operating partners <br> ☑️ Exited founders (skin in the
-      game) </br> ☑️ Smart capital with benefits </br>☑️  Hands-on execution
+    content: "☑️ Exited founders (skin in the game) </br> ☑️ Embedded operating
+      partners </br> ☑️ Smart capital with benefits </br>☑️  Hands-on execution
       leverage </br> ☑️ A network for speed-to-value</br> "
     button:
       enable: true
