@@ -68,7 +68,7 @@ lists:
       similarities with organizations like YPO; intimate, high-trust peer groups
       that serve as powerful sounding boards. The difference is that at
       Supernova, exited founders don’t just talk about the game, they get back
-      on the field together.
+      on the field.
   - question: How do you team with VC/PE?
     answer: "Operational improvements are now the primary driver of PE returns, and
       nearly 70% of billion-dollar companies were built by repeat founders.
