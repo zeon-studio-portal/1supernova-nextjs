@@ -36,7 +36,7 @@ items:
     designation: COO
     company: Healthy Young Minds
     quote: "Supernova matched me to a portco. I ended up going all-in and joined
-      them full-time. (startup veteran: 9 of 11 Exits). "
+      them full-time (startup veteran: 9 of 11 Exits). "
   - name: Abhishek Anand
     image: /images/testimonials/abhishek-anand.jpg
     designation: CEO & Founder
