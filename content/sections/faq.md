@@ -24,7 +24,7 @@ lists:
       earlier-stage companies that stand out, we'll sometimes embed an exited
       founders before we invest, to build the relationship and prove the fit.
       We're sector-agnostic. AI, HealthTech, Fintech, SaaS, eCommerce, Impact,
-      and Web3 - the industry matters less than the founder and team. What we're
+      and Web3 - the industry matters less than the founder and team. We're
       drawn to: mission-driven leaders talking real problems, building
       companies, scaling what matters. "
   - question: Why do top founders choose you?
