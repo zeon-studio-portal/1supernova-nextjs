@@ -39,14 +39,14 @@ lists:
       a coincidence. Founders with multiple exits still bring Supernova because
       they understand what experienced pattern recognition is worth at scale. "
   - question: What if I don’t have time for exited founders?
-    answer: "If you feel “too busy” for Supernova, that’s usually the signal you
-      need us most. We match each Supernova founder to members of your C-suite,
-      based on where your biggest opportunities and blind spots actually are.
-      For example, your CMO gets paired with someone who's already solved what
-      they are facing right now. Leadership teams typically invest 5–10 hours
-      per month and gain disproportionate returns through direct knowledge
-      transfer: hard-won wisdom, pattern recognition, and trusted relationships
-      that would otherwise take years to build. Our founders are called in at
+    answer: "If you feel “too busy” for Supernova, that’s a signal you need us. We
+      match each Supernova founder to members of your C-suite, based on where
+      your biggest opportunities and blind spots actually are. For example, your
+      CMO gets paired with someone who's already solved what they are facing
+      right now. Leadership teams typically invest 5–10 hours per month and gain
+      disproportionate returns through direct knowledge transfer: hard-won
+      wisdom, pattern recognition, and trusted relationships that would
+      otherwise take years to build. Our founders are called in at
       million-dollar decision points. They help teams level up, move faster,
       avoid expensive mistakes, and compound progress over time.  Our guiding
       North Star is TIME. We don’t waste your time, your team’s time, or our
