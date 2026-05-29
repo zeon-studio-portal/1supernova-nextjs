@@ -26,7 +26,7 @@ lists:
       We're sector-agnostic. AI, HealthTech, Fintech, SaaS, eCommerce, Impact,
       and Web3 - the industry matters less than the founder and team. What we're
       drawn to: mission-driven leaders talking real problems, building
-      companies, scaling what matters. Apply online to see if we're a fit."
+      companies, scaling what matters. "
   - question: Why do top founders choose you?
     answer: "Leading a $5MM to $100MM+ company doesn't get easier as you scale. New
       markets, financing rounds, growth, team, M&A - the complexity compounds.
