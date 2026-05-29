@@ -48,7 +48,7 @@ process:
       📊 Better, faster decisions (10x)<br>
       📊 Stronger leadership hires (A+)<br>
       📊 Smarter, compounding growth (10x)<br>
-      📊 Greater outcomes at exit (+2.4x).<br>
+      📊 Greater outcomes at exit (+2.4x)
     button:
       enable: true
       label: Read Founder Reviews 🫶🏼
