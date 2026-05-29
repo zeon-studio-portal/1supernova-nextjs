@@ -24,7 +24,7 @@ process:
       Capital raising <br>🌟 Exit readiness <br> "
     button:
       enable: true
-      label: Exited Founders Back You 🚀
+      label: Meet The Exited Founders 🚀
       link: https://1supernova.com/#superstars
   - name: 03 - What We Are Not  ❌
     content: ❌ Not an accelerator <br> ❌ Not a coaching platform </br>  ❌ Not
