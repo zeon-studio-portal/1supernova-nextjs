@@ -51,7 +51,7 @@ process:
       📊 Greater outcomes at exit (+2.4x)
     button:
       enable: true
-      label: Read Founder Reviews 🫶🏼
+      label: See Founder Reviews 🫶🏼
       link: https://1supernova.com/#reviews
 draft: false
 ---
