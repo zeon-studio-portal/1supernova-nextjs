@@ -35,8 +35,8 @@ process:
       link: https://1supernova.com/#faqs
   - name: 04 - What We Are ☑️
     content: "☑️ Exited founders (skin in the game) </br> ☑️ Embedded operating
-      partners </br> ☑️ Smart capital with benefits </br>☑️  Hands-on execution
-      leverage </br> ☑️ A network for speed-to-value</br> "
+      partners </br> ☑️ Capital that scales companies </br>☑️  Judgment that
+      determines outcomes </br> ☑️ Relationships that accelerate growth</br> "
     button:
       enable: true
       label: Watch Best Practices Webinar 🚀
