@@ -24,7 +24,7 @@ items:
     image: /images/k-fantauzzi.jpg
     designation: CEO & Founder
     company: Apollo Nuero ($30M Series A)
-    quote: "Scaling a company is hard AF. Supernova by my side is a game-changer! "
+    quote: Scaling a company is hard AF. Supernova is an answer to our prayers.
   - name: Daniel Dubois
     image: /images/Daniel.jpeg
     designation: Founder of Key (2x Exited Founder)
