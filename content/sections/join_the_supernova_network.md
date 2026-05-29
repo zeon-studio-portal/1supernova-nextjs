@@ -8,7 +8,7 @@ description: >-
   Scaling is a game of high-stakes decisions. Companies fail because the wrong
   choices compound at inflection points. <br><br>That’s why **exited founders
   matter.** <br><br>At Supernova, founders gain operators, not spectators. We
-  invest, embed, and activate to accelerate critial milestones. We don't sit on
+  invest, embed, and activate to accelerate critical milestones. We don't sit on
   the sidelines. We get in the game with you. <br><br> The next generation of
   iconic companies will be built by leaders evolving as fast as the markets
   around them. <br><br>If that sounds like you, let's see if you qualify. 
