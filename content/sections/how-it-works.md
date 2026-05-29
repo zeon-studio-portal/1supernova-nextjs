@@ -43,11 +43,10 @@ process:
       link: https://www.youtube.com/watch?v=iJhOa2l8jk4
   - name: 05 - What Founders Gain 📊
     content: |-
-      📊 Faster, more profitable growth (3.2x)<br>
-      📊 Fewer preventable mistakes (-74%)<br>
+      📊 Faster, profitable growth (3.2x)<br>
+      📊 Fewer mistakes (-74%)<br>
       📊 Better, faster decisions (10x)<br>
       📊 Stronger leadership hires (A+)<br>
-      📊 Smarter, compounding growth (10x)<br>
       📊 Greater outcomes at exit (+2.4x)
     button:
       enable: true
