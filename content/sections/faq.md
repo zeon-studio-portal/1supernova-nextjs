@@ -48,9 +48,8 @@ lists:
       wisdom, pattern recognition, and trusted relationships that would
       otherwise take years to build. Our founders are called in at
       million-dollar decision points. They help teams level up, move faster,
-      avoid expensive mistakes, and compound progress over time.  Our guiding
-      North Star is TIME. We don’t waste your time, your team’s time, or our
-      exited founders’. "
+      avoid expensive mistakes, and compound progress over time. We don’t waste
+      your time or our exited founders’. Our guiding North Star is TIME. "
   - question: Why do exited founders join SUPERNOVA?
     answer: Most exited founders didn't get there alone. We know the right
       relationships matter. Supernova is how we give back and pay it forward to
