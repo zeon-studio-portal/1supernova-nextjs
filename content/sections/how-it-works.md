@@ -18,10 +18,10 @@ process:
       label: See If You Qualify In Minutes ⏱️
       link: https://nova.1supernova.com/#/apply-with-ai
   - name: 02 - When we engage ⚡
-    content: "We back companies at critical inflection points where failure is not
-      an option: growth acceleration 📈, AI transformation 🤖, executive talent
-      👩🏽‍💻, market expansion 🌎, distribution 🏪, M&A 🌗, fundraising 💰, or
-      exit 🌟. "
+    content: "Critical inflection points where failure is not an option: <br>
+      Revenue growth 📈 <br> AI transformation 🤖 <br> Executive leadership
+      👩🏽‍💻 <br> New market expansion 🌎 <br> Distribution channels 🏪 <br>
+      M&A execution 🌗 <br> Capital raising 💰 <br> Exit readiness 🌟 <br> "
     button:
       enable: true
       label: Exited Founders Back You 🚀
