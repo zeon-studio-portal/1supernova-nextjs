@@ -56,7 +56,7 @@ items:
   - name: Chanddeep Madaan
     image: /images/testimonials/chanddeep-madaan.jpg
     designation: "CEO & Founder "
-    company: "Aya Mastercard "
+    company: Aya Care
     quote: "I've received a ton of value. Supernova delivers what others advertise. "
   - name: Patrick Hilsbos
     image: /images/testimonials/patrick-hilsbos.jpg
