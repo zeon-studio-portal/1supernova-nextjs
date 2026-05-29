@@ -7,8 +7,8 @@ items:
     image: /images/testimonials/jt-marnio.jpg
     designation: CEO & Co-founder
     company: Tuft & Needle. YPO Forum Member
-    quote: "My advisors helped us bootstrap to $250MM ARR and merge with the
-      category leader. "
+    quote: "They helped us bootstrap to $250MM ARR and merge with the category
+      leader. "
   - name: Lindsay Nahmiache
     image: /images/1560835066759.jpeg
     designation: "CEO & Founder "
