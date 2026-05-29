@@ -11,7 +11,7 @@ description: >-
   invest, embed, and activate to accelerate critical milestones. We don't sit on
   the sidelines. We get in the game with you. <br><br> The next generation of
   iconic companies will be built by leaders evolving as fast as the markets
-  around them. <br><br>What we build today shapes how billions live
+  around them.<br><br>What we build today shapes how billions live
   tomorrow.<br><br>Let's get to work. 
 button:
   enable: true
