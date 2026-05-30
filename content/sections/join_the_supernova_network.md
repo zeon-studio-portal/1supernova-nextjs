@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Ready to Play a Greater Game?
+title: Why Exited Founders Matter
 subtitle: >-
   **What if exited founders teamed up with companies changing the world to
   achieve their missions, faster?**
